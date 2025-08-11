@@ -1,0 +1,51 @@
+[R1] Nalbandian A ,  Sehgal K ,  Gupta A ,  et al .  Post-Acute COVID-19 syndrome .  Nat Med 2021 ; 27 : 601 – 15 .  10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[R2] Augustin M ,  Schommers P ,  Stecher M ,  et al .  Post-COVID syndrome in non-hospitalised patients with COVID-19: a longitudinal prospective cohort study .  Lancet Reg Health Eur 2021 ; 6 : 100122 .  10.1016/j.lanepe.2021.100122 34027514 PMC8129613
+
+[R3] Briggs A ,  Vassall A .  Sci virus dialysis 1 ,  2020 .
+
+[R4] Gorna R ,  MacDermott N ,  Rayner C ,  et al .  Long COVID guidelines need to reflect lived experience .  Lancet 2021 ; 397 : 455 – 7 .  10.1016/S0140-6736(20)32705-7 33357467 PMC7755576
+
+[R5] Brenu EW ,  van Driel ML ,  Staines DR ,  et al .  Immunological abnormalities as potential biomarkers in chronic fatigue Syndrome/Myalgic encephalomyelitis .  J Transl Med 2011 ; 9 : 81 .  10.1186/1479-5876-9-81 21619669 PMC3120691
+
+[R6] Mandarano AH ,  Maya J ,  Giloteaux L ,  et al .  Myalgic Encephalomyelitis/chronic fatigue syndrome patients exhibit altered T cell metabolism and cytokine associations .  J Clin Invest 2020 ; 130 : 1491 – 505 .  10.1172/JCI132185 31830003 PMC7269566
+
+[R7] Sekine T ,  Perez-Potti A ,  Rivera-Ballesteros O ,  et al .  Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19 .  Cell 2020 ; 183 : 158 – 68 .  10.1016/j.cell.2020.08.017 32979941 PMC7427556
+
+[R8] Chen Z ,  John Wherry E .  T cell responses in patients with COVID-19 .  Nat Rev Immunol 2020 ; 20 : 529 – 36 .  10.1038/s41577-020-0402-6 32728222 PMC7389156
+
+[R9] Peng Y ,  Mentzer AJ ,  Liu G ,  et al .  Broad and strong memory CD4 +  and CD8 +  T cells induced by SARS-CoV-2 in UK convalescent individuals following COVID-19 .  Nat Immunol 2020 ; 21 : 1336 – 45 .  10.1038/s41590-020-0782-6 32887977 PMC7611020
+
+[R10] Dan JM ,  Mateus J ,  Kato Y ,  et al .  Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection .  Science 2021 ; 371 .  10.1126/science.abf4063 . [Epub ahead of print:  05 Feb 2021 ].
+ PMC7919858 33408181
+
+[R11] Daugherty SE ,  Guo Y ,  Heath K ,  et al .  Risk of clinical sequelae after the acute phase of SARS-CoV-2 infection: retrospective cohort study .  BMJ 2021 ; 373 : n1098 .  10.1136/bmj.n1098 34011492 PMC8132065
+
+[R12] Gupta R ,  Gant VA ,  Williams B ,  et al .  Increased complement receptor-3 levels in monocytes and granulocytes distinguish COVID-19 patients with pneumonia from those with mild symptoms .  Int J Infect Dis 2020 ; 99 : 381 – 5 .  10.1016/j.ijid.2020.08.004 32771640 PMC7836814
+
+[R13] Greenhalgh T ,  Knight M ,  A'Court C ,  et al .  Management of post-acute covid-19 in primary care .  BMJ 2020 ; 370 : m3026 .  10.1136/bmj.m3026 32784198
+
+[R14] Keswani A ,  Dhana K ,  Rosenthal JA ,  et al .  Atopy is predictive of a decreased need for hospitalization for coronavirus disease 2019 .  Ann Allergy Asthma Immunol 2020 ; 125 : 479 – 81 .  10.1016/j.anai.2020.07.012 32693208 PMC7368420
+
+[R15] Larbi A ,  Fulop T .  From “truly naïve” to “exhausted senescent” T cells: When markers predict functionality .  Cytometry Part A 2014 ; 85 : 25 – 35 .  10.1002/cyto.a.22351 24124072
+
+[R16] Sachs B ,  Hertl M ,  Merk HF .  Histamine receptors on lymphocytes: distribution and functional significance .  Skin Pharmacol Appl Skin Physiol 2000 ; 13 : 313 – 23 .  10.1159/000029939 11096373
+
+[R17] Bond RA ,  Lucero Garcia-Rojas EY ,  Hegde A ,  et al .  Therapeutic potential of targeting ß-Arrestin .  Front Pharmacol 2019 ; 10 : 124 .  10.3389/fphar.2019.00124 30894814 PMC6414794
+
+[R18] Alonso N ,  Zappia CD ,  Cabrera M ,  et al .  Physiological implications of biased signaling at histamine H2 receptors .  Front Pharmacol 2015 ; 6 : 45 .  10.3389/fphar.2015.00045 25805997 PMC4354273
+
+[R19] Ruzieh M ,  Batizy L ,  Dasa O ,  et al .  The role of autoantibodies in the syndromes of orthostatic intolerance: a systematic review .  Scand Cardiovasc J 2017 ; 51 : 243 – 7 .  10.1080/14017431.2017.1355068 28738696
+
+[R20] Wallukat G ,  Hohberger B ,  Wenzel K ,  et al .  Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms .  J Transl Autoimmun 2021 ; 4 : 100100 .  10.1016/j.jtauto.2021.100100 33880442 PMC8049853
+
+[R21] Laing AG ,  Lorenc A ,  Del Molino Del Barrio I ,  et al .  Author correction: a dynamic COVID-19 immune signature includes associations with poor prognosis .  Nat Med 2020 ; 26 : 1663 .  10.1038/s41591-020-1079-x PMC7479399 32908251
+
+[R22] Blanco-Melo D ,  Nilsson-Payant BE ,  Liu W-C ,  et al .  Imbalanced host response to SARS-CoV-2 drives development of COVID-19 .  Cell 2020 ; 181 : 1036 – 45 .  10.1016/j.cell.2020.04.026 32416070 PMC7227586
+
+[R23] Bennett F ,  Luxenberg D ,  Ling V ,  et al .  Program death-1 engagement upon TCR activation has distinct effects on costimulation and cytokine-driven proliferation: attenuation of ICOS, IL-4, and IL-21, but not CD28, IL-7, and IL-15 responses .  J Immunol 2003 ; 170 : 711 – 8 .  10.4049/jimmunol.170.2.711 12517932
+
+[R24] Jubel JM ,  Barbati ZR ,  Burger C ,  et al .  The role of PD-1 in acute and chronic infection .  Front Immunol 2020 ; 11 : 487 .  10.3389/fimmu.2020.00487 32265932 PMC7105608
+
+[R25] Zhang L ,  Richards A ,  Barrasa MI ,  et al .  Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissues .  Proc Natl Acad Sci U S A 2021 ; 118 .  10.1073/pnas.2105968118 . [Epub ahead of print:  25 May 2021 ].
+ PMC8166107 33958444

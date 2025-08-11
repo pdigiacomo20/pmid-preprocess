@@ -1,0 +1,133 @@
+[B1] World Health Organization [WHO]. Statement on the Fifteenth Meeting of the IHR (2005) Emergency Committee on the COVID-19 pandemic.  ( 2025 ). Available online at:  https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenthmeeting-of-the-international-health-regulations-(2005)-emergency-committeeregarding-the-coronavirus-disease-(covid-19)-pandemic (accessed January 31, 2025) .
+
+[B2] World Health Organization [WHO]. WHO COVID-19 Dashboard.  ( 2025 ).  https://data.who.int/dashboards/covid19/deaths?n=o (accessed January 31, 2025) .
+
+[B3] Woodrow M Carey C Ziauddeen N Thomas R Akrami A Lutje V Systematic review of the prevalence of long COVID. Open Forum Infect Dis.  ( 2023 )  10 : ofad233 .  10.1093/ofid/ofad233 37404951 PMC10316694
+
+[B4] Kim Y Bae S Chang H Kim S .  Long COVID prevalence and impact on quality of life 2 years after acute COVID-19. Sci Rep.  ( 2023 )  13 : 11207 .  10.1038/s41598-023-36995-4 37433819 PMC10336045
+
+[B5] Davis H Assaf G McCorkell L Wei H Low R Re’em Y Characterizing long COVID in an international cohort: 7 months of symptoms and their impact. EClinicalMedicine.  ( 2021 )  38 : 101019 .  10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[B6] Salamanna F Maglio M Landini M Fini M .  Body localization of ACE-2: On the trail of the keyhole of SARS-CoV-2. Front Med.  ( 2020 )  7 : 594495 .  10.3389/fmed.2020.594495 33344479 PMC7744810
+
+[B7] Soriano J Murthy S Marshall J Relan P Diaz J .  WHO clinical case definition working group on post-COVID-19 condition. A clinical case definition of post-COVID-19 condition by a Delphi consensus. Lancet Infect Dis.  ( 2022 )  22 : e102 – 7 .  10.1016/S1473-3099(21)00703-9 34951953 PMC8691845
+
+[B8] Lopez-Leon S Wegman-Ostrosky T Perelman C Sepulveda R Rebolledo P Cuapio A More than 50 long-term effects of COVID-19: A systematic review and meta-analysis. Sci Rep.  ( 2021 )  11 : 16144 .  10.1038/s41598-021-95565-8 34373540 PMC8352980
+
+[B9] Su S Zhao Y Zeng N Liu X Zheng Y Sun J Epidemiology, clinical presentation, pathophysiology, and management of long COVID: An update. Mol Psychiatry.  ( 2023 )  28 : 4056 – 69 .  10.1038/s41380-023-02171-3 37491461
+
+[B10] Azambuja P Bastos L Batista-da-Silva A Ramos G Kurtz P Dias C Prevalence, risk factors, and impact of long COVID in a socially vulnerable community in Brazil: A prospective cohort study. Lancet Reg Health Am.  ( 2024 )  37 : 100839 .  10.1016/j.lana.2024 39100241 PMC11295704
+
+[B11] Naik H Wilton J Tran K Janjua N Levin A Zhang W .  Long-term health-related quality of life in working-Age COVID-19 survivors: A cross-sectional study. Am J Med.  ( 2024 )  138 : 850 – 861.e8 .  10.1016/j.amjmed.2024.05.016. 38795939
+
+[B12] Poudel A Zhu S Cooper N Roderick P Alwan N Tarrant C Impact of Covid-19 on health-related quality of life of patients: A structured review. PLoS One.  ( 2021 )  16 : e0259164 .  10.1371/journal.pone.0259164 34710173 PMC8553121
+
+[B13] Ivlev I Wagner J Phillips T Treadwell J .  Interventions for long COVID: A narrative review. J Gen Intern Med.  ( 2025 )  [Online ahead of print] .  10.1007/s11606-024-09254-z. 39984803
+
+[B14] McIntyre R Phan L Kwan A Mansur R Rosenblat J Guo Z Vortioxetine for the treatment of post-COVID-19 condition: A randomized controlled trial. Brain.  ( 2024 )  147 : 849 – 57 .  10.1093/brain/awad377 37936330
+
+[B15] Vartanian K Fish D Kenton N Gronowski B Wright B Robicsek A .  Integrating patient-reported physical, mental, and social impacts to classify long COVID experiences. Sci Rep.  ( 2023 )  13 : 16288 .  10.1038/s41598-023-43615-8 37770554 PMC10539528
+
+[B16] Al-Aly Z Davis H McCorkell L Soares L Wulf-Hanson S Iwasaki A Long COVID science, research and policy. Nat Med.  ( 2024 )  30 : 2148 – 64 .  10.1038/s41591-024-03173-6 39122965
+
+[B17] Ziauddeen N Pantelic M O’Hara M Hastie C Alwan N .  Impact of long COVID-19 on work: A co-produced survey. Lancet.  ( 2023 )  402 ( Suppl 1 ): S98 .  10.1016/S0140-6736(23)02157-8 37997145
+
+[B18] Xie Y Choi T Al-Aly Z .  Long-term outcomes following hospital admission for COVID-19 versus seasonal influenza: A cohort study. Lancet Infect Dis.  ( 2024 )  24 : 239 – 55 .  10.1016/S1473-3099(23)00684-9 38104583
+
+[B19] Suzuki T Kikuchi A Kaneko A Arita R Nogami T Saito N A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Trad Kampo Med.  ( 2023 )  10 : 103 – 19 .  10.1002/tkm2.1373
+
+[B20] Takayama S Michihara S Kimura Y Morinaga A Miyagawa K Tsushima N Review of frequently used Kampo prescriptions: Part 4, Ninjin’yoeito. Trad Kampo Med.  ( 2023 )  10 : 224 – 52 .  10.1002/tkm2.1387
+
+[B21] Yamaguchi H Yoshino T Oizumi H Arita R Nogami T Takayama S .  A review of frequently used Kampo prescriptions. Part 3. Yokukansan. Trad Kampo Med.  ( 2023 )  10 : 197 – 223 .  10.1002/tkm2.1386
+
+[B22] Uneda K Yoshino T Ito H Imoto S Nogami T .  Current situation and future issues with Kampo medicine: A survey of Japanese physicians. Trad Kampo Med.  ( 2024 )  11 : 156 – 66 .  10.1002/tkm2.1418
+
+[B23] Tokumasu K Ueda K Honda H Sunada N Sakurada Y Matsuda Y Application of Kampo medicines for treatment of general fatigue due to long COVID. Medicina.  ( 2022 )  58 : 730 .  10.3390/medicina58060730 35743993 PMC9227280
+
+[B24] Namiki T Nezu M Igari H .  T*rends in patients with long COVID (COVID-19 long-term effects) in the Kampo outpatient department of infectious diseases at our clinic — from early cases. Kampo Med.  ( 2022 )  73 : 214 – 9 .  10.3937/kampomed.73.214
+
+[B25] Ono R Arita R Takayama S Kanno T Kikuchi A Suzuki S Progress and treatment of “long COVID” in non-hospitalized patients: A single-center retrospective cohort study. Trad Kampo Med.  ( 2023 )  10 : 150 – 8 .  10.1002/tkm2.1370
+
+[B26] Venkatesan P .  NICE guideline on long COVID. Lancet Respir Med.  ( 2021 )  9 : 129 .  10.1016/S2213-2600(21)00031-X 33453162 PMC7832375
+
+[B27] Sakurai A Morioka S Tsuzuki S Matsunaga N Saito S Arai N Difference in clinical courses and causes of COVID-19-related deaths in hospitalized patients infected with omicron and delta variants: A retrospective study in Japan. GHM Open.  ( 2024 )  4 : 23 – 31 .  10.35772/ghmo.2023.01025 40144739 PMC11933933
+
+[B28] Mitsushima S Horiguchi H Taniguchi K .  Alpha and Delta variants and vaccination effectiveness against severity in COVID-19 inpatients based on medical claims in Japan. GHM Open.  ( 2023 )  3 : 28 – 36 .  10.35772/ghmo.2023.01005 40143836 PMC11933968
+
+[B29] EuroQol Research Foundation. EQ-5D-5L User Guide.  ( 2019 ). Available online at:  https://euroqol.org/publications/user-guides (accessed January 24, 2025) .
+
+[B30] Ikeda S Shiroiwa T Igarashi A Noto S Fukuda T Saito S D*eveloping a Japanese version of the EQ-5D-5L value set. J Natl Inst Public Health.  ( 2015 )  64 : 47 – 55 .  10.1026/j.jdermsci.2021.01.002
+
+[B31] Shiroiwa T Noto S Fukuda T .  Japanese population norms of EQ-5D-5L and health utilities index mark 3: Disutility catalog by disease and symptom in community settings. Value Health.  ( 2021 )  24 : 1193 – 202 .  10.1016/j.jval.2021.03.010 34372985
+
+[B32] Cheng L Chen L Cheng J Herdman M Luo N .  Systematic review reveals that EQ-5D minimally important differences vary with treatment type and may decrease with increasing baseline score. J Clin Epidemiol.  ( 2024 )  174 : 111487 .  10.1016/j.jclinepi.2024.111487 39084578
+
+[B33] Al Sayah F Jin X Short H McClure N Ohinmaa A Johnson JAA .  Systematic literature review of important and meaningful differences in the EQ-5D index and visual analog scale scores. Value Health.  ( 2025 )  28 : 470 – 6 .  10.1016/j.jval.2024.11.006 39694263
+
+[B34] Tsampasian V Elghazaly H Chattopadhyay R Debski M Naing T Garg P Risk factors associated with post-COVID-19 condition: A systematic review and meta-analysis. JAMA Intern Med.  ( 2023 )  183 : 566 – 80 .  10.1001/jamainternmed.2023.0750 36951832 PMC10037203
+
+[B35] Luo D Mei B Wang P Li X Chen X Wei G Prevalence and risk factors for persistent symptoms after COVID-19: A systematic review and meta-analysis. Clin Microbiol Infect.  ( 2024 )  30 : 328 – 35 .  10.1016/j.cmi.2023.10.016 37866679
+
+[B36] Premraj L Kannapadi N Briggs J Seal S Battaglini D Fanning J Mid and long-term neurological and neuropsychiatric manifestations of post-COVID-19 syndrome: A meta-analysis. J Neurol Sci.  ( 2022 )  434 : 120162 .  10.1016/j.jns.2022.120162 35121209 PMC8798975
+
+[B37] van der Feltz-Cornelis C Turk F Sweetman J Khunti K Gabbay M Shepherd J Prevalence of mental health conditions and brain fog in people with long COVID: A systematic review and meta-analysis. Gen Hosp Psychiatry.  ( 2024 )  88 : 10 – 22 .  10.1016/j.genhosppsych.2024.02.009 38447388
+
+[B38] Ghafari M Hall M Golubchik T Ayoubkhani D House T MacIntyre-Cockett G Prevalence of persistent SARS-CoV-2 in a large community surveillance study. Nature.  ( 2024 )  626 : 1094 – 101 .  10.1038/s41586-024-07029-4 38383783 PMC10901734
+
+[B39] Gaebler C Wang Z Lorenzi J Muecksch F Finkin S Tokuyama M Evolution of antibody immunity to SARS-CoV-2. Nature.  ( 2021 )  591 : 639 – 44 .  10.1038/s41586-021-03207-w 33461210 PMC8221082
+
+[B40] Dhariwal R Dave K Jain M .  Omics-based analysis of mitochondrial dysfunction and BBB integrity in post-COVID-19 sequelae. Sci Rep.  ( 2024 )  14 : 31016 .  10.1038/s41598-024-82180-6 39730725 PMC11681072
+
+[B41] Haunhorst S Dudziak D Scheibenbogen C Seifert M Sotzny F Finke C Towards an understanding of physical activity-induced post-exertional malaise: Insights into microvascular alterations and immunometabolic interactions in post-COVID condition and myalgic encephalomyelitis/chronic fatigue syndrome. Infection.  ( 2025 )  53 : 1 – 13 .  10.1007/s15010-024-02386-8 39240417 PMC11825644
+
+[B42] Phetsouphanh C Darley D Wilson D Howe A Munier C Patel S Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection. Nat Immunol.  ( 2022 )  23 : 210 – 6 .  10.1038/s41590-021-01113-x 35027728
+
+[B43] Acosta-Ampudia Y Monsalve D Rojas M Rodríguez Y Zapata E Ramírez-Santana C Persistent autoimmune activation and proinflammatory state in post-coronavirus disease 2019 syndrome. J Infect Dis.  ( 2022 )  225 : 2155 – 62 .  10.1093/infdis/jiac017 35079804 PMC8903340
+
+[B44] Poyatos P Luque N Sabater G Eizaguirre S Bonnin M Orriols R .  Endothelial dysfunction and cardiovascular risk in post-COVID-19 patients after 6- and 12-months SARS-CoV-2 infection. Infection.  ( 2024 )  52 : 1269 – 85 .  10.1007/s15010-024-02173-5 38324145 PMC11289012
+
+[B45] Poloni T Medici V Moretti M Visonà S Cirrincione A Carlos A COVID-19-related neuropathology and microglial activation in elderly with and without dementia. Brain Pathol.  ( 2021 )  31 : e12997 .  10.1111/bpa.12997 34145669 PMC8412067
+
+[B46] Soung A Vanderheiden A Nordvig A Sissoko C Canoll P Mariani M COVID-19 induces CNS cytokine expression and loss of hippocampal neurogenesis. Brain.  ( 2022 )  145 : 4193 – 201 .  10.1093/brain/awac270 36004663 PMC9452175
+
+[B47] Zhang F Lau R Liu Q Su Q Chan F Ng S .  Gut microbiota in COVID-19: Key microbial changes, potential mechanisms and clinical applications. Nat Rev Gastroenterol Hepatol.  ( 2023 )  20 : 323 – 37 .  10.1038/s41575-022-00698-4 36271144 PMC9589856
+
+[B48] Greene C Connolly R Brennan D Laffan A O’Keeffe E Zaporojan L Blood-brain barrier disruption and sustained systemic inflammation in individuals with long COVID-associated cognitive impairment. Nat Neurosci.  ( 2024 )  27 : 421 – 32 .  10.1038/s41593-024-01576-9 38388736 PMC10917679
+
+[B49] Wahis J Baudon A Althammer F Kerspern D Goyon S Hagiwara D Astrocytes mediate the effect of oxytocin in the central amygdala on neuronal activity and affective states in rodents. Nat Neurosci.  ( 2021 )  24 : 529 – 41 .  10.1038/s41593-021-00800-0 33589833
+
+[B50] Bélanger M Allaman I Magistretti P .  Brain energy metabolism: Focus on astrocyte-neuron metabolic cooperation. Cell Metab.  ( 2011 )  14 : 724 – 38 .  10.1016/j.cmet.2011.08.016 22152301
+
+[B51] Zorzo C Solares L Mendez M Mendez-Lopez M .  Hippocampal alterations after SARS-CoV-2 infection: A systematic review. Behav Brain Res.  ( 2023 )  455 : 114662 .  10.1016/j.bbr.2023.114662 37703951
+
+[B52] World Health Organization [WHO]. International Classification of Diseases 11th Revision. Geneva :  World Health Organization  ( 2022 ).
+
+[B53] Maejima Y Horita S Yokota S Ono T Proks P Yoshida-Komiya H Identification of oxytocin receptor activating chemical components from traditional Japanese medicines. J Food Drug Anal.  ( 2021 )  29 : 653 – 75 .  10.38212/2224-6614.3381 35649140 PMC9931015
+
+[B54] Adachi N Sakhri F Ikemoto H Ohashi Y Kato M Inoue T Kamikihito rescued depressive-like behaviors and hippocampus neurogenesis in chronic restraint stress rats. J Tradit Complement Med.  ( 2021 )  12 : 172 – 9 .  10.1016/j.jtcme.2021.08.001 35528472 PMC9072803
+
+[B55] Li X Hou R Qin X Wu Y Wu X Tian J Synergistic neuroprotective effect of saikosaponin A and albiflorin on corticosterone-induced apoptosis in PC12 cells via regulation of metabolic disorders and neuroinflammation. Mol Biol Rep.  ( 2022 )  49 : 8801 – 13 .  10.1007/s11033-022-07730-5 36002654
+
+[B56] Zhao L Zhang T Zhang K .  Pharmacological effects of ginseng and ginsenosides on intestinal inflammation and the immune system. Front Immunol.  ( 2024 )  15 : 1353614 .  10.3389/fimmu.2024.1353614 38698858 PMC11064651
+
+[B57] Li J Xu D Wang L Zhang M Zhang G Li E Glycyrrhizic acid inhibits SARS-CoV-2 infection by blocking spike protein-mediated cell attachment. Molecules.  ( 2021 )  26 : 6090 .  10.3390/molecules26206090 34684671 PMC8539771
+
+[B58] Song J Zhang L Xu Y Yang D Zhang L Yang S The comprehensive study on the therapeutic effects of baicalein for the treatment of COVID-19 in vivo and in vitro. Biochem Pharmacol.  ( 2021 )  183 : 114302 .  10.1016/j.bcp.2020.114302 33121927 PMC7588320
+
+[B59] Yang R Wang R Xu A Zhang J Ma J .  Mitigating neurodegenerative diseases: the protective influence of baicalin and baicalein through neuroinflammation regulation. Front Pharmacol.  ( 2024 )  15 : 1425731 .  10.3389/fphar.2024.1425731 39687298 PMC11647303
+
+[B60] Yoshinaga R Harada N Naki T Inoue H Yano H Tahara E .  A case of post coronavirus disease 2019 (COVID-19) condition, in which the patient suffers from a severe sense of fatigue and brain fog successfully treated with Kampo therapy. Kampo Med.  ( 2022 )  73 : 335 – 41 .  10.3937/kampomed.73.335
+
+[B61] Ono R Takayama S Saito N Arita R Kikuchi A Ishizawan K The effect of Saikokeishito for fatigue of post-COVID condition. J Gen Fam Med.  ( 2024 )  47 : 49 – 55 .  10.14442/generalist.47.49
+
+[B62] Ito F Terai H Kondo M Takemura R Namkoong H Asakura T Cluster analysis of long COVID in Japan and association of its trajectory of symptoms and quality of life. BMJ Open Respir Res.  ( 2024 )  11 : e002111 .  10.1136/bmjresp-2023-002111 38395459 PMC10895225
+
+[B63] Ssentongo P Zhang Y Witmer L Chinchilli V Ba D .  Association of COVID-19 with diabetes: A systematic review and meta-analysis. Sci Rep.  ( 2022 )  12 : 20191 .  10.1038/s41598-022-24185-7 36418912 PMC9684130
+
+[B64] Sharma C Bayry J .  High risk of autoimmune diseases after COVID-19. Nat Rev Rheumatol.  ( 2023 )  19 : 399 – 400 .  10.1038/s41584-023-00964-y 37046064 PMC10096101
+
+[B65] Yoshino T Shimada S Homma M Makino T Mimura M Watanabe K .  Clinical risk factors of licorice-induced pseudoaldosteronism based on glycyrrhizin-metabolite concentrations: A narrative review. Front Nutr.  ( 2021 )  8 : 719197 .  10.3389/fnut.2021.719197 34604277 PMC8484325
+
+[B66] Shimada Y Fujimoto M Nogami T Watari H .  Adverse events associated with ethical kampo formulations: Analysis of the domestic adverse-event data reports of the ministry of health, labor, and Welfare in Japan. Evid Based Complement Alternat Med.  ( 2019 )  2019 : 1643804 .  10.1155/2019/1643804 31118950 PMC6500660
+
+[B67] Arai I Harada Y Koda H Tsutani K Motoo Y .  Estimated incidence per population of adverse drug reactions to Kampo medicines from the Japanese adverse drug event report database (JADER). Trad Kampo Med.  ( 2020 )  7 : 3 – 16 .  10.1002/tkm2.1234

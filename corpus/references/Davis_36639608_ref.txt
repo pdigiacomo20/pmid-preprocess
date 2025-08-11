@@ -1,0 +1,419 @@
+[CR1] Ballering AV van Zon SKR Hartman TCO Rosmalen JGM Persistence of somatic symptoms after COVID-19 in the Netherlands: an observational cohort study Lancet 2022 400 452 461 10.1016/S0140-6736(22)01214-4 35934007 PMC9352274
+
+[CR2] Bull-Otterson L Post–COVID conditions among adult COVID-19 survivors aged 18–64 and ≥65 years — United States, March 2020–November 2021 MMWR Morb. Mortal. Wkly Rep. 2022 71 713 10.15585/mmwr.mm7121e1
+
+[CR3] Ceban F Fatigue and cognitive impairment in post-COVID-19 syndrome: a systematic review and meta-analysis Brain Behav. Immun. 2022 101 93 135 10.1016/j.bbi.2021.12.020 34973396 PMC8715665
+
+[CR4] Al-Aly Z Bowe B Xie Y Long COVID after breakthrough SARS-CoV-2 infection Nat. Med. 2022 10.1038/s41591-022-01840-0 35614233 PMC9307472
+
+[CR5] Ayoubkhani, D. et al. Risk of Long Covid in people infected with SARS-CoV-2 after two doses of a COVID-19 vaccine: community-based, matched cohort study. Preprint at  medRxiv 10.1101/2022.02.23.22271388 (2022).
+
+[CR6] FAIR Health.  Patients Diagnosed with Post-COVID Conditions: An Analysis of Private Healthcare Claims Using the Official ICD-10 Diagnostic Code  (FAIR Health, 2022).
+
+[CR7] Davis HE Characterizing long COVID in an international cohort: 7 months of symptoms and their impact eClinicalMedicine 2021 38 101019 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[CR8] Xie Y Xu E Bowe B Al-Aly Z Long-term cardiovascular outcomes of COVID-19 Nat. Med. 2022 28 583 590 10.1038/s41591-022-01689-3 35132265 PMC8938267
+
+[CR9] Xie Y Al-Aly Z Risks and burdens of incident diabetes in long COVID: a cohort study Lancet Diabetes Endocrinol. 2022 10 311 321 10.1016/S2213-8587(22)00044-4 35325624 PMC8937253
+
+[CR10] Mancini DM Use of cardiopulmonary stress testing for patients with unexplained dyspnea post–coronavirus disease JACC Heart Fail. 2021 9 927 937 10.1016/j.jchf.2021.10.002 34857177 PMC8629098
+
+[CR11] Kedor C A prospective observational study of post-COVID-19 chronic fatigue syndrome following the first pandemic wave in Germany and biomarkers associated with symptom severity Nat. Commun. 2022 13 5104 10.1038/s41467-022-32507-6 36042189 PMC9426365
+
+[CR12] Larsen NW Characterization of autonomic symptom burden in long COVID: a global survey of 2314 adults Front. Neurol. 2022 13 1012668 10.3389/fneur.2022.1012668 36353127 PMC9639503
+
+[CR13] Demko, Z. O. et al. Post-acute sequelae of SARS-CoV-2 (PASC) impact quality of life at 6, 12 and 18 months post-infection. Preprint at  medRxiv 10.1101/2022.08.08.22278543 (2022).
+
+[CR14] Cairns R Hotopf M A systematic review describing the prognosis of chronic fatigue syndrome Occup. Med. Oxf. Engl. 2005 55 20 31 10.1093/occmed/kqi013 15699087
+
+[CR15] Bach, K. Is ‘long Covid’ worsening the labor shortage?  Brookings https://www.brookings.edu/research/is-long-covid-worsening-the-labor-shortage/  (2022).
+
+[CR16] Swank Z Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae Clin. Infect. Dis. 2022 10.1093/cid/ciac722 PMC10169416 36052466
+
+[CR17] Proal AD VanElzakker MB Long COVID or post-acute sequelae of COVID-19 (PASC): an overview of biological factors that may contribute to persistent symptoms Front. Microbiol. 2021 12 698169 10.3389/fmicb.2021.698169 34248921 PMC8260991
+
+[CR18] Klein, J. et al. Distinguishing features of Long COVID identified through immune profiling. Preprint at  medRxiv 10.1101/2022.08.09.22278592 (2022). 10.1038/s41586-023-06651-y PMC10620090 37748514
+
+[CR19] Glynne P Tahmasebi N Gant V Gupta R Long COVID following mild SARS-CoV-2 infection: characteristic T cell alterations and response to antihistamines J. Investig. Med. 2022 70 61 67 10.1136/jim-2021-002051 34611034 PMC8494538
+
+[CR20] Phetsouphanh C Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection Nat. Immunol. 2022 23 210 216 10.1038/s41590-021-01113-x 35027728
+
+[CR21] Zubchenko S Kril I Nadizhko O Matsyura O Chopyak V Herpesvirus infections and post-COVID-19 manifestations: a pilot observational study Rheumatol. Int. 2022 10.1007/s00296-022-05146-9 35650445 PMC9159383
+
+[CR22] Peluso MJ Evidence of recent Epstein-Barr virus reactivation in individuals experiencing Long COVID Preprint at medRxiv 2022 10.1101/2022.06.21.22276660 36523412 PMC9753782
+
+[CR23] Yeoh YK Gut microbiota composition reflects disease severity and dysfunctional immune responses in patients with COVID-19 Gut 2021 70 698 706 10.1136/gutjnl-2020-323020 33431578 PMC7804842
+
+[CR24] Liu Q Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome Gut 2022 71 544 552 10.1136/gutjnl-2021-325989 35082169
+
+[CR25] Mendes de Almeida V Gut microbiota from patients with mild COVID-19 cause alterations in mice that resemble post-COVID syndrome Res. Sq. 2022 10.21203/rs.3.rs-1756189/v1 PMC10481883 37668317
+
+[CR26] Wallukat G Functional autoantibodies against G-protein coupled receptors in patients with persistent long-COVID-19 symptoms J. Transl Autoimmun. 2021 4 100100 10.1016/j.jtauto.2021.100100 33880442 PMC8049853
+
+[CR27] Su Y Multiple early factors anticipate post-acute COVID-19 sequelae Cell 2022 185 881 895.e20 10.1016/j.cell.2022.01.014 35216672 PMC8786632
+
+[CR28] Arthur JM Development of ACE2 autoantibodies after SARS-CoV-2 infection PLoS ONE 2021 16 e0257016 10.1371/journal.pone.0257016 34478478 PMC8415618
+
+[CR29] Haffke M Endothelial dysfunction and altered endothelial biomarkers in patients with post-COVID-19 syndrome and chronic fatigue syndrome (ME/CFS) J. Transl Med. 2022 20 138 10.1186/s12967-022-03346-2 35317812 PMC8938726
+
+[CR30] Charfeddine S Long COVID 19 syndrome: is it related to microcirculation and endothelial dysfunction? Insights from TUN-EndCOV study Front. Cardiovasc. Med. 2021 10.3389/fcvm.2021.745758 34917659 PMC8670225
+
+[CR31] Pretorius E Prevalence of symptoms, comorbidities, fibrin amyloid microclots and platelet pathology in individuals with Long COVID/post-acute sequelae of COVID-19 (PASC) Cardiovasc. Diabetol. 2022 21 148 10.1186/s12933-022-01579-5 35933347 PMC9356426
+
+[CR32] Spudich S Nath A Nervous system consequences of COVID-19 Science 2022 375 267 269 10.1126/science.abm2052 35050660
+
+[CR33] Renz-Polster H Tremblay M-E Bienzle D Fischer JE The pathobiology of myalgic encephalomyelitis/chronic fatigue syndrome: the case for neuroglial failure Front. Cell. Neurosci. 2022 16 888232 10.3389/fncel.2022.888232 35614970 PMC9124899
+
+[CR34] Merzon E Clinical and socio-demographic variables associated with the diagnosis of long COVID syndrome in youth: a population-based study Int. J. Environ. Res. Public Health 2022 19 5993 10.3390/ijerph19105993 35627530 PMC9141083
+
+[CR35] CDC. Long COVID - household pulse survey - COVID-19.  CDC https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm  (2022).
+
+[CR36] Williamson AE Tydeman F Miners A Pyper K Martineau AR Short-term and long-term impacts of COVID-19 on economic vulnerability: a population-based longitudinal study (COVIDENCE UK) BMJ Open 2022 12 e065083 10.1136/bmjopen-2022-065083 35998959 PMC9402446
+
+[CR37] Ziauddeen N Characteristics and impact of Long Covid: findings from an online survey PLoS ONE 2022 17 e0264331 10.1371/journal.pone.0264331 35259179 PMC8903286
+
+[CR38] Choutka J Jansari V Hornig M Iwasaki A Unexplained post-acute infection syndromes Nat. Med. 2022 28 911 923 10.1038/s41591-022-01810-6 35585196
+
+[CR39] Komaroff AL Lipkin WI Insights from myalgic encephalomyelitis/chronic fatigue syndrome may help unravel the pathogenesis of postacute COVID-19 syndrome Trends Mol. Med. 2021 27 895 906 10.1016/j.molmed.2021.06.002 34175230 PMC8180841
+
+[CR40] Schultheiß C From online data collection to identification of disease mechanisms: the IL-1ß, IL-6 and TNF-α cytokine triad is associated with post-acute sequelae of COVID-19 in a digital research cohort SSRN 2021 10.2139/ssrn.3963839
+
+[CR41] Peluso MJ Markers of immune activation and inflammation in individuals with postacute sequelae of severe acute respiratory syndrome coronavirus 2 infection J. Infect. Dis. 2021 224 1839 1848 10.1093/infdis/jiab490 34677601 PMC8643408
+
+[CR42] Fernández-Castañeda A Mild respiratory SARS-CoV-2 infection can cause multi-lineage cellular dysregulation and myelin loss in the brain bioRxiv 2022 10.1101/2022.01.07.475453 35043113 PMC8764721
+
+[CR43] Hornig M Distinct plasma immune signatures in ME/CFS are present early in the course of illness Sci. Adv. 2015 1 e1400121 10.1126/sciadv.1400121 26079000 PMC4465185
+
+[CR44] Wang EY Diverse functional autoantibodies in patients with COVID-19 Nature 2021 595 283 288 10.1038/s41586-021-03631-y 34010947
+
+[CR45] Shikova E Cytomegalovirus, Epstein-Barr virus, and human herpesvirus-6 infections in patients with myalgic еncephalomyelitis/chronic fatigue syndrome J. Med. Virol. 2020 92 3682 3688 10.1002/jmv.25744 PMC7687071 32129496
+
+[CR46] Schreiner P Human herpesvirus-6 reactivation, mitochondrial fragmentation, and the coordination of antiviral and metabolic phenotypes in myalgic encephalomyelitis/chronic fatigue syndrome Immunohorizons 2020 4 201 215 10.4049/immunohorizons.2000006 32327453
+
+[CR47] García-Abellán J Antibody response to SARS-CoV-2 is associated with long-term clinical outcome in patients with COVID-19: a longitudinal study J. Clin. Immunol. 2021 41 1490 1501 10.1007/s10875-021-01083-7 34273064 PMC8285689
+
+[CR48] Augustin M Post-COVID syndrome in non-hospitalised patients with COVID-19: a longitudinal prospective cohort study Lancet Reg. Health Eur. 2021 6 100122 10.1016/j.lanepe.2021.100122 34027514 PMC8129613
+
+[CR49] Talla A Longitudinal immune dynamics of mild COVID-19 define signatures of recovery and persistence bioRxiv 2022 10.1101/2021.05.26.442666
+
+[CR50] Peluso MJ Long-term SARS-CoV-2-specific immune and inflammatory responses in individuals recovering from COVID-19 with and without post-acute symptoms Cell Rep. 2021 36 109518 10.1016/j.celrep.2021.109518 34358460 PMC8342976
+
+[CR51] Hu F A compromised specific humoral immune response against the SARS-CoV-2 receptor-binding domain is related to viral persistence and periodic shedding in the gastrointestinal tract Cell. Mol. Immunol. 2020 17 1119 1125 10.1038/s41423-020-00550-2 33037400 PMC7546387
+
+[CR52] Korte W SARS-CoV-2 IgG and IgA antibody response is gender dependent; and IgG antibodies rapidly decline early on J. Infect. 2021 82 e11 e14 10.1016/j.jinf.2020.08.032 32853597 PMC7445467
+
+[CR53] Jo W A two-phase, single cohort study of COVID-19 antibody sera-surveillance Ann. Epidemiol. Public Health 2021 4 1055 10.33582/2639-4391/1055
+
+[CR54] Nomura Y Attenuation of antibody titers from 3 to 6 months after the second dose of the BNT162b2 vaccine depends on sex, with age and smoking risk factors for lower antibody titers at 6 months Vaccines 2021 9 1500 10.3390/vaccines9121500 34960246 PMC8708461
+
+[CR55] Tejerina F Post-COVID-19 syndrome. SARS-CoV-2 RNA detection in plasma, stool, and urine in patients with persistent symptoms after COVID-19 BMC Infect. Dis. 2022 22 211 10.1186/s12879-022-07153-4 35240997 PMC8892394
+
+[CR56] Goh, D. et al. Persistence of residual SARS-CoV-2 viral antigen and RNA in tissues of patients with long COVID-19. Preprint at  https://www.researchsquare.com/article/rs-1379777/v1  (2022).
+
+[CR57] Ceulemans LJ Persistence of SARS-CoV-2 RNA in lung tissue after mild COVID-19 Lancet Respir. Med. 2021 9 e78 e79 10.1016/S2213-2600(21)00240-X 34118186 PMC8189667
+
+[CR58] Gaebler C Evolution of antibody immunity to SARS-CoV-2 Nature 2021 591 639 644 10.1038/s41586-021-03207-w 33461210 PMC8221082
+
+[CR59] Menuchin-Lasowski Y SARS-CoV-2 infects and replicates in photoreceptor and retinal ganglion cells of human retinal organoids Stem Cell Rep 2022 17 789 803 10.1016/j.stemcr.2022.02.015 PMC8943915 35334213
+
+[CR60] Cheung CCL Residual SARS-CoV-2 viral antigens detected in GI and hepatic tissues from five recovered patients with COVID-19 Gut 2022 71 226 229 10.1136/gutjnl-2021-324280 34083386
+
+[CR61] Natarajan A Gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA suggest prolonged gastrointestinal infection Med 2022 3 371 387.e9 10.1016/j.medj.2022.04.001 35434682 PMC9005383
+
+[CR62] Katsoularis I Risks of deep vein thrombosis, pulmonary embolism, and bleeding after covid-19: nationwide self-controlled cases series and matched cohort study BMJ 2022 377 e069590 10.1136/bmj-2021-069590 35387772 PMC8984137
+
+[CR63] Pretorius E Persistent clotting protein pathology in Long COVID/post-acute sequelae of COVID-19 (PASC) is accompanied by increased levels of antiplasmin Cardiovasc. Diabetol. 2021 20 172 10.1186/s12933-021-01359-7 34425843 PMC8381139
+
+[CR64] Kubánková M Physical phenotype of blood cells is altered in COVID-19 Biophys. J. 2021 120 2838 2847 10.1016/j.bpj.2021.05.025 34087216 PMC8169220
+
+[CR65] Osiaevi I Persistent capillary rarefication in long COVID syndrome Angiogenesis 2022 10.1007/s10456-022-09850-9 35951203 PMC9366128
+
+[CR66] Patel MA Elevated vascular transformation blood biomarkers in long-COVID indicate angiogenesis as a key pathophysiological mechanism Mol. Med. 2022 28 122 10.1186/s10020-022-00548-8 36217108 PMC9549814
+
+[CR67] Puntmann VO Outcomes of cardiovascular magnetic resonance imaging in patients recently recovered from coronavirus disease 2019 (COVID-19) JAMA Cardiol 2020 5 1265 1273 10.1001/jamacardio.2020.3557 32730619 PMC7385689
+
+[CR68] Roca-Fernández A Cardiac impairment in Long Covid 1-year post-SARS-CoV-2 infection Eur. Heart J. 2022 43 ehac544.219 10.1093/eurheartj/ehac544.219 PMC9950586 36822818
+
+[CR69] Dennis A Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, community-based study BMJ Open 2021 11 e048391 10.1136/bmjopen-2020-048391 33785495 PMC8727683
+
+[CR70] Dennis, A. et al. Multi-organ impairment and Long COVID: a 1-year prospective, longitudinal cohort study. Preprint at  medRxiv 10.1101/2022.03.18.22272607 (2022). 10.1177/01410768231154703 PMC10041626 36787802
+
+[CR71] Bowe B Xie Y Xu E Al-Aly Z Kidney outcomes in Long COVID J. Am. Soc. Nephrol. 2021 32 2851 2862 10.1681/ASN.2021060734 34470828 PMC8806085
+
+[CR72] Almufarrij I Munro KJ One year on: an updated systematic review of SARS-CoV-2, COVID-19 and audio-vestibular symptoms Int. J. Audiol. 2021 60 935 945 10.1080/14992027.2021.1896793 33750252
+
+[CR73] Holdsworth DA Comprehensive clinical assessment identifies specific neurocognitive deficits in working-age patients with long-COVID PLoS ONE 2022 17 e0267392 10.1371/journal.pone.0267392 35687603 PMC9187094
+
+[CR74] Cysique, L. A. et al. Post-acute COVID-19 cognitive impairment and decline uniquely associate with kynurenine pathway activation: a longitudinal observational study. Preprint at  medRxiv 10.1101/2022.06.07.22276020 (2022).
+
+[CR75] Crivelli L Changes in cognitive functioning after COVID-19: a systematic review and meta-analysis Alzheimers Dement. 2022 18 1047 1066 10.1002/alz.12644 35297561 PMC9073922
+
+[CR76] Woo MS Frequent neurocognitive deficits after recovery from mild COVID-19 Brain Commun. 2020 2 fcaa205 10.1093/braincomms/fcaa205 33376990 PMC7717144
+
+[CR77] Taquet M Neurological and psychiatric risk trajectories after SARS-CoV-2 infection: an analysis of 2-year retrospective cohort studies including 1 284 437 patients Lancet Psychiatry 2022 9 815 827 10.1016/S2215-0366(22)00260-7 35987197 PMC9385200
+
+[CR78] Reiken S Alzheimer’s-like signaling in brains of COVID-19 patients Alzheimers Dement. 2022 18 955 965 10.1002/alz.12558 35112786 PMC9011576
+
+[CR79] Charnley M Neurotoxic amyloidogenic peptides in the proteome of SARS-COV2: potential implications for neurological symptoms in COVID-19 Nat. Commun. 2022 13 3387 10.1038/s41467-022-30932-1 35697699 PMC9189797
+
+[CR80] Visser, D. et al. Long COVID is associated with extensive in-vivo neuroinflammation on [18F]DPA-714 PET. Preprint at  medRxiv 10.1101/2022.06.02.22275916 (2022).
+
+[CR81] Guedj E 18F-FDG brain PET hypometabolism in patients with long COVID Eur. J. Nucl. Med. Mol. Imaging 2021 48 2823 2833 10.1007/s00259-021-05215-4 33501506 PMC7837643
+
+[CR82] Hugon J Cognitive decline and brainstem hypometabolism in long COVID: a case series Brain Behav. 2022 12 e2513 10.1002/brb3.2513 35290729 PMC9014998
+
+[CR83] Apple AC Risk factors and abnormal cerebrospinal fluid associate with cognitive symptoms after mild COVID-19 Ann. Clin. Transl Neurol. 2022 9 221 226 10.1002/acn3.51498 35043593 PMC8862406
+
+[CR84] Douaud G SARS-CoV-2 is associated with changes in brain structure in UK Biobank Nature 2022 604 697 707 10.1038/s41586-022-04569-5 35255491 PMC9046077
+
+[CR85] Peluso MJ SARS-CoV-2 and mitochondrial proteins in neural-derived exosomes of COVID-19 Ann. Neurol. 2022 91 772 781 10.1002/ana.26350 35285072 PMC9082480
+
+[CR86] Villaume WA Marginal BH4 deficiencies, iNOS, and self-perpetuating oxidative stress in post-acute sequelae of Covid-19 Med. Hypotheses 2022 163 110842 10.1016/j.mehy.2022.110842 35431403 PMC9006446
+
+[CR87] Bitirgen G Corneal confocal microscopy identifies corneal nerve fibre loss and increased dendritic cells in patients with long COVID Br. J. Ophthalmol. 2021 10.1136/bjophthalmol-2021-319450 34312122 PMC8359871
+
+[CR88] Barros A Small fiber neuropathy in the cornea of Covid-19 patients associated with the generation of ocular surface disease Ocul. Surf. 2022 23 40 48 10.1016/j.jtos.2021.10.010 34781021 PMC8588585
+
+[CR89] Bitirgen G Abnormal quantitative pupillary light responses following COVID-19 Int. Ophthalmol. 2022 10.1007/s10792-022-02275-9 35380318 PMC8980787
+
+[CR90] Mardin CY Possible impact of functional active GPCR-autoantibodies on retinal microcirculation in long-COVID Invest. Ophthalmol. Vis. Sci. 2022 63 3315 F0124
+
+[CR91] Zhang B-Z SARS-CoV-2 infects human neural progenitor cells and brain organoids Cell Res. 2020 30 928 931 10.1038/s41422-020-0390-x 32753756 PMC7399356
+
+[CR92] Sen S Retinal manifestations in patients with SARS-CoV-2 infection and pathogenetic implications: a systematic review Int. Ophthalmol. 2022 42 323 336 10.1007/s10792-021-01996-7 34379290 PMC8356207
+
+[CR93] Frere JJ SARS-CoV-2 infection in hamsters and humans results in lasting and unique systemic perturbations post recovery Sci. Transl Med. 2022 14 eabq3059 10.1126/scitranslmed.abq3059 35857629 PMC9210449
+
+[CR94] Rutkai I Neuropathology and virus in brain of SARS-CoV-2 infected non-human primates Nat. Commun. 2022 13 1745 10.1038/s41467-022-29440-z 35365631 PMC8975902
+
+[CR95] Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, Board on the Health of Select Populations, & Institute of Medicine.  Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness  (National Academies Press, 2015). 25695122
+
+[CR96] Bateman L Myalgic encephalomyelitis/chronic fatigue syndrome: essentials of diagnosis and management Mayo Clin. Proc. 2021 96 2861 2878 10.1016/j.mayocp.2021.07.004 34454716
+
+[CR97] The ME Association. Index of ME/CFS published research - Nov 2022. 224 Index of ME/CFS Published Research.  The ME Association https://meassociation.org.uk/  (2022).
+
+[CR98] 98. Seltzer, J. & Thomas, J. ME Research Summary 2019 (The ME Association, 2019).
+
+[CR99] Wong TL Weitzer DJ Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)-a systemic review and comparison of clinical presentation and symptomatology Med. (Kaunas.) 2021 57 418 10.3390/medicina57050418 PMC8145228 33925784
+
+[CR100] Twomey R Chronic fatigue and postexertional malaise in people living with Long COVID: an observational study Phys. Ther. 2022 102 pzac005 10.1093/ptj/pzac005 35079817 PMC9383197
+
+[CR101] Vernon SD Orthostatic challenge causes distinctive symptomatic, hemodynamic and cognitive responses in Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome Front. Med. 2022 9 917019 10.3389/fmed.2022.917019 PMC9285104 35847821
+
+[CR102] Lam MH-B Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: long-term follow-up Arch. Intern. Med. 2009 169 2142 2147 10.1001/archinternmed.2009.384 20008700
+
+[CR103] Keller BA Pryor JL Giloteaux L Inability of myalgic encephalomyelitis/chronic fatigue syndrome patients to reproduce VO2peak indicates functional impairment J. Transl Med. 2014 12 104 10.1186/1479-5876-12-104 24755065 PMC4004422
+
+[CR104] Saha AK Erythrocyte deformability as a potential biomarker for chronic fatigue syndrome Blood 2018 132 4874 10.1182/blood-2018-99-117260
+
+[CR105] Díaz-Resendiz KJG Loss of mitochondrial membrane potential (ΔΨm) in leucocytes as post-COVID-19 sequelae J. Leukoc. Biol. 2022 112 23 29 10.1002/JLB.3MA0322-279RRR 35355308 PMC9088601
+
+[CR106] Pozzi A COVID-19 and mitochondrial non-coding RNAs: new insights from published data Front. Physiol. 2022 12 805005 10.3389/fphys.2021.805005 35185603 PMC8856670
+
+[CR107] Guntur VP Signatures of mitochondrial dysfunction and impaired fatty acid metabolism in plasma of patients with post-acute sequelae of COVID-19 (PASC) Metabolites 2022 12 1026 10.3390/metabo12111026 36355108 PMC9699059
+
+[CR108] Paul BD Lemle MD Komaroff AL Snyder SH Redox imbalance links COVID-19 and myalgic encephalomyelitis/chronic fatigue syndrome Proc. Natl Acad. Sci. USA 2021 118 e2024358118 10.1073/pnas.2024358118 34400495 PMC8403932
+
+[CR109] Wright J Astill SL Sivan M The relationship between physical activity and Long COVID: a cross-sectional study Int. J. Environ. Res. Public Health 2022 19 5093 10.3390/ijerph19095093 35564488 PMC9105041
+
+[CR110] Heerdt PM Shelley B Singh I Impaired systemic oxygen extraction long after mild COVID-19: potential perioperative implications Br. J. Anaesth. 2022 128 e246 e249 10.1016/j.bja.2021.12.036 35067364 PMC8710396
+
+[CR111] Novak P Multisystem involvement in post-acute sequelae of coronavirus disease 19 Ann. Neurol. 2022 91 367 379 10.1002/ana.26286 34952975 PMC9011495
+
+[CR112] Holmes E Incomplete systemic recovery and metabolic phenoreversion in post-acute-phase nonhospitalized COVID-19 patients: implications for assessment of post-acute COVID-19 syndrome J. Proteome Res. 2021 20 3315 3329 10.1021/acs.jproteome.1c00224 34009992
+
+[CR113] van Campen CLMC Visser FC Orthostatic intolerance in long-haul COVID after SARS-CoV-2: a case-control comparison with post-EBV and insidious-onset myalgic encephalomyelitis/chronic fatigue syndrome patients Healthcare 2022 10 2058 10.3390/healthcare10102058 36292504 PMC9602265
+
+[CR114] van Campen CLMC Visser FC Long-Haul COVID patients: prevalence of POTS are reduced but cerebral blood flow abnormalities remain abnormal with longer disease duration Healthcare 2022 10 2105 10.3390/healthcare10102105 36292552 PMC9602558
+
+[CR115] Nunes JM Kruger A Proal A Kell DB Pretorius E The occurrence of hyperactivated platelets and fibrinaloid microclots in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) Pharmaceuticals 2022 15 931 10.3390/ph15080931 36015078 PMC9413879
+
+[CR116] Hoad A Spickett G Elliott J Newton J Postural orthostatic tachycardia syndrome is an under-recognized condition in chronic fatigue syndrome QJM 2008 101 961 965 10.1093/qjmed/hcn123 18805903
+
+[CR117] Shaw BH The face of postural tachycardia syndrome – insights from a large cross‐sectional online community‐based survey J. Intern. Med. 2019 286 438 448 10.1111/joim.12895 30861229 PMC6790699
+
+[CR118] Raj SR Postural orthostatic tachycardia syndrome (POTS): priorities for POTS care and research from a 2019 National Institutes of Health expert consensus meeting - part 2 Auton. Neurosci. Basic. Clin. 2021 235 102836 10.1016/j.autneu.2021.102836 PMC8455430 34246578
+
+[CR119] Oaklander AL Peripheral neuropathy evaluations of patients with prolonged Long COVID Neurol. Neuroimmunol. Neuroinflamm. 2022 9 e1146 10.1212/NXI.0000000000001146 35232750 PMC8889896
+
+[CR120] Larsen NW Characterization of autonomic symptom burden in long COVID: a global survey of 2,314 adults Front. Neurol. 2022 13 1012668 10.3389/fneur.2022.1012668 36353127 PMC9639503
+
+[CR121] Weinstock LB Mast cell activation symptoms are prevalent in Long-COVID Int. J. Infect. Dis. 2021 112 217 226 10.1016/j.ijid.2021.09.043 34563706 PMC8459548
+
+[CR122] Boneva RS Endometriosis as a comorbid condition in chronic fatigue syndrome (CFS): secondary analysis of data from a CFS case-control study Front. Pediatr. 2019 7 195 10.3389/fped.2019.00195 31179251 PMC6537603
+
+[CR123] Bragée, B. et al. Signs of intracranial hypertension, hypermobility, and craniocervical obstructions in patients with myalgic encephalomyelitis/chronic fatigue syndrome.  Front. Neurol . 11, (2020). 10.3389/fneur.2020.00828 PMC7485557 32982905
+
+[CR124] Medina-Perucha L Self-reported menstrual alterations during the COVID-19 syndemic in Spain: a cross-sectional study Int. J. Womens Health 2022 14 529 544 10.2147/IJWH.S354655 35444473 PMC9013667
+
+[CR125] Ding T Analysis of ovarian injury associated with COVID-19 disease in reproductive-aged women in Wuhan, China: an observational study Front. Med. 2021 8 635255 10.3389/fmed.2021.635255 PMC8017139 33816526
+
+[CR126] Sharp GC The COVID-19 pandemic and the menstrual cycle: research gaps and opportunities Int. J. Epidemiol. 2021 10.1093/ije/dyab239 34865021 PMC8690231
+
+[CR127] Khan SM SARS-CoV-2 infection and subsequent changes in the menstrual cycle among participants in the Arizona CoVHORT study Am. J. Obstet. Gynecol. 2022 226 270 273 10.1016/j.ajog.2021.09.016 34555320 PMC8452349
+
+[CR128] Harlow BL Signorello LB Hall JE Dailey C Komaroff AL Reproductive correlates of chronic fatigue syndrome Am. J. Med. 1998 105 94S 99S 10.1016/S0002-9343(98)00173-9 9790489
+
+[CR129] Thomas N Gurvich C Huang K Gooley PR Armstrong CW The underlying sex differences in neuroendocrine adaptations relevant to myalgic encephalomyelitis chronic fatigue syndrome Front. Neuroendocrinol. 2022 66 100995 10.1016/j.yfrne.2022.100995 35421511
+
+[CR130] Boneva RS Lin J-MS Unger ER Early menopause and other gynecologic risk indicators for chronic fatigue syndrome in women Menopause 2015 22 826 834 10.1097/GME.0000000000000411 25647777 PMC5745581
+
+[CR131] Kresch E COVID-19 endothelial dysfunction can cause erectile dysfunction: histopathological, immunohistochemical, and ultrastructural study of the human penis World J. Mens Health 2021 39 466 469 10.5534/wjmh.210055 33988001 PMC8255400
+
+[CR132] Maleki BH Tartibian B COVID-19 and male reproductive function: a prospective, longitudinal cohort study Reproduction 2021 161 319 331 10.1530/REP-20-0382 33522983
+
+[CR133] Yu JZ Lung perfusion disturbances in nonhospitalized post-COVID with dyspnea — a magnetic resonance imaging feasibility study J. Intern. Med. 2022 292 941 956 10.1111/joim.13558 35946904 PMC9539011
+
+[CR134] Cho JL Quantitative chest CT assessment of small airways disease in post-acute SARS-CoV-2 infection Radiology 2022 304 185 192 10.1148/radiol.212170 35289657 PMC9270680
+
+[CR135] Vijayakumar B Immuno-proteomic profiling reveals aberrant immune cell regulation in the airways of individuals with ongoing post-COVID-19 respiratory disease Immunity 2022 55 542 556.e5 10.1016/j.immuni.2022.01.017 35151371 PMC8789571
+
+[CR136] Littlefield KM SARS-CoV-2-specific T cells associate with inflammation and reduced lung function in pulmonary post-acute sequalae of SARS-CoV-2 PLOS Pathog. 2022 18 e1010359 10.1371/journal.ppat.1010359 35617421 PMC9176759
+
+[CR137] Meringer H Mehandru S Gastrointestinal post-acute COVID-19 syndrome Nat. Rev. Gastroenterol. Hepatol. 2022 19 345 346 10.1038/s41575-022-00611-z 35383321 PMC8981882
+
+[CR138] König RS The gut microbiome in myalgic encephalomyelitis (ME)/chronic fatigue syndrome (CFS) Front. Immunol. 2022 12 628741 10.3389/fimmu.2021.628741 35046929 PMC8761622
+
+[CR139] Zuo T Depicting SARS-CoV-2 faecal viral activity in association with gut microbiota composition in patients with COVID-19 Gut 2021 70 276 284 32690600 10.1136/gutjnl-2020-322294 PMC7385744
+
+[CR140] Zollner A Postacute COVID-19 is characterized by gut viral antigen persistence in inflammatory bowel diseases Gastroenterology 2022 163 495 506.e8 10.1053/j.gastro.2022.04.037 PMC9057012 35508284
+
+[CR141] Giron, L. B. et al. Markers of fungal translocation are elevated during post-acute sequelae of SARS-CoV-2 and induce NF-κB signaling.  JCI Insight 10.1172/jci.insight.160989 (2022). 10.1172/jci.insight.160989 PMC9462470 35727635
+
+[CR142] Jason LA COVID-19 symptoms over time: comparing long-haulers to ME/CFS Fatigue Biomed. Health Behav. 2021 9 59 68 10.1080/21641846.2021.1922140 PMC8411893 34484973
+
+[CR143] Tran V-T Porcher R Pane I Ravaud P Course of post COVID-19 disease symptoms over time in the ComPaRe long COVID prospective e-cohort Nat. Commun. 2022 13 1812 10.1038/s41467-022-29513-z 35383197 PMC8983754
+
+[CR144] Walker A Kelly C Pottinger G Hopkins C Parosmia — a common consequence of covid-19 BMJ 2022 377 e069860 10.1136/bmj-2021-069860 35477684
+
+[CR145] Jamal SM Prospective evaluation of autonomic dysfunction in post-acute sequela of COVID-19 J. Am. Coll. Cardiol. 2022 79 2325 2330 10.1016/j.jacc.2022.03.357 35381331 PMC8976261
+
+[CR146] Stavileci B Özdemir E Özdemir B Ereren E Cengiz M De-novo development of fragmented QRS during a six-month follow-up period in patients with COVID-19 disease and its cardiac effects J. Electrocardiol. 2022 72 44 48 10.1016/j.jelectrocard.2022.02.012 35306293 PMC8917010
+
+[CR147] Grist JT Lung abnormalities depicted with hyperpolarized  129 Xe MRI in patients with long COVID Radiology 2022 305 709 717 10.1148/radiol.220069 35608443 PMC9134268
+
+[CR148] US ME/CFS Clinician Coalition.  Testing Recommendations for Suspected ME/CFS  (US ME/CFS Clinician Coalition, 2021).
+
+[CR149] Galán M Persistent overactive cytotoxic immune response in a Spanish cohort of individuals with long-COVID: identification of diagnostic biomarkers Front. Immunol. 2022 13 848886 10.3389/fimmu.2022.848886 35401523 PMC8990790
+
+[CR150] Grandjean D Screening for SARS-CoV-2 persistence in Long COVID patients using sniffer dogs and scents from axillary sweats samples Clin. Trials 2022 12 2
+
+[CR151] Pifarré F The use of oxygen as a possible screening biomarker for the diagnosis of chronic fatigue Apunt. Sports Med 2022 57 100379 10.1016/j.apunsm.2022.100379
+
+[CR152] Jason LA Kalns J Richarte A Katz BZ Torres C Saliva fatigue biomarker index as a marker for severe myalgic encephalomyelitis/chronic fatigue syndrome in a community based sample Fatigue Biomed. Health Behav. 2021 9 189 195 10.1080/21641846.2021.1994222 PMC8855987 35186443
+
+[CR153] Esfandyarpour R Kashi A Nemat-Gorgani M Wilhelmy J Davis RW A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) Proc. Natl Acad. Sci. USA 2019 116 10250 10257 10.1073/pnas.1901274116 31036648 PMC6535016
+
+[CR154] Nkiliza A Sex-specific plasma lipid profiles of ME/CFS patients and their association with pain, fatigue, and cognitive symptoms J. Transl Med. 2021 19 370 10.1186/s12967-021-03035-6 34454515 PMC8401202
+
+[CR155] Bolton MJ Chapman BP & Van Marwijk, H. Low-dose naltrexone as a treatment for chronic fatigue syndrome BMJ Case Rep. 2020 13 e232502 10.1136/bcr-2019-232502 31911410 PMC6954765
+
+[CR156] Pitt B Tate AM Gluck D Rosenson RS Goonewardena SN Repurposing low-dose naltrexone (LDN) for the prevention and treatment of immunothrombosis in COVID-19 Eur. Heart J. Cardiovasc. Pharmacother. 2022 10.1093/ehjcvp/pvac014 35179184 PMC8903502
+
+[CR157] Alper K Case report: famotidine for neuropsychiatric symptoms in COVID-19 Front. Med. 2020 7 614393 10.3389/fmed.2020.614393 PMC7786260 33425958
+
+[CR158] Hohberger B Case report: neutralization of autoantibodies targeting G-protein-coupled receptors improves capillary impairment and fatigue symptoms after COVID-19 infection Front. Med. 2021 8 754667 10.3389/fmed.2021.754667 PMC8637609 34869451
+
+[CR159] Wang C Long COVID: the nature of thrombotic sequelae determines the necessity of early anticoagulation Front. Cell. Infect. Microbiol. 2022 12 861703 10.3389/fcimb.2022.861703 35449732 PMC9016198
+
+[CR160] The ME Association. A new treatment for Long Covid?  The ME Association https://meassociation.org.uk/2021/10/a-new-treatment-for-long-covid/  (2021).
+
+[CR161] Tölle M Myalgic encephalomyelitis/chronic fatigue syndrome: efficacy of repeat immunoadsorption J. Clin. Med. 2020 9 E2443 10.3390/jcm9082443 PMC7465279 32751659
+
+[CR162] Wood E Hall KH Tate W Role of mitochondria, oxidative stress and the response to antioxidants in myalgic encephalomyelitis/chronic fatigue syndrome: a possible approach to SARS-CoV-2 ‘long-haulers’? Chronic Dis. Transl Med. 2020 7 14 26 33251031 10.1016/j.cdtm.2020.11.002 PMC7680046
+
+[CR163] NICE. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.  NICE https://www.nice.org.uk/guidance/NG206  (2021).
+
+[CR164] World Health Organization.  Support for Rehabilitation Self-Management After COVID-19 Related Illness  (WHO, 2021).
+
+[CR165] CDC. Treatment of ME/CFS | Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).  CDC https://www.cdc.gov/me-cfs/treatment/index.html  (2021).
+
+[CR166] Long COVID Physio. Exercise.  Long COVID Physio https://longcovid.physio/exercise  (2022).
+
+[CR167] Geng, L. N., Bonilla, H. F., Shafer, R. W., Miglis, M. G. & Yang, P. C. Case report of breakthrough long COVID and the use of nirmatrelvir-ritonavir. Preprint at  https://www.researchsquare.com/article/rs-1443341/v1  (2022).
+
+[CR168] Xie, Y., Choi, T. & Al-Aly, Z. Nirmatrelvir and the risk of post-acute sequelae of COVID-19. Preprint at  medRxiv 10.1101/2022.11.03.22281783 (2022).
+
+[CR169] Charfeddine S Sulodexide in the treatment of patients with long COVID 19 symptoms and endothelial dysfunction: the results of TUN-EndCOV study Arch. Cardiovasc. Dis. Suppl. 2022 14 127
+
+[CR170] Thomas R A randomised, double-blind, placebo-controlled trial evaluating concentrated phytochemical-rich nutritional capsule in addition to a probiotic capsule on clinical outcomes among individuals with COVID-19 — the UK Phyto-V study COVID 2022 2 433 449 10.3390/covid2040031
+
+[CR171] Zhang L Gut microbiota-derived synbiotic formula (SIM01) as a novel adjuvant therapy for COVID-19: an open-label pilot study J. Gastroenterol. Hepatol. 2022 37 823 831 10.1111/jgh.15796 35170078 PMC9115073
+
+[CR172] Liu LD Duricka DL Stellate ganglion block reduces symptoms of Long COVID: a case series J. Neuroimmunol. 2022 362 577784 10.1016/j.jneuroim.2021.577784 34922127 PMC8653406
+
+[CR173] Belcaro G Preventive effects of Pycnogenol® on cardiovascular risk factors (including endothelial function) and microcirculation in subjects recovering from coronavirus disease 2019 (COVID-19) Minerva Med. 2022 113 300 308 10.23736/S0026-4806.21.07650-3 34060731
+
+[CR174] Crooks V Waller S Smith T Hahn TJ The use of the Karnofsky Performance Scale in determining outcomes and risk in geriatric outpatients J. Gerontol. 1991 46 M139 M144 10.1093/geronj/46.4.M139 2071835
+
+[CR175] Ledford H Long-COVID treatments: why the world is still waiting Nature 2022 608 258 260 10.1038/d41586-022-02140-w 35945375
+
+[CR176] Toogood PL Clauw DJ Phadke S Hoffman D Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): where will the drugs come from? Pharmacol. Res. 2021 165 105465 10.1016/j.phrs.2021.105465 33529750
+
+[CR177] US ME/CFS Clinician Coalition.  ME/CFS Treatment Recommendations  (US ME/CFS Clinician Coalition, 2021).
+
+[CR178] Taquet M Dercon Q Harrison PJ Six-month sequelae of post-vaccination SARS-CoV-2 infection: a retrospective cohort study of 10,024 breakthrough infections Brain Behav. Immun. 2022 103 154 162 10.1016/j.bbi.2022.04.013 35447302 PMC9013695
+
+[CR179] Office for National Statistics. Self-reported long COVID after infection with the Omicron variant in the UK: 6 May 2022.  Office for National Statistics https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/selfreportedlongcovidafterinfectionwiththeomicronvariant/6may2022  (2022).
+
+[CR180] Tsuchida T Relationship between changes in symptoms and antibody titers after a single vaccination in patients with Long COVID J. Med. Virol. 2022 94 3416 3420 10.1002/jmv.27689 35238053 PMC9088489
+
+[CR181] VA COVID-19 Observational Research Collaboratory. Burden of PCR-confirmed SARS-CoV-2 reinfection in the U.S. Veterans Administration, March 2020 – January 2022. Preprint at  medRxiv 10.1101/2022.03.20.22272571 (2022).
+
+[CR182] Bowe, B., Xie, Y. & Al-Aly, Z. Acute and postacute sequelae associated with SARS-CoV-2 reinfection.  Nat. Med . 10.1038/s41591-022-02051-3 (2022). 10.1038/s41591-022-02051-3 PMC9671810 36357676
+
+[CR183] Blomberg J Gottfries C-G Elfaitouri A Rizwan M Rosén A Infection elicited autoimmunity and myalgic encephalomyelitis/chronic fatigue syndrome: an explanatory model Front. Immunol. 2018 9 229 10.3389/fimmu.2018.00229 29497420 PMC5818468
+
+[CR184] Cauchemez S Bosetti P A reconstruction of early cryptic COVID spread Nature 2021 600 40 41 10.1038/d41586-021-02989-3 34725517
+
+[CR185] CDC. Estimated COVID-19 burden.  Centers for Disease Control and Prevention https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/burden.html  (2020).
+
+[CR186] Kucirka LM Lauer SA Laeyendecker O Boon D Lessler J Variation in false-negative rate of reverse transcriptase polymerase chain reaction–based SARS-CoV-2 tests by time since exposure Ann. Intern. Med. 2020 173 262 267 10.7326/M20-1495 32422057 PMC7240870
+
+[CR187] Levine-Tiefenbrun M SARS-CoV-2 RT-qPCR test detection rates are associated with patient age, sex, and time since diagnosis J. Mol. Diagn. 2022 24 112 119 10.1016/j.jmoldx.2021.10.010 34826637 PMC8608683
+
+[CR188] Jarvis KF Kelley JB Temporal dynamics of viral load and false negative rate influence the levels of testing necessary to combat COVID-19 spread Sci. Rep. 2021 11 9221 10.1038/s41598-021-88498-9 33911131 PMC8080800
+
+[CR189] Dattner I The role of children in the spread of COVID-19: using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children PLoS Comput. Biol. 2021 17 e1008559 10.1371/journal.pcbi.1008559 33571188 PMC7877572
+
+[CR190] Langeland N Cox RJ Are low SARS-CoV-2 viral loads in infected children missed by RT-PCR testing? Lancet Reg. Health Eur. 2021 5 100138 10.1016/j.lanepe.2021.100138 34075368 PMC8159172
+
+[CR191] Van Elslande J Longitudinal follow-up of IgG anti-nucleocapsid antibodies in SARS-CoV-2 infected patients up to eight months after infection J. Clin. Virol. 2021 136 104765 10.1016/j.jcv.2021.104765 33636554 PMC7891078
+
+[CR192] Liu W Predictors of nonseroconversion after SARS-CoV-2 infection Emerg. Infect. Dis. 2021 27 2454 2458 10.3201/eid2709.211042 34193339 PMC8386781
+
+[CR193] Toh ZQ Comparison of seroconversion in children and adults with mild COVID-19.  JAMA Netw Open 2022 5 e221313 10.1001/jamanetworkopen.2022.1313 PMC8908077 35262717
+
+[CR194] Peterson TM Coverage of CFS within U.S. medical schools Univers. J. Public Health 2013 1 177 179 10.13189/ujph.2013.010404
+
+[CR195] Rowe PC Orthostatic intolerance and chronic fatigue syndrome associated with Ehlers-Danlos syndrome J. Pediatr. 1999 135 494 499 10.1016/S0022-3476(99)70173-3 10518084
+
+[CR196] Nguyen T Novel characterisation of mast cell phenotypes from peripheral blood mononuclear cells in chronic fatigue syndrome/myalgic encephalomyelitis patients Asian Pac. J. Allergy Immunol. 2017 35 75 81 27362406 10.12932/ap0771
+
+[CR197] Wagner C Isenmann S Ringendahl H Haensch C-A Anxiety in patients with postural tachycardia syndrome (POTS) Fortschr. Neurol. Psychiatr. 2012 80 458 462 22692879 10.1055/s-0031-1299106
+
+[CR198] Grayson DA Mackinnon A Jorm AF Creasey H Broe GA Item bias in the center for epidemiologic studies depression scale: effects of physical disorders and disability in an elderly community sample J. Gerontol. Ser. B 2000 55 P273 P282 10.1093/geronb/55.5.P273 10985292
+
+[CR199] Twisk FNM Maes M A review on cognitive behavorial therapy (CBT) and graded exercise therapy (GET) in myalgic encephalomyelitis (ME) / chronic fatigue syndrome (CFS): CBT/GET is not only ineffective and not evidence-based, but also potentially harmful for many patients with ME/CFS Neuro Endocrinol. Lett. 2009 30 284 299 19855350
+
+[CR200] Vink M Vink-Niese F Is it useful to question the recovery behaviour of patients with ME/CFS or Long COVID? Healthcare 2022 10 392 10.3390/healthcare10020392 35207003 PMC8872229
+
+[CR201] Dysautonomia International. What is dysautonomia?  Dysautonomia International http://www.dysautonomiainternational.org/page.php?ID=34  (2022).
+
+[CR202] CDC. Epidemiology | Presentation and clinical course | Healthcare providers | Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).  CDC https://www.cdc.gov/me-cfs/healthcare-providers/presentation-clinical-course/epidemiology.html  (2021).
+
+[CR203] Sørensen AIV A nationwide questionnaire study of post-acute symptoms and health problems after SARS-CoV-2 infection in Denmark Nat. Commun. 2022 13 4213 10.1038/s41467-022-31897-x 35864108 PMC9302226
+
+[CR204] Berg SK Long COVID symptoms in SARS-CoV-2-positive children aged 0–14 years and matched controls in Denmark (LongCOVIDKidsDK): a national, cross-sectional study Lancet Child Adolesc. Health 2022 6 614 623 10.1016/S2352-4642(22)00154-7 35752194 PMC9221683
+
+[CR205] Morrow AK Long-term COVID 19 sequelae in adolescents: the overlap with orthostatic intolerance and ME/CFS Curr. Pediatr. Rep. 2022 10 31 44 10.1007/s40124-022-00261-4 35287333 PMC8906524
+
+[CR206] Cooper S Long COVID-19 liver manifestation in children J. Pediatr. Gastroenterol. Nutr. 2022 10.1097/MPG.0000000000003521 35687535
+
+[CR207] Kompaniyets L Post–COVID-19 symptoms and conditions among children and adolescents — United States, March 1, 2020–January 31, 2022 MMWR Morb. Mortal. Wkly Rep. 2022 71 993 999 10.15585/mmwr.mm7131a3 35925799 PMC9368731
+
+[CR208] Edlow AG Castro VM Shook LL Kaimal AJ Perlis RH Neurodevelopmental outcomes at 1 year in infants of mothers who tested positive for SARS-CoV-2 during pregnancy JAMA Netw. Open 2022 5 e2215787 10.1001/jamanetworkopen.2022.15787 35679048 PMC9185175
+
+[CR209] Morand A Similar patterns of [18F]-FDG brain PET hypometabolism in paediatric and adult patients with long COVID: a paediatric case series Eur. J. Nucl. Med. Mol. Imaging 2022 49 913 920 10.1007/s00259-021-05528-4 34414470 PMC8376118
+
+[CR210] Heiss R Pulmonary dysfunction after pediatric COVID-19 Radiology 2022 10.1148/radiol.221250 36125379 PMC9513839

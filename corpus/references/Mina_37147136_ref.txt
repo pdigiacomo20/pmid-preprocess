@@ -1,0 +1,99 @@
+[R1] Dong E ,  Du H ,  Gardner L .  An interactive web-based dashboard to track COVID-19 in real time .  Lancet Infect Dis .  2020 ; 20 ( 5 ): 533 - 534 . doi: 10.1016/S1473-3099(20)30120-1 32087114 PMC7159018
+
+[R2] Hui DS ,  Joynt GM ,  Wong KT ,  et al. Impact of severe acute respiratory syndrome (SARS) on pulmonary function, functional capacity and quality of life in a cohort of survivors .  Thorax .  2005 ; 60 ( 5 ): 401 - 409 . doi: 10.1136/thx.2004.030205 15860716 PMC1758905
+
+[R3] Groff D ,  Sun A ,  Ssentongo AE ,  et al. Short-term and long-term rates of postacute sequelae of SARS-CoV-2 infection: a systematic review .  JAMA Netw Open .  2021 ; 4 ( 10 ): e2128568 . doi: 10.1001/jamanetworkopen.2021.28568 34643720 PMC8515212
+
+[R4] Nath A .  Long-haul COVID .  Neurology .  2020 ; 95 ( 13 ): 559 - 560 . doi: 10.1212/WNL.0000000000010640 32788251
+
+[R5] Huang C ,  Huang L ,  Wang Y ,  et al. 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study .  Lancet .  2021 ; 397 ( 10270 ): 220 - 232 . doi: 10.1016/S0140-6736(20)32656-8 33428867 PMC7833295
+
+[R6] Nalbandian A ,  Sehgal K ,  Gupta A ,  et al. Post-acute COVID-19 syndrome .  Nat Med .  2021 ; 27 ( 4 ): 601 - 615 . doi: 10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[R7] van den Borst B ,  Peters JB ,  Brink M ,  et al. Comprehensive health assessment 3 months after recovery from acute coronavirus disease 2019 (COVID-19) .  Clin Infect Dis .  2020 ; 73 ( 5 ): e1089 – e1098 . doi: 10.1093/cid/ciaa1750 PMC7717214 33220049
+
+[R8] Carfì A ,  Bernabei R ,  Landi F .  Persistent symptoms in patients after acute COVID-19 .  JAMA .  2020 ; 324 ( 6 ): 603 - 605 . doi: 10.1001/jama.2020.12603 32644129 PMC7349096
+
+[R9] Ludvigsson JF .  Case report and systematic review suggest that children may experience similar long-term effects to adults after clinical COVID-19 .  Acta Paediatr .  2021 ; 110 ( 3 ): 914 - 921 . doi: 10.1111/apa.15673 33205450 PMC7753397
+
+[R10] Townsend L ,  Dyer AH ,  Jones K ,  et al. Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection .  PLoS One .  2020 ; 15 ( 11 ): e0240784 . doi: 10.1371/journal.pone.0240784 33166287 PMC7652254
+
+[R11] Belvis R .  Headaches during COVID-19: my clinical case and review of the literature .  Headache .  2020 ; 60 ( 7 ): 1422 - 1426 . doi: 10.1111/head.13841 32413158 PMC7273035
+
+[R12] Garrigues E ,  Janvier P ,  Kherabi Y ,  et al. Post-discharge persistent symptoms and health-related quality of life after hospitalization for COVID-19 .  J Infect .  2020 ; 81 ( 6 ): e4 - e6 . doi: 10.1016/j.jinf.2020.08.029 32853602 PMC7445491
+
+[R13] Nordvig AS ,  Fong KT ,  Willey JZ ,  et al. Potential neurologic manifestations of COVID-19 .  Neurol Clin Pract .  2021 ; 11 ( 2 ): e135 - e146 . doi: 10.1212/CPJ.0000000000000897 33842082 PMC8032406
+
+[R14] Heneka MT ,  Golenbock D ,  Latz E ,  Morgan D ,  Brown R .  Immediate and long-term consequences of COVID-19 infections for the development of neurological disease .  Alzheimers Res Ther .  2020 ; 12 ( 1 ): 69 . doi: 10.1186/s13195-020-00640-3 32498691 PMC7271826
+
+[R15] Taquet M ,  Luciano S ,  Geddes JR ,  Harrison PJ .  Bidirectional associations between COVID-19 and psychiatric disorder: retrospective cohort studies of 62 354 COVID-19 cases in the USA .  Lancet Psychiatry .  2021 ; 8 ( 2 ): 130 - 140 . doi: 10.1016/s2215-0366(20)30462-4 33181098 PMC7820108
+
+[R16] Dani M ,  Dirksen A ,  Taraborrelli P ,  et al. Autonomic dysfunction in 'long COVID': rationale, physiology and management strategies .  Clin Med (Lond) 2021 ; 21 ( 1 ): e63 - e67 . doi: 10.7861/clinmed.2020-0896 33243837 PMC7850225
+
+[R17] Novak P ,  Mukerji SS ,  Alabsi HS ,  et al. Multisystem involvement in post-acute sequelae of COVID-19 (PASC) .  Ann Neurol .  2021 ; 91 ( 3 ): 367 - 379 . doi: 10.1002/ana.26286 PMC9011495 34952975
+
+[R18] Lee M-H ,  Perl DP ,  Nair G ,  et al. Microvascular injury in the brains of patients with Covid-19 .  N Engl J Med .  2021 ; 384 ( 5 ): 481 - 483 . doi: 10.1056/NEJMc2033369 33378608 PMC7787217
+
+[R19] Bulfamante G ,  Chiumello D ,  Canevini MP ,  et al. First ultrastructural autoptic findings of SARS -Cov-2 in olfactory pathways and brainstem .  Minerva Anestesiol .  2020 ; 86 ( 6 ): 678 - 679 . doi: 10.23736/s0375-9393.20.14772-2 32401000
+
+[R20] Paniz-Mondolfi A ,  Bryce C ,  Grimes Z ,  et al. Central nervous system involvement by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) .  J Med Virol .  2020 ; 92 ( 7 ): 699 - 702 . doi: 10.1002/jmv.25915 32314810 PMC7264598
+
+[R21] Edén A ,  Kanberg N ,  Gostner J ,  et al. CSF biomarkers in patients with COVID-19 and neurologic symptoms: a case series .  Neurology .  2021 ; 96 ( 2 ): e294 - e300 . doi: 10.1212/wnl.0000000000010977 33004602
+
+[R22] Heming M ,  Li X ,  Räuber S ,  et al. Neurological manifestations of COVID-19 feature T cell exhaustion and dedifferentiated monocytes in cerebrospinal fluid .  Immunity .  2021 ; 54 ( 1 ): 164 - 175.e6 . doi: 10.1016/j.immuni.2020.12.011 33382973 PMC7831653
+
+[R23] Matschke J ,  Lütgehetmann M ,  Hagel C ,  et al. Neuropathology of patients with COVID-19 in Germany: a post-mortem case series .  Lancet Neurol .  2020 ; 19 ( 11 ): 919 - 929 . doi: 10.1016/S1474-4422(20)30308-2 33031735 PMC7535629
+
+[R24] Yong SJ .  Persistent brainstem dysfunction in long-COVID: a hypothesis .  ACS Chem Neurosci .  2021 ; 12 ( 4 ): 573 - 580 . doi: 10.1021/acschemneuro.0c00793 33538586
+
+[R25] Baig AM .  Deleterious outcomes in long-hauler COVID-19: the effects of SARS-CoV-2 on the CNS in chronic COVID syndrome .  ACS Chem Neurosci .  2020 ; 11 ( 24 ): 4017 - 4020 . doi: 10.1021/acschemneuro.0c00725 33275404
+
+[R26] Glynne P ,  Tahmasebi N ,  Gant V ,  Gupta R .  Long COVID following mild SARS-CoV-2 infection: characteristic T cell alterations and response to antihistamines .  J Investig Med .  2022 ; 70 ( 1 ): 61 - 67 . doi: 10.1136/jim-2021-002051 PMC8494538 34611034
+
+[R27] Visvabharathy L ,  Hanson B ,  Orban Z ,  et al. Neuro-COVID long-haulers exhibit broad dysfunction in T cell memory generation and responses to vaccination .  medRxiv .  2021 : 2021 . doi: 10.1101/2021.08.08.21261763
+
+[R28] Sun B ,  Tang N ,  Peluso MJ ,  et al. Characterization and biomarker analyses of post-COVID-19 complications and neurological manifestations .  Cells .  2021 ; 10 ( 2 ): 386 . doi: 10.3390/cells10020386 33668514 PMC7918597
+
+[R29] Maltezou HC ,  Pavli A ,  Tsakris A .  Post-COVID syndrome: an insight on its pathogenesis .  Vaccines (Basel) .  2021 ; 9 ( 5 ): 497 . doi: 10.3390/vaccines9050497 34066007 PMC8151752
+
+[R30] Cella D ,  Riley W ,  Stone A ,  et al. The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005-2008 .  J Clin Epidemiol .  2010 ; 63 ( 11 ): 1179 - 1194 . doi: 10.1016/j.jclinepi.2010.04.011 20685078 PMC2965562
+
+[R31] Enose-Akahata Y ,  Azodi S ,  Smith BR ,  et al. Immunophenotypic characterization of CSF B cells in virus-associated neuroinflammatory diseases .  PLOS Pathog .  2018 ; 14 ( 4 ): e1007042 . doi: 10.1371/journal.ppat.1007042 29709026 PMC5945224
+
+[R32] Goldstein DS ,  Cheshire WP Jr .  Beat-to-beat blood pressure and heart rate responses to the Valsalva maneuver .  Clin Auton Res .  2017 ; 27 ( 6 ): 361 - 367 . doi: 10.1007/s10286-017-0474-y 29052077 PMC8897824
+
+[R33] Rahman F ,  Goldstein DS .  Quantitative indices of baroreflex-sympathoneural function: application to patients with chronic autonomic failure .  Clin Auton Res .  2014 ; 24 ( 3 ): 103 - 110 . doi: 10.1007/s10286-014-0234-1 24706176
+
+[R34] Holmes C ,  Eisenhofer G ,  Goldstein DS .  Improved assay for plasma dihydroxyphenylacetic acid and other catechols using high-performance liquid chromatography with electrochemical detection .  J Chromatogr B Biomed Sci Appl .  1994 ; 653 ( 2 ): 131 - 138 . doi: 10.1016/0378-4347(93)E0430-X 8205240
+
+[R35] Davis HE ,  Assaf GS ,  McCorkell L ,  et al. Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  EClinicalMedicine .  2021 ; 38 : 101019 . doi: 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[R36] Wong AW ,  Shah AS ,  Johnston JC ,  Carlsten C ,  Ryerson CJ .  Patient-reported outcome measures after COVID-19: a prospective cohort study .  Eur Respir J .  2020 ; 56 ( 5 ): 2003276 . doi: 10.1183/13993003.03276-2020 33008936 PMC7530908
+
+[R37] Graham EL ,  Clark JR ,  Orban ZS ,  et al. Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 “long haulers” .  Ann Clin Transl Neurol .  2021 ; 8 ( 5 ): 1073 - 1085 . doi: 10.1002/acn3.51350 33755344 PMC8108421
+
+[R38] Ftiha F ,  Shalom M ,  Jradeh H .  Neurological symptoms due to Coronavirus disease 2019 .  Neurol Int .  2020 ; 12 ( 1 ): 8639 . doi: 10.4081/ni.2020.8639 32874447 PMC7445577
+
+[R39] Baig AM ,  Khaleeq A ,  Ali U ,  Syeda H .  Evidence of the COVID-19 virus targeting the CNS: tissue distribution, host–virus interaction, and proposed neurotropic mechanisms .  ACS Chem Neurosci .  2020 ; 11 ( 7 ): 995 - 998 . doi: 10.1021/acschemneuro.0c00122 32167747
+
+[R40] Huart C ,  Meusel T ,  Gerber J ,  Duprez T ,  Rombaux P ,  Hummel T .  The depth of the olfactory sulcus is an indicator of congenital anosmia .  Am J Neuroradiol .  2011 ; 32 ( 10 ): 1911 - 1914 . doi: 10.3174/ajnr.A2632 21868619 PMC7966015
+
+[R41] Chetrit A ,  Lechien JR ,  Ammar A ,  et al. Magnetic resonance imaging of COVID-19 anosmic patients reveals abnormalities of the olfactory bulb: preliminary prospective study .  J Infect .  2020 ; 81 ( 5 ): 816 - 846 . doi: 10.1016/j.jinf.2020.07.028 PMC7392133 32739489
+
+[R42] Guedj E ,  Campion JY ,  Dudouet P ,  et al. 18F-FDG brain PET hypometabolism in patients with long COVID .  Eur J Nucl Med Mol Imaging .  2021 ; 48 ( 9 ): 2823 - 2833 . doi: 10.1007/s00259-021-05215-4 33501506 PMC7837643
+
+[R43] Roe K .  A role for T-cell exhaustion in Long COVID-19 and severe outcomes for several categories of COVID-19 patients .  J Neurosci Res .  2021 ; 99 ( 10 ): 2367 - 2376 . doi: 10.1002/jnr.24917 34288064 PMC8427009
+
+[R44] Diao B ,  Wang C ,  Tan Y ,  et al. Reduction and functional exhaustion of T cells in patients with coronavirus disease 2019 (COVID-19) .  Front Immunol .  2020 ; 11 : 827 . doi: 10.3389/fimmu.2020.00827 32425950 PMC7205903
+
+[R45] Gil-Manso S ,  Miguens Blanco I ,  López-Esteban R ,  et al. Comprehensive flow cytometry profiling of the immune system in COVID-19 convalescent individuals .  Front Immunol .  2021 ; 12 : 793142 . doi: 10.3389/fimmu.2021.793142 35069575 PMC8771913
+
+[R46] Creager MA ,  Creager SJ .  Arterial baroreflex regulation of blood pressure in patients with congestive heart failure .  J Am Coll Cardiol .  1994 ; 23 ( 2 ): 401 - 405 8294694 10.1016/0735-1097(94)90427-8
+
+[R47] Hughes JW ,  Dennis MF ,  Beckham JC .  Baroreceptor sensitivity at rest and during stress in women with posttraumatic stress disorder or major depressive disorder, N.I.H., Extramural Research Support, U.S. Gov't, Non-P.H.S .  J Traum Stress .  2007 ; 20 ( 5 ): 667 - 676 . doi: 10.1002/jts.20285 17955541
+
+[R48] Haffke M ,  Freitag H ,  Rudolf G ,  et al. Endothelial dysfunction and altered endothelial biomarkers in patients with post-COVID-19 syndrome and chronic fatigue syndrome (ME/CFS) .  J Transl Med .  2022 ; 20 ( 1 ): 138 . doi: 10.1186/s12967-022-03346-2 35317812 PMC8938726
+
+[R49] Brognara F ,  Castania JA ,  Kanashiro A ,  Dias DPM ,  Salgado HC .  Physiological sympathetic activation reduces systemic inflammation: role of baroreflex and chemoreflex .  Front Immunol .  2021 ; 12 : 637845 . doi: 10.3389/fimmu.2021.637845 33995355 PMC8117744
+
+[R50] Stewart JM .  Chronic fatigue syndrome: comments on deconditioning, blood volume and resulting cardiac function .  Clin Sci .  2009 ; 118 ( 2 ): 121 - 123 . doi: 10.1042/cs20090327 PMC4236909 19534728

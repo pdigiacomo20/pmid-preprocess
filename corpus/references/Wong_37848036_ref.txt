@@ -1,0 +1,199 @@
+[R1] Choutka J ,  Jansari V ,  Hornig M , and  Iwasaki A . ( 2022 ).  Unexplained post-acute infection syndromes .  Nat. Med .  28 ,  911 – 923 .  10.1038/s41591-022-01810-6 . 35585196
+
+[R2] Al-Aly Z ,  Xie Y , and  Bowe B . ( 2021 ).  High-dimensional characterization of post-acute sequelae of COVID-19 .  Nature 594 ,  259 – 264 .  10.1038/s41586-021-03553-9 . 33887749
+
+[R3] Davis HE ,  McCorkell L ,  Vogel JM , and  Topol EJ  ( 2023 ).  Long COVID: major findings, mechanisms and recommendations .  Nat. Rev. Microbiol .  21 ,  133 – 146 .  10.1038/s41579-022-00846-2 . 36639608 PMC9839201
+
+[R4] Merad M ,  Blish CA ,  Sallusto F , and  Iwasaki A . ( 2022 ).  The immunology and immunopathology of COVID-19 .  Science 375 ,  1122 – 1127 .  10.1126/science.abm8108 . 35271343
+
+[R5] Pretorius E ,  Vlok M ,  Venter C ,  Bezuidenhout JA ,  Laubscher GJ ,  Steenkamp J , and  Kell DB  ( 2021 ).  Persistent clotting protein pathology in Long COVID/Post-Acute Sequelae of COVID-19 (PASC) is accompanied by increased levels of antiplasmin .  Cardiovasc. Diabetol .  20 ,  172 .  10.1186/s12933-021-01359-7 . 34425843 PMC8381139
+
+[R6] Dani M ,  Dirksen A ,  Taraborrelli P ,  Torocastro M ,  Panagopoulos D ,  Sutton R , and  Lim PB  ( 2021 ).  Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies .  Clin. Med .  21 ,  e63 – e67 .  10.7861/clinmed.2020-0896 . PMC7850225 33243837
+
+[R7] Shen B ,  Yi X ,  Sun Y ,  Bi X ,  Du J ,  Zhang C ,  Quan S ,  Zhang F ,  Sun R ,  Qian L ,   ( 2020 ).  Proteomic and Metabolomic Characterization of COVID-19 Patient Sera .  Cell 182 ,  59 – 72 .e15.  10.1016/j.cell.2020.05.032 . 32492406 PMC7254001
+
+[R8] Shi D ,  Yan R ,  Lv L ,  Jiang H ,  Lu Y ,  Sheng J ,  Xie J ,  Wu W ,  Xia J , Xu K ,   ( 2021 ).  The serum metabolome of COVID-19 patients is distinctive and predictive .  Metabolism 118 ,  154739 .  10.1016/j.metabol.2021.154739 . 33662365 PMC7920809
+
+[R9] Song JW ,  Lam SM ,  Fan X ,  Cao WJ ,  Wang SY ,  Tian H ,  Chua GH ,  Zhang C ,  Meng FP ,  Xu Z ,   ( 2020 ).  Omics-Driven Systems Interrogation of Metabolic Dysregulation in COVID-19 Pathogenesis .  Cell Metab .  32 ,  188 – 202 .e5.  10.1016/j.cmet.2020.06.016 . 32610096 PMC7311890
+
+[R10] Thomas T ,  Stefanoni D ,  Reisz JA ,  Nemkov T ,  Bertolone L ,  Francis RO ,  Hudson KE ,  Zimring JC ,  Hansen KC ,  Hod EA ,   ( 2020 ).  COVID-19 infection alters kynurenine and fatty acid metabolism, correlating with IL-6 levels and renal status .  JCI Insight 5 ,  e140327 .  10.1172/jci.insight.140327 . 32559180 PMC7453907
+
+[R11] Xiao N ,  Nie M ,  Pang H ,  Wang B ,  Hu J ,  Meng X ,  Li K ,  Ran X ,  Long Q ,  Deng H ,   ( 2021 ).  Integrated cytokine and metabolite analysis reveals immunometabolic reprogramming in COVID-19 patients with therapeutic implications .  Nat. Commun .  12 ,  1618 .  10.1038/s41467-021-21907-9 . 33712622 PMC7955129
+
+[R12] Sadlier C ,  Albrich WC ,  Neogi U ,  Lunjani N ,  Horgan M ,  O’Toole PW , and  O’Mahony L . ( 2022 ).  Metabolic rewiring and serotonin depletion in patients with postacute sequelae of COVID-19 .  Allergy 77 ,  1623 – 1625 .  10.1111/all.15253 . 35150456 PMC9111264
+
+[R13] Su Y ,  Yuan D ,  Chen DG ,  Ng RH ,  Wang K ,  Choi J ,  Li S ,  Hong S ,  Zhang R ,  Xie J ,   ( 2022 ).  Multiple early factors anticipate post-acute COVID-19 sequelae .  Cell 185 ,  881 – 895 .e20.  10.1016/j.cell.2022.01.014 . 35216672 PMC8786632
+
+[R14] Peluso MJ ,  Kelly JD ,  Lu S ,  Goldberg SA ,  Davidson MC ,  Mathur S ,  Durstenfeld MS ,  Spinelli MA ,  Hoh R ,  Tai V ,   ( 2022 ).  Persistence, Magnitude, and Patterns of Postacute Symptoms and Quality of Life Following Onset of SARS-CoV-2 Infection: Cohort Description and Approaches for Measurement .  Open Forum Infect. Dis .  9 , ofab640.  10.1093/ofid/ofab640 . PMC8755302 35106317
+
+[R15] Berger M ,  Gray JA , and  Roth BL  ( 2009 ).  The expanded biology of serotonin .  Annu. Rev. Med .  60 ,  355 – 366 .  10.1146/annurev.med.60.042307.110802 . 19630576 PMC5864293
+
+[R16] Yasui F ,  Matsumoto Y ,  Yamamoto N ,  Sanada T ,  Honda T ,  Munakata T ,  Itoh Y , and  Kohara M . ( 2022 ).  Infection with the SARS-CoV-2 B.1.351 variant is lethal in aged BALB/c mice .  Sci. Rep .  12 ,  4150 .  10.1038/s41598-022-08104-4 . 35264719 PMC8907250
+
+[R17] Natarajan A ,  Zlitni S ,  Brooks EF ,  Vance SE ,  Dahlen A ,  Hedlin H ,  Park RM ,  Han A ,  Schmidtke DT ,  Verma R ,   ( 2022 ).  Gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA suggest prolonged gastrointestinal infection .  Med (N Y) 3 ,  371 – 387 .e9.  10.1016/j.medj.2022.04.001 . PMC9005383 35434682
+
+[R18] Swank Z ,  Senussi Y ,  Manickas-Hill Z ,  Yu XG ,  Li JZ ,  Alter G , and  Walt DR  ( 2022 ).  Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae .  Clin. Infect. Dis .  10.1093/cid/ciac722 . PMC10169416 36052466
+
+[R19] Zollner A ,  Koch R ,  Jukic A ,  Pfister A ,  Meyer M ,  Rössler A ,  Kimpel J ,  Adolph TE , and  Tilg H . ( 2022 ).  Postacute COVID-19 is Characterized by Gut Viral Antigen Persistence in Inflammatory Bowel Diseases .  Gastroenterology 163 ,  495 – 506 .e8.  10.1053/j.gastro.2022.04.037 . 35508284 PMC9057012
+
+[R20] Peluso MJ ,  Ryder D ,  Flavell R ,  Wang Y ,  Levi J ,  LaFranchi BH ,  Deveau TM ,  Buck AM ,  Munter SE ,  Asare KA ,   ( 2023 ).  Multimodal Molecular Imaging Reveals Tissue-Based T Cell Activation and Viral RNA Persistence for Up to 2 Years Following COVID-19 .  Preprint at medRxiv ..  10.1101/2023.07.27.23293177 .
+
+[R21] Goh D ,  Lim JCT ,  Fernaíndez SB ,  Joseph CR ,  Edwards SG ,  Neo ZW ,  Lee JN ,  Caballero SG ,  Lau MC , and  Yeong JPS  ( 2022 ).  Case report: Persistence of residual antigen and RNA of the SARS-CoV-2 virus in tissues of two patients with long COVID .  Front. Immunol .  13 ,  939 – 989 .  10.3389/fimmu.2022.939989 . PMC9483160 36131932
+
+[R22] Phetsouphanh C ,  Darley DR ,  Wilson DB ,  Howe A ,  Munier CML ,  Patel SK ,  Juno JA ,  Burrell LM ,  Kent SJ ,  Dore GJ ,   ( 2022 ).  Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection .  Nat. Immunol .  23 ,  210 – 216 .  10.1038/s41590-021-01113-x . 35027728
+
+[R23] Roager HM , and  Licht TR  ( 2018 ).  Microbial tryptophan catabolites in health and disease .  Nat. Commun .  9 ,  3294 .  10.1038/s41467-018-05470-4 . 30120222 PMC6098093
+
+[R24] Danlos FX ,  Grajeda-Iglesias C ,  Durand S ,  Sauvat A ,  Roumier M ,  Cantin D ,  Colomba E ,  Rohmer J ,  Pommeret F ,  Baciarello G ,   ( 2021 ).  Metabolomic analyses of COVID-19 patients unravel stage-dependent and prognostic biomarkers .  Cell Death Dis .  12 ,  258 .  10.1038/s41419-021-03540-y . 33707411 PMC7948172
+
+[R25] Valdás A ,  Moreno LO ,  Rello SR ,  Orduña A ,  Bernardo D , and  Cifuentes A . ( 2022 ).  Metabolomics study of COVID-19 patients in four different clinical stages .  Sci. Rep .  12 ,  1650 .  10.1038/s41598-022-05667-0 . 35102215 PMC8803913
+
+[R26] Giron LB ,  Dweep H ,  Yin X ,  Wang H ,  Damra M ,  Goldman AR ,  Gorman N ,  Palmer CS ,  Tang HY ,  Shaikh MW ,   ( 2021 ).  Plasma Markers of Disrupted Gut Permeability in Severe COVID-19 Patients .  Front. Immunol .  12 ,  686240 .  10.3389/fimmu.2021.686240 . 34177935 PMC8219958
+
+[R27] Giron LB ,  Peluso MJ ,  Ding J ,  Kenny G ,  Zilberstein NF ,  Koshy J ,  Hong KY ,  Rasmussen H ,  Miller GE ,  Bishehsari F ,   ( 2022 ).  Markers of fungal translocation are elevated during post-acute sequelae of SARS-CoV-2 and induce NF-kappaB signaling .  JCI Insight 7 ,  e160989 .  10.1172/jci.insight.160989 . 35727635 PMC9462470
+
+[R28] Fortier ME ,  Kent S ,  Ashdown H ,  Poole S ,  Boksa P , and  Luheshi GN  ( 2004 ).  The viral mimic, polyinosinic:polycytidylic acid, induces fever in rats via an interleukin-1-dependent mechanism .  Am. J. Physiol. Regul. Integr. Comp. Physiol .  287 ,  R759 – R766 .  10.1152/ajpregu.00293.2004 . 15205185
+
+[R29] Zhu X ,  Levasseur PR ,  Michaelis KA ,  Burfeind KG , and  Marks DL  ( 2016 ).  A distinct brain pathway links viral RNA exposure to sickness behavior .  Sci. Rep .  6 ,  29885 .  10.1038/srep29885 . 27435819 PMC4951726
+
+[R30] Lamers MM ,  Beumer J ,  van der Vaart J ,  Knoops K ,  Puschhof J ,  Breugem TI ,  Ravelli RBG ,  Paul van Schayck J ,  Mykytyn AZ ,  Duimel HQ ,   ( 2020 ).  SARS-CoV-2 productively infects human gut enterocytes .  Science 369 ,  50 – 54 .  10.1126/science.abc1669 . 32358202 PMC7199907
+
+[R31] Gaebler C ,  Wang Z ,  Lorenzi JCC ,  Muecksch F ,  Finkin S ,  Tokuyama M ,  Cho A ,  Jankovic M ,  Schaefer-Babajew D ,  Oliveira TY ,   ( 2021 ).  Evolution of antibody immunity to SARS-CoV-2 .  Nature 591 ,  639 – 644 .  10.1038/s41586-021-03207-w . 33461210 PMC8221082
+
+[R32] Singer D ,  Camargo SMR ,  Ramadan T ,  Schäfer M ,  Mariotta L ,  Herzog B ,  Huggel K ,  Wolfer D ,  Werner S ,  Penninger JM , and  Verrey F . ( 2012 ).  Defective intestinal amino acid absorption in Ace2 null mice .  Am. J. Physiol. Gastrointest. Liver Physiol .  303 ,  G686 – G695 .  10.1152/ajpgi.00140.2012 . 22790597
+
+[R33] Hashimoto T ,  Perlot T ,  Rehman A ,  Trichereau J ,  Ishiguro H ,  Paolino M ,  Sigl V ,  Hanada T ,  Hanada R ,  Lipinski S ,   ( 2012 ).  ACE2 links amino acid malnutrition to microbial ecology and intestinal inflammation .  Nature 487 ,  477 – 481 .  10.1038/nature11228 . 22837003 PMC7095315
+
+[R34] Wolf K ,  Braun A ,  Haining EJ ,  Tseng YL ,  Kraft P ,  Schuhmann MK ,  Gotru SK ,  Chen W ,  Hermanns HM ,  Stoll G ,   ( 2016 ).  Partially Defective Store Operated Calcium Entry and Hem(ITAM) Signaling in Platelets of Serotonin Transporter Deficient Mice .  PLoS One 11 ,  e0147664 .  10.1371/journal.pone.0147664 . 26800051 PMC4723080
+
+[R35] Rivadeneyra L ,  Pozner RG ,  Meiss R ,  Fondevila C ,  Gómez RM , and  Schattner M . ( 2015 ).  Poly (I:C) downregulates platelet production and function through type I interferon .  Thromb. Haemost .  114 ,  982 – 993 .  10.1160/TH14-11-0951 . 26134179
+
+[R36] Lee E ,  Kim M ,  Jeon K ,  Lee J ,  Lee JS ,  Kim HS ,  Kang HJ , and  Lee YK  ( 2019 ).  Mean Platelet Volume, Platelet Distribution Width, and Platelet Count, in Connection with Immune Thrombocytopenic Purpura and Essential Thrombocytopenia .  Lab. Med .  50 ,  279 – 285 .  10.1093/labmed/lmy082 . 30726936
+
+[R37] Norrasethada L ,  Khumpoo W ,  Rattarittamrong E ,  Rattanathammethee T ,  Chai-Adisaksopha C , and  Tantiworawit A . ( 2019 ).  The use of mean platelet volume for distinguishing the causes of thrombocytopenia in adult patients .  Hematol. Rep .  11 ,  7732 .  10.4081/hr.2019.7732 . 30996849 PMC6452223
+
+[R38] Schmoeller D ,  Picarelli MM ,  Paz Munhoz T ,  Poli de Figueiredo CE , and  Staub HL  ( 2017 ).  Mean Platelet Volume and Immature Platelet Fraction in Autoimmune Disorders .  Front. Med .  4 ,  146 .  10.3389/fmed.2017.00146 . PMC5592196 28932736
+
+[R39] Anabel AS ,  Eduardo PC ,  Pedro Antonio HC ,  Carlos SM ,  Juana NM ,  Honorio TA ,  Nicolás VS , and  Sergio Roberto AR  ( 2014 ).  Human platelets express Toll-like receptor 3 and respond to poly I:C .  Hum. Immunol .  75 ,  1244 – 1251 .  10.1016/j.humimm.2014.09.013 . 25315747
+
+[R40] D’Atri LP ,  Etulain J ,  Rivadeneyra L ,  Lapponi MJ ,  Centurion M ,  Cheng K ,  Yin H , and  Schattner M . ( 2015 ).  Expression and functionality of Toll-like receptor 3 in the megakaryocytic lineage .  J. Thromb. Haemost .  13 ,  839 – 850 .  10.1111/jth.12842 . 25594115 PMC4424134
+
+[R41] Morodomi Y ,  Kanaji S ,  Won E ,  Ruggeri ZM , and  Kanaji T . ( 2020 ).  Mechanisms of anti-GPIbalpha antibody-induced thrombocytopenia in mice .  Blood 135 ,  2292 – 2301 .  10.1182/blood.2019003770 . 32157300 PMC7316218
+
+[R42] Kamal AH ,  Tefferi A , and  Pruthi RK  ( 2007 ).  How to interpret and pursue an abnormal prothrombin time, activated partial thromboplastin time, and bleeding time in adults .  Mayo Clin. Proc .  82 ,  864 – 873 .  10.4065/82.7.864 . 17605969
+
+[R43] Antunes M , and  Biala G . ( 2012 ).  The novel object recognition memory: neurobiology, test procedure, and its modifications .  Cogn. Process .  13 ,  93 – 110 .  10.1007/s10339-011-0430-z . 22160349 PMC3332351
+
+[R44] Costello DA , and  Lynch MA  ( 2013 ).  Toll-like receptor 3 activation modulates hippocampal network excitability, via glial production of interferon-beta .  Hippocampus 23 ,  696 – 707 .  10.1002/hipo.22129 . 23554175
+
+[R45] Chen C ,  Gao R ,  Li M ,  Wang Q ,  Chen H ,  Zhang S ,  Mao X ,  Behensky A ,  Zhang Z ,  Gan L ,   ( 2019 ).  Extracellular RNAs-TLR3 signaling contributes to cognitive decline in a mouse model of postoperative cognitive dysfunction .  Brain Behav. Immun .  80 ,  439 – 451 .  10.1016/j.bbi.2019.04.024 . 30980952
+
+[R46] Clark RE ,  Zola SM , and  Squire LR  ( 2000 ).  Impaired recognition memory in rats after damage to the hippocampus .  J. Neurosci .  20 ,  8853 – 8860 .  10.1523/JNEUROSCI.20-23-08853.2000 . 11102494 PMC6773055
+
+[R47] Douaud G ,  Lee S ,  Alfaro-Almagro F ,  Arthofer C ,  Wang C ,  McCarthy P ,  Lange F ,  Andersson JLR ,  Griffanti L ,  Duff E ,   ( 2022 ).  SARS-CoV-2 is associated with changes in brain structure in UK Biobank .  Nature 604 ,  697 – 707 .  10.1038/s41586-022-04569-5 . 35255491 PMC9046077
+
+[R48] Soung AL ,  Vanderheiden A ,  Nordvig AS ,  Sissoko CA ,  Canoll P ,  Mariani MB ,  Jiang X ,  Bricker T ,  Rosoklija GB ,  Arango V ,   ( 2022 ).  COVID-19 induces CNS cytokine expression and loss of hippocampal neurogenesis .  Brain 145 ,  4193 – 4201 .  10.1093/brain/awac270 . 36004663 PMC9452175
+
+[R49] Alenina N , and  Klempin F . ( 2015 ).  The role of serotonin in adult hippocampal neurogenesis .  Behav. Brain Res .  277 ,  49 – 57 .  10.1016/j.bbr.2014.07.038 . 25125239
+
+[R50] Richter-Levin G , and  Segal M . ( 1996 ).  Serotonin, aging and cognitive functions of the hippocampus .  Rev. Neurosci .  7 ,  103 – 113 .  10.1515/revneuro.1996.7.2.103 . 8819205
+
+[R51] Winterer J ,  Stempel AV ,  Dugladze T ,  Földy C ,  Maziashvili N ,  Zivkovic AR ,  Priller J ,  Soltesz I ,  Gloveli T , and  Schmitz D . ( 2011 ).  Cell-type-specific modulation of feedback inhibition by serotonin in the hippocampus .  J. Neurosci .  31 ,  8464 – 8475 .  10.1523/JNEUROSCI.6382-10.2011 . 21653851 PMC6623328
+
+[R52] Kupari J ,  Häring M ,  Agirre E ,  Castelo-Branco G , and  Ernfors P . ( 2019 ).  An Atlas of Vagal Sensory Neurons and Their Molecular Specialization .  Cell Rep .  27 ,  2508 – 2523 .e4.  10.1016/j.celrep.2019.04.096 . 31116992 PMC6533201
+
+[R53] Bowe B ,  Xie Y , and  Al-Aly Z . ( 2023 ).  Postacute sequelae of COVID-19 at 2 years .  Nat. Med .  29 ,  2347 – 2357 .  10.1038/s41591-023-02521-2 . 37605079 PMC10504070
+
+[R54] Azzolini E ,  Levi R ,  Sarti R ,  Pozzi C ,  Mollura M ,  Mantovani A , and  Rescigno M . ( 2022 ).  Association Between BNT162b2 Vaccination and Long COVID After Infections Not Requiring Hospitalization in Health Care Workers .  JAMA 328 ,  676 – 678 .  10.1001/jama.2022.11691 . 35796131 PMC9250078
+
+[R55] Xie Y ,  Bowe B , and  Al-Aly Z . ( 2021 ).  Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health status .  Nat. Commun .  12 ,  6571 .  10.1038/s41467-021-26513-3 . 34772922 PMC8589966
+
+[R56] Al-Aly Z ,  Bowe B , and  Xie Y . ( 2022 ).  Long COVID after breakthrough SARS-CoV-2 infection .  Nat. Med .  28 ,  1461 – 1467 .  10.1038/s41591-022-01840-0 . 35614233 PMC9307472
+
+[R57] Palm W , and  Thompson CB  ( 2017 ).  Nutrient acquisition strategies of mammalian cells .  Nature 546 ,  234 – 242 .  10.1038/nature22379 . 28593971 PMC5541675
+
+[R58] Platten M ,  Nollen EAA ,  Röhrig UF ,  Fallarino F , and  Opitz CA  ( 2019 ).  Tryptophan metabolism as a common therapeutic target in cancer, neurodegeneration and beyond .  Nat. Rev. Drug Discov .  18 ,  379 – 401 .  10.1038/s41573-019-0016-5 . 30760888
+
+[R59] Ghebrehiwet B , and  Peerschke EI  ( 2020 ).  Complement and coagulation: key triggers of COVID-19-induced multiorgan pathology .  J. Clin. Invest .  130 ,  5674 – 5676 .  10.1172/JCI142780 . 32925166 PMC7598033
+
+[R60] Pasini E ,  Corsetti G ,  Romano C ,  Scarabelli TM ,  Chen-Scarabelli C ,  Saravolatz L , and  Dioguardi FS  ( 2021 ).  Serum Metabolic Profile in Patients With Long-Covid (PASC) Syndrome: Clinical Implications .  Front. Med .  8 ,  714426 .  10.3389/fmed.2021.714426 . PMC8339407 34368201
+
+[R61] Spyropoulos AC , and  Bonaca MP  ( 2022 ).  Studying the coagulopathy of COVID-19 .  Lancet 399 ,  118 – 119 .  10.1016/S0140-6736(21)01906-1 . 34800425 PMC8598181
+
+[R62] Proal AD , and  VanElzakker MB  ( 2021 ).  Long COVID or Post-acute Sequelae of COVID-19 (PASC): An Overview of Biological Factors That May Contribute to Persistent Symptoms .  Front. Microbiol .  12 ,  698169 .  10.3389/fmicb.2021.698169 . 34248921 PMC8260991
+
+[R63] Aschman T ,  Mothes R ,  Heppner FL , and  Radbruch H . ( 2022 ).  What SARS-CoV-2 does to our brains .  Immunity 55 ,  1159 – 1172 .  10.1016/j.immuni.2022.06.013 . 35777361 PMC9212726
+
+[R64] Frontera JA , and  Simon NM  ( 2022 ).  Bridging Knowledge Gaps in the Diagnosis and Management of Neuropsychiatric Sequelae of COVID-19 .  JAMA Psychiatr .  79 ,  811 – 817 .  10.1001/jamapsychiatry.2022.1616 . 35767287
+
+[R65] Fernandez-Castaneda A ,  Lu P ,  Geraghty AC ,  Song E ,  Lee MH ,  Wood J ,  O’Dea MR ,  Dutton S ,  Shamardani K ,  Nwangwu K ,   ( 2022 ).  Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation .  Cell 185 ,  2452 – 2468 .e2416.  10.1016/j.cell.2022.06.008 . 35768006 PMC9189143
+
+[R66] Bin NR ,  Prescott SL ,  Horio N ,  Wang Y ,  Chiu IM , and  Liberles SD  ( 2023 ).  An airway-to-brain sensory pathway mediates influenza-induced sickness .  Nature 615 ,  660 – 667 .  10.1038/s41586-023-05796-0 . 36890237 PMC10033449
+
+[R67] McVey Neufeld KA ,  Bienenstock J ,  Bharwani A ,  Champagne-Jorgensen K ,  Mao Y ,  West C ,  Liu Y ,  Surette MG ,  Kunze W , and  Forsythe P . ( 2019 ).  Oral selective serotonin reuptake inhibitors activate vagus nerve dependent gut-brain signalling .  Sci. Rep .  9 ,  14290 .  10.1038/s41598-019-50807-8 . 31582799 PMC6776512
+
+[R68] VanElzakker MB  ( 2013 ).  Chronic fatigue syndrome from vagus nerve infection: a psychoneuroimmunological hypothesis .  Med. Hypotheses 81 ,  414 – 423 .  10.1016/j.mehy.2013.05.034 . 23790471
+
+[R69] Bonnet U , and  Juckel G . ( 2022 ).  COVID-19 Outcomes: Does the Use of Psychotropic Drugs Make a Difference? Accumulating Evidence of a Beneficial Effect of Antidepressants-A Scoping Review .  J. Clin. Psychopharmacol .  42 ,  284 – 292 .  10.1097/JCP.0000000000001543 . 35420565 PMC9042214
+
+[R70] Lee TC ,  Vigod S ,  Bortolussi-Courval É ,  Hanula R ,  Boulware DR ,  Lenze EJ ,  Reiersen AM , and  McDonald EG  ( 2022 ).  Fluvoxamine for Outpatient Management of COVID-19 to Prevent Hospitalization: A Systematic Review and Meta-analysis .  JAMA Netw. Open 5 ,  e226269 .  10.1001/jamanetworkopen.2022.6269 . 35385087 PMC8987902
+
+[R71] Mahdi M ,  Hermán L ,  Réthelyi JM , and  Bálint BL  ( 2022 ).  Potential Role of the Antidepressants Fluoxetine and Fluvoxamine in the Treatment of COVID-19 .  Int. J. Mol. Sci .  23 ,  3812 .  10.3390/ijms23073812 . 35409171 PMC8998734
+
+[R72] Reis G ,  Dos Santos Moreira-Silva EA ,  Silva DCM ,  Thabane L ,  Milagres AC ,  Ferreira TS ,  Dos Santos CVQ ,  de Souza Campos VH ,  Nogueira AMR ,  de Almeida APFG ,   ( 2022 ).  Effect of early treatment with fluvoxamine on risk of emergency care and hospitalisation among patients with COVID-19: the TOGETHER randomised, platform clinical trial .  Lancet. Glob. Health 10 ,  e42 – e51 .  10.1016/S2214-109X(21)00448-4 . 34717820 PMC8550952
+
+[R73] Wen W ,  Chen C ,  Tang J ,  Wang C ,  Zhou M ,  Cheng Y ,  Zhou X ,  Wu Q ,  Zhang X ,  Feng Z ,   ( 2022 ).  Efficacy and safety of three new oral antiviral treatment (molnupiravir, fluvoxamine and Paxlovid) for COVID-19: a meta-analysis .  Ann. Med .  54 ,  516 – 523 .  10.1080/07853890.2022.2034936 . 35118917 PMC8820829
+
+[R74] Zheng W ,  Sun HL ,  Cai H ,  Zhang Q ,  Ng CH , and  Xiang YT  ( 2022 ).  Antidepressants for COVID-19: A systematic review .  J. Affect. Disord .  307 ,  108 – 114 .  10.1016/j.jad.2022.03.059 . 35339571 PMC8941844
+
+[R75] Brown LA ,  Ballentine E ,  Zhu Y ,  McGinley EL ,  Pezzin L , and  Abramoff B . ( 2022 ).  The unique contribution of depression to cognitive impairment in Post-Acute Sequelae of SARS-CoV-2 infection .  Brain Behav. Immun. Health 22 ,  100460 .  10.1016/j.bbih.2022.100460 . 35403066 PMC8983478
+
+[R76] Hoffmann M ,  Kleine-Weber H ,  Schroeder S ,  Krüger N ,  Herrler T ,  Erichsen S ,  Schiergens TS ,  Herrler G ,  Wu NH ,  Nitsche A ,   ( 2020 ).  SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor .  Cell 181 ,  271 – 280 .e8.  10.1016/j.cell.2020.02.052 . 32142651 PMC7102627
+
+[R77] Cui L ,  Lee YH ,  Thein TL ,  Fang J ,  Pang J ,  Ooi EE ,  Leo YS ,  Ong CN , and  Tannenbaum SR  ( 2016 ).  Serum Metabolomics Reveals Serotonin as a Predictor of Severe Dengue in the Early Phase of Dengue Fever .  PLoS Negl. Trop. Dis .  10 ,  e0004607 .  10.1371/journal.pntd.0004607 . 27055163 PMC4824427
+
+[R78] Seet RCS ,  Quek AML , and  Lim ECH  ( 2007 ).  Post-infectious fatigue syndrome in dengue infection .  J. Clin. Virol .  38 ,  1 – 6 .  10.1016/j.jcv.2006.10.011 . 17137834
+
+[R79] Lood C ,  Tydén H ,  Gullstrand B ,  Klint C ,  Wenglén C ,  Nielsen CT ,  Heegaard NHH ,  Jönsen A ,  Kahn R , and  Bengtsson AA  ( 2015 ).  Type I interferon-mediated skewing of the serotonin synthesis is associated with severe disease in systemic lupus erythematosus .  PLoS One 10 ,  e0125109 .  10.1371/journal.pone.0125109 . 25897671 PMC4405357
+
+[R80] San Hernandez AM ,  Singh C ,  Valero DJ ,  Nisar J ,  Trujillo Ramirez JI ,  Kothari KK ,  Isola S , and  Gordon DK  ( 2020 ).  Multiple Sclerosis and Serotonin: Potential Therapeutic Applications .  Cureus 12 ,  e11293 .  10.7759/cureus.11293 . 33274166 PMC7707915
+
+[R81] Meyerhoff J , and  Dorsch CA  ( 1981 ).  Decreased platelet serotonin levels in systemic lupus erythematosus .  Arthritis Rheum .  24 ,  1495 – 1500 .  10.1002/art.1780241207 . 6459785
+
+[R82] Thompson RC ,  Simons NW ,  Wilkins L ,  Cheng E ,  Del Valle DM ,  Hoffman GE ,  Cervia C ,  Fennessy B ,  Mouskas K ,  Francoeur NJ ,   ( 2023 ).  Molecular states during acute COVID-19 reveal distinct etiologies of long-term sequelae .  Nat. Med .  29 ,  236 – 246 .  10.1038/s41591-022-02107-4 . 36482101 PMC9873574
+
+[R83] Mathew D ,  Giles JR ,  Baxter AE ,  Oldridge DA ,  Greenplate AR ,  Wu JE ,  Alanio C ,  Kuri-Cervantes L ,  Pampena MB ,  D’Andrea K ,   ( 2020 ).  Deep immune profiling of COVID-19 patients reveals distinct immunotypes with therapeutic implications .  Science 369 ,  eabc8511 .  10.1126/science.abc8511 . 32669297 PMC7402624
+
+[R84] Reilly JP ,  Anderson BJ ,  Hudock KM ,  Dunn TG ,  Kazi A ,  Tommasini A ,  Charles D ,  Shashaty MGS ,  Mikkelsen ME ,  Christie JD , and  Meyer NJ  ( 2016 ).  Neutropenic sepsis is associated with distinct clinical and biological characteristics: a cohort study of severe sepsis .  Crit. Care 20 ,  222 .  10.1186/s13054-016-1398-y . 27431667 PMC4950810
+
+[R85] Klover PJ ,  Muller WJ ,  Robinson GW ,  Pfeiffer RM ,  Yamaji D , and  Hennighausen L . ( 2010 ).  Loss of STAT1 from mouse mammary epithelium results in an increased Neu-induced tumor burden .  Neoplasia 12 ,  899 – 905 .  10.1593/neo.10716 . 21076615 PMC2978912
+
+[R86] Peluso MJ ,  Deitchman AN ,  Torres L ,  Iyer NS ,  Munter SE ,  Nixon CC ,  Donatelli J ,  Thanh C ,  Takahashi S ,  Hakim J ,   ( 2021 ).  Long-term SARS-CoV-2-specific immune and inflammatory responses in individuals recovering from COVID-19 with and without post-acute symptoms .  Cell Rep .  36 ,  109518 .  10.1016/j.celrep.2021.109518 . 34358460 PMC8342976
+
+[R87] Miyoshi H , and  Stappenbeck TS  ( 2013 ).  In vitro expansion and genetic modification of gastrointestinal stem cells in spheroid culture .  Nat. Protoc .  8 ,  2471 – 2482 .  10.1038/nprot.2013.153 . 24232249 PMC3969856
+
+[R88] Sato T ,  Stange DE ,  Ferrante M ,  Vries RGJ ,  Van Es JH ,  Van den Brink S ,  Van Houdt WJ ,  Pronk A ,  Van Gorp J ,  Siersema PD , and  Clevers H . ( 2011 ).  Long-term expansion of epithelial organoids from human colon, adenoma, adenocarcinoma, and Barrett’s epithelium .  Gastroenterology 141 ,  1762 – 1772 .  10.1053/j.gastro.2011.07.050 . 21889923
+
+[R89] Mizutani T , and  Clevers H . ( 2020 ).  Primary Intestinal Epithelial Organoid Culture .  Methods Mol. Biol .  2171 ,  185 – 200 .  10.1007/978-1-0716-0747-3_11 . 32705642
+
+[R90] De Cuyper IM ,  Meinders M ,  van de Vijver E ,  de Korte D ,  Porcelijn L ,  de Haas M ,  Eble JA ,  Seeger K ,  Rutella S ,  Pagliara D ,   ( 2013 ).  A novel flow cytometry-based platelet aggregation assay .  Blood 121 ,  e70 – e80 .  10.1182/blood-2012-06-437723 . 23303822
+
+[R91] Han W , and  de Araujo IE  ( 2021 ).  Dissection and surgical approaches to the mouse jugular-nodose ganglia .  STAR Protoc .  2 ,  100474 .  10.1016/j.xpro.2021.100474 . 33997807 PMC8091130
+
+[R92] Lin YT , and  Chen JC  ( 2018 ).  Dorsal Root Ganglia Isolation and Primary Culture to Study Neurotransmitter Release .  J. Vis. Exp .  10.3791/57569 . PMC6235431 30346383
+
+[R93] Lanfear DE ,  Gibbs JJ ,  Li J ,  She R ,  Petucci C ,  Culver JA ,  Tang WHW ,  Pinto YM ,  Williams LK ,  Sabbah HN , and  Gardell SJ  ( 2017 ).  Targeted Metabolomic Profiling of Plasma and Survival in Heart Failure Patients .  JACC. Heart Fail .  5 ,  823 – 832 .  10.1016/j.jchf.2017.07.009 . 29096792 PMC5679305
+
+[R94] Gardell SJ ,  Zhang X ,  Kapoor N ,  Petucci C , and  Coen PM  ( 2019 ).  Metabolomics Analyses of Muscle Atrophy Induced by Hind Limb Unloading .  Methods Mol. Biol .  1996 ,  297 – 309 .  10.1007/978-1-4939-9488-5_22 . 31127563
+
+[R95] Odorizzi PM ,  Pauken KE ,  Paley MA ,  Sharpe A , and  Wherry EJ  ( 2015 ).  Genetic absence of PD-1 promotes accumulation of terminally differentiated exhausted CD8+ T cells .  J. Exp. Med .  212 ,  1125 – 1137 .  10.1084/jem.20142237 . 26034050 PMC4493417
+
+[R96] Burzynski LC ,  Pugh N , and  Clarke MCH  ( 2019 ).  Platelet Isolation and Activation Assays .  Bio. Protoc .  9 ,  e3405 .  10.21769/BioProtoc.3405 . PMC7853946 33654906
+
+[R97] Mootha VK ,  Lindgren CM ,  Eriksson KF ,  Subramanian A ,  Sihag S ,  Lehar J ,  Puigserver P ,  Carlsson E ,  Ridderstråle M ,  Laurila E ,   ( 2003 ).  PGC-1alpha-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes .  Nat. Genet .  34 ,  267 – 273 .  10.1038/ng1180 . 12808457
+
+[R98] Subramanian A ,  Tamayo P ,  Mootha VK ,  Mukherjee S ,  Ebert BL ,  Gillette MA ,  Paulovich A ,  Pomeroy SL ,  Golub TR ,  Lander ES , and  Mesirov JP  ( 2005 ).  Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles .  Proc. Natl. Acad. Sci. USA 102 ,  15545 – 15550 .  10.1073/pnas.0506580102 . 16199517 PMC1239896
+
+[R99] Stuart T ,  Butler A ,  Hoffman P ,  Hafemeister C ,  Papalexi E ,  Mauck WM 3rd ,  Hao Y ,  Stoeckius M ,  Smibert P , and  Satija R . ( 2019 ).  Comprehensive Integration of Single-Cell Data .  Cell 177 ,  1888 – 1902 .e21.  10.1016/j.cell.2019.05.031 . 31178118 PMC6687398
+
+[R100] Hafemeister C , and  Satija R . ( 2019 ).  Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression .  Genome Biol .  20 ,  296 .  10.1186/s13059-019-1874-1 . 31870423 PMC6927181

@@ -1,0 +1,15 @@
+[zoi221599r1] World Health Organization . A clinical case definition of post COVID-19 condition by a Delphi consensus, 6 October.  2021 . Accessed June 21, 2022.  https://www.who.int/publications-detail-redirect/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1
+
+[zoi221599r2] Perlis RH ,  Santillana M ,  Ognyanova K , .  Prevalence and correlates of long COVID symptoms among US adults .  JAMA Netw Open .  2022 ; 5 ( 10 ): e2238804 . doi: 10.1001/jamanetworkopen.2022.38804 36301542 PMC9614581
+
+[zoi221599r3] Bull-Otterson L ,  Baca S ,  Saydah S , .  Post–COVID conditions among adult COVID-19 survivors aged 18–64 and ≥65 years—United States, March 2020–November 2021 .  MMWR Morb Mortal Wkly Rep .  2022 ; 71 ( 21 ): 713 - 717 . doi: 10.15585/mmwr.mm7121e1
+
+[zoi221599r4] Sudre CH ,  Murray B ,  Varsavsky T , .  Attributes and predictors of long COVID .  Nat Med .  2021 ; 27 ( 4 ): 626 - 631 . doi: 10.1038/s41591-021-01292-y 33692530 PMC7611399
+
+[zoi221599r5] Nehme M ,  Braillard O ,  Chappuis F ,  Guessous I ;  CoviCare Study Team .  The chronification of post-COVID condition associated with neurocognitive symptoms, functional impairment and increased healthcare utilization .  Sci Rep .  2022 ; 12 ( 1 ): 14505 . doi: 10.1038/s41598-022-18673-z 36008436 PMC9403954
+
+[zoi221599r6] Chatys-Bogacka Z ,  Mazurkiewicz I ,  Slowik J , .  Brain fog and quality of life at work in non-hospitalized patients after COVID-19 .  Int J Environ Res Public Health .  2022 ; 19 ( 19 ): 12816 . doi: 10.3390/ijerph191912816 36232113 PMC9564568
+
+[zoi221599r7] Douaud G ,  Lee S ,  Alfaro-Almagro F , .  Brain imaging before and after COVID-19 in UK Biobank .  medRxiv . Preprint posted online August 18,  2021 . doi: 10.1101/2021.06.11.21258690
+
+[zoi221599r8] Radford J ,  Green J ,  Quintana A , .  Evaluating the generalizability of the COVID States survey—a large-scale, non-probability survey .  OSF Preprints . Preprint posted online March 7,  2022 . doi: 10.31219/osf.io/cwkg7

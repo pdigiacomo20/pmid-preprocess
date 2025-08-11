@@ -1,0 +1,137 @@
+[CR1] Davis, H. E., Mccorkell, L., Vogel, J. M. & Topol, E. J. Long COVID: major findings, mechanisms and recommendations.  Nat. Rev. Microbiol. 21 , 133–146 (2023). 36639608 10.1038/s41579-022-00846-2 PMC9839201
+
+[CR2] Hickie, I. et al. Post-infective and chronic fatigue syndromes precipitated by viral and non-viral pathogens: prospective cohort study.  BMJ 333 , 575–578 (2006). 16950834 10.1136/bmj.38933.585764.AE PMC1569956
+
+[CR3] Ruiz-Pablos, M., Paiva, B., Montero-Mateo, R., Garcia, N. & Zabaleta, A. Epstein-Barr virus and the origin of myalgic encephalomyelitis or chronic fatigue syndrome.  Front. Immunol. 12 , 4637 (2021). 10.3389/fimmu.2021.656797 PMC8634673 34867935
+
+[CR4] Ursinus, J. et al. Prevalence of persistent symptoms after treatment for lyme borreliosis: a prospective observational cohort study.  Lancet Reg. Health—Eur. 6 , 100142 (2021). 34557833 10.1016/j.lanepe.2021.100142 PMC8454881
+
+[CR5] Herridge, M. S. & Azoulay, É. Outcomes after critical illness.  N. Engl. J. Med. 388 , 913–924 (2023). 36884324 10.1056/NEJMra2104669
+
+[CR6] Subramanian, A. et al. Symptoms and risk factors for long COVID in non-hospitalized adults.  Nat. Med. 28 , 1706–1714 (2022). 35879616 10.1038/s41591-022-01909-w PMC9388369
+
+[CR7] Kedor, C. et al. A prospective observational study of post-COVID-19 chronic fatigue syndrome following the first pandemic wave in Germany and biomarkers associated with symptom severity.  Nat. Commun. 13 , 1–13 (2022). 36042189 10.1038/s41467-022-32507-6 PMC9426365
+
+[CR8] Kerkhoff, T. J., Charlton, B. T., Appelman, B., van Vugt, M. & Wüst, R. C. I. Post COVID‐19 condition: critical need for a clear definition and detailed pathophysiology.  J. Cachexia Sarcopenia Muscle 13 , 2754–2756 (2022). 36251474 10.1002/jcsm.13108 PMC9745497
+
+[CR9] Chilunga, F. P. et al. Differences in incidence, nature of symptoms, and duration of long COVID among hospitalised migrant and non-migrant patients in the Netherlands: a retrospective cohort study.  Lancet Reg. Health Eur. 29 , 100630 (2023). 37261215 10.1016/j.lanepe.2023.100630 PMC10079482
+
+[CR10] Al-Aly, Z., Bowe, B. & Xie, Y. Long COVID after breakthrough SARS-CoV-2 infection.  Nat. Med. 28 , 1461–1467 (2022). 35614233 10.1038/s41591-022-01840-0 PMC9307472
+
+[CR11] Klein, J. et al. Distinguishing features of Long COVID identified through immune profiling.  Nature  1–3 (2023) 10.1038/s41586-023-06651-y. 10.1038/s41586-023-06651-y PMC10620090 37748514
+
+[CR12] Hejbøl, E. K. et al. Myopathy as a cause of fatigue in long-term post-COVID-19 symptoms: evidence of skeletal muscle histopathology.  Eur. J. Neurol. 29 , 2832–2841 (2022). 35661354 10.1111/ene.15435 PMC9348124
+
+[CR13] Pretorius, E. et al. Persistent clotting protein pathology in Long COVID/Post-Acute Sequelae of COVID-19 (PASC) is accompanied by increased levels of antiplasmin.  Cardiovasc. Diabetol. 20 , 1–18 (2021). 34425843 10.1186/s12933-021-01359-7 PMC8381139
+
+[CR14] Muri, J. et al. Autoantibodies against chemokines post-SARS-CoV-2 infection correlate with disease course.  Nat. Immunol.  1–8 (2023) 10.1038/s41590-023-01445-w. 10.1038/s41590-023-01445-w PMC10063443 36879067
+
+[CR15] Wang, E. Y. et al. Diverse functional autoantibodies in patients with COVID-19.  Nature 595 , 283–288 (2021). 34010947 10.1038/s41586-021-03631-y
+
+[CR16] Kruger, A. et al. Proteomics of fibrin amyloid microclots in long COVID/post-acute sequelae of COVID-19 (PASC) shows many entrapped pro-inflammatory molecules that may also contribute to a failed fibrinolytic system.  Cardiovasc. Diabetol. 21 , 1–23 (2022). 36131342 10.1186/s12933-022-01623-4 PMC9491257
+
+[CR17] Guo, L. et al. Prolonged indoleamine 2,3-dioxygenase-2 activity and associated cellular stress in post-acute sequelae of SARS-CoV-2 infection.  EBioMedicine 94 , 104729 (2023). 37506544 10.1016/j.ebiom.2023.104729 PMC10406961
+
+[CR18] Soares, M. N. et al. Skeletal muscle alterations in patients with acute Covid-19 and post-acute sequelae of Covid-19.  J. Cachexia Sarcopenia Muscle 13 , 11–22 (2022). 34997689 10.1002/jcsm.12896 PMC8818659
+
+[CR19] World Health Organization. Post COVID-19 condition (Long COVID).  https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition . (2023)
+
+[CR20] Frésard, I. et al. Dysfunctional breathing diagnosed by cardiopulmonary exercise testing in ‘long COVID’ patients with persistent dyspnoea.  BMJ Open Respir. Res. 9 , e001126 (2022). 35354589 10.1136/bmjresp-2021-001126 PMC8968537
+
+[CR21] Schwendinger, F., Knaier, R., Radtke, T. & Schmidt-Trucksäss, A. Low cardiorespiratory fitness post-COVID-19: a narrative review.  Sports Med 53 , 51–74 (2023). 36115933 10.1007/s40279-022-01751-7 PMC9483283
+
+[CR22] Skjørten, I. et al. Cardiopulmonary exercise capacity and limitations 3 months after COVID-19 hospitalisation.  Eur. Respir. J. 58 , 2100996 (2021). 34210791 10.1183/13993003.00996-2021 PMC8247555
+
+[CR23] Singh, I. et al. Persistent exertional intolerance after COVID-19: insights from invasive cardiopulmonary exercise testing.  Chest 161 , 54–63 (2022). 34389297 10.1016/j.chest.2021.08.010 PMC8354807
+
+[CR24] Germain, A. et al. Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome.  JCI Insight 7 , e157621 (2022). 35358096 10.1172/jci.insight.157621 PMC9090259
+
+[CR25] McGregor, N. R., Armstrong, C. W., Lewis, D. P. & Gooley, P. R. Post-exertional malaise is associated with hypermetabolism, hypoacetylation and purine metabolism deregulation in ME/CFS cases.  Diagnostics 9 , 1–11 (2019). 10.3390/diagnostics9030070 PMC6787670 31277442
+
+[CR26] Missailidis, D. et al. An isolated complex V inefficiency and dysregulated mitochondrial function in immortalized lymphocytes from ME/CFS patients.  Int. J. Mol. Sci. 21 , 1074 (2020). 32041178 10.3390/ijms21031074 PMC7036826
+
+[CR27] Wüst, R. C. I. et al. The antibiotic doxycycline impairs cardiac mitochondrial and contractile function.  Int. J. Mol. Sci. 22 , 4100 (2021). 33921053 10.3390/ijms22084100 PMC8071362
+
+[CR28] Beloborodova, N. et al. Effect of phenolic acids of microbial origin on production of reactive oxygen species in mitochondria and neutrophils.  J. Biomed. Sci. 19 , 89 (2012). 23061754 10.1186/1423-0127-19-89 PMC3503878
+
+[CR29] Pedley, A. M., Pareek, V. & Benkovic, S. J. The purinosome: a case study for a mammalian metabolon.  Annu. Rev. Biochem. 91 , 89–106 (2022). 35320684 10.1146/annurev-biochem-032620-105728 PMC9531488
+
+[CR30] Kell, D. B., Laubscher, G. J. & Pretorius, E. A central role for amyloid fibrin microclots in long COVID/PASC: origins and therapeutic implications.  Biochem. J. 479 , 537–559 (2022). 35195253 10.1042/BCJ20220016 PMC8883497
+
+[CR31] Charnley, M. et al. Neurotoxic amyloidogenic peptides in the proteome of SARS-COV2: potential implications for neurological symptoms in COVID-19.  Nat. Commun. 13 , 3387 (2022). 35697699 10.1038/s41467-022-30932-1 PMC9189797
+
+[CR32] Aschman, T. et al. Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles.  acta neuropathol commun. 11 , 193 (2023). 10.1186/s40478-023-01662-2 PMC10704838 38066589
+
+[CR33] Nakahira, K., Hisata, S. & Choi, A. M. K. The roles of mitochondrial damage-associated molecular patterns in diseases.  Antioxid. Redox Signal. 23 , 1329 (2015). 26067258 10.1089/ars.2015.6407 PMC4685486
+
+[CR34] Grazioli, S. & Pugin, J. Mitochondrial damage-associated molecular patterns: from inflammatory signaling to human diseases.  Front. Immunol. 9 , 1 (2018). 29780380 10.3389/fimmu.2018.00832 PMC5946030
+
+[CR35] Frere, J. J. et al. SARS-CoV-2 infection in hamsters and humans results in lasting and unique systemic perturbations after recovery.  Sci. Transl. Med. 14 , eabq3059 (2022). 35857629 10.1126/scitranslmed.abq3059 PMC9210449
+
+[CR36] Littlefield, K. M. et al. SARS-CoV-2-specific T cells associate with inflammation and reduced lung function in pulmonary post-acute sequalae of SARS-CoV-2.  PLoS Pathog. 18 , e1010359 (2022). 35617421 10.1371/journal.ppat.1010359 PMC9176759
+
+[CR37] Iwasaki, A. & Putrino, D. Why we need a deeper understanding of the pathophysiology of long COVID.  Lancet Infect. Dis. 23 , 393–395 (2023). 36967698 10.1016/S1473-3099(23)00053-1 PMC9928485
+
+[CR38] de Boer, E. et al. Decreased fatty acid oxidation and altered lactate production during exercise in patients with post-acute COVID-19 syndrome.  Am. J. Respir. Crit. Care Med. 205 , 126–129 (2022). 34665688 10.1164/rccm.202108-1903LE PMC8865580
+
+[CR39] Colosio, M. et al. Structural and functional impairments of skeletal muscle in patients with postacute sequelae of SARS-CoV-2 infection.  J. Appl. Physiol. 135 , 902–917 (2023). 37675472 10.1152/japplphysiol.00158.2023
+
+[CR40] Posthuma, J. J., van der Meijden, P. E. J., ten Cate, H. & Spronk, H. M. H. Short- and long-term exercise induced alterations in haemostasis: a review of the literature.  Blood Rev. 29 , 171–178 (2015). 25467962 10.1016/j.blre.2014.10.005
+
+[CR41] Charfeddine, S. et al. Long COVID 19 syndrome: is it related to microcirculation and endothelial dysfunction? Insights from TUN-EndCOV study.  Front. Cardiovasc. Med. 8 , 745758 (2021). 34917659 10.3389/fcvm.2021.745758 PMC8670225
+
+[CR42] Turner, S. et al. Long COVID: pathophysiological factors and abnormalities of coagulation.  Trends Endocrinol. Metab. 34 , 321–344 (2023). 37080828 10.1016/j.tem.2023.03.002 PMC10113134
+
+[CR43] Swank, Z. et al. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae.  Clin. Infect. Dis. 76 , e487–e490 (2023). 36052466 10.1093/cid/ciac722 PMC10169416
+
+[CR44] Aschman, T. et al. Association between SARS-CoV-2 infection and immune-mediated myopathy in patients who have died.  JAMA Neurol. 78 , 948–960 (2021). 34115106 10.1001/jamaneurol.2021.2004
+
+[CR45] Mageriu, V., Zurac, S., Bastian, A., Staniceanu, F. & Manole, E. Histological findings in skeletal muscle of SARS-CoV2 infected patient.  J. Immunoass. Immunochem. 41 , 1000–1009 (2020). 10.1080/15321819.2020.1863819 33353460
+
+[CR46] Patterson, B. K. et al. Persistence of SARS CoV-2 S1 protein in CD16+ monocytes in post-acute sequelae of COVID-19 (PASC) up to 15 months post-infection.  Front. Immunol. 12 , 5526 (2022). 10.3389/fimmu.2021.746021 PMC8784688 35082777
+
+[CR47] Buonsenso, D. et al. Viral persistence in children infected with SARS-CoV-2: current evidence and future research strategies.  Lancet Microbe 4 , e745–e756 (2023). 37385286 10.1016/S2666-5247(23)00115-5 PMC10292824
+
+[CR48] Appelman, B. et al. Time since SARS-CoV-2 infection and humoral immune response following BNT162b2 mRNA vaccination.  EBioMedicine 72 , 103561 (2021). 10.1016/j.ebiom.2021.103589 PMC8461365 34571363
+
+[CR49] Wang, Z. et al. Naturally enhanced neutralizing breadth against SARS-CoV-2 one year after infection.  Nature 595 , 426–431 (2021). 34126625 10.1038/s41586-021-03696-9 PMC8277577
+
+[CR50] Gallais, F. et al. Evolution of antibody responses up to 13 months after SARS-CoV-2 infection and risk of reinfection.  EBioMedicine 71 , 103561 (2021). 34455390 10.1016/j.ebiom.2021.103561 PMC8390300
+
+[CR51] Hendrickse, P. W. et al. Capillary rarefaction during bed rest is proportionally less than fibre atrophy and loss of oxidative capacity.  J. Cachexia Sarcopenia Muscle 13 , 2712–2723 (2022). 36102002 10.1002/jcsm.13072 PMC9745458
+
+[CR52] Agergaard, J. et al. Myopathy as a cause of Long COVID fatigue: evidence from quantitative and single fiber EMG and muscle histopathology.  Clin. Neurophysiol. 148 , 65–75 (2023). 36804609 10.1016/j.clinph.2023.01.010
+
+[CR53] Pizzuto, D. A. et al. Lung perfusion assessment in children with long-COVID: a pilot study.  Pediatr. Pulmonol. 58 , 2059–2067 (2023). 37097045 10.1002/ppul.26432
+
+[CR54] Cotler, J., Holtzman, C., Dudun, C. & Jason, L. A. A brief questionnaire to assess post-exertional malaise.  Diagnostics 8 , 66 (2018). 30208578 10.3390/diagnostics8030066 PMC6165517
+
+[CR55] Krupp, L. B., Alvarez, L. A., Larocca, N. G. & Scheinberg, L. C. Fatigue in multiple sclerosis.  Arch. Neurol. 45 , 435–437 (1988). 3355400 10.1001/archneur.1988.00520280085020
+
+[CR56] Smets, E. M. A., Garssen, B., Bonke, B. & De Haes, J. C. J. M. The multidimensional Fatigue Inventory (MFI) psychometric qualities of an instrument to assess fatigue.  J. Psychosom. Res. 39 , 315–325 (1995). 7636775 10.1016/0022-3999(94)00125-o
+
+[CR57] Clevenger, K. A. et al. Effect of sampling rate on acceleration and counts of hip- and wrist-worn ActiGraph accelerometers in children.  Physiol. Meas. 40 , 095008 (2019). 31518999 10.1088/1361-6579/ab444b
+
+[CR58] 58. Gnaiger E. (2020) Mitochondrial pathways and respiratory control. An introduction to OXPHOS analysis. 5th ed. Bioenerg Commun 2:112 (2020).
+
+[CR59] Gnaiger, E. Capacity of oxidative phosphorylation in human skeletal muscle: new perspectives of mitochondrial physiology.  Int. J. Biochem. Cell Biol. 41 , 1837–1845 (2009). 19467914 10.1016/j.biocel.2009.03.013
+
+[CR60] Gnaiger, E. et al. Mitochondrial coupling and capacity of oxidative phosphorylation in skeletal muscle of Inuit and Caucasians in the arctic winter.  Scand. J. Med. Sci. Sports 25 , 126–134 (2015). 26589126 10.1111/sms.12612
+
+[CR61] Horwath, O. et al. Variability in vastus lateralis fiber type distribution, fiber size, and myonuclear content along and between the legs.  J. Appl. Physiol. 131 , 158–173 (2021). 34013752 10.1152/japplphysiol.00053.2021
+
+[CR62] Wüst, R. C. I. et al. Region-specific adaptations in determinants of rat skeletal muscle oxygenation to chronic hypoxia.  Am. J. Physiol. Heart Circ. Physiol. 297 , H364–74 (2009). 19429822 10.1152/ajpheart.00272.2009
+
+[CR63] Van Der Zwaard, S. et al. Critical determinants of combined sprint and endurance performance: an integrative analysis from muscle fiber to the human body.  FASEB J. 32 , 2110–2123 (2018). 29217665 10.1096/fj.201700827R
+
+[CR64] Grootemaat, A. E. et al. Lipid and nucleocapsid N-protein accumulation in COVID-19 patient lung and infected cells.  Microbiol. Spectr. 10 , e0127121 (2022). 35171025 10.1128/spectrum.01271-21 PMC8849100
+
+[CR65] Schomakers, B. V. et al. Polar metabolomics in human muscle biopsies using a liquid–liquid extraction and full-scan LC–MS.  STAR Protoc. 3 , 101302 (2022). 35479116 10.1016/j.xpro.2022.101302 PMC9035783
+
+[CR66] Daimon, T. Box–Cox transformation.  Int. Encycl. Stat. Sci. 1 , 176–1781 (2011).
+
+[CR67] Diedenhofen, B. & Musch, J. cocor: a comprehensive solution for the statistical comparison of correlations.  PLoS ONE 10 , e0121945 (2015). 25835001 10.1371/journal.pone.0121945 PMC4383486
+
+[CR68] Searle, S. R., Speed, F. M. & Milliken, G. A. Estimated marginal means, aka least-squares means [R package emmeans version 1.8.5].  Am. Stat. 34 , 216–221 (2023).
+
+[CR69] Hedges, L. V. Distribution Theory for Glass’s estimator of effect size and related estimators.  J. Educ. Stat. 6 , 107–128 (1981).

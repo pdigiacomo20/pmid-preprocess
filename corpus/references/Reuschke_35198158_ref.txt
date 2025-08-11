@@ -1,0 +1,97 @@
+[bib1] Beckwith H ,  Nimmo A ,  Savino M et al. Impact of the COVID-19 pandemic on training, morale and well-being among the UK renal workforce .  Kidney Int Rep 2021 ;  6 :  1433 – 1436 34013121 10.1016/j.ekir.2021.03.004 PMC8116903
+
+[bib2] UK Kidney Association. Who we are .  https://ukkidney.org/about-us/who-we-are  (31 December 2021, date last accessed)
+
+[bib3] List of Ethnic Groups .  https://www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups#list-of-ethnic-groups  (31 December 2021, date last accessed)
+
+[bib4] Training Deaneries in the UK .  https://specialtytraining.hee.nhs.uk/portals/1/Content/Resource%20Bank/Inter-Deanery%20Transfer/UK%20Training%20Region%20Websites.pdf
+
+[bib5] Maslach C ,  Jackson S ,  Leiter M .  The Maslach Burnout Inventory manual . In: Zalaquett CP, Wood RJ, eds.  Evaluating Stress: A Book of Resources . New York: Scarecrow Press,  1997 :  191 – 218
+
+[bib6] Rotenstein LS ,  Torre M ,  Ramos MA et al. Prevalence of burnout among physicians: a systematic review .  JAMA 2018 ;  320 :  1131 – 1150 30326495 10.1001/jama.2018.12777 PMC6233645
+
+[bib7] Clarke V ,  Braun V. Teaching thematic analysis: overcoming challenges and developing strategies for effective learning .  Psychologist 2013 ;  26 :  120 – 123
+
+[bib8] Ryan GW ,  Bernard HR .  Techniques to identify themes .  Field Methods 2003 ;  15 :  85 – 109
+
+[bib9] Coronavirus cases .  https://coronavirus.data.gov.uk  (31 December 2021, date last accessed)
+
+[bib10] ONS .  Office for national statistics: an analysis of published data on the waves and lags of coronavirus (COVID-19) from the coronavirus (COVID-19) infection survey, the Scientific Advisory Group for Emergencies (SAGE) and Public Health England (PHE) .  This analysis has been produced in partnership with University of Oxford
+
+[bib11] West CP ,  Dyrbye LN ,  Shanafelt TD. Physician burnout: contributors, consequences and solutions .  J Intern Med 2018 ;  283 :  516 – 529 29505159 10.1111/joim.12752
+
+[bib12] Panagopoulou E ,  Montgomery A ,  Benos A. Burnout in internal medicine physicians: differences between residents and specialists .  Eur J Intern Med 2006 ;  17 :  195 – 200 16618453 10.1016/j.ejim.2005.11.013
+
+[bib13] Shanafelt TD ,  Boone S ,  Tan L et al. Burnout and satisfaction with work-life balance among US physicians relative to the general US population .  Arch Intern Med 2012 ;  172 :  1377 – 1385 22911330 10.1001/archinternmed.2012.3199
+
+[bib14] Shanafelt TD ,  Hasan O ,  Dyrbye LN et al. Changes in burnout and satisfaction with work-life balance in physicians and the general US working population between 2011 and 2014 .  Mayo Clin Proc 2015 ;  90 :  1600 – 1613 26653297 10.1016/j.mayocp.2015.08.023
+
+[bib15] West CP ,  Huschka MM ,  Novotny PJ et al. Association of perceived medical errors with resident distress and empathy: a prospective longitudinal study .  JAMA 2006 ;  296 :  1071 – 1078 16954486 10.1001/jama.296.9.1071
+
+[bib16] West CP ,  Tan AD ,  Habermann TM et al. Association of resident fatigue and distress with perceived medical errors .  JAMA 2009 ;  302 :  1294 – 1300 19773564 10.1001/jama.2009.1389
+
+[bib17] Shanafelt TD ,  Balch CM ,  Bechamps G et al. Burnout and medical errors among American surgeons .  Ann Surg 2010 ;  251 :  995 – 1000 19934755 10.1097/SLA.0b013e3181bfdab3
+
+[bib18] Shanafelt TD ,  Balch CM ,  Dyrbye L et al. Special report: suicidal ideation among American surgeons .  Arch Surg 2011 ;  146 :  54 – 62 21242446 10.1001/archsurg.2010.292
+
+[bib19] Shanafelt TD ,  Bradley KA ,  Wipf JE et al. Burnout and self-reported patient care in an internal medicine residency program .  Ann Intern Med 2002 ;  136 :  358 – 367 11874308 10.7326/0003-4819-136-5-200203050-00008
+
+[bib20] Khan A ,  Teoh KR ,  Islam S et al. Psychosocial work characteristics, burnout, psychological morbidity symptoms and early retirement intentions: a cross-sectional study of NHS consultants in the UK .  BMJ Open 2018 ;  8 :  e018720 10.1136/bmjopen-2017-018720 PMC6059335 30037857
+
+[bib21] Bourne T ,  Shah H ,  Falconieri N et al. Burnout, well-being and defensive medical practice among obstetricians and gynaecologists in the UK: cross-sectional survey study .  BMJ Open 2019 ;  9 :  e030968 10.1136/bmjopen-2019-030968 PMC6887071 31767585
+
+[bib22] Balendran B ,  Bath MF ,  Awopetu AI et al. Burnout within UK surgical specialties: a systematic review .  Ann R Coll Surg Engl 2021 ;  103 :  464 – 470 34192488 10.1308/rcsann.2020.7058 PMC10335046
+
+[bib23] Sharma A ,  Sharp DM ,  Walker LG et al. Stress and burnout in colorectal and vascular surgical consultants working in the UK National Health Service .  Psychooncology 2008 ;  17 :  570 – 576 17935146 10.1002/pon.1269
+
+[bib24] Ross J ,  Jones J ,  Callaghan P et al. A survey of stress, job satisfaction and burnout among haemodialysis staff .  J Ren Care 2009 ;  35 :  127 – 133 19689694 10.1111/j.1755-6686.2009.00102.x
+
+[bib25] Ong J ,  Swift C ,  Ong S et al. Burnout in gastroenterology registrars: a feasibility study conducted in the East of England using a 31-item questionnaire .  BMJ Open Gastroenterol 2020 ;  7 :  e000401 10.1136/bmjgast-2020-000401 PMC7365426 32665282
+
+[bib26] Lloyd C ,  King R ,  Chenoweth L. Social work, stress and burnout: a review .  J Ment Health 2002 ;  11 :  255 – 265
+
+[bib27] Dyrbye LN ,  Thomas MR ,  Massie FS et al. Burnout and suicidal ideation among U.S. medical students .  Ann Intern Med 2008 ;  149 :  334 – 341 18765703 10.7326/0003-4819-149-5-200809020-00008
+
+[bib28] West CP ,  Tan AD ,  Shanafelt TD. Association of resident fatigue and distress with occupational blood and body fluid exposures and motor vehicle incidents .  Mayo Clin Proc 2012 ;  87 :  1138 – 1144 23218084 10.1016/j.mayocp.2012.07.021 PMC3541922
+
+[bib29] Shanafelt TD ,  Mungo M ,  Schmitgen J et al. Longitudinal study evaluating the association between physician burnout and changes in professional work effort .  Mayo Clin Proc 2016 ;  91 :  422 – 431 27046522 10.1016/j.mayocp.2016.02.001
+
+[bib30] Dewa CS ,  Loong D ,  Bonato S et al. How does burnout affect physician productivity? A systematic literature review .  BMC Health Serv Res 2014 ;  14 :  325 25066375 10.1186/1472-6963-14-325 PMC4119057
+
+[bib31] Dewa CS ,  Loong D ,  Bonato S et al. The relationship between physician burnout and quality of healthcare in terms of safety and acceptability: a systematic review .  BMJ Open 2017 ;  7 :  e015141 10.1136/bmjopen-2016-015141 PMC5734243 28637730
+
+[bib32] Hall LH ,  Johnson J ,  Watt I et al. Healthcare staff wellbeing, burnout, and patient safety: a systematic review .  PLoS One 2016 ;  11 :  e0159015 27391946 10.1371/journal.pone.0159015 PMC4938539
+
+[bib33] Halbesleben JRB ,  Rathert C. Linking physician burnout and patient outcomes: exploring the dyadic relationship between physicians and patients .  Health Care Manage Rev 2008 ;  33 :  29 – 39 18091442 10.1097/01.HMR.0000304493.87898.72
+
+[bib34] Han S ,  Shanafelt TD ,  Sinsky CA et al. Estimating the attributable cost of physician burnout in the United States .  Ann Intern Med 2019 ;  170 :  784 – 790 31132791 10.7326/M18-1422
+
+[bib35] Dewa CS ,  Jacobs P ,  Thanh NX et al. An estimate of the cost of burnout on early retirement and reduction in clinical hours of practicing physicians in Canada .  BMC Health Serv Res 2014 ;  14 :  254 24927847 10.1186/1472-6963-14-254 PMC4062768
+
+[bib36] Hu N ,  Chen J ,  Cheng T. The associations between long working hours, physical inactivity, and burnout .  J Occup Environ Med 2016 ;  58 :  514 – 518 27158959 10.1097/JOM.0000000000000715
+
+[bib37] Sever MS ,  Ortiz A ,  Maggiore U et al. Mass disasters and burnout in nephrology personnel: from earthquakes and hurricanes to COVID-19 pandemic .  Clin J Am Soc Nephrol 2021 ;  16 :  829 – 837 33414153 10.2215/CJN.08400520 PMC8259469
+
+[bib38] Proal AD ,  VanElzakker MB. Long COVID or post-acute sequelae of COVID-19 (PASC): an overview of biological factors that may contribute to persistent symptoms .  Front Microbiol 2021 ;  12 :  698169 34248921 10.3389/fmicb.2021.698169 PMC8260991
+
+[bib39] Garg M ,  Maralakunte M ,  Garg S et al. The conundrum of ‘long-COVID-19’: a narrative review .  Int J Gen Med 2021 ;  14 :  2491 – 2506 34163217 10.2147/IJGM.S316708 PMC8214209
+
+[bib40] Whitaker M ,  Elliot J ,  Chadeau-Hyam M et al. Persistent symptoms following SARS-CoV-2 infection in a random community sample of 508,707 people .  medRxiv 2021; doi: 10.1101/2021.06.28.21259452 .
+
+[bib41] O'Dowd A. Covid-19: third of people infected have long term symptoms .  BMJ 2021 ;  373 :  n1626 34168002 10.1136/bmj.n1626
+
+[bib42] Sudre CH ,  Murray B ,  Varsavsky T et al. Attributes and predictors of long COVID .  Nat Med 2021 ;  27 :  626 – 631 33692530 10.1038/s41591-021-01292-y PMC7611399
+
+[bib43] Ladds E ,  Rushforth A ,  Wieringa S et al. Developing services for long COVID: lessons from a study of wounded healers .  Clin Med 2021 ;  21 :  59 – 65 10.7861/clinmed.2020-0962 PMC7850205 33479069
+
+[bib44] Felstead A ,  Henseke G. Assessing the growth of remote working and its consequences for effort, well-being and work-life balance .  New Technol Work Employ 2017 ;  32 :  195 – 212
+
+[bib45] Como R ,  Hambley L ,  Domene J .  An exploration of work-life wellness and remote work during and beyond COVID-19 .  Can J Career Dev 2021 ;  20 :  46
+
+[bib46] Regehr C ,  Glancy D ,  Pitts A et al. Interventions to reduce the consequences of stress in physicians: a review and meta-analysis .  J Nerv Ment Dis 2014 ;  202 :  353 – 359 24727721 10.1097/NMD.0000000000000130
+
+[bib47] West CP ,  Dyrbye LN ,  Erwin PJ et al. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis .  Lancet 2016 ;  388 :  2272 – 2281 27692469 10.1016/S0140-6736(16)31279-X
+
+[bib48] Panagioti M ,  Panagopoulou E ,  Bower P et al. Controlled interventions to reduce burnout in physicians: a systematic review and meta-analysis .  JAMA Intern Med 2017 ;  177 :  195 – 205 27918798 10.1001/jamainternmed.2016.7674
+
+[bib49] Brindley PG ,  Olusanya S ,  Wong A et al. Psychological ‘burnout’ in healthcare professionals: updating our understanding, and not making it worse .  J Intensive Care Soc 2019 ;  20 :  358 – 362 31695741 10.1177/1751143719842794 PMC6820226

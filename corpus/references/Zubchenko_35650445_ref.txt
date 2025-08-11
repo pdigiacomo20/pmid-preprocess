@@ -1,0 +1,73 @@
+[CR1] Lopez-Leon S Wegman-Ostrosky T Perelman C More than 50 long-term effects of COVID-19: a systematic review and meta-analysis Preprint medRxiv 2021 01 27 21250617 10.1101/2021.01.27.21250617 PMC8352980 34373540
+
+[CR2] Beeching NJ Fletcher TE Beadsworth MBJ Covid-19: testing times BMJ 2020 369 m1403 10.1136/BMJ.m1403 32269032
+
+[CR3] Sapkota HR Nune A Long COVID from rheumatology perspective - a narrative review Clin Rheumatol 2022 41 2 337 348 10.1007/s10067-021-06001-1 34845562 PMC8629735
+
+[CR4] Karaarslan F Güneri FD Kardeş S Long COVID: rheumatologic/musculoskeletal symptoms in hospitalized COVID-19 survivors at 3 and 6 months Clin Rheumatol 2022 41 1 289 296 10.1007/s10067-021-05942-x 34713356 PMC8553494
+
+[CR5] Ahmed S Zimba O Gasparyan AY COVID-19 and the clinical course of rheumatic manifestations Clin Rheumatol 2021 40 7 2611 2619 10.1007/s10067-021-05691-x 33733315 PMC7968918
+
+[CR6] Groff D Sun A Ssentongo AE Short-term and Long-term Rates of Postacute Sequelae of SARS-CoV-2 Infection JAMA Netw Open 2021 4 10 e2128568 10.1001/jamanetworkopen.2021.28568 34643720 PMC8515212
+
+[CR7] NICE: COVID-19 rapid guideline: managing the long-term effects of COVID-19. NICE guideline [NG188].  https://www.nice.org.uk/  guidance/ng188
+
+[CR8] Summary of ICD coding for COVID-19 21.01.2021, South African WHO-FIC Collaborating Centre  https://www.who.int/classifications/icd/icd10updates/en/
+
+[CR9] 9. Zubchenko S, Kril I, Lomikovska M et al. (2021) Anamnestic, clinical and laboratory data analysis of patients for drug hypersensitivity reactions Immunology and Allergy: Sci Pract 3:5–12. 10.37321/immunology.2021.3-01
+
+[CR10] Misko IS Cross SM Khanna R Crossreactive recognition of viral, self, and bacterial peptide ligands by human class I-restricted cytotoxic T lymphocyte clonotypes: Implications for molecular mimicry in autoimmune disease Proc Natl Acad Sci USA 1999 96 2279 2284 10.1073/pnas.96.5.2279 10051632 PMC26774
+
+[CR11] Neves M Marinho-Dias J Ribeiro J Epstein-Barr virus strains and variations: Geographic or disease-specific variants? J Med Virol 2017 89 373 387 10.1002/jmv.24633 27430663
+
+[CR12] Zubchenko SO, Chopyak VV, Havrylyuk AM, Potemkina GO, Lomikovska MP(2019) Investigation of miR-BART 13 and 15 in patients with allergopathy in combination with chronic Epstein-Barr viral infection. World Med Biol15(2(68)):54–60  https://womab.com.ua/en/smb-2019-02/7820
+
+[CR13] Houen G Trier NH Epstein-Barr Virus and systemic autoimmune diseases Front Immunol 2021 11 587380 10.3389/fimmu.2020.587380 33488588 PMC7817975
+
+[CR14] Chen T Song J Liu H Positive Epstein-Barr virus detection in coronavirus disease 2019 (COVID-19) patients Sci Rep 2021 11 10902 10.1038/s41598-021-90351-y 34035353 PMC8149409
+
+[CR15] Xie Y Cao S Dong H Clinical characteristics and outcomes of critically ill patients with acute COVID-19 with Epstein-Barr virus reactivation BMC Infect Dis 2021 21 955 10.1186/s12879-021-06638-y 34525962 PMC8441951
+
+[CR16] Paolucci S Cassaniti I Novazzi F EBV DNA increase in COVID-19 patients with impaired lymphocyte subpopulation count Int J Infect Dis 2021 104 315 319 10.1016/j.ijid.2020.12.051 33359064 PMC7833117
+
+[CR17] Simonnet A Engelmann I Moreau AS High incidence of Epstein-Barr virus, cytomegalovirus, and human-herpes virus-6 reactivations in critically ill patients with COVID-19 Infect Dis Now 2021 51 3 296 299 10.1016/j.idnow.2021.01.005 33495765 PMC7816954
+
+[CR18] Logue JK Franko NM McCulloch DJ Sequelae in adults at 6 months after COVID-19 infection JAMA Netw Open 2021 4 e210830 10.1001/jamanetworkopen.2021.0830 33606031 PMC7896197
+
+[CR19] Greenhalgh T Knight M A’Court C Management of post-acute covid-19 in primary care BMJ 2020 370 m3026 10.1136/BMJ.m3026 32784198
+
+[CR20] Al-Jahdhami I Al-Naamani K Al-Mawali A The Post-acute COVID-19 syndrome (Long COVID) Oman Med J 2021 36 e220 10.5001/omj.2021.91 33537155 PMC7838343
+
+[CR21] Garrigues E Janvier P Kherabi Y Post-discharge persistent symptoms and health-related quality of life after hospitalization for COVID-19 J Infect 2020 81 e4 e6 10.1016/j.jinf.2020.08.029 32853602 PMC7445491
+
+[CR22] Huang C Huang L Wang Y 6-month consequences of COVID-19 in patients discharged from hospital: A cohort study Lancet 2021 397 220 232 10.1016/S0140-6736(20)32656-8 33428867 PMC7833295
+
+[CR23] Callard F Perego E How and why patients made Long Covid Soc Sci Med 2021 268 113426 10.1016/j.socscimed.2020.113426 33199035 PMC7539940
+
+[CR24] Straus SE Tosato G Armstrong G Persisting illness and fatigue in adults with evidence of Epstein-Barr virus infection Ann Intern Med 1985 102 7 16 10.7326/0003-4819-102-1-7 2578268
+
+[CR25] Ariza ME (2021) Myalgic encephalomyelitis/chronic fatigue syndrome: The human herpesviruses are back. Biomolecules 29;11(2):185. 10.3390/biom11020185. 10.3390/biom11020185 PMC7912523 33572802
+
+[CR26] Verma D Church TM Swaminathan S Epstein-Barr virus lytic replication induces ACE2 expression and enhances SARS-CoV-2 Pseudotyped virus entry in epithelial cells J Virol 2021 95 13 e0019221 10.1128/JVI.00192-21 33853968 PMC8316011
+
+[CR27] Vernon SD Whistler T Cameron B Preliminary evidence of mitochondrial dysfunction associated with post-infective fatigue after acute infection with Epstein Barr virus BMC Infect Dis 2006 6 15 10.1186/1471-2334-6-15 16448567 PMC1373655
+
+[CR28] Lisci M, Barton PR, Randzavola LO, et al. (2021) Mitochondrial translation is required for sustained killing by cytotoxic T cells. Science 374(6565):eabe9977. 10.1126/science.abe9977 10.1126/science.abe9977 34648346
+
+[CR29] Dojcinov SD Fend F Quintanilla-Martinez L EBV-positive lymphoproliferation of B- T- and NK-cell derivation in non-immunocompromised hosts Pathogens 2018 7 1 28 10.3390/pathogens7010028 PMC5874754 29518976
+
+[CR30] Thompson EA Cascino K Ordonez AA Metabolic programs define dysfunctional immune responses in severe COVID-19 patients Cell Rep 2021 34 11 108863 10.1016/j.celrep.2021.108863 33691089 PMC7908880
+
+[CR31] Nunn AV Guy GW Botchway SW SARS-CoV-2 and EBV; the cost of a second mitochondrial “whammy”? Immun Ageing 2021 18 40 10.1186/s12979-021-00252-x 34717676 PMC8556816
+
+[CR32] Gold JE, Okyay RA, Licht WE et al. (2021) Hurley investigation of long COVID prevalence and its relationship to Epstein-Barr virus reactivation pathogens 10(6):763; 10.3390/pathogens10060763. 10.3390/pathogens10060763 PMC8233978 34204243
+
+[CR33] Ehrenfeld M Tincani A Andreoli L Covid-19 and autoimmunity Autoimmun Rev 2020 19 8 102597 10.1016/j.autrev.2020.102597 32535093 PMC7289100
+
+[CR34] Wynants L Van Calster B Bonten MMJ Prediction models for diagnosis and prognosis of covid19: a systematic review and critical appraisal BMJ 2020 369 m1328 10.1136/bmj.m1328 32265220 PMC7222643
+
+[CR35] Gammazza MA Légaré S Lo Bosco G Human molecular chaperons share with SARS-CoV-2 antigenic epitopes potentially capable of eliciting autoimmunity against endothelial cells: possible role of molecular mimicry in COVID-19 Cell Stress Chaperons 2020 25 737 741 10.1007/s12192-020-01148-3 PMC7402394 32754823
+
+[CR36] Jog NR Young KA Munroe ME Association of Epstein-Barr virus serological reactivation with transitioning to systemic lupus erythematosus in at risk-individuals Ann Rheum Dis 2019 78 1235 1241 10.1136/annrheumdis-2019-215361 31217170 PMC6692217
+
+[CR37] Drosos AA Pelechas E Voulgari PV Long COVID from rheumatology perspective: a simple mimicker or promoter of autoimmunity? Clin Rheumatol 2022 41 957 958 10.1007/s10067-022-06092-4 35147823 PMC8831874
