@@ -2,6 +2,8 @@ import pandas as pd
 import os
 from typing import List, Dict, Optional
 import logging
+import uuid
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -13,6 +15,11 @@ class DatabaseManager:
             csv_file = os.path.join(project_root, 'entries.csv')
         
         self.csv_file = csv_file
+        
+        # Job system CSV files
+        project_root = os.path.dirname(os.path.dirname(__file__))
+        self.jobs_csv = os.path.join(project_root, 'jobs.csv')
+        self.job_results_csv = os.path.join(project_root, 'job_results.csv')
         self.columns = [
             'pmid',
             'filename',
@@ -454,3 +461,177 @@ class DatabaseManager:
         except Exception as e:
             logger.error(f"Error deleting entry for PMID {pmid}: {str(e)}")
             return False
+    
+    # Job Management Methods
+    
+    def _init_jobs_csv(self):
+        """Initialize jobs.csv if it doesn't exist."""
+        if not os.path.exists(self.jobs_csv):
+            jobs_df = pd.DataFrame(columns=[
+                'job_id', 'status', 'total_refs', 'completed_refs', 'failed_refs', 
+                'created_at', 'updated_at', 'references_text'
+            ])
+            jobs_df.to_csv(self.jobs_csv, index=False)
+    
+    def _init_job_results_csv(self):
+        """Initialize job_results.csv if it doesn't exist.""" 
+        if not os.path.exists(self.job_results_csv):
+            results_df = pd.DataFrame(columns=[
+                'job_id', 'reference_index', 'status', 'pmid', 'extracted_title', 
+                'error_message', 'processed_at'
+            ])
+            results_df.to_csv(self.job_results_csv, index=False)
+    
+    def create_job(self, references_text: str, total_refs: int) -> str:
+        """
+        Create a new processing job.
+        Returns the job_id.
+        """
+        try:
+            self._init_jobs_csv()
+            
+            job_id = str(uuid.uuid4())
+            current_time = datetime.now().isoformat()
+            
+            # Read existing jobs
+            if os.path.exists(self.jobs_csv):
+                jobs_df = pd.read_csv(self.jobs_csv)
+            else:
+                jobs_df = pd.DataFrame(columns=[
+                    'job_id', 'status', 'total_refs', 'completed_refs', 'failed_refs',
+                    'created_at', 'updated_at', 'references_text'
+                ])
+            
+            # Add new job
+            new_job = pd.DataFrame([{
+                'job_id': job_id,
+                'status': 'pending',
+                'total_refs': total_refs,
+                'completed_refs': 0,
+                'failed_refs': 0,
+                'created_at': current_time,
+                'updated_at': current_time,
+                'references_text': references_text
+            }])
+            
+            jobs_df = pd.concat([jobs_df, new_job], ignore_index=True)
+            jobs_df.to_csv(self.jobs_csv, index=False)
+            
+            logger.info(f"Created job {job_id} with {total_refs} references")
+            return job_id
+            
+        except Exception as e:
+            logger.error(f"Error creating job: {str(e)}")
+            raise
+    
+    def get_job(self, job_id: str) -> Optional[Dict]:
+        """Get job details by job_id."""
+        try:
+            if not os.path.exists(self.jobs_csv):
+                return None
+                
+            jobs_df = pd.read_csv(self.jobs_csv)
+            job_row = jobs_df[jobs_df['job_id'] == job_id]
+            
+            if job_row.empty:
+                return None
+                
+            job = job_row.iloc[0].to_dict()
+            # Replace NaN with None
+            for key, value in job.items():
+                if pd.isna(value):
+                    job[key] = None
+                    
+            return job
+            
+        except Exception as e:
+            logger.error(f"Error getting job {job_id}: {str(e)}")
+            return None
+    
+    def update_job_status(self, job_id: str, status: str, completed_refs: int = None, failed_refs: int = None) -> bool:
+        """Update job status and progress."""
+        try:
+            if not os.path.exists(self.jobs_csv):
+                return False
+                
+            jobs_df = pd.read_csv(self.jobs_csv)
+            mask = jobs_df['job_id'] == job_id
+            
+            if not mask.any():
+                logger.warning(f"Job {job_id} not found for status update")
+                return False
+            
+            # Update fields
+            jobs_df.loc[mask, 'status'] = status
+            jobs_df.loc[mask, 'updated_at'] = datetime.now().isoformat()
+            
+            if completed_refs is not None:
+                jobs_df.loc[mask, 'completed_refs'] = completed_refs
+            if failed_refs is not None:
+                jobs_df.loc[mask, 'failed_refs'] = failed_refs
+                
+            jobs_df.to_csv(self.jobs_csv, index=False)
+            
+            logger.info(f"Updated job {job_id}: status={status}, completed={completed_refs}, failed={failed_refs}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error updating job status for {job_id}: {str(e)}")
+            return False
+    
+    def add_job_result(self, job_id: str, reference_index: int, status: str, pmid: str = None, 
+                      extracted_title: str = None, error_message: str = None) -> bool:
+        """Add a result for a specific reference in a job."""
+        try:
+            self._init_job_results_csv()
+            
+            if os.path.exists(self.job_results_csv):
+                results_df = pd.read_csv(self.job_results_csv)
+            else:
+                results_df = pd.DataFrame(columns=[
+                    'job_id', 'reference_index', 'status', 'pmid', 'extracted_title', 
+                    'error_message', 'processed_at'
+                ])
+            
+            new_result = pd.DataFrame([{
+                'job_id': job_id,
+                'reference_index': reference_index,
+                'status': status,
+                'pmid': pmid,
+                'extracted_title': extracted_title,
+                'error_message': error_message,
+                'processed_at': datetime.now().isoformat()
+            }])
+            
+            results_df = pd.concat([results_df, new_result], ignore_index=True)
+            results_df.to_csv(self.job_results_csv, index=False)
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error adding job result for {job_id}: {str(e)}")
+            return False
+    
+    def get_job_results(self, job_id: str) -> List[Dict]:
+        """Get all results for a specific job."""
+        try:
+            if not os.path.exists(self.job_results_csv):
+                return []
+                
+            results_df = pd.read_csv(self.job_results_csv)
+            job_results = results_df[results_df['job_id'] == job_id]
+            
+            results = []
+            for _, row in job_results.iterrows():
+                result = row.to_dict()
+                # Replace NaN with None
+                for key, value in result.items():
+                    if pd.isna(value):
+                        result[key] = None
+                results.append(result)
+                
+            return sorted(results, key=lambda x: x['reference_index'])
+            
+        except Exception as e:
+            logger.error(f"Error getting job results for {job_id}: {str(e)}")
+            return []

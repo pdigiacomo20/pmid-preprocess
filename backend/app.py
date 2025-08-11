@@ -5,6 +5,7 @@ from reference_parser import ReferenceParser
 from pubmed_search import PubMedSearcher
 from content_downloader import ContentDownloader
 from database import DatabaseManager
+from job_processor import JobProcessor
 import logging
 
 app = Flask(__name__)
@@ -19,9 +20,11 @@ db_manager = DatabaseManager()
 reference_parser = ReferenceParser()
 pubmed_searcher = PubMedSearcher()
 content_downloader = ContentDownloader()
+job_processor = JobProcessor(db_manager)
 
 @app.route('/api/process-references', methods=['POST'])
 def process_references():
+    """Create a new processing job for references."""
     try:
         data = request.get_json()
         references_text = data.get('references', '')
@@ -29,18 +32,30 @@ def process_references():
         if not references_text:
             return jsonify({'error': 'No references provided'}), 400
         
-        # Parse references and process each one
-        results = []
-        references = reference_parser.parse_references(references_text)
+        # Quick parse to count references for job tracking
+        try:
+            references = reference_parser.parse_references(references_text)
+            total_refs = len(references)
+        except Exception as e:
+            logger.error(f"Error parsing references for job creation: {str(e)}")
+            return jsonify({'error': f'Failed to parse references: {str(e)}'}), 400
         
-        for ref_data in references:
-            result = process_single_reference(ref_data)
-            results.append(result)
+        # Create job
+        job_id = db_manager.create_job(references_text, total_refs)
         
-        return jsonify({'results': results})
+        # Start async processing
+        job_processor.process_job_async(job_id)
+        
+        # Return job info immediately
+        return jsonify({
+            'job_id': job_id,
+            'status': 'pending',
+            'total_references': total_refs,
+            'message': f'Job created with {total_refs} references'
+        })
     
     except Exception as e:
-        logger.error(f"Error processing references: {str(e)}")
+        logger.error(f"Error creating processing job: {str(e)}")
         return jsonify({'error': str(e)}), 500
 
 def process_single_reference(ref_data):
@@ -337,6 +352,100 @@ def extract_references():
     
     except Exception as e:
         logger.error(f"Error extracting references: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+# Job Management Endpoints
+
+@app.route('/api/jobs/<job_id>', methods=['GET'])
+def get_job_status(job_id):
+    """Get job status and progress."""
+    try:
+        job = db_manager.get_job(job_id)
+        if not job:
+            return jsonify({'error': 'Job not found'}), 404
+        
+        # Add progress percentage
+        total_refs = job.get('total_refs', 0)
+        completed_refs = job.get('completed_refs', 0)
+        failed_refs = job.get('failed_refs', 0)
+        
+        if total_refs > 0:
+            progress_percentage = ((completed_refs + failed_refs) / total_refs) * 100
+        else:
+            progress_percentage = 0
+        
+        job['progress_percentage'] = round(progress_percentage, 1)
+        job['processed_refs'] = completed_refs + failed_refs
+        
+        return jsonify(job)
+    
+    except Exception as e:
+        logger.error(f"Error getting job status: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/jobs/<job_id>/results', methods=['GET'])
+def get_job_results(job_id):
+    """Get results for a specific job."""
+    try:
+        # Check if job exists
+        job = db_manager.get_job(job_id)
+        if not job:
+            return jsonify({'error': 'Job not found'}), 404
+        
+        results = db_manager.get_job_results(job_id)
+        return jsonify({'results': results})
+    
+    except Exception as e:
+        logger.error(f"Error getting job results: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/jobs/<job_id>', methods=['DELETE'])
+def cancel_job(job_id):
+    """Cancel a job (if still processing)."""
+    try:
+        job = db_manager.get_job(job_id)
+        if not job:
+            return jsonify({'error': 'Job not found'}), 404
+        
+        # Update job status to cancelled
+        success = db_manager.update_job_status(job_id, 'cancelled')
+        
+        if success:
+            return jsonify({'message': 'Job cancelled successfully'})
+        else:
+            return jsonify({'error': 'Failed to cancel job'}), 500
+    
+    except Exception as e:
+        logger.error(f"Error cancelling job: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/jobs', methods=['GET'])
+def list_jobs():
+    """List recent jobs."""
+    try:
+        # This is a simple implementation - you could add pagination/filtering
+        if not os.path.exists(db_manager.jobs_csv):
+            return jsonify({'jobs': []})
+        
+        import pandas as pd
+        jobs_df = pd.read_csv(db_manager.jobs_csv)
+        
+        # Sort by created_at descending, limit to recent jobs
+        jobs_df = jobs_df.sort_values('created_at', ascending=False).head(20)
+        
+        jobs = []
+        for _, row in jobs_df.iterrows():
+            job = row.to_dict()
+            # Replace NaN with None
+            for key, value in job.items():
+                if pd.isna(value):
+                    job[key] = None
+            jobs.append(job)
+        
+        return jsonify({'jobs': jobs})
+    
+    except Exception as e:
+        logger.error(f"Error listing jobs: {str(e)}")
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
