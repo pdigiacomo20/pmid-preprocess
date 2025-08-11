@@ -1,0 +1,63 @@
+[R1] CDC .  CDC Museum COVID-19 Timeline .  Centers for Disease Control and Prevention .  Published August 16 ,  2022 .  Accessed September 6, 2022 .  https://www.cdc.gov/museum/timeline/covid19.html
+
+[R2] WHO Coronavirus (COVID-19) Dashboard .  Accessed August 26, 2022 .  https://covid19.who.int/
+
+[R3] Lerner AM ,  Robinson DA ,  Yang L ,  Toward Understanding COVID-19 Recovery: National Institutes of Health Workshop on Postacute COVID-19 .  Ann Intern Med .  2021 ; 174 ( 7 ): 999 – 1003 . 33780290 10.7326/M21-1043 PMC8025940
+
+[R4] Havervall S ,  Rosell A ,  Phillipson M ,  Symptoms and Functional Impairment Assessed 8 Months After Mild COVID-19 Among Health Care Workers .  JAMA .  2021 ; 325 ( 19 ): 2015 – 2016 . 33825846 10.1001/jama.2021.5612 PMC8027932
+
+[R5] Huang C ,  Huang L ,  Wang Y ,  6-month consequences of COVID-19 in patients discharged from hospital: a cohort study .  Lancet .  2021 ; 397 ( 10270 ): 220 – 232 . 33428867 10.1016/S0140-6736(20)32656-8 PMC7833295
+
+[R6] Tenforde MW ,  Patel MM ,  Ginde AA ,  Effectiveness of SARS-CoV-2 mRNA Vaccines for Preventing Covid-19 Hospitalizations in the United States .  medRxiv .  Published online July 8 ,  2021 . doi: 10.1101/2021.07.08.21259776
+
+[R7] Polack FP ,  Thomas SJ ,  Kitchin N ,  Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine .  N Engl J Med .  2020 ; 383 ( 27 ): 2603 – 2615 . 33301246 10.1056/NEJMoa2034577 PMC7745181
+
+[R8] Zisis SN ,  Durieux JC ,  Mouchati C ,  Perez JA ,  McComsey GA .  The Protective Effect of Coronavirus Disease 2019 (COVID-19) Vaccination on Postacute Sequelae of COVID-19: A Multicenter Study From a Large National Health Research Network .  Open Forum Infect Dis .  2022 ; 9 ( 7 ): ofac228. 10.1093/ofid/ofac228 PMC9129153 35818362
+
+[R9] Simon MA ,  Luginbuhl RD ,  Parker R .  Reduced incidence of long-COVID symptoms related to administration of COVID-19 vaccines both before COVID-19 diagnosis and up to 12 weeks after .  bioRxiv .  Published online November 18 ,  2021 . doi: 10.1101/2021.11.17.21263608
+
+[R10] Al-Aly Z ,  Bowe B ,  Xie Y .  Long COVID after breakthrough SARS-CoV-2 infection .  Nat Med .  2022 ; 28 ( 7 ): 1461 – 1467 . 35614233 10.1038/s41591-022-01840-0 PMC9307472
+
+[R11] Taquet M ,  Dercon Q ,  Harrison PJ .  Six-month sequelae of post-vaccination SARS-CoV-2 infection: A retrospective cohort study of 10,024 breakthrough infections .  Brain Behav Immun .  2022 ; 103 : 154 – 162 . 35447302 10.1016/j.bbi.2022.04.013 PMC9013695
+
+[R12] Arjun MC ,  Singh AK ,  Pal D ,  Prevalence, characteristics, and predictors of Long COVID among diagnosed cases of COVID-19 .  bioRxiv .  Published online January 8 ,  2022 . doi: 10.1101/2022.01.04.21268536 PMC9767341 36538532
+
+[R13] Wynberg E ,  Han AX ,  Boyd A ,  The effect of SARS-CoV-2 vaccination on post-acute sequelae of COVID-19 (PASC): A prospective cohort study .  Vaccine .  2022 ; 40 ( 32 ): 4424 – 4431 . 35725782 10.1016/j.vaccine.2022.05.090 PMC9170535
+
+[R14] Scherlinger M ,  Pijnenburg L ,  Chatelus E ,  Effect of SARS-CoV-2 Vaccination on Symptoms from Post-Acute Sequelae of COVID-19: Results from the Nationwide VAXILONG Study .  Vaccines (Basel) .  2021 ; 10 ( 1 ). doi: 10.3390/vaccines10010046 PMC8781023 35062706
+
+[R15] Wisnivesky JP ,  Govindarajulu U ,  Bagiella E ,  Association of Vaccination with the Persistence of Post-COVID Symptoms .  J Gen Intern Med .  2022 ; 37 ( 7 ): 1748 – 1753 . 35266128 10.1007/s11606-022-07465-w PMC8906626
+
+[R16] Pfaff ER ,  Girvin AT ,  Bennett TD ,  Identifying who has long COVID in the USA: a machine learning approach using N3C data .  The Lancet Digital Health .  2022 ; 4 ( 7 ): e532 – e541 . 35589549 10.1016/S2589-7500(22)00048-6 PMC9110014
+
+[R17] RECOVER: Researching COVID to Enhance Recovery .  RECOVER: Researching COVID to Enhance Recovery .  Accessed September 6, 2022 .  https://recovercovid.org/
+
+[R18] Haendel MA ,  Chute CG ,  Bennett TD ,  The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment .  J Am Med Inform Assoc .  2021 ; 28 ( 3 ): 427 – 443 . 32805036 10.1093/jamia/ocaa196 PMC7454687
+
+[R19] Pfaff ER ,  Girvin AT ,  Gabriel DL ,  Synergies between centralized and federated approaches to data quality: a report from the national COVID cohort collaborative .  J Am Med Inform Assoc .  2022 ; 29 ( 4 ): 609 – 618 . 34590684 10.1093/jamia/ocab217 PMC8500110
+
+[R20] Young JC ,  Conover MM ,  Funk MJ .  Measurement error and misclassification in electronic medical records: methods to mitigate bias .  Curr Epidemiol Rep .  2018 ; 5 ( 4 ): 343 – 356 . 35633879 10.1007/s40471-018-0164-x PMC9141310
+
+[R21] CDC .  COVID-19 Vaccination Data in the United States .  Centers for Disease Control and Prevention .  Published April 29 ,  2022 .  Accessed March 23, 2022 .  https://www.cdc.gov/coronavirus/2019-ncov/vaccines/distributing/about-vaccine-data.html
+
+[R22] Antonelli M ,  Pujol JC ,  Spector TD ,  Ourselin S ,  Steves CJ .  Risk of long COVID associated with delta versus omicron variants of SARS-CoV-2 .  Lancet .  2022 ; 399 ( 10343 ): 2263 – 2264 . 35717982 10.1016/S0140-6736(22)00941-2 PMC9212672
+
+[R23] Crook H ,  Raza S ,  Nowell J ,  Young M ,  Edison P .  Long covid-mechanisms, risk factors, and management .  BMJ .  2021 ; 374 : n1648 . 34312178 10.1136/bmj.n1648
+
+[R24] Robins JM ,  Hernán MA ,  Brumback B .  Marginal structural models and causal inference in epidemiology .  Epidemiology .  2000 ; 11 ( 5 ): 550 – 560 . 10955408 10.1097/00001648-200009000-00011
+
+[R25] Austin PC .  Variance estimation when using inverse probability of treatment weighting (IPTW) with survival analysis .  Stat Med .  2016 ; 35 ( 30 ): 5642 – 5655 . 27549016 10.1002/sim.7084 PMC5157758
+
+[R26] CoxPHFitter — lifelines 0.27.1 documentation. Accessed September 6, 2022 .  https://lifelines.readthedocs.io/en/latest/fitters/regression/CoxPHFitter.html
+
+[R27] Park S ,  Hendry DJ .  Reassessing Schoenfeld residual tests of proportional hazards in political science event history analyses .  Am J Pol Sci .  2015 ; 59 ( 4 ): 1072 – 1087 .
+
+[R28] von Elm E ,  Altman DG ,  Egger M ,  The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies .  Lancet .  2007 ; 370 ( 9596 ): 1453 – 1457 . 18064739 10.1016/S0140-6736(07)61602-X
+
+[R29] Goldstein BA ,  Bhavsar NA ,  Phelan M ,  Pencina MJ .  Controlling for Informed Presence Bias Due to the Number of Health Encounters in an Electronic Health Record .  Am J Epidemiol .  2016 ; 184 ( 11 ): 847 – 855 . 27852603 10.1093/aje/kww112 PMC5152663
+
+[R30] Lauring AS ,  Tenforde MW ,  Chappell JD ,  Clinical Severity and mRNA Vaccine Effectiveness for Omicron, Delta, and Alpha SARS-CoV-2 Variants in the United States: A Prospective Observational Study .  medRxiv .  Published online February 7 ,  2022 . doi: 10.1101/2022.02.06.22270558 PMC8905308 35264324
+
+[R31] Andrews N ,  Stowe J ,  Kirsebom F ,  Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant .  N Engl J Med .  2022 ; 386 ( 16 ): 1532 – 1546 . 35249272 10.1056/NEJMoa2119451 PMC8908811
+
+[R32] CDC .  COVID Data Tracker .  COVID Data Tracker .  Accessed September 6, 2022 .  https://covid.cdc.gov/covid-data-tracker/#variant-proportions

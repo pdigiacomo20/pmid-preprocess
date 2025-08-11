@@ -1,0 +1,79 @@
+[r1] Ceban F ,  Ling S ,  Lui LMW ,  et al. Fatigue and cognitive impairment in post-COVID-19 syndrome: a systematic review and meta-analysis. Brain Behav Immun 2022 ; 101 : 93 - 135 . 34973396 10.1016/j.bbi.2021.12.020 PMC8715665
+
+[r2] Crivelli L ,  Palmer K ,  Calandri I ,  et al. Changes in cognitive functioning after COVID-19: a systematic review and meta-analysis. Alzheimers Dement 2022 ; 18 : 1047 - 1066 . 35297561 10.1002/alz.12644 PMC9073922
+
+[r3] Houben S ,  Bonnechère B .  The impact of COVID-19 infection on cognitive function and the implication for rehabilitation: a systematic review and meta-analysis. Int J Environ Res Public Health 2022 ; 19 : 7748 - 7748 . 35805406 10.3390/ijerph19137748 PMC9266128
+
+[r4] Xu E ,  Xie Y ,  Al-Aly Z .  Long-term neurologic outcomes of COVID-19. Nat Med 2022 ; 28 : 2406 - 2415 . 36138154 10.1038/s41591-022-02001-z PMC9671811
+
+[r5] Xie Y ,  Xu E ,  Al-Aly Z .  Risks of mental health outcomes in people with Covid-19: cohort study. BMJ 2022 ; 376 : e068993 - e068993 . 35172971 10.1136/bmj-2021-068993 PMC8847881
+
+[r6] Taquet M ,  Geddes JR ,  Husain M ,  Luciano S ,  Harrison PJ .  6-month neurological and psychiatric outcomes in 236379 survivors of COVID-19: a retrospective cohort study using electronic health records. Lancet Psychiatry 2021 ; 8 : 416 - 427 . 33836148 10.1016/S2215-0366(21)00084-5 PMC8023694
+
+[r7] Atchison CJ ,  Davies B ,  Cooper E ,  et al. Long-term health impacts of COVID-19 among 242,712 adults in England. Nat Commun 2023 ; 14 : 6588 - 6588 . 37875536 10.1038/s41467-023-41879-2 PMC10598213
+
+[r8] He D ,  Yuan M ,  Dang W ,  et al. Long term neuropsychiatric consequences in COVID-19 survivors: cognitive impairment and inflammatory underpinnings fifteen months after discharge. Asian J Psychiatr 2023 ; 80 : 103409 - 103409 . 36549172 10.1016/j.ajp.2022.103409 PMC9751007
+
+[r9] Hampshire A ,  Trender W ,  Chamberlain SR ,  et al. Cognitive deficits in people who have recovered from COVID-19. EClinicalMedicine 2021 ; 39 : 101044 - 101044 . 34316551 10.1016/j.eclinm.2021.101044 PMC8298139
+
+[r10] Zhao S ,  Shibata K ,  Hellyer PJ ,  et al. Rapid vigilance and episodic memory decrements in COVID-19 survivors. Brain Commun 2022 ; 4 : fcab295 - fcab295 . 35128398 10.1093/braincomms/fcab295 PMC8807287
+
+[r11] Del Giovane M ,  Trender WR ,  Bălăeţ M ,  et al. Computerised cognitive assessment in patients with traumatic brain injury: an observational study of feasibility and sensitivity relative to established clinical scales. EClinicalMedicine 2023 ; 59 : 101980 - 101980 . 37152359 10.1016/j.eclinm.2023.101980 PMC10154960
+
+[r12] Elliott P ,  Whitaker M ,  Tang D ,  et al. Design and implementation of a national SARS-CoV-2 monitoring program in England: REACT-1 Study. Am J Public Health 2023 ; 113 : 545 - 554 . 36893367 10.2105/AJPH.2023.307230 PMC10088956
+
+[r13] Riley S ,  Atchison C ,  Ashby D ,  et al. REal-time Assessment of Community Transmission (REACT) of SARS-CoV-2 virus: study protocol. Wellcome Open Res 2021 ; 5 : 200 - 200 . 33997297 10.12688/wellcomeopenres.16228.1 PMC8095190
+
+[r14] Ward H ,  Atchison C ,  Whitaker M ,  et al. Design and implementation of a national program to monitor the prevalence of SARS-CoV-2 IgG antibodies in England using self-testing: the REACT-2 Study. Am J Public Health 2023 ; 113 : 1201 - 1209 . 37733993 10.2105/AJPH.2023.307381 PMC10568505
+
+[r15] Elliott P ,  Eales O ,  Steyn N ,  et al. Twin peaks: the omicron SARS-CoV-2 BA.1 and BA.2 epidemics in England. Science 2022 ; 376 ( 6600 ): eabq4411 - eabq4411 . 35608440 10.1126/science.abq4411 PMC9161371
+
+[r16] Flower B ,  Brown JC ,  Simmons B ,  et al. Clinical and laboratory evaluation of SARS-CoV-2 lateral flow assays for use in a national COVID-19 seroprevalence survey. Thorax 2020 ; 75 : 1082 - 1088 . 32796119 10.1136/thoraxjnl-2020-215732 PMC7430184
+
+[r17] Jolly AE ,  Scott GT ,  Sharp DJ ,  Hampshire AH .  Distinct patterns of structural damage underlie working memory and reasoning deficits after traumatic brain injury. Brain 2020 ; 143 : 1158 - 1176 . 32243506 10.1093/brain/awaa067 PMC7174032
+
+[r18] Akıncı B ,  Oğul ÖE ,  Hanoğlu L ,  et al. Evaluation of cognitive functions in adult individuals with COVID-19. Neurol Sci 2023 ; 44 : 793 - 802 . 36574178 10.1007/s10072-022-06562-2 PMC9793347
+
+[r19] Alemanno F ,  Houdayer E ,  Parma A ,  et al. COVID-19 cognitive deficits after respiratory assistance in the subacute phase: a COVID-rehabilitation unit experience. PLoS One 2021 ; 16 ( 2 ): e0246590 - e0246590 . 33556127 10.1371/journal.pone.0246590 PMC7870071
+
+[r20] Cheetham NJ ,  Penfold R ,  Giunchiglia V ,  et al. The effects of COVID-19 on cognitive performance in a community-based cohort: a COVID symptom study biobank prospective cohort study. EClinicalMedicine 2023 ; 62 : 102086 - 102086 . 37654669 10.1016/j.eclinm.2023.102086 PMC10466229
+
+[r21] Elliott P ,  Bodinier B ,  Eales O ,  et al. Rapid increase in Omicron infections in England during December 2021: REACT-1 study. Science 2022 ; 375 : 1406 - 1411 . 35133177 10.1126/science.abn8347 PMC8939772
+
+[r22] National statistics: English indices of deprivation 2019. London: Ministry of Housing, Communities & Local Government,  2019  ( https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019 ).
+
+[r23] Rosenbaum PR ,  Rubin DB .  The central role of the propensity score in observational studies for causal effects. Biometrika 1983 ; 70 : 41 - 55  ( https://academic.oup.com/biomet/article/70/1/41/240879 ).
+
+[r24] Sawilowsky S .  New effect size rules of thumb. J Mod Appl Stat Methods 2009 ; 8 : 597 - 599  ( https://jmasm.com/index.php/jmasm/article/view/452/454 ).
+
+[r25] Rose G ,  Day S .  The population mean predicts the number of deviant individuals. BMJ 1990 ; 301 : 1031 - 1034 . 2249053 10.1136/bmj.301.6759.1031 PMC1664038
+
+[r26] Hampshire A ,  Chatfield DA ,  MPhil AM ,  et al. Multivariate profile and acute-phase correlates of cognitive deficits in a COVID-19 hospitalised cohort. EClinicalMedicine 2022 ; 47 : 101417 - 101417 . 35505938 10.1016/j.eclinm.2022.101417 PMC9048584
+
+[r27] Nersesjan V ,  Fonsmark L ,  Christensen RHB ,  et al. Neuropsychiatric and cognitive outcomes in patients 6 months after COVID-19 requiring hospitalization compared with matched control patients hospitalized for non-COVID-19 illness. JAMA Psychiatry 2022 ; 79 : 486 - 497 . 35319743 10.1001/jamapsychiatry.2022.0284 PMC8943626
+
+[r28] Nyberg T ,  Ferguson NM ,  Nash SG ,  et al. Comparative analysis of the risks of hospitalisation and death associated with SARS-CoV-2 omicron (B.1.1.529) and delta (B.1.617.2) variants in England: a cohort study. Lancet 2022 ; 399 : 1303 - 1312 . 35305296 10.1016/S0140-6736(22)00462-7 PMC8926413
+
+[r29] Wixted JT ,  Squire LR .  The medial temporal lobe and the attributes of memory. Trends Cogn Sci 2011 ; 15 : 210 - 217 . 21481629 10.1016/j.tics.2011.03.005 PMC3085543
+
+[r30] Díez-Cirarda M ,  Yus M ,  Gómez-Ruiz N ,  et al. Multimodal neuroimaging in post-COVID syndrome and correlation with cognition. Brain 2023 ; 146 : 2142 - 2152 . 36288544 10.1093/brain/awac384 PMC9620345
+
+[r31] Jenkins LJ ,  Ranganath C .  Prefrontal and medial temporal lobe activity at encoding predicts temporal context memory. J Neurosci 2010 ; 30 : 15558 - 15565 . 21084610 10.1523/JNEUROSCI.1337-10.2010 PMC3842495
+
+[r32] Sanabria-Diaz G ,  Etter MM ,  Melie-Garcia L ,  et al. Brain cortical alterations in COVID-19 patients with neurological symptoms. Front Neurosci 2022 ; 16 : 992165 - 992165 . 36340780 10.3389/fnins.2022.992165 PMC9630324
+
+[r33] Moriguchi T ,  Harii N ,  Goto J ,  et al. A first case of meningitis/encephalitis associated with SARS-Coronavirus-2. Int J Infect Dis 2020 ; 94 : 55 - 58 . 32251791 10.1016/j.ijid.2020.03.062 PMC7195378
+
+[r34] Douaud G ,  Lee S ,  Alfaro-Almagro F ,  et al. SARS-CoV-2 is associated with changes in brain structure in UK Biobank. Nature 2022 ; 604 : 697 - 707 . 35255491 10.1038/s41586-022-04569-5 PMC9046077
+
+[r35] Churchill NW ,  Roudaia E ,  Chen JJ ,  et al. Effects of post-acute COVID-19 syndrome on the functional brain networks of non-hospitalized individuals. Front Neurol 2023 ; 14 : 1136408 - 1136408 . 37051059 10.3389/fneur.2023.1136408 PMC10083436
+
+[r36] Huang Y ,  Ling Q ,  Manyande A ,  Wu D ,  Xiang B .  Brain imaging changes in patients recovered from COVID-19: a narrative review. Front Neurosci 2022 ; 16 : 855868 - 855868 . 35527821 10.3389/fnins.2022.855868 PMC9072792
+
+[r37] Marvel CL ,  Paradiso S .  Cognitive and neurological impairment in mood disorders. Psychiatr Clin North Am 2004 ; 27 : 19 - 36 . 15062628 10.1016/S0193-953X(03)00106-0 PMC2570029
+
+[r38] Guo P ,  Benito Ballesteros A ,  Yeung SP ,  et al. COVCOG 2: cognitive and memory deficits in long COVID: a second publication from the COVID and Cognition Study. Front Aging Neurosci 2022 ; 14 : 804937 - 804937 . 35370620 10.3389/fnagi.2022.804937 PMC8967943
+
+[r39] Ollila H ,  Pihlaja R ,  Koskinen S ,  et al. Long-term cognitive functioning is impaired in ICU-treated COVID-19 patients: a comprehensive controlled neuropsychological study. Crit Care 2022 ; 26 : 223 - 223 . 35858899 10.1186/s13054-022-04092-z PMC9297673
+
+[r40] Agergaard J ,  Gunst JD ,  Schiøttz-Christensen B ,  Østergaard L ,  Wejse C .  Long-term prognosis at 1.5 years after infection with wild-type strain of SARS-CoV-2 and alpha, delta, as well as omicron variants. Int J Infect Dis 2023 ; 137 : 126 - 133 . 37907167 10.1016/j.ijid.2023.10.022

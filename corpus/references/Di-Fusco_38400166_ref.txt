@@ -1,0 +1,59 @@
+[B1-vaccines-12-00183] Centers for Disease Control and Prevention Long COVID or Post-COVID Conditions Available online:  https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html (accessed on 11 December 2023)
+
+[B2-vaccines-12-00183] Landry M. Bornstein S. Nagaraj N. Sardon G.A. Jr. Castel A. Vyas A. McDonnell K. Agneshwar M. Wilkinson A. Goldman L. Postacute Sequelae of SARS-CoV-2 in University Setting Emerg. Infect. Dis. 2023 29 519 10.3201/eid2903.221522 36703253 PMC9973677
+
+[B3-vaccines-12-00183] Perlis R.H. Santillana M. Ognyanova K. Safarpour A. Trujillo K.L. Simonson M.D. Green J. Quintana A. Druckman J. Baum M.A. Prevalence and correlates of long COVID symptoms among US adults JAMA Netw. Open 2022 5 e2238804 10.1001/jamanetworkopen.2022.38804 36301542 PMC9614581
+
+[B4-vaccines-12-00183] Thaweethai T. Jolley S.E. Karlson E.W. Levitan E.B. Levy B. McComsey G.A. McCorkell L. Nadkarni G.N. Parthasarathy S. Singh U. Development of a Definition of Postacute Sequelae of SARS-CoV-2 Infection JAMA 2023 329 1934 1946 10.1001/jama.2023.8823 37278994 PMC10214179
+
+[B5-vaccines-12-00183] Gottlieb M. Wang R. Yu H. Spatz E.S. Montoy J.C. Rodriguez R. Chang A.M. Elmore J.G. Hannikainen P.A. Hill M. Severe Fatigue and Persistent Symptoms at Three Months Following SARS-CoV-2 Infections During the Pre-Delta, Delta, and Omicron Time Periods: A Multicenter Prospective Cohort Study Clin. Infect. Dis. 2023 76 1930 1941 10.1093/cid/ciad045 36705268 PMC10249989
+
+[B6-vaccines-12-00183] Spatz E.S. Gottlieb M. Wisk L.E. Anderson J. Chang A.M. Gentile N.L. Hill M.J. Huebinger R.M. Idris A.H. Kinsman J. Three-Month Symptom Profiles Among Symptomatic Adults with Positive and Negative Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Tests: A Prospective Cohort Study from the INSPIRE Group Clin. Infect. Dis. 2022 76 1559 1566 10.1093/cid/ciac966 36573005 PMC11361781
+
+[B7-vaccines-12-00183] Ford N.D. Slaughter D. Edwards D. Dalton A. Perrine C. Vahratian A. Saydah S. Long COVID and Significant Activity Limitation Among Adults, by Age—United States, June 1–13, 2022, to June 7–19, 2023 MMWR Morb. Mortal. Wkly. Rep. 2023 72 866 870 10.15585/mmwr.mm7232a3 37561665 PMC10415000
+
+[B8-vaccines-12-00183] Yang C. Tebbutt S.J. Long COVID: The next public health crisis is already on its way Lancet Reg. Health–Eur. 2023 28 100612 10.1016/j.lanepe.2023.100612 37131860 PMC10006728
+
+[B9-vaccines-12-00183] Nittas V. Gao M. West E.A. Ballouz T. Menges D. Wulf Hanson S. Puhan M.A. Long COVID Through a Public Health Lens: An Umbrella Review Public. Health Rev. 2022 43 1604501 10.3389/phrs.2022.1604501 35359614 PMC8963488
+
+[B10-vaccines-12-00183] Byambasuren O. Stehlik P. Clark J. Effect of covid-19 vaccination on long covid: Systematic review BMJ Med. 2023 2 e000385 10.1136/bmjmed-2022-000385 PMC9978692 36936268
+
+[B11-vaccines-12-00183] Notarte K.I. Catahay J.A. Velasco J.V. Pastrana A. Ver A.T. Pangilinan F.C. Peligro P.J. Casimiro M. Guerrero J.J. Gellaco M.M.L. Impact of COVID-19 vaccination on the risk of developing long-COVID and on existing long-COVID symptoms: A systematic review EClinicalMedicine 2022 53 101624 10.1016/j.eclinm.2022.101624 36051247 PMC9417563
+
+[B12-vaccines-12-00183] Azzolini E. Levi R. Sarti R. Pozzi C. Mollura M. Mantovani A. Rescigno M. Association between BNT162b2 vaccination and long COVID after infections not requiring hospitalization in health care workers JAMA 2022 328 676 678 10.1001/jama.2022.11691 35796131 PMC9250078
+
+[B13-vaccines-12-00183] Al-Aly Z. Bowe B. Xie Y. Long COVID after breakthrough SARS-CoV-2 infection Nat. Med. 2022 28 1461 1467 10.1038/s41591-022-01840-0 35614233 PMC9307472
+
+[B14-vaccines-12-00183] Ioannou G.N. Baraff A. Fox A. Shahoumian T. Hickok A. O’Hare A.M. Bohnert A.S. Boyko E.J. Maciejewski M.L. Bowling C.B. Rates and Factors Associated with Documentation of Diagnostic Codes for Long COVID in the National Veterans Affairs Health Care System JAMA Netw. Open 2022 5 e2224359 10.1001/jamanetworkopen.2022.24359 35904783 PMC9338411
+
+[B15-vaccines-12-00183] O’Mahoney L.L. Routen A. Gillies C. Ekezie W. Welford A. Zhang A. Karamchandani U. Simms-Williams N. Cassambai S. Ardavani A. The prevalence and long-term health effects of Long Covid among hospitalised and non-hospitalised populations: A systematic review and meta-analysis EClinicalMedicine 2023 55 101762 10.1016/j.eclinm.2022.101762 36474804 PMC9714474
+
+[B16-vaccines-12-00183] U.S. Food and Drug Administration. Coronavirus (COVID-19) Update: FDA Authorizes Moderna, Pfizer-BioNTech Bivalent COVID-19 Vaccines for Use as a Booster Dose Available online:  https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-pfizer-biontech-bivalent-covid-19-vaccines-use (accessed on 9 September 2023)
+
+[B17-vaccines-12-00183] Di Fusco M. Sun X. Anatale-Tardiff L. Yehoshua A. Coetzer H. Alvarez M.B. Allen K.E. Porter T.M. Puzniak L. Lopez S.M. Impact of bivalent BA. 4/5 BNT162b2 COVID-19 vaccine on acute symptoms, quality of life, work productivity and activity levels among symptomatic US adults testing positive for SARS-CoV-2 at a national retail pharmacy Vaccines 2023 11 1669 10.3390/vaccines11111669 38006001 PMC10675533
+
+[B18-vaccines-12-00183] Menegale F. Manica M. Zardini A. Guzzetta G. Marziano V. d’Andrea V. Trentini F. Ajelli M. Poletti P. Merler S. Evaluation of Waning of SARS-CoV-2 Vaccine–Induced Immunity: A Systematic Review and Meta-analysis JAMA Netw. Open 2023 6 e2310650 10.1001/jamanetworkopen.2023.10650 37133863 PMC10157431
+
+[B19-vaccines-12-00183] CDC/ATSDR Social Vulnerability Index Available online:  https://www.atsdr.cdc.gov/placeandhealth/svi/index.html (accessed on 19 December 2023)
+
+[B20-vaccines-12-00183] Centers for Disease Control and Prevention Symptoms of COVID-19 Available online:  https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html (accessed on 22 August 2023)
+
+[B21-vaccines-12-00183] Rosner B. Fundamentals of Biostatistics 8th ed. Cengage Learning Boston, MA, USA 2015
+
+[B22-vaccines-12-00183] Freeman G. Halton J.H. Note on an exact treatment of contingency, goodness of fit and other problems of significance Biometrika 1951 38 141 149 10.1093/biomet/38.1-2.141 14848119
+
+[B23-vaccines-12-00183] Fitzmaurice G.M. Laird N.M. Ware J.H. Applied Longitudinal Analysis 2nd ed. John Wiley & Sons Hoboken, NJ, USA 2011 Volume 998
+
+[B24-vaccines-12-00183] STROBE Statement—Checklist of Items That Should Be Included in Reports of Cohort Studies Available online:  https://www.strobe-statement.org/download/strobe-checklist-cohort-studies-pdf (accessed on 9 September 2023)
+
+[B25-vaccines-12-00183] Maier H.E. Kowalski-Dobson T. Eckard A. Gherasim C. Manthei D. Meyers A. Davis D. Bakker K. Lindsey K. Chu Z. Reduction in long-COVID symptoms and symptom severity in vaccinated compared to unvaccinated adults Open Forum Infect. Dis. 2024 11 ofae039 10.1093/ofid/ofae039 38328496 PMC10847810
+
+[B26-vaccines-12-00183] Di Fusco M. Sun X. Moran M.M. Coetzer H. Zamparo J.M. Alvarez M.B. Puzniak L. Tabak Y.P. Cappelleri J.C. Impact of COVID-19 and effects of booster vaccination with BNT162b2 on six-month long COVID symptoms, quality of life, work productivity and activity impairment during Omicron J. Patient-Rep. Outcomes 2023 7 77 10.1186/s41687-023-00616-5 37486567 PMC10366033
+
+[B27-vaccines-12-00183] Tsampasian V. Elghazaly H. Chattopadhyay R. Debski M. Naing T.K.P. Garg P. Clark A. Ntatsaki E. Vassiliou V.S. Risk factors associated with Post− COVID-19 condition: A systematic review and meta-analysis JAMA Intern. Med. 2023 183 566 580 10.1001/jamainternmed.2023.0750 36951832 PMC10037203
+
+[B28-vaccines-12-00183] Watanabe A. Iwagami M. Yasuhara J. Takagi H. Kuno T. Protective effect of COVID-19 vaccination against long COVID syndrome: A systematic review and meta-analysis Vaccine 2023 41 1783 1790 10.1016/j.vaccine.2023.02.008 36774332 PMC9905096
+
+[B29-vaccines-12-00183] Ceban F. Ling S. Lui L.M. Lee Y. Gill H. Teopiz K.M. Rodrigues N.B. Subramaniapillai M. Di Vincenzo J.D. Cao B. Fatigue and cognitive impairment in Post-COVID-19 Syndrome: A systematic review and meta-analysis Brain Behav. Immun. 2022 101 93 135 10.1016/j.bbi.2021.12.020 34973396 PMC8715665
+
+[B30-vaccines-12-00183] Tartof S.Y. Slezak J.M. Puzniak L. Hong V. Frankland T.B. Ackerson B.K. Xie F. Takhar H. Ogun O.A. Simmons S. Effectiveness of BNT162b2 BA. 4/5 bivalent mRNA vaccine against a range of COVID-19 outcomes in a large health system in the USA: A test-negative case–control study Lancet Respir. Med. 2023 11 1089 1100 10.1016/S2213-2600(23)00306-5 37898148

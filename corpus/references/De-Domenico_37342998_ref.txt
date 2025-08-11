@@ -1,0 +1,155 @@
+[pgph.0001917.ref001] 1 World Health Organization et al. A clinical case definition of post COVID-19 condition by a Delphi consensus, 6 October 2021. In: A clinical case definition of post COVID-19 condition by a Delphi consensus, 6 October 2021; 2021.
+
+[pgph.0001917.ref002] Crook H ,  Raza S ,  Nowell J ,  Young M ,  Edison P .  Long covid-mechanisms, risk factors, and management .  BMJ (Clinical Research ed) .  2021 ; 374 : n1648 – n1648 .  34312178 10.1136/bmj.n1648
+
+[pgph.0001917.ref003] Michelen M ,  Manoharan L ,  Elkheir N ,  Cheng V ,  Dagens A ,  Hastie C ,  et al .  Characterising long COVID: a living systematic review .  BMJ Global Health .  2021 ; 6 ( 9 ): e005427 .  doi: 10.1136/bmjgh-2021-005427 34580069 PMC8478580
+
+[pgph.0001917.ref004] Aiyegbusi OL ,  Hughes SE ,  Turner G ,  Rivera SC ,  McMullan C ,  Chandan JS ,  et al .  Symptoms, complications and management of long COVID: a review .  Journal of the Royal Society of Medicine .  2021 ; 114 ( 9 ): 428 – 442 .  doi: 10.1177/01410768211032850 34265229 PMC8450986
+
+[pgph.0001917.ref005] Davis HE ,  Assaf GS ,  McCorkell L ,  Wei H ,  Low RJ ,  Re’em Y ,  et al .  Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  EClinicalMedicine .  2021 ; 38 : 101019 .  doi: 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[pgph.0001917.ref006] Hampshire A ,  Trender W ,  Chamberlain SR ,  Jolly AE ,  Grant JE ,  Patrick F ,  et al .  Cognitive deficits in people who have recovered from COVID-19 .  EClinicalMedicine .  2021 ; 39 : 101044 .  doi: 10.1016/j.eclinm.2021.101044 34316551 PMC8298139
+
+[pgph.0001917.ref007] Tran VT ,  Porcher R ,  Pane I ,  Ravaud P .  Course of post COVID-19 disease symptoms over time in the ComPaRe long COVID prospective e-cohort .  Nature Communications .  2022 ; 13 ( 1 ): 1 – 6 .  doi: 10.1038/s41467-022-29513-z 35383197 PMC8983754
+
+[pgph.0001917.ref008] Kedor C ,  Freitag H ,  Meyer-Arndt L ,  Wittke K ,  Hanitsch L ,  Zoller T ,  et al .  A prospective observational study of post-COVID-19 chronic fatigue syndrome following the first pandemic wave in Germany and biomarkers associated with symptom severity .  Nature Communications .  2022 ; 13 ( 1 ): 1 – 13 .  doi: 10.1038/s41467-022-32507-6 PMC9426365 36042189
+
+[pgph.0001917.ref009] Whitaker M ,  Elliott J ,  Chadeau-Hyam M ,  Riley S ,  Darzi A ,  Cooke G ,  et al .  Persistent COVID-19 symptoms in a community study of 606,434 people in England .  Nature communications .  2022 ; 13 ( 1 ): 1 – 10 .  doi: 10.1038/s41467-022-29521-z PMC9005552 35413949
+
+[pgph.0001917.ref010] of Disease Long COVID Collaborators GB .  Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID-19 in 2020 and 2021 .  JAMA .  2022 ; 328 ( 16 ): 1604 – 1615 .  doi: 10.1001/jama.2022.18931 36215063 PMC9552043
+
+[pgph.0001917.ref011] Al-Aly Z ,  Xie Y ,  Bowe B .  High-dimensional characterization of post-acute sequelae of COVID-19 .  Nature .  2021 ; 594 ( 7862 ): 259 – 264 .  doi: 10.1038/s41586-021-03553-9 33887749
+
+[pgph.0001917.ref012] Ayoubkhani D ,  Khunti K ,  Nafilyan V ,  Maddox T ,  Humberstone B ,  Diamond I ,  et al .  Post-covid syndrome in individuals admitted to hospital with covid-19: retrospective cohort study .  BMJ (Clinical research ed) .  2021 ; 372 : n693 – n693 .  doi: 10.1136/bmj.n693 33789877 PMC8010267
+
+[pgph.0001917.ref013] Thompson EJ ,  Williams DM ,  Walker AJ ,  Mitchell RE ,  Niedzwiedz CL ,  Yang TC ,  et al .  Long COVID burden and risk factors in 10 UK longitudinal studies and electronic health records .  Nature communications .  2022 ; 13 ( 1 ): 1 – 11 .  doi: 10.1038/s41467-022-30836-0 35764621 PMC9240035
+
+[pgph.0001917.ref014] Gaebler C ,  Wang Z ,  Lorenzi JC ,  Muecksch F ,  Finkin S ,  Tokuyama M ,  et al .  Evolution of antibody immunity to SARS-CoV-2 .  Nature .  2021 ; 591 ( 7851 ): 639 – 644 .  doi: 10.1038/s41586-021-03207-w 33461210 PMC8221082
+
+[pgph.0001917.ref015] Natarajan A ,  Zlitni S ,  Brooks EF ,  Vance SE ,  Dahlen A ,  Hedlin H ,  et al .  Gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA suggest prolonged gastrointestinal infection .  Med (N Y) .  2022 ; 3 ( 6 ): 371 – 387.e9 .  doi: 10.1016/j.medj.2022.04.001 35434682 PMC9005383
+
+[pgph.0001917.ref016] Merad M ,  Blish CA ,  Sallusto F ,  Iwasaki A .  The immunology and immunopathology of COVID-19 .  Science .  2022 ; 375 ( 6585 ): 1122 – 1127 .  doi: 10.1126/science.abm8108 35271343
+
+[pgph.0001917.ref017] Sudre CH ,  Murray B ,  Varsavsky T ,  Graham MS ,  Penfold RS ,  Bowyer RC ,  et al .  Attributes and predictors of long COVID .  Nature medicine .  2021 ; 27 ( 4 ): 626 – 631 .  doi: 10.1038/s41591-021-01292-y 33692530 PMC7611399
+
+[pgph.0001917.ref018] Su Y ,  Yuan D ,  Chen DG ,  Ng RH ,  Wang K ,  Choi J ,  et al .  Multiple early factors anticipate post-acute COVID-19 sequelae .  Cell .  2022 ; 185 ( 5 ): 881 – 895 .  doi: 10.1016/j.cell.2022.01.014 35216672 PMC8786632
+
+[pgph.0001917.ref019] Subramanian A ,  Nirantharakumar K ,  Hughes S ,  Myles P ,  Williams T ,  Gokhale KM ,  et al .  Symptoms and risk factors for long COVID in non-hospitalized adults .  Nature Medicine .  2022 ; p.  1 – 9 .  doi: 10.1038/s41591-022-01909-w 35879616 PMC9388369
+
+[pgph.0001917.ref020] Klein J ,  Wood J ,  Jaycox J ,  Lu P ,  Dhodapkar RM ,  Gehlhausen JR ,  et al .  Distinguishing features of Long COVID identified through immune profiling .  medRxiv .  2022 .  doi: 10.1101/2022.08.09.22278592 37748514 PMC10620090
+
+[pgph.0001917.ref021] Davis HE ,  McCorkell L ,  Vogel JM ,  Topol EJ .  Long COVID: major findings, mechanisms and recommendations .  Nature Reviews Microbiology .  2023 ; p.  1 – 14 . 10.1038/s41579-022-00846-2 PMC9839201 36639608
+
+[pgph.0001917.ref022] Venkatesan P .  NICE guideline on long COVID .  The Lancet Respiratory Medicine .  2021 ; 9 ( 2 ): 129 .  doi: 10.1016/S2213-2600(21)00031-X 33453162 PMC7832375
+
+[pgph.0001917.ref023] Thompson RC ,  Simons NW ,  Wilkins L ,  Cheng E ,  Del Valle DM ,  Hoffman GE ,  et al .  Molecular states during acute COVID-19 reveal distinct etiologies of long-term sequelae .  Nature Medicine .  2022 ; p.  1 – 11 .  doi: 10.1038/s41591-022-02107-4 36482101 PMC9873574
+
+[pgph.0001917.ref024] Zhang H ,  Zang C ,  Xu Z ,  Zhang Y ,  Xu J ,  Bian J ,  et al .  Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes .  Nature Medicine .  2022 ; p.  1 – 10 .  doi: 10.1038/s41591-022-02116-3 36456834 PMC9873564
+
+[pgph.0001917.ref025] Bowe B ,  Xie Y ,  Al-Aly Z .  Acute and postacute sequelae associated with SARS-CoV-2 reinfection .  Nature medicine .  2022 ; 28 ( 11 ): 2398 – 2405 .  doi: 10.1038/s41591-022-02051-3 36357676 PMC9671810
+
+[pgph.0001917.ref026] Xu E ,  Xie Y ,  Al-Aly Z .  Long-term neurologic outcomes of COVID-19 .  Nature medicine .  2022 ; 28 ( 11 ): 2406 – 2415 .  doi: 10.1038/s41591-022-02001-z 36138154 PMC9671811
+
+[pgph.0001917.ref027] Puntmann VO ,  Martin S ,  Shchendrygina A ,  Hoffmann J ,  Ka MM ,  Giokoglu E ,  et al .  Long-term cardiac pathology in individuals with mild initial COVID-19 illness .  Nature Medicine .  2022 ; 28 ( 10 ): 2117 – 2123 .  doi: 10.1038/s41591-022-02000-0 36064600 PMC9556300
+
+[pgph.0001917.ref028] Montani D ,  Savale L ,  Noel N ,  Meyrignac O ,  Colle R ,  Gasnier M ,  et al .  Post-acute COVID-19 syndrome .  European Respiratory Review .  2022 ; 31 ( 163 ).  doi: 10.1183/16000617.0185-2021 35264409 PMC8924706
+
+[pgph.0001917.ref029] Routen A ,  O’Mahoney L ,  Ayoubkhani D ,  Banerjee A ,  Brightling C ,  Calvert M ,  et al .  Understanding and tracking the impact of long COVID in the United Kingdom .  Nature medicine .  2022 ; 28 ( 1 ): 11 – 15 .  doi: 10.1038/s41591-021-01591-4 34811549
+
+[pgph.0001917.ref030] Iqbal FM ,  Lam K ,  Sounderajah V ,  Clarke JM ,  Ashrafian H ,  Darzi A .  Characteristics and predictors of acute and chronic post-COVID syndrome: A systematic review and meta-analysis .  EClinicalMedicine .  2021 ; 36 : 100899 .  doi: 10.1016/j.eclinm.2021.100899 34036253 PMC8141371
+
+[pgph.0001917.ref031] Notarte KI ,  Catahay JA ,  Velasco JV ,  Pastrana A ,  Ver AT ,  Pangilinan FC ,  et al .  Impact of COVID-19 vaccination on the risk of developing long-COVID and on existing long-COVID symptoms: A systematic review .  EClinicalMedicine .  2022 ; 53 ( 101624 ): 101624 .  doi: 10.1016/j.eclinm.2022.101624 36051247 PMC9417563
+
+[pgph.0001917.ref032] Ayoubkhani D ,  Bermingham C ,  Pouwels KB ,  Glickman M ,  Nafilyan V ,  Zaccardi F ,  et al .  Trajectory of long covid symptoms after covid-19 vaccination: community based cohort study .  bmj .  2022 ; 377 .  doi: 10.1136/bmj-2021-069676 35584816 PMC9115603
+
+[pgph.0001917.ref033] Al-Aly Z ,  Bowe B ,  Xie Y .  Long COVID after breakthrough SARS-CoV-2 infection .  Nat Med .  2022 ; 28 ( 7 ): 1461 – 1467 .  doi: 10.1038/s41591-022-01840-0 35614233 PMC9307472
+
+[pgph.0001917.ref034] Azzolini E ,  Levi R ,  Sarti R ,  Pozzi C ,  Mollura M ,  Mantovani A ,  et al .  Association between BNT162b2 vaccination and long COVID after infections not requiring hospitalization in health care workers .  JAMA .  2022 ; 328 ( 7 ): 676 – 678 .  doi: 10.1001/jama.2022.11691 35796131 PMC9250078
+
+[pgph.0001917.ref035] Choutka J ,  Jansari V ,  Hornig M ,  Iwasaki A .  Unexplained post-acute infection syndromes .  Nature Medicine .  2022 ; 28 ( 5 ): 911 – 923 .  doi: 10.1038/s41591-022-01810-6 35585196
+
+[pgph.0001917.ref036] Sachs JD ,  Karim SSA ,  Aknin L ,  Allen J ,  Brosbøl K ,  Colombo F ,  et al .  The Lancet Commission on lessons for the future from the COVID-19 pandemic .  The Lancet .  2022 ; 400 ( 10359 ): 1224 – 1280 .  doi: 10.1016/S0140-6736(22)01585-9 36115368 PMC9539542
+
+[pgph.0001917.ref037] Office for National Statistics. Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK; 2022. Available from:  https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk .
+
+[pgph.0001917.ref038] Office for National Statistics. Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK: 4 August 2022; 2022. Available from:  https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/4august2022 .
+
+[pgph.0001917.ref039] Long COVID—Household Pulse Survey—COVID-19—cdc.gov;.  https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm .
+
+[pgph.0001917.ref040] GitHub—CSSEGISandData/COVID-19: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE—github.com;.  https://github.com/CSSEGISandData/COVID-19 .
+
+[pgph.0001917.ref041] Dong E ,  Du H ,  Gardner L .  An interactive web-based dashboard to track COVID-19 in real time .  Lancet Infect Dis .  2020 ; 20 ( 5 ): 533 – 534 .  doi: 10.1016/S1473-3099(20)30120-1 32087114 PMC7159018
+
+[pgph.0001917.ref042] Daily new estimated COVID-19 infections from the IHME model—ourworldindata.org;.  https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-ihme-model .
+
+[pgph.0001917.ref043] Lazarus JV ,  Romero D ,  Kopka CJ ,  Karim SA ,  Abu-Raddad LJ ,  Almeida G ,  et al .  A multinational Delphi consensus to end the COVID-19 public health threat .  Nature .  2022 ; 611 ( 7935 ): 332 – 345 .  doi: 10.1038/s41586-022-05398-2 36329272 PMC9646517
+
+[pgph.0001917.ref044] Wang H ,  Paulson KR ,  Pease SA ,  Watson S ,  Comfort H ,  Zheng P ,  et al .  Estimating excess mortality due to the COVID-19 pandemic: a systematic analysis of COVID-19-related mortality, 2020–21 .  The Lancet .  2022 ; 399 ( 10334 ): 1513 – 1536 .  doi: 10.1016/S0140-6736(21)02796-3 PMC8912932 35279232
+
+[pgph.0001917.ref045] Hanson SW ,  Abbafati C ,  Aerts JG ,  Al-Aly Z ,  Ashbaugh C ,  Ballouz T ,  et al .  A global systematic analysis of the occurrence, severity, and recovery pattern of long COVID in 2020 and 2021 .  medRxiv .  2022 ;.  doi: 10.1101/2022.05.26.22275532 35664995 PMC9164454
+
+[pgph.0001917.ref046] COVID-19 Vaccinations in the United States—cdc.gov;.  https://covid.cdc.gov/covid-data-tracker/#vaccinations .
+
+[pgph.0001917.ref047] Coronavirus (COVID-19) Vaccinations—ourworldindata.org;.  https://ourworldindata.org/covid-vaccinations .
+
+[pgph.0001917.ref048] World Population Prospects—Population Division—United Nations—population.un.org;.  https://population.un.org/wpp/ .
+
+[pgph.0001917.ref049] Bureau UC. Census.gov—census.gov;.  https://www.census.gov/ .
+
+[pgph.0001917.ref050] Gastner MT ,  Newman ME .  Diffusion-based method for producing density-equalizing maps .  Proceedings of the National Academy of Sciences .  2004 ; 101 ( 20 ): 7499 – 7504 .  doi: 10.1073/pnas.0400280101 15136719 PMC419634
+
+[pgph.0001917.ref051] Ballering AV ,  van Zon SKR ,  Olde Hartman TC ,  Rosmalen JGM ,  Lifelines Corona Research Initiative .  Persistence of somatic symptoms after COVID-19 in the Netherlands: an observational cohort study .  Lancet .  2022 ; 400 ( 10350 ): 452 – 461 .  doi: 10.1016/S0140-6736(22)01214-4 35934007 PMC9352274
+
+[pgph.0001917.ref052] The Lancet Infectious Diseases .  COVID-19 vaccine equity and booster doses .  Lancet Infect Dis .  2021 ; 21 ( 9 ): 1193 .  doi: 10.1016/S1473-3099(21)00486-2 34391506 PMC8360703
+
+[pgph.0001917.ref053] McIntyre PB ,  Aggarwal R ,  Jani I ,  Jawad J ,  Kochhar S ,  MacDonald N ,  et al .  COVID-19 vaccine strategies must focus on severe disease and global equity .  The Lancet .  2022 ; 399 ( 10322 ): 406 – 410 .  doi: 10.1016/S0140-6736(21)02835-X 34922639 PMC8676417
+
+[pgph.0001917.ref054] Sacco PL .  The vaccine equity crisis is a stress test for all future major environmental challenges .  Science of The Total Environment .  2022 ; 825 : 154073 .  doi: 10.1016/j.scitotenv.2022.154073 35202684
+
+[pgph.0001917.ref055] Zhang J ,  Litvinova M ,  Wang W ,  Wang Y ,  Deng X ,  Chen X ,  et al .  Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study .  The Lancet Infectious Diseases .  2020 ; 20 ( 7 ): 793 – 802 .  doi: 10.1016/S1473-3099(20)30230-9 32247326 PMC7269887
+
+[pgph.0001917.ref056] Davis JT ,  Chinazzi M ,  Perra N ,  Mu K ,  y Piontti AP ,  Ajelli M ,  et al .  Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave .  Nature .  2021 .  doi: 10.1038/s41586-021-04130-w PMC8636257 34695837
+
+[pgph.0001917.ref057] Chinazzi M ,  Davis JT ,  Ajelli M ,  Gioannini C ,  Litvinova M ,  Merler S ,  et al .  The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak .  Science .  2020 ; 368 ( 6489 ): 395 – 400 .  doi: 10.1126/science.aba9757 32144116 PMC7164386
+
+[pgph.0001917.ref058] Dehning J ,  Zierenberg J ,  Spitzner FP ,  Wibral M ,  Neto JP ,  Wilczek M ,  et al .  Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions .  Science .  2020 ; 369  ( 6500 ).  doi: 10.1126/science.abb9789 32414780 PMC7239331
+
+[pgph.0001917.ref059] Maier BF ,  Brockmann D .  Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China .  Science .  2020 ; 368 ( 6492 ): 742 – 746 .  doi: 10.1126/science.abb4557 32269067 PMC7164388
+
+[pgph.0001917.ref060] Arenas A ,  Cota W ,  Gómez-Gardeñes J ,  Gómez S ,  Granell C ,  Matamalas JT ,  et al .  Modeling the spatiotemporal epidemic spreading of COVID-19 and the impact of mobility and social distancing interventions .  Physical Review X .  2020 ; 10 ( 4 ): 041055 .  doi: 10.1103/PhysRevX.10.041055
+
+[pgph.0001917.ref061] Kraemer MUG ,  Hill V ,  Ruis C ,  Dellicour S ,  Bajaj S ,  McCrone JT ,  et al .  Spatiotemporal invasion dynamics of SARS-CoV-2 lineage B.1.1.7 emergence .  Science .  2021 ; 373 ( 6557 ): 889 – 895 .  doi: 10.1126/science.abj0113 34301854 PMC9269003
+
+[pgph.0001917.ref062] Sun K ,  Wang W ,  Gao L ,  Wang Y ,  Luo K ,  Ren L ,  et al .  Transmission heterogeneities, kinetics, and controllability of SARS-CoV-2 .  Science .  2021 ; 371  ( 6526 ).  doi: 10.1126/science.abe2424 33234698 PMC7857413
+
+[pgph.0001917.ref063] Domenico LD ,  Sabbatini CE ,  Boëlle PY ,  Poletto C ,  Crépey P ,  Paireau J ,  et al .  Adherence and sustainability of interventions informing optimal control against the COVID-19 pandemic .  Communications Medicine .  2021 ; 1 ( 1 ).  doi: 10.1038/s43856-021-00057-5 PMC9053235 35602184
+
+[pgph.0001917.ref064] Marziano V ,  Guzzetta G ,  Mammone A ,  Riccardo F ,  Poletti P ,  Trentini F ,  et al .  The effect of COVID-19 vaccination in Italy and perspectives for living with the virus .  Nature Communications .  2021 ; 12 ( 1 ): 1 – 8 .  doi: 10.1038/s41467-021-27532-w 34907206 PMC8671442
+
+[pgph.0001917.ref065] Nouvellet P ,  Bhatia S ,  Cori A ,  Ainslie KE ,  Baguelin M ,  Bhatt S ,  et al .  Reduction in mobility and COVID-19 transmission .  Nature communications .  2021 ; 12 ( 1 ): 1 – 9 .  doi: 10.1038/s41467-021-21358-2 33597546 PMC7889876
+
+[pgph.0001917.ref066] Cramer EY ,  Ray EL ,  Lopez VK ,  Bracher J ,  Brennen A ,  Castro Rivadeneira AJ ,  et al .  Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States .  Proceedings of the National Academy of Sciences .  2022 ; 119 ( 15 ): e2113561119 .  doi: 10.1073/pnas.2113561119 35394862 PMC9169655
+
+[pgph.0001917.ref067] Sacco PL ,  Valle F ,  De Domenico M .  Proactive vs. reactive country responses to the COVID19 pandemic shock .  PLOS Global Public Health, In press .  2021 . 10.1371/journal.pgph.0001345 PMC10021818 36962977
+
+[pgph.0001917.ref068] Dowell D ,  Lindsley WG ,  Brooks JT .  Reducing SARS-CoV-2 in Shared Indoor Air .  JAMA .  2022 ; 328 ( 2 ): 141 – 142 .  doi: 10.1001/jama.2022.9970 35671318 PMC11338317
+
+[pgph.0001917.ref069] Buonanno G ,  Ricolfi L ,  Morawska L ,  Stabile L .  Increasing ventilation reduces SARS-CoV-2 airborne transmission in schools: A retrospective cohort study in Italy’s Marche region .  Frontiers in Public Health .  2022 ; 10 : 4922 .  doi: 10.3389/fpubh.2022.1087087 PMC9787545 36568748
+
+[pgph.0001917.ref070] Allen JG ,  Ibrahim AM .  Indoor air changes and potential implications for SARS-CoV-2 transmission .  Jama .  2021 ; 325 ( 20 ): 2112 – 2113 .  doi: 10.1001/jama.2021.5053 33861316
+
+[pgph.0001917.ref071] Srikrishna D ,  Karan A ,  Dhillon RS .  SARS-CoV-2 Reduction in Shared Indoor Air .  JAMA .  2022 ; 328 ( 21 ): 2162 – 2163 .  doi: 10.1001/jama.2022.18028 36472600
+
+[pgph.0001917.ref072] Zarocostas J .  How to fight an infodemic .  The lancet .  2020 ; 395 ( 10225 ): 676 .  doi: 10.1016/S0140-6736(20)30461-X 32113495 PMC7133615
+
+[pgph.0001917.ref073] Tangcharoensathien V ,  Calleja N ,  Nguyen T ,  Purnat T ,  D’Agostino M ,  Garcia-Saiso S ,  et al .  Framework for managing the COVID-19 infodemic: methods and results of an online, crowdsourced WHO technical consultation .  Journal of medical Internet research .  2020 ; 22 ( 6 ): e19659 .  doi: 10.2196/19659 32558655 PMC7332158
+
+[pgph.0001917.ref074] Gallotti R ,  Valle F ,  Castaldo N ,  Sacco P ,  De Domenico M .  Assessing the risks of ‘infodemics’ in response to COVID-19 epidemics .  Nature human behaviour .  2020 ; 4 ( 12 ): 1285 – 1293 .  doi: 10.1038/s41562-020-00994-6 33122812
+
+[pgph.0001917.ref075] van der Linden S .  Misinformation: susceptibility, spread, and interventions to immunize the public .  Nature Medicine .  2022 ; 28 ( 3 ): 460 – 467 .  doi: 10.1038/s41591-022-01713-6 35273402
+
+[pgph.0001917.ref076] Lal A ,  Abdalla SM ,  Chattu VK ,  Erondu NA ,  Lee TL ,  Singh S ,  et al .  Pandemic preparedness and response: exploring the role of universal health coverage within the global health security architecture .  Lancet Glob Health .  2022 ; p.  e1675 – e1683 .  doi: 10.1016/S2214-109X(22)00341-2 36179734 PMC9514836
+
+[pgph.0001917.ref077] Klamser P ,  d’Andrea V ,  Di Lauro F ,  Zachariae A ,  Bontorin S ,  di Nardo A ,  et al .  Enhancing global preparedness during an ongoing pandemic from partial and noisy data .  medRxiv .  2022 . 10.1093/pnasnexus/pgad192 PMC10282504 37351112
+
+[pgph.0001917.ref078] Carlson CJ ,  Albery GF ,  Merow C ,  Trisos CH ,  Zipfel CM ,  Eskew EA ,  et al .  Climate change increases cross-species viral transmission risk .  Nature .  2022 ; p.  1 – 1 .  35483403 10.1038/s41586-022-04788-w
