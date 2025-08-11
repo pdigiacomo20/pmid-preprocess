@@ -211,3 +211,32 @@ pmid-preprocess/
 4. **Usage**: Process sample references to verify functionality
 
 The implementation is complete and ready for use. All core requirements have been fulfilled with additional features for enhanced user experience and maintainability.
+
+## New Feature Plan: Full Text and PDF Viewing
+
+### Overview
+Add the ability to view full extracted text content and PDF files while browsing entries in the frontend application.
+
+### Analysis
+The current system stores:
+- TXT files in `/corpus/txt/` directory with format `{filename}_{pmid}.txt`
+- PDF files in `/corpus/pdf/` directory with format `{filename}_{pmid}.pdf`
+- Entry metadata in database including `filename`, `pmid`, `txt_available`, and `pdf_available` flags
+
+### Todo List
+- [ ] Add backend API endpoints to serve TXT and PDF content
+- [ ] Add modal component for displaying full text content
+- [ ] Add view buttons to the entries table for TXT and PDF content
+- [ ] Style the modal and content display appropriately
+- [ ] Test the feature with existing data
+
+### Backend Changes Needed
+1. Add `/api/content/txt/<pmid>` endpoint to serve TXT file content
+2. Add `/api/content/pdf/<pmid>` endpoint to serve PDF files
+3. Add error handling for missing files
+
+### Frontend Changes Needed
+1. Create a ContentModal component to display full text
+2. Add "View TXT" and "View PDF" buttons to entry rows
+3. Handle modal state and content loading
+4. Add appropriate styling for content display

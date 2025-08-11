@@ -18,8 +18,10 @@ class ContentDownloader:
         # Create directories if they don't exist
         self.txt_dir = os.path.join(os.path.dirname(__file__), '..', 'corpus', 'txt')
         self.pdf_dir = os.path.join(os.path.dirname(__file__), '..', 'corpus', 'pdf')
+        self.ref_dir = os.path.join(os.path.dirname(__file__), '..', 'corpus', 'references')
         os.makedirs(self.txt_dir, exist_ok=True)
         os.makedirs(self.pdf_dir, exist_ok=True)
+        os.makedirs(self.ref_dir, exist_ok=True)
     
     def _rate_limit(self):
         """Ensure we don't exceed 3 requests per second as per PubMed guidelines."""
@@ -90,6 +92,36 @@ class ContentDownloader:
             
         except Exception as e:
             logger.error(f"Error downloading PDF for PMID {pmid}: {str(e)}")
+            return False
+    
+    def download_references(self, pmid: str, filename: str) -> bool:
+        """
+        Attempt to download references for a given PMID.
+        Returns True if successful, False otherwise.
+        """
+        try:
+            # Check if PMC ID is available for this PMID
+            pmc_id = self._get_pmc_id(pmid)
+            if not pmc_id:
+                logger.info(f"No PMC ID found for PMID {pmid}")
+                return False
+            
+            # Try to get references from PMC
+            references = self._download_pmc_references(pmc_id)
+            if not references:
+                logger.info(f"Could not download references for PMC {pmc_id}")
+                return False
+            
+            # Save to file
+            ref_path = os.path.join(self.ref_dir, f"{filename}_ref.txt")
+            with open(ref_path, 'w', encoding='utf-8') as f:
+                f.write(references)
+            
+            logger.info(f"Successfully downloaded references for PMID {pmid} to {ref_path}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error downloading references for PMID {pmid}: {str(e)}")
             return False
     
     def _get_pmc_id(self, pmid: str) -> Optional[str]:
@@ -229,6 +261,92 @@ class ContentDownloader:
         except Exception as e:
             logger.error(f"Unexpected error downloading PDF for PMC {pmc_id}: {str(e)}")
             return None
+    
+    def _download_pmc_references(self, pmc_id: str) -> Optional[str]:
+        """
+        Download references from PMC XML.
+        """
+        self._rate_limit()
+        
+        # Try to get full XML from PMC (same as fulltext method)
+        fetch_url = f"{self.base_url}efetch.fcgi"
+        params = {
+            'db': 'pmc',
+            'id': pmc_id,
+            'retmode': 'xml'
+        }
+        
+        try:
+            response = requests.get(fetch_url, params=params, timeout=60)
+            response.raise_for_status()
+            
+            # Parse XML and extract references
+            root = ET.fromstring(response.content)
+            
+            # Find reference list
+            ref_list = root.find('.//ref-list')
+            if ref_list is None:
+                logger.info(f"No reference list found for PMC {pmc_id}")
+                return None
+            
+            references = []
+            
+            # Extract individual references
+            for ref in ref_list.findall('.//ref'):
+                ref_text = self._extract_reference_text(ref)
+                if ref_text:
+                    references.append(ref_text)
+            
+            if not references:
+                logger.info(f"No references extracted for PMC {pmc_id}")
+                return None
+            
+            # Combine all references
+            references_text = '\n\n'.join(references)
+            
+            return references_text
+            
+        except requests.RequestException as e:
+            logger.error(f"Request error downloading references for PMC {pmc_id}: {str(e)}")
+            return None
+        except ET.ParseError as e:
+            logger.error(f"XML parsing error for PMC {pmc_id}: {str(e)}")
+            return None
+        except Exception as e:
+            logger.error(f"Unexpected error downloading references for PMC {pmc_id}: {str(e)}")
+            return None
+    
+    def _extract_reference_text(self, ref_element) -> str:
+        """
+        Extract formatted text from a single reference element.
+        """
+        try:
+            ref_parts = []
+            
+            # Get reference ID/number if available
+            ref_id = ref_element.get('id', '')
+            if ref_id:
+                ref_parts.append(f"[{ref_id}]")
+            
+            # Look for mixed-citation or element-citation
+            citation = ref_element.find('.//mixed-citation') or ref_element.find('.//element-citation')
+            
+            if citation is not None:
+                # Extract text content while preserving structure
+                citation_text = self._extract_text_from_element(citation)
+                if citation_text:
+                    ref_parts.append(citation_text.strip())
+            else:
+                # Fallback: extract all text from ref element
+                ref_text = self._extract_text_from_element(ref_element)
+                if ref_text:
+                    ref_parts.append(ref_text.strip())
+            
+            return ' '.join(ref_parts) if ref_parts else ''
+            
+        except Exception as e:
+            logger.error(f"Error extracting reference text: {str(e)}")
+            return ''
     
     def _extract_text_from_element(self, element) -> str:
         """

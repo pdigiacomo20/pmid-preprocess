@@ -19,6 +19,7 @@ class DatabaseManager:
             'extraction_status',
             'txt_available',
             'pdf_available',
+            'ref_available',
             'original_reference',
             'extracted_title',
             'found_title',
@@ -94,7 +95,12 @@ class DatabaseManager:
         """
         try:
             df = pd.read_csv(self.csv_file)
-            matching_rows = df[df['pmid'].astype(str) == str(pmid)]
+            # Handle both integer and float PMIDs
+            pmid_str = str(pmid)
+            pmid_float_str = f"{float(pmid)}"
+            
+            matching_rows = df[(df['pmid'].astype(str) == pmid_str) | 
+                              (df['pmid'].astype(str) == pmid_float_str)]
             
             if matching_rows.empty:
                 return None
@@ -111,6 +117,185 @@ class DatabaseManager:
         except Exception as e:
             logger.error(f"Error retrieving entry by PMID {pmid}: {str(e)}")
             return None
+    
+    def delete_entry_by_pmid(self, pmid: str) -> bool:
+        """
+        Delete an entry by PMID.
+        Returns True if successful, False otherwise.
+        """
+        try:
+            df = pd.read_csv(self.csv_file)
+            initial_len = len(df)
+            
+            # Handle both integer and float PMIDs
+            pmid_str = str(pmid)
+            pmid_float_str = f"{float(pmid)}"
+            
+            # Remove matching rows
+            df = df[~((df['pmid'].astype(str) == pmid_str) | 
+                     (df['pmid'].astype(str) == pmid_float_str))]
+            
+            if len(df) == initial_len:
+                logger.warning(f"No entry found with PMID {pmid} to delete")
+                return False
+            
+            # Save updated dataframe
+            df.to_csv(self.csv_file, index=False)
+            logger.info(f"Deleted entry with PMID {pmid}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error deleting entry by PMID {pmid}: {str(e)}")
+            return False
+    
+    def delete_entry_by_timestamp(self, created_at: str) -> bool:
+        """
+        Delete an entry by its created_at timestamp.
+        Returns True if successful, False otherwise.
+        """
+        try:
+            df = pd.read_csv(self.csv_file)
+            initial_len = len(df)
+            
+            # Remove matching rows by created_at
+            df = df[df['created_at'] != created_at]
+            
+            if len(df) == initial_len:
+                logger.warning(f"No entry found with created_at {created_at} to delete")
+                return False
+            
+            # Save updated dataframe
+            df.to_csv(self.csv_file, index=False)
+            logger.info(f"Deleted entry with created_at {created_at}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error deleting entry by created_at {created_at}: {str(e)}")
+            return False
+    
+    def fix_filename_format(self) -> bool:
+        """
+        Fix filename format for entries that have numeric first_author values.
+        Extract proper author names from original_reference.
+        """
+        try:
+            df = pd.read_csv(self.csv_file)
+            modified = False
+            
+            for index, row in df.iterrows():
+                # Check if first_author is numeric
+                first_author = str(row.get('first_author', ''))
+                if first_author.isdigit():
+                    # Extract author from original_reference
+                    original_ref = str(row.get('original_reference', ''))
+                    if original_ref and original_ref != 'nan':
+                        # Pattern to find author name after number
+                        import re
+                        match = re.search(r'\d+\s+([A-Z][a-z]+)', original_ref)
+                        if match:
+                            author_name = match.group(1)
+                            pmid = row.get('pmid')
+                            
+                            # Update first_author and filename
+                            df.at[index, 'first_author'] = author_name
+                            if pmid and not pd.isna(pmid):
+                                new_filename = f"{author_name}_{int(float(pmid))}"
+                                df.at[index, 'filename'] = new_filename
+                                
+                                # Rename actual files if they exist
+                                old_filename = row.get('filename', '')
+                                if old_filename:
+                                    old_txt = os.path.join('corpus', 'txt', f'{old_filename}.txt')
+                                    new_txt = os.path.join('corpus', 'txt', f'{new_filename}.txt')
+                                    old_pdf = os.path.join('corpus', 'pdf', f'{old_filename}.pdf')
+                                    new_pdf = os.path.join('corpus', 'pdf', f'{new_filename}.pdf')
+                                    
+                                    if os.path.exists(old_txt):
+                                        os.rename(old_txt, new_txt)
+                                        logger.info(f"Renamed {old_txt} to {new_txt}")
+                                    
+                                    if os.path.exists(old_pdf):
+                                        os.rename(old_pdf, new_pdf)
+                                        logger.info(f"Renamed {old_pdf} to {new_pdf}")
+                                
+                                modified = True
+                                logger.info(f"Fixed entry for PMID {pmid}: {first_author} -> {author_name}")
+            
+            if modified:
+                df.to_csv(self.csv_file, index=False)
+                logger.info("Fixed filename format for entries with numeric first_author")
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error fixing filename format: {str(e)}")
+            return False
+    
+    def get_entries_without_references(self) -> List[Dict]:
+        """
+        Get all entries that don't have references yet (ref_available is null or false).
+        """
+        try:
+            df = pd.read_csv(self.csv_file)
+            
+            # Add ref_available column if it doesn't exist
+            if 'ref_available' not in df.columns:
+                df['ref_available'] = False
+                df.to_csv(self.csv_file, index=False)
+            
+            # Filter entries without references and with valid PMIDs
+            entries_without_refs = df[
+                (df['ref_available'].isna() | (df['ref_available'] == False)) & 
+                (df['pmid'].notna()) & 
+                (df['extraction_status'] == 'success')
+            ]
+            
+            # Convert to list of dictionaries
+            entries = []
+            for _, row in entries_without_refs.iterrows():
+                entry = row.to_dict()
+                # Replace NaN with None for JSON serialization
+                for key, value in entry.items():
+                    if pd.isna(value):
+                        entry[key] = None
+                entries.append(entry)
+            
+            return entries
+            
+        except Exception as e:
+            logger.error(f"Error getting entries without references: {str(e)}")
+            return []
+    
+    def update_ref_availability(self, pmid: str, ref_available: bool) -> bool:
+        """
+        Update the ref_available status for a specific PMID.
+        """
+        try:
+            df = pd.read_csv(self.csv_file)
+            
+            # Add ref_available column if it doesn't exist
+            if 'ref_available' not in df.columns:
+                df['ref_available'] = False
+            
+            # Handle both integer and float PMIDs
+            pmid_str = str(pmid)
+            pmid_float_str = f"{float(pmid)}"
+            
+            # Update matching rows
+            mask = (df['pmid'].astype(str) == pmid_str) | (df['pmid'].astype(str) == pmid_float_str)
+            df.loc[mask, 'ref_available'] = ref_available
+            
+            if mask.any():
+                df.to_csv(self.csv_file, index=False)
+                logger.info(f"Updated ref_available to {ref_available} for PMID {pmid}")
+                return True
+            else:
+                logger.warning(f"No entry found with PMID {pmid} to update")
+                return False
+                
+        except Exception as e:
+            logger.error(f"Error updating ref_availability for PMID {pmid}: {str(e)}")
+            return False
     
     def search_entries(self, search_query: str = '') -> List[Dict]:
         """

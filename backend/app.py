@@ -64,6 +64,7 @@ def process_single_reference(ref_data):
                 'extraction_status': 'pubmed_search_failed',
                 'txt_available': False,
                 'pdf_available': False,
+                'ref_available': False,
                 'original_reference': ref_data['original_text'],
                 'extracted_title': ref_data['title'],
                 'found_title': None,
@@ -81,6 +82,7 @@ def process_single_reference(ref_data):
         
         txt_downloaded = content_downloader.download_fulltext(pmid, filename)
         pdf_downloaded = content_downloader.download_pdf(pmid, filename)
+        ref_downloaded = content_downloader.download_references(pmid, filename)
         
         # Save to database
         entry_data = {
@@ -89,6 +91,7 @@ def process_single_reference(ref_data):
             'extraction_status': 'success',
             'txt_available': txt_downloaded,
             'pdf_available': pdf_downloaded,
+            'ref_available': ref_downloaded,
             'original_reference': ref_data['original_text'],
             'extracted_title': ref_data['title'],
             'found_title': pubmed_result['title'],
@@ -102,7 +105,8 @@ def process_single_reference(ref_data):
             'pmid': pmid,
             'filename': filename,
             'txt_available': txt_downloaded,
-            'pdf_available': pdf_downloaded
+            'pdf_available': pdf_downloaded,
+            'ref_available': ref_downloaded
         }
     
     except Exception as e:
@@ -144,6 +148,195 @@ def get_failed_extractions():
     
     except Exception as e:
         logger.error(f"Error retrieving failed extractions: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/content/txt/<pmid>', methods=['GET'])
+def get_txt_content(pmid):
+    try:
+        entry = db_manager.get_entry_by_pmid(pmid)
+        if not entry:
+            return jsonify({'error': 'Entry not found'}), 404
+        
+        if not entry.get('txt_available'):
+            return jsonify({'error': 'TXT file not available for this entry'}), 404
+        
+        filename = entry.get('filename')
+        if not filename:
+            return jsonify({'error': 'Filename not found'}), 404
+        
+        txt_path = os.path.join('corpus', 'txt', f'{filename}.txt')
+        
+        if not os.path.exists(txt_path):
+            return jsonify({'error': 'TXT file not found on disk'}), 404
+        
+        with open(txt_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        return jsonify({'content': content})
+    
+    except Exception as e:
+        logger.error(f"Error retrieving TXT content: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/content/pdf/<pmid>', methods=['GET'])
+def get_pdf_content(pmid):
+    try:
+        entry = db_manager.get_entry_by_pmid(pmid)
+        if not entry:
+            return jsonify({'error': 'Entry not found'}), 404
+        
+        if not entry.get('pdf_available'):
+            return jsonify({'error': 'PDF file not available for this entry'}), 404
+        
+        filename = entry.get('filename')
+        if not filename:
+            return jsonify({'error': 'Filename not found'}), 404
+        
+        pdf_path = os.path.join('corpus', 'pdf', f'{filename}.pdf')
+        
+        if not os.path.exists(pdf_path):
+            return jsonify({'error': 'PDF file not found on disk'}), 404
+        
+        from flask import send_file
+        return send_file(pdf_path, as_attachment=False, mimetype='application/pdf')
+    
+    except Exception as e:
+        logger.error(f"Error retrieving PDF content: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/content/ref/<pmid>', methods=['GET'])
+def get_ref_content(pmid):
+    try:
+        entry = db_manager.get_entry_by_pmid(pmid)
+        if not entry:
+            return jsonify({'error': 'Entry not found'}), 404
+        
+        if not entry.get('ref_available'):
+            return jsonify({'error': 'Reference file not available for this entry'}), 404
+        
+        filename = entry.get('filename')
+        if not filename:
+            return jsonify({'error': 'Filename not found'}), 404
+        
+        ref_path = os.path.join('corpus', 'references', f'{filename}_ref.txt')
+        
+        if not os.path.exists(ref_path):
+            return jsonify({'error': 'Reference file not found on disk'}), 404
+        
+        with open(ref_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        return jsonify({'content': content})
+    
+    except Exception as e:
+        logger.error(f"Error retrieving reference content: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/entries/<pmid>', methods=['DELETE'])
+def delete_entry(pmid):
+    try:
+        entry = db_manager.get_entry_by_pmid(pmid)
+        if not entry:
+            return jsonify({'error': 'Entry not found'}), 404
+        
+        # Delete associated files if they exist
+        filename = entry.get('filename')
+        if filename:
+            txt_path = os.path.join('corpus', 'txt', f'{filename}.txt')
+            pdf_path = os.path.join('corpus', 'pdf', f'{filename}.pdf')
+            ref_path = os.path.join('corpus', 'references', f'{filename}_ref.txt')
+            
+            if os.path.exists(txt_path):
+                os.remove(txt_path)
+                logger.info(f"Deleted TXT file: {txt_path}")
+            
+            if os.path.exists(pdf_path):
+                os.remove(pdf_path)
+                logger.info(f"Deleted PDF file: {pdf_path}")
+            
+            if os.path.exists(ref_path):
+                os.remove(ref_path)
+                logger.info(f"Deleted reference file: {ref_path}")
+        
+        # Delete entry from database
+        success = db_manager.delete_entry_by_pmid(pmid)
+        
+        if success:
+            return jsonify({'message': 'Entry deleted successfully'}), 200
+        else:
+            return jsonify({'error': 'Failed to delete entry from database'}), 500
+    
+    except Exception as e:
+        logger.error(f"Error deleting entry: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/entries/delete-by-timestamp', methods=['DELETE'])
+def delete_entry_by_timestamp():
+    try:
+        data = request.get_json()
+        created_at = data.get('created_at')
+        
+        if not created_at:
+            return jsonify({'error': 'created_at timestamp required'}), 400
+        
+        # Delete entry from database by timestamp
+        success = db_manager.delete_entry_by_timestamp(created_at)
+        
+        if success:
+            return jsonify({'message': 'Entry deleted successfully'}), 200
+        else:
+            return jsonify({'error': 'Failed to delete entry from database or entry not found'}), 500
+    
+    except Exception as e:
+        logger.error(f"Error deleting entry by timestamp: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/fix-filenames', methods=['POST'])
+def fix_filenames():
+    try:
+        success = db_manager.fix_filename_format()
+        if success:
+            return jsonify({'message': 'Filename format fixed successfully'}), 200
+        else:
+            return jsonify({'error': 'Failed to fix filename format'}), 500
+    
+    except Exception as e:
+        logger.error(f"Error fixing filename format: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/extract-references', methods=['POST'])
+def extract_references():
+    try:
+        # Get all entries that don't have references yet
+        entries = db_manager.get_entries_without_references()
+        extracted_count = 0
+        
+        for entry in entries:
+            pmid = entry.get('pmid')
+            filename = entry.get('filename')
+            
+            if pmid and filename:
+                try:
+                    ref_downloaded = content_downloader.download_references(str(pmid), filename)
+                    if ref_downloaded:
+                        # Update database to mark references as available
+                        db_manager.update_ref_availability(str(pmid), True)
+                        extracted_count += 1
+                        logger.info(f"Extracted references for PMID {pmid}")
+                    else:
+                        # Mark as not available to avoid retrying
+                        db_manager.update_ref_availability(str(pmid), False)
+                except Exception as e:
+                    logger.error(f"Error extracting references for PMID {pmid}: {str(e)}")
+                    db_manager.update_ref_availability(str(pmid), False)
+        
+        return jsonify({
+            'message': f'Reference extraction completed. Extracted references for {extracted_count} entries.',
+            'extracted_count': extracted_count
+        }), 200
+    
+    except Exception as e:
+        logger.error(f"Error extracting references: {str(e)}")
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
