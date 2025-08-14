@@ -1,0 +1,19 @@
+[bb0005] Zhang X. Wang F. Shen Y. Symptoms and health outcomes among survivors of COVID-19 infection 1 year after discharge from hospitals in Wuhan, China JAMA Netw. Open 4 9 2021 e2127403 10.1001/jamanetworkopen.2021.27403 PMC8482055 34586367
+
+[bb0010] Crook H. Raza S. Nowell J. Young M. Edison P. Long covid—mechanisms, risk factors, and management BMJ 2021 n1648 10.1136/bmj.n1648 34312178
+
+[bb0015] Dayrit J. Verduzco-Gutierrez M. Teal A. Enhanced external counterpulsation as a novel treatment for post-acute COVID-19 sequelae Cureus 13 2021 e14358 10.7759/cureus.14358 PMC8110286 33987042
+
+[bb0020] Varanasi S. Sathyamoorthy M. Chamakura S. Management of Long-COVID postural orthostatic tachycardia syndrome with enhanced external counterpulsation Cureus 13 2021 e18398 10.7759/cureus.18398 PMC8555928 34729276
+
+[bb0025] Sackner M.A. Adams J.A. Endothelial pulsatile shear stress is a backstop for COVID-19 Emerg. Top Life Sci. 4 2020 379 387 10.1042/ETLS20200260 33200786 PMC7733673
+
+[bb0030] Nalbandian A. Sehgal K. Gupta A. Post-acute COVID-19 syndrome Nat. Med. 27 2021 601 615 10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[bb0035] Cunningham K. Gotlieb A. The role of shear stress in the pathogenesis of atherosclerosis Lab. Investig. 85 2005 9 23 10.1038/labinvest.3700215 15568038
+
+[bb0040] Hui J.C.K. Lawson W.E. Barsness G.W. EECP in the treatment of endothelial dysfunction: preventing progression of cardiovascular disease J. Geriatric Card. 7 2010 79 87
+
+[bb0045] Braith R.W. Conti R. Nichols W.W. Enhanced external counterpulsation improves peripheral artery flow-mediated dilation in patients with chronic angina: a randomized sham-controlled study Circulation 122 2010 1612 1620 10.1161/CIRCULATIONAHA.109.923482 20921442 PMC2963100
+
+[bb0050] Batysheva T.T. Pivovarchik E.M. Zaĭtsev K.A. The first use of external counterpulsation for the rehabilitation treatment of post-stroke patients Zhurnal Nevrologii i Psikhiatrii Imeni SS Korsakova. 109 2009 38 40 19672225

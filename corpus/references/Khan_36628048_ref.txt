@@ -1,0 +1,27 @@
+[REF1] Sequelae in Adults at 6 Months After COVID-19 Infection JAMA Netw Open Logue JK Franko NM McCulloch DJ McDonald D Magedson A Wolf CR Chu HY 0 4 2021 10.1001/jamanetworkopen.2021.0830 PMC7896197 33606031
+
+[REF2] Stellate Ganglion Blocks StatPearls Piraccini E Munakomi S Chang KV Treasure Island, FL StatPearls Publishing 2022 https://www.ncbi.nlm.nih.gov/books/NBK507798/ 29939575
+
+[REF3] Orthostatic symptoms and reductions in cerebral blood flow in long-haul COVID-19 patients: similarities with myalgic encephalomyelitis/chronic fatigue syndrome Medicina (Kaunas) Campen CL Rowe PC Visser FC 28 58 2021 35056336 10.3390/medicina58010028 PMC8778312
+
+[REF4] Stellate ganglion block reduces symptoms of Long COVID: A case series J Neuroimmunol Liu LD Duricka DL 577784 362 2022 34922127 10.1016/j.jneuroim.2021.577784 PMC8653406
+
+[REF5] Reflex control of immunity Nat Rev Immunol Tracey KJ 418 428 9 2009 19461672 10.1038/nri2566 PMC4535331
+
+[REF6] From inflammation to sickness and depression: when the immune system subjugates the brain Nat Rev Neurosci Dantzer R O'Connor JC Freund GG Johnson RW Kelley KW 46 56 9 2008 18073775 10.1038/nrn2297 PMC2919277
+
+[REF7] COVID-19 related olfactory dysfunction Curr Opin Otolaryngol Head Neck Surg Karamali K Elliott M Hopkins C 19 25 30 2022 34889850 10.1097/MOO.0000000000000783 PMC8711304
+
+[REF8] The temporal course of COVID-19 anosmia and relation to other clinical symptoms Eur Arch Otorhinolaryngol Altundag A Saatci O Sanli DE 1891 1897 278 2021 33237475 10.1007/s00405-020-06496-5 PMC7686554
+
+[REF9] Stellate ganglion block for anosmia and dysgeusia due to Long COVID Cureus Chauhan G Upadhyay A Khanduja S Emerick T 0 14 2022 10.7759/cureus.27779 PMC9450932 36106285
+
+[REF10] The optimal volume of 0.2% ropivacaine required for an ultrasound-guided stellate ganglion block Korean J Anesthesiol Jung G Kim BS Shin KB Park KB Kim SY Song SO 179 184 60 2011 21490819 10.4097/kjae.2011.60.3.179 PMC3071481
+
+[REF11] Stellate ganglion blockade for treating refractory electrical storm: a historical cohort study Can J Anaesth Reinertsen E Sabayon M Riso M Lloyd M Spektor B 1683 1689 68 2021 34312821 10.1007/s12630-021-02068-1
+
+[REF12] Ultrasound-guided bilateral stellate ganglion blockade to treat digital ischemia in a patient with sepsis: a case report Can J Anaesth Bataille B Nucci B Mora M Silva S Cocquet P 56 60 63 2016 26415545 10.1007/s12630-015-0503-z
+
+[REF13] Pain management of the oncologic patient Semin Surg Oncol Arter OE Racz GB 162 172 6 1990 2189196 10.1002/ssu.2980060307
+
+[REF14] Stellate ganglion local anesthetic blockade and neurolysis for the treatment of refractory ventricular fibrillation A A Case Rep Hulata DF Le-Wendling L Boezaart AP Hurley RW 49 51 4 2015 25730409 10.1213/XAA.0000000000000124

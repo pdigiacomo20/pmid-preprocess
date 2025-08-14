@@ -29,6 +29,7 @@ const ReferenceInput: React.FC = () => {
   const [currentJob, setCurrentJob] = useState<Job | null>(null);
   const [jobResults, setJobResults] = useState<JobResult[]>([]);
   const [error, setError] = useState('');
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const pollingInterval = useRef<NodeJS.Timeout | null>(null);
 
   // Clean up polling on component unmount
@@ -82,6 +83,7 @@ const ReferenceInput: React.FC = () => {
     }
 
     setError('');
+    setIsSubmitting(true);
     setCurrentJob(null);
     setJobResults([]);
 
@@ -103,10 +105,13 @@ const ReferenceInput: React.FC = () => {
         updated_at: new Date().toISOString()
       });
 
+      setIsSubmitting(false);
+
       // Start polling for job status
       startPolling(jobData.job_id);
 
     } catch (err: any) {
+      setIsSubmitting(false);
       setError(err.response?.data?.error || 'An error occurred while creating processing job.');
       console.error('Job creation error:', err);
     }
@@ -117,6 +122,7 @@ const ReferenceInput: React.FC = () => {
     setCurrentJob(null);
     setJobResults([]);
     setError('');
+    setIsSubmitting(false);
     
     // Stop any active polling
     if (pollingInterval.current) {
@@ -164,7 +170,7 @@ const ReferenceInput: React.FC = () => {
     }
   };
 
-  const isJobActive = currentJob && (currentJob.status === 'pending' || currentJob.status === 'processing');
+  const isJobActive = !!(currentJob && (currentJob.status === 'pending' || currentJob.status === 'processing')) || isSubmitting;
 
   return (
     <div className="reference-input">
@@ -189,7 +195,7 @@ const ReferenceInput: React.FC = () => {
         
         <div className="button-group">
           <button type="submit" disabled={isJobActive || !referencesText.trim()}>
-            {isJobActive ? 'Processing...' : 'Process References'}
+            {isSubmitting ? 'Starting Processing...' : isJobActive ? 'Processing...' : 'Process References'}
           </button>
           <button type="button" onClick={handleClear} disabled={isJobActive}>
             Clear
@@ -205,6 +211,34 @@ const ReferenceInput: React.FC = () => {
       {error && (
         <div className="error-message">
           <strong>Error:</strong> {error}
+        </div>
+      )}
+
+      {isSubmitting && (
+        <div className="job-status-section">
+          <h3>Initializing Processing</h3>
+          <div className="job-info">
+            <div className="job-header">
+              <span className="job-status" style={{ color: '#2196F3' }}>
+                ⏳ STARTING
+              </span>
+            </div>
+            <div className="progress-section">
+              <div className="progress-bar">
+                <div 
+                  className="progress-fill indeterminate" 
+                  style={{ 
+                    width: '100%',
+                    backgroundColor: '#2196F3',
+                    animation: 'indeterminate 2s infinite linear'
+                  }}
+                />
+              </div>
+              <div className="progress-text">
+                <span>Creating processing job and parsing references...</span>
+              </div>
+            </div>
+          </div>
         </div>
       )}
 

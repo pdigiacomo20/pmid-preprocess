@@ -1,0 +1,107 @@
+[CR1] Carfì, A., Bernabei, R., Landi, F., & for the Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent symptoms in patients after acute COVID-19.  JAMA 324 , 603–605 (2020). 10.1001/jama.2020.12603 PMC7349096 32644129
+
+[CR2] Nalbandian A Post-acute COVID-19 syndrome Nat. Med. 2021 27 601 615 10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[CR3] Premraj L Mid and long-term neurological and neuropsychiatric manifestations of post-COVID-19 syndrome: A meta-analysis J. Neurol. Sci. 2022 434 120162 10.1016/j.jns.2022.120162 35121209 PMC8798975
+
+[CR4] Rolin S Chakales A Verduzco-Gutierrez M Rehabilitation strategies for cognitive and neuropsychiatric manifestations of COVID-19 Curr. Phys. Med. Rehabil. Rep. 2022 10 182 187 10.1007/s40141-022-00352-9 35602927 PMC9107067
+
+[CR5] Mudd PA Targeted immunosuppression distinguishes COVID-19 from influenza in moderate and severe disease Preprint 2020 10.1101/2020.05.28.20115667
+
+[CR6] Ahamed J Laurence J Long COVID endotheliopathy: Hypothesized mechanisms and potential therapeutic approaches J. Clin. Invest. 2022 132 33 10.1172/JCI161167 PMC9337829 35912863
+
+[CR7] Herrera JE Multidisciplinary collaborative consensus guidance statement on the assessment and treatment of fatigue in postacute sequelae of SARS-CoV-2 infection (PASC) patients PM R 2021 13 1027 1043 10.1002/pmrj.12684 34346558 PMC8441628
+
+[CR8] Eilam-Stock T Telehealth transcranial direct current stimulation for recovery from post-acute sequelae of SARS-CoV-2 (PASC) Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2021 14 1520 1522 10.1016/j.brs.2021.10.381 PMC8514329 34655835
+
+[CR9] Lefaucheur J-P The treatment of fatigue by non-invasive brain stimulation Neurophysiol. Clin./Clin. Neurophysiol. 2017 47 173 184 10.1016/j.neucli.2017.03.003 28410876
+
+[CR10] Leffa DT Transcranial direct current stimulation improves long-term memory deficits in an animal model of attention-deficit/hyperactivity disorder and modulates oxidative and inflammatory parameters Brain Stimul. 2018 11 743 751 10.1016/j.brs.2018.04.001 29656905
+
+[CR11] Flöel A tDCS-enhanced motor and cognitive function in neurological diseases NeuroImage 2014 85 934 947 10.1016/j.neuroimage.2013.05.098 23727025
+
+[CR12] Hyde J Efficacy of neurostimulation across mental disorders: Systematic review and meta-analysis of 208 randomized controlled trials Mol. Psychiatry 2022 27 2709 2719 10.1038/s41380-022-01524-8 35365806 PMC8973679
+
+[CR13] Lefaucheur J-P Evidence-based guidelines on the therapeutic use of transcranial direct current stimulation (tDCS) Clin. Neurophysiol. 2017 128 56 92 10.1016/j.clinph.2016.10.087 27866120
+
+[CR14] Brunoni AR Transcranial direct current stimulation for acute major depressive episodes: Meta-analysis of individual patient data Br. J. Psychiatry 2016 208 522 531 10.1192/bjp.bp.115.164715 27056623 PMC4887722
+
+[CR15] Ferrucci R Transcranial direct current stimulation (tDCS) for fatigue in multiple sclerosis NeuroRehabilitation 2014 34 121 127 10.3233/NRE-131019 24284464
+
+[CR16] Chaudhuri A Behan PO Fatigue in neurological disorders Lancet 2004 363 978 988 10.1016/S0140-6736(04)15794-2 15043967
+
+[CR17] Okano AH Brain stimulation modulates the autonomic nervous system, rating of perceived exertion and performance during maximal exercise Br. J. Sports Med. 2015 49 1213 1218 10.1136/bjsports-2012-091658 23446641
+
+[CR18] Suchting R Colpo GD Rocha NP Ahn H The effect of transcranial direct current stimulation on inflammation in older adults with knee osteoarthritis: A Bayesian residual change analysis Biol. Res. Nurs. 2020 22 57 63 10.1177/1099800419869845 31416344 PMC7068751
+
+[CR19] Baptista AF Neuromodulation and inflammatory reflex: Perspectives on the use of non-invasive neuromodulation in the management of disorders related to COVID-19 Preprint 2020 10.2139/ssrn.3601048
+
+[CR20] Iseger TA van Bueren NER Kenemans JL Gevirtz R Arns M A frontal-vagal network theory for major depressive disorder: Implications for optimizing neuromodulation techniques Brain Stimul. 2020 13 1 9 10.1016/j.brs.2019.10.006 31668983
+
+[CR21] Dantzer R Neuroimmune interactions: From the brain to the immune system and vice versa Physiol. Rev. 2018 98 477 504 10.1152/physrev.00039.2016 29351513 PMC5866360
+
+[CR22] Simpson R Robinson L Rehabilitation after critical illness in people with COVID-19 infection Am. J. Phys. Med. Rehabil. 2020 99 470 10.1097/PHM.0000000000001443 32282359 PMC7253039
+
+[CR23] Gómez L Vidal B Cabrera Y Hernández L Rondón Y Successful treatment of post-COVID symptoms with transcranial direct current stimulation Prim. Care Companion CNS Disord. 2021 23 38522 10.4088/PCC.21cr03059 34861746
+
+[CR24] Oliver-Mas S Transcranial direct current stimulation for post-COVID fatigue: A randomized, double-blind, controlled pilot study Brain Commun. 2023 5 117 10.1093/braincomms/fcad117 PMC10116605 37091591
+
+[CR25] Santana K Non-invasive brain stimulation for fatigue in post-acute sequelae of SARS-CoV-2 (PASC) Brain Stimul. 2023 16 100 107 10.1016/j.brs.2023.01.1672 36693536 PMC9867562
+
+[CR26] Workman C Boles-Ponto L Kamholz J Bryant A Rudroff T Transcranial direct current stimulation and post-COVID-19-fatigue Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2021 14 1672 1673
+
+[CR27] Rudroff T Fietsam A Deters J Bryant A Kamholz J tDCS improves perceptions of fatigue in patients with post-COVID-19-symptoms that are less than 6 months post-infection Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2023 16 249
+
+[CR28] Brunoni AR Efficacy of transcranial direct current stimulation and cognitive training for the neurocognitive symptoms of long covid-19 Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2023 16 192
+
+[CR29] Vestito L Impact of tDCS on persistent COVID-19 olfactory dysfunction: A double-blind sham-controlled study J. Neurol. Neurosurg. Psychiatry 2023 94 87 88 10.1136/jnnp-2022-329162 35606106
+
+[CR30] Andrade SM Efficacy and safety of HD-tDCS and respiratory rehabilitation for critically ill patients with COVID-19. The HD-RECOVERY randomized clinical trial Brain Stimul. 2022 15 780 788 10.1016/j.brs.2022.05.006 35568312 PMC9093082
+
+[CR31] Pinto TP Prefrontal tDCS modulates autonomic responses in COVID-19 inpatients Brain Stimul. 2023 16 657 666 10.1016/j.brs.2023.03.001 36940750 PMC10027235
+
+[CR32] Shinjo SK Brunoni AR Okano AH Tanaka C Baptista AF Transcranial direct current stimulation relieves the severe anxiety of a patient with COVID-19 Brain Stimul. 2020 13 1352 1353 10.1016/j.brs.2020.07.004 32682750 PMC7366123
+
+[CR33] Cavendish BA Combination of transcranial direct current stimulation with online cognitive training improves symptoms of post-acute sequelae of COVID-19: A case series Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2022 15 1375 1377 10.1016/j.brs.2022.09.008 PMC9528061 36202328
+
+[CR34] Esmaeili L Ramezanpoor A The effectiveness of transcranial direct current stimulation of the brain (tDCS) on depressive syndrome in improved individuals from Covid-19 Neuropsychology 2022 8 49 58
+
+[CR35] Rosen AC TDCS in a patient with dreadlocks: Improvements in COVID-19 related verbal fluency dysfunction Brain Stimul. Basic Transl. Clin. Res. Neuromodul. 2022 15 254 256 10.1016/j.brs.2022.01.004 PMC8741329 35007779
+
+[CR36] Wysokiński A Szczepocka E Szczakowska A Improved cognitive performance, increased theta, alpha, beta and decreased delta powers after cognitive rehabilitation augmented with tDCS in a patient with post-COVID-19 cognitive impairment (brain-fog) Psychiatry Res. Case Rep. 2023 2 100164
+
+[CR37] Antal A Low intensity transcranial electric stimulation: Safety, ethical, legal regulatory and application guidelines Clin. Neurophysiol. 2017 128 1774 1809 10.1016/j.clinph.2017.06.001 28709880 PMC5985830
+
+[CR38] Kan RLD Effects of non-invasive brain stimulation in multiple sclerosis: Systematic review and meta-analysis Ther. Adv. Chronic Dis. 2022 13 20406223211069198 10.1177/20406223211069198 35126965 PMC8814979
+
+[CR39] Gonzalez-Garcia P From cell to symptoms: The role of SARS-CoV-2 cytopathic effects in the pathogenesis of COVID-19 and long COVID Int. J. Mol. Sci. 2023 24 8290 10.3390/ijms24098290 37175995 PMC10179575
+
+[CR40] Proal AD SARS-CoV-2 reservoir in post-acute sequelae of COVID-19 (PASC) Nat. Immunol. 2023 10.1038/s41590-023-01601-2 37667052
+
+[CR41] Mukaetova-Ladinska EB Kronenberg G Psychological and neuropsychiatric implications of COVID-19 Eur. Arch. Psychiatry Clin. Neurosci. 2021 271 235 248 10.1007/s00406-020-01210-2 33221936 PMC7680256
+
+[CR42] Turner S Long COVID: Pathophysiological factors and abnormalities of coagulation Trends Endocrinol. Metab. 2023 34 321 344 10.1016/j.tem.2023.03.002 37080828 PMC10113134
+
+[CR43] Burkhardt G 572. Transcranial direct current stimulation as add-on to selective serotonin reuptake inhibitors in adults with major depressive disorder: Results: from the depression DC trial Biol. Psychiatry 2023 93 S325 S326 10.1016/j.biopsych.2023.02.812
+
+[CR44] De Doncker W Ondobaka S Kuppuswamy A Effect of transcranial direct current stimulation on post-stroke fatigue J. Neurol. 2021 268 2831 2842 10.1007/s00415-021-10442-8 33598767 PMC8289762
+
+[CR45] Batsikadze G Moliadze V Paulus W Kuo M-F Nitsche MA Partially non-linear stimulation intensity-dependent effects of direct current stimulation on motor cortex excitability in humans J. Physiol. 2013 591 1987 2000 10.1113/jphysiol.2012.249730 23339180 PMC3624864
+
+[CR46] Hassanzahraee M Nitsche MA Zoghi M Jaberzadeh S Determination of anodal tDCS intensity threshold for reversal of corticospinal excitability: An investigation for induction of counter-regulatory mechanisms Sci. Rep. 2020 10 16108 10.1038/s41598-020-72909-4 32999375 PMC7527486
+
+[CR47] Forogh B Repeated sessions of transcranial direct current stimulation evaluation on fatigue and daytime sleepiness in Parkinson’s disease Neurol. Sci. 2017 38 249 254 10.1007/s10072-016-2748-x 27796604
+
+[CR48] Dong X-L A randomized controlled trial to explore the efficacy and safety of transcranial direct current stimulation on patients with post-stroke fatigue Medicine 2021 100 45 10.1097/MD.0000000000027504 PMC8519229 34731132
+
+[CR49] Chalah MA Effects of left DLPFC versus right PPC tDCS on multiple sclerosis fatigue J. Neurol. Sci. 2017 372 131 137 10.1016/j.jns.2016.11.015 28017199
+
+[CR50] Tecchio F Multiple sclerosis fatigue relief by bilateral somatosensory cortex neuromodulation J. Neurol. 2014 261 1552 1558 10.1007/s00415-014-7377-9 24854634
+
+[CR51] Tecchio F Brain plasticity effects of neuromodulation against multiple sclerosis fatigue Front. Neurol. 2015 6 42 10.3389/fneur.2015.00141 26191036 PMC4490242
+
+[CR52] Cancelli A Personalized, bilateral whole-body somatosensory cortex stimulation to relieve fatigue in multiple sclerosis Mult. Scler. 2018 24 1366 1374 10.1177/1352458517720528 28756744
+
+[CR53] Jamil A Systematic evaluation of the impact of stimulation intensity on neuroplastic after-effects induced by transcranial direct current stimulation J. Physiol. 2017 595 1273 1288 10.1113/JP272738 27723104 PMC5309387
+
+[CR54] Dobbs B Generalizing remotely supervised transcranial direct current stimulation (tDCS): Feasibility and benefit in Parkinson’s disease J. NeuroEng. Rehabil. 2018 15 114 10.1186/s12984-018-0457-9 30522497 PMC6284269

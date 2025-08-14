@@ -1,0 +1,153 @@
+[CR1] Alegría M O’Malley I Leveraging innovation in behavioral health treatment and its workforce Harvard Review of Psychiatry 2020 28 2 69 71 10.1097/HRP.0000000000000250 32134833
+
+[CR2] Allen J Photoplethysmography and its application in clinical physiological measurement Physiological Measurement 2007 28 3 R1 10.1088/0967-3334/28/3/R01 17322588
+
+[CR3] American Psychological Association Patient health questionnaire (PHQ-9 & PHQ-2) 2020 American Psychological Association
+
+[CR4] American Psychiatric Association Update on telehealth restrictions in response to COVID-19 2020 American Psychiatric Association
+
+[CR5] Anxiety and Depression Association of America Facts & statistics 2020 Anxiety and Depression Association of America
+
+[CR6] Barnett ML Huskamp HA Telemedicine for mental health in the United States: Making progress, still a long way to go Psychiatric Services 2020 71 2 197 198 10.1176/appi.ps.201900555 31847735 PMC7002192
+
+[CR7] Bishop TF Seirup JK Pincus HA Ross JS Population of US practicing psychiatrists declined, 2003–13, which may help explain poor access to mental health care Health Affairs (project Hope) 2016 35 7 1271 1277 10.1377/hlthaff.2015.1643 27385244
+
+[CR8] Brach T Radical compassion: Learning to love yourself and your world with the practice of RAIN 2020 Penguin Life
+
+[CR9] Brown TA Campbell LA Lehman CL Grisham JR Mancill RB Current and lifetime comorbidity of the DSM-IV anxiety and mood disorders in a large clinical sample Journal of Abnormal Psychology 2001 110 4 585 10.1037/0021-843X.110.4.585 11727948
+
+[CR10] Burch, J.B., Ginsberg, J.P., McLain, A.C., Franco, R., Stokes, S., Susko, K., ... Anderson, A. (2020). Symptom management among cancer survivors: Randomized pilot intervention trial of heart rate variability biofeedback.  Applied Psychophysiology and Biofeedback ,  45 (2), 99–108. 10.1007/s10484-020-09462-3 32358782
+
+[CR11] Carter RM Wittchen HU Pfister H Kessler RC One-year prevalence of subthreshold and threshold DSM-IV generalized anxiety disorder in a nationally representative sample Depression and Anxiety 2001 13 2 78 88 10.1002/da.1020 11301924
+
+[CR12] Cavanagh K Strauss C Cicconi F Griffiths N Wyper A Jones F A randomised controlled trial of a brief online mindfulness-based intervention Behaviour Research and Therapy 2013 51 9 573 578 10.1016/j.brat.2013.06.003 23872699
+
+[CR13] Centers for Disease Control and Prevention Health and economic costs of chronic diseases 2021 Centers for Disease Control and Prevention
+
+[CR14] Chalmers JA Quintana DS Abbott MJ Kemp AH Anxiety disorders are associated with reduced heart rate variability: A meta-analysis Frontiers in Psychiatry 2014 5 80 10.3389/fpsyt.2014.00080 25071612 PMC4092363
+
+[CR15] Charlot K Cornolo J Brugniaux JV Richalet JP Pichon A Interchangeability between heart rate and photoplethysmography variabilities during sympathetic stimulations Physiological Measurement 2009 30 12 1357 10.1088/0967-3334/30/12/005 19864707
+
+[CR16] Clark DM Anxiety disorders: Why they persist and how to treat them Behaviour Research and Therapy 1999 37 S5 S27 10.1016/S0005-7967(99)00048-0 10402694
+
+[CR17] Czeisler M Lane R Petrosky E Wiley J Christensen A Njai R Mental health, substance use, and suicidal ideation during the COVID-19 pandemic—United States, June 24–30, 2020 Morbidity and Mortality Weekly Report 2020 69 32 1049 10.15585/mmwr.mm6932a1 32790653 PMC7440121
+
+[CR18] David D Cristea I Hofmann SG Why cognitive behavioral therapy is the current gold standard of psychotherapy Frontiers in Psychiatry 2018 9 4 10.3389/fpsyt.2018.00004 29434552 PMC5797481
+
+[CR19] Devane CL Chiao E Franklin M Kruep EJ Anxiety disorders in the 21st century: Status, challenges, opportunities, and comorbidity with depression The American Journal of Managed Care 2005 11 12 Suppl S344 S353 16236016
+
+[CR20] Ettman CK Abdalla SM Cohen GH Sampson L Vivier PM Galea S Prevalence of depression symptoms in US adults before and during the COVID-19 pandemic JAMA Network Open 2020 3 9 e2019686 e2019686 10.1001/jamanetworkopen.2020.19686 32876685 PMC7489837
+
+[CR21] Firth J Torous J Nicholas J Carney R Rosenbaum S Sarris J Can smartphone mental health interventions reduce symptoms of anxiety? A meta-analysis of randomized controlled trials Journal of Affective Disorders 2017 218 15 22 10.1016/j.jad.2017.04.046 28456072
+
+[CR22] Fiskum C Psychotherapy beyond all the words: Dyadic expansion, vagal regulation, and biofeedback in psychotherapy Journal of Psychotherapy Integration 2019 29 4 412 425 10.1037/int0000174
+
+[CR23] Gao, K., Wang, Z., Chen, J., Kemp, D. E., Chan, P. K., Conroy, C. M., ... Calabrese, J. R. (2013). Should an assessment of Axis I comorbidity be included in the initial diagnostic assessment of mood disorders? Role of QIDS-16-SR total score in predicting number of Axis I comorbidity.  Journal of Affective Disorders ,  148 (2–3), 256–264. 10.1016/j.jad.2012.12.004 10.1016/j.jad.2012.12.004 23273550
+
+[CR24] Gevirtz R The promise of heart rate variability biofeedback: Evidence-based applications Biofeedback 2013 41 3 110 120 10.5298/1081-5937-41.3.01
+
+[CR25] Gharbo, R.S., Bagherpour, R., & Lazarus, N. (2019).  Untangling chronic pain and hyperarousal with heart rate variability: A case report . Retrieved from  https://www.practicalpainmanagement.com/treatments/interventional/untangling-chronic-pain-hyperarousal-heart-rate-variability-case-report
+
+[CR26] Gharbo RS Autonomic rehabilitation: Adapting to change Physical Medicine and Rehabilitation Clinics 2020 31 4 633 648 32981583 10.1016/j.pmr.2020.07.003
+
+[CR27] Gilbert C Moss D Moss D McGrady A Davies T Wickramaskera I Biofeedback and biological monitoring Handbook of mind-body medicine in primary care: Behavioral and physiological tools 2003 Sage 109 122
+
+[CR28] Ginsberg J Nagpal M Fortin GE-B Disruption of bradycardia during vigilance: Autonomic cardiac dysregulation is prelude to disinhibition, hyper-arousal, and attention bias in combat veterans with PTSD A multidimensional approach to post-traumatic stress disorder—From theory to practice 2016 IntechOpen
+
+[CR29] Goessl VC Curtiss JE Hofmann SG The effect of heart rate variability biofeedback training on stress and anxiety: A meta-analysis Psychological Medicine 2017 47 15 2578 2586 10.1017/S0033291717001003 28478782
+
+[CR30] Henriques G Keffer S Abrahamson C Horst SJ Exploring the effectiveness of a computer-based heart rate variability biofeedback program in reducing anxiety in college students Applied Psychophysiology and Biofeedback 2011 36 2 101 112 10.1007/s10484-011-9151-4 21533678
+
+[CR31] Hilty DM Ferrer DC Parish MB Johnston B Callahan EJ Yellowlees PM The effectiveness of telemental health: A 2013 review Telemedicine Journal and E-Health 2013 19 6 444 454 10.1089/tmj.2013.0075 23697504 PMC3662387
+
+[CR32] Hirschfeld RM The comorbidity of major depression and anxiety disorders: Recognition and management in primary care Primary Care Companion to the Journal of Clinical Psychiatry 2001 3 6 244 10.4088/pcc.v03n0609 15014592 PMC181193
+
+[CR33] Hofmann SG Sawyer AT Fang A Asnaani A Emotion dysregulation model of mood and anxiety disorders Depression and Anxiety 2012 29 5 409 416 10.1002/da.21888 22430982
+
+[CR34] Hoge, E.A., Bui, E., Marques, L., Metcalf, C.A., Morris, L.K., Robinaugh, D.J., ... Simon, N.M. (2013). Randomized controlled trial of mindfulness meditation for generalized anxiety disorder: Effects on anxiety and stress reactivity.  The Journal of Clinical Psychiatry ,  74 (8), 786. 10.4088/JCP.12m08083 10.4088/JCP.12m08083 PMC3772979 23541163
+
+[CR35] Hunkin H King DL Zajac IT Wearable devices as adjuncts in the treatment of anxiety-related symptoms: A narrative review of five device modalities and implications for clinical practice Clinical Psychology: Science and Practice 2019 26 3 e12290 10.1111/cpsp.12290
+
+[CR36] Jazaieri H Goldin PR Werner K Ziv M Gross JJ A randomized trial of mindfulness-based stress reduction versus aerobic exercise for social anxiety disorder Journal of Clinical Psychology 2012 68 7 715 731 10.1002/jclp.21863 22623316 PMC4136448
+
+[CR37] Jelinek HF Khandoker AH Reducing suicidal ideation by biofeedback-guided respiration—Heart rate coherence Digital Psychiatry 2020 3 1 1 11 10.1080/2575517X.2020.1732733
+
+[CR38] Jimenez DE Bartels SJ Cardenas V Alegría M Stigmatizing attitudes toward mental illness among racial/ethnic older adults in primary care International Journal of Geriatric Psychiatry 2013 28 10 1061 1068 10.1002/gps.3928 23361866 PMC3672370
+
+[CR39] Johns Hopkins Medicine Electrocardiogram 2021 Johns Hopkins Medicine
+
+[CR40] Katon W Panic disorder: Relationship to high medical utilization, unexplained physical symptoms, and medical costs The Journal of Clinical Psychiatry 1996 57 Suppl 10 11 18 10.1016/0002-9343(92)90130-4 8917128
+
+[CR41] Kim HG Cheon EJ Bai DS Lee YH Koo BH Stress and heart rate variability: A meta-analysis and review of the literature Psychiatry Investigation 2018 15 3 235 10.30773/pi.2017.08.17 29486547 PMC5900369
+
+[CR42] Kroenke K Spitzer RL Williams JB The patient health questionnaire-2: Validity of a two-item depression screener Medical Care 2003 10.1097/01.MLR.0000093487.78664.3C 14583691
+
+[CR43] Kroenke K Spitzer RL Williams JB Monahan PO Löwe B Anxiety disorders in primary care: Prevalence, impairment, comorbidity, and detection Annals of Internal Medicine 2007 146 5 317 325 10.7326/0003-4819-146-5-200703060-00004 17339617
+
+[CR44] Lee J Kim JK Wachholtz A The benefit of heart rate variability biofeedback and relaxation training in reducing trait anxiety The Korean Journal of Health Psychology 2015 20 2 391 408 10.17315/kjhp.2015.20.2.002 27099546 PMC4835037
+
+[CR45] Lehrer P How does heart rate variability biofeedback work? Resonance, the baroreflex, and other mechanisms Biofeedback 2013 41 1 26 31 10.5298/1081-5937-41.1.02
+
+[CR46] Lehrer PM Gevirtz R Heart rate variability biofeedback: How and why does it work? Frontiers in Psychology 2014 5 756 10.3389/fpsyg.2014.00756 25101026 PMC4104929
+
+[CR47] Lehrer P Kaur K Sharma A Shah K Huseby R Bhavsar J Zhang Y Heart rate variability biofeedback improves emotional and physical health and performance: A systematic review and meta analysis Applied Psychophysiology and Biofeedback 2020 10.1007/s10484-020-09466-z 32385728
+
+[CR48] Löwe B Kroenke K Gräfe K Detecting and monitoring depression with a two-item questionnaire (PHQ-2) Journal of Psychosomatic Research 2005 58 2 163 171 10.1016/j.jpsychores.2004.09.006 15820844
+
+[CR49] Mace S Boccanelli A Dormond M The use of telehealth within behavioral health settings: Utilization, opportunities, and challenges 2018 Behavioral Health Workforce Research Center
+
+[CR50] Manea, L., Gilbody, S., Hewitt, C., North, A., Plummer, F., Richardson, R., ... McMillan, D. (2016). Identifying depression with the PHQ-2: A diagnostic meta-analysis.  Journal of Affective Disorders ,  203 , 382–395. 10.1016/j.jad.2016.06.003 10.1016/j.jad.2016.06.003 27371907
+
+[CR51] Marcus SC Olfson M Pincus HA Shear MK Zarin DA Self-reported anxiety, general medical conditions, and disability bed days American Journal of Psychiatry 1997 154 12 1766 1768 10.1176/ajp.154.12.1766 9396962
+
+[CR52] Mental Health Weekly Kaiser Permanente reaches settlement in class action lawsuit 2018 Mental Health Weekly
+
+[CR53] Mojtabai R Americans’ attitudes toward mental health treatment seeking: 1990–2003 Psychiatric Services 2007 58 5 642 651 10.1176/ps.2007.58.5.642 17463345
+
+[CR54] National Council for Behavioral Health The psychiatric shortage: Causes and solutions 2017 National Council for Behavioral Health
+
+[CR55] National Institute of Mental Health Prevalence of any anxiety disorder among adults 2017 National Institute of Mental Health
+
+[CR56] National Institute of Mental Health Prevalence of major depressive episode among adults 2019 National Institute of Mental Health
+
+[CR57] National Institute of Mental Health Treatment of major depressive episode among adults 2019 National Institute of Mental Health
+
+[CR58] Peira N Pourtois G Fredrikson M Learned cardiac control with heart rate biofeedback transfers to emotional reactions PLoS ONE 2013 8 7 e70004 10.1371/journal.pone.0070004 23894574 PMC3720933
+
+[CR59] Petrowski K Wichmann S Siepmann T Wintermann GB Bornstein SR Siepmann M Effects of mental stress induction on heart rate variability in patients with panic disorder Applied Psychophysiology and Biofeedback 2017 42 2 85 94 10.1007/s10484-016-9346-9 27889892
+
+[CR60] Plummer F Manea L Trepel D McMillan D Screening for anxiety disorders with the GAD-7 and GAD-2: A systematic review and diagnostic meta-analysis General Hospital Psychiatry 2016 39 24 31 10.1016/j.genhosppsych.2015.11.005 26719105
+
+[CR61] Remes O Brayne C Van Der Linde R Lafortune L A systematic review of reviews on the prevalence of anxiety disorders in adult populations Brain and Behavior 2016 6 7 e00497 10.1002/brb3.497 27458547 PMC4951626
+
+[CR62] Robinson WD Springer PR Bischoff R Geske J Backer E Olson M Jarzynka K Swinton J Rural experiences with mental illness: Through the eyes of patients and their families Families, Systems, & Health 2012 30 4 308 321 10.1037/a0030171 23088821
+
+[CR63] Rüsch, N., Evans-Lacko, S. E., Henderson, C., Flach, C., & Thornicroft, G. (2011). Knowledge and attitudes as predictors of intentions to seek help for and disclose a mental illness.  Psychiatric Services, 62 (6), 675–678. 10.1176/ps.62.6.pss6206_0675 10.1176/ps.62.6.pss6206_0675 21632739
+
+[CR64] Salari, N., Hosseinian-Far, A., Jalali, R., Vaisi-Raygani, A., Rasoulpoor, S., Mohammadi, M., ... Khaledi-Paveh, B. (2020). Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: A systematic review and meta-analysis.  Globalization and Health ,  16 (1), 1–11. 10.1186/s12992-020-00589-w. 10.1186/s12992-020-00589-w PMC7338126 32631403
+
+[CR65] Schäfer A Vagedes J How accurate is pulse rate variability as an estimate of heart rate variability? A review on studies comparing photoplethysmographic technology with an electrocardiogram International Journal of Cardiology 2013 166 1 15 29 10.1016/j.ijcard.2012.03.119 22809539
+
+[CR66] Schoenberg PL David AS Biofeedback for psychiatric disorders: A systematic review Applied Psychophysiology and Biofeedback 2014 39 2 109 135 10.1007/s10484-014-9246-9 24806535
+
+[CR67] Schwartz M Andrasik F Biofeedback: A practitioner’s guide 2003 3 Guilford
+
+[CR68] Shaffer F Moss D Yuan C-S Bieber EJ Bauer BA Biofeedback Textbook of complementary and alternative medicine 2006 2 Informa Healthcare 291 312
+
+[CR69] Singh N Moneghetti KJ Christle JW Hadley D Froelicher V Plews D Heart rate variability: an old metric with new meaning in the era of using mhealth technologies for health and exercise training guidance. Part two: Prognosis and training Arrhythmia & Electrophysiology Review 2018 7 4 247 10.15420/aer.2018.30.2 30588312 PMC6304793
+
+[CR70] Substance Abuse and Mental Health Services Administration Using technology-based therapeutic tools in behavioral health services (SMA-15-4924) 2015 Substance Abuse and Mental Health Services Administration 26889536
+
+[CR71] Totten, A.M., Womack, D.M., Eden, K.B., McDonagh, M.S., Griffin, J.C., Grusing, S., & Hersh, W.R. (2016). Agency for healthcare research and quality (Technical Briefs, No. 26.)  Telehealth: Mapping the evidence for patient outcomes from systematic reviews . Retrieved from  https://www.ncbi.nlm.nih.gov/books/NBK379320/ 27536752
+
+[CR72] Twenge JM Joiner TE US Census Bureau-assessed prevalence of anxiety and depressive symptoms in 2019 and during the 2020 COVID-19 pandemic Depression and Anxiety 2020 37 10 954 956 10.1002/da.23077 32667081 PMC7405486
+
+[CR73] U.S. Department of Health and Human Services Telehealth: Delivering care safely during COVID-19 2020 U.S. Department of Health and Human Services
+
+[CR74] U.S. Department of Health and Human Services, Health Resources and Services Administration, Bureau of Health Workforce, National Center for Health Workforce Analysis National projections of supply and demand for behavioral health practitioners 2016 U.S. Department of Health and Human Services, Health Resources and Services Administration, Bureau of Health Workforce, National Center for Health Workforce Analysis
+
+[CR75] Van Der Zwan JE De Vente W Huizink AC Bögels SM De Bruin EI Physical activity, mindfulness meditation, or heart rate variability biofeedback for stress reduction: A randomized controlled trial Applied Psychophysiology and Biofeedback 2015 40 4 257 268 10.1007/s10484-015-9293-x 26111942 PMC4648965
+
+[CR76] Vesga-López O Schneier FR Wang S Heimberg RG Liu SM Hasin DS Blanco C Gender differences in generalized anxiety disorder: Results from the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) The Journal of Clinical Psychiatry 2008 69 10 1606 1616 10.4088/JCP.v69n1011 19192444 PMC4765378
+
+[CR77] Young H Benton D Heart-rate variability: A biomarker to study the influence of nutrition on physiological and psychological health? Behavioural Pharmacology 2018 29 140 151 10.1097/FBP.0000000000000383 29543648 PMC5882295

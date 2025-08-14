@@ -1,0 +1,251 @@
+[R1] Statistics Canada .  Long-term symptoms in Canadian adults who tested positive for COVID-19 or suspected an infection, January 2020 to August 2022 ,  2022 .  Available :  https://www150.statcan.gc.ca/n1/daily-quotidien/221017/dq221017b-eng.pdf  [Accessed  24 Feb 2023 ].
+
+[R2] National Center for Health Statistics .  Long COVID household pulse survey .  Available :  www.cdc.gov/nchs/covid19/pulse/long-covid.htm  [Accessed  1 Oct 2023 ].
+
+[R3] Adjaye-Gbewonyo D ,  Vahratian A ,  Perrine CG ,  et al .  Key findings Data from the National Health Interview Survey What percentage of adults ever had Long COVID or currently have Long COVID, and did it differ by sex? ,  Available :  https://www.cdc.gov/nchs/products/index.htm
+
+[R4] Ballouz T ,  Menges D ,  Anagnostopoulos A ,  et al .  Recovery and symptom Trajectories up to two years after SARS-Cov-2 infection: population based, longitudinal cohort study .  BMJ 2023 ; 381 : e074425 .  10.1136/bmj-2022-074425 37257891 PMC10230608
+
+[R5] Davis HE ,  McCorkell L ,  Vogel JM ,  et al .  Long COVID: major findings, mechanisms and recommendations .  Nat Rev Microbiol 2023 ; 21 : 133 – 46 .  10.1038/s41579-022-00846-2 36639608 PMC9839201
+
+[R6] Subramanian A ,  Nirantharakumar K ,  Hughes S ,  et al .  Symptoms and risk factors for long COVID in non-hospitalized adults .  Nat Med 2022 ; 28 : 1706 – 14 .  10.1038/s41591-022-01909-w 35879616 PMC9388369
+
+[R7] Long COVID: let patients help define long-lasting COVID symptoms .  Nature 2020 ; 586 : 170 .  10.1038/d41586-020-02796-2 33029005
+
+[R8] Sigfrid L ,  Drake TM ,  Pauley E ,  et al .  Long Covid in adults discharged from UK hospitals after COVID-19: A prospective, Multicentre cohort study using the ISARIC WHO clinical Characterisation protocol .  Lancet Reg Health Eur 2021 ; 8 : 100186 .  10.1016/j.lanepe.2021.100186 34386785 PMC8343377
+
+[R9] Centers for Disease Control and Prevention .  Post-COVID Conditions: Information for Healthcare Providers ,  2022 .  Available :  https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-conditions.html  [Accessed  30 Apr 2023 ].
+
+[R10] Callard F ,  Perego E .  How and why patients made long Covid .  Soc Sci Med 2021 ; 268 : 113426 .  10.1016/j.socscimed.2020.113426 33199035 PMC7539940
+
+[R11] Soriano JB ,  Murthy S ,  Marshall JC ,  et al .  A clinical case definition of post-COVID-19 condition by a Delphi consensus .  Lancet Infect Dis 2022 ; 22 : e102 – 7 .  10.1016/S1473-3099(21)00703-9 34951953 PMC8691845
+
+[R12] Macpherson K ,  Cooper K ,  Harbour J ,  et al .  Experiences of living with long COVID and of Accessing Healthcare services: A qualitative systematic review .  BMJ Open 2022 ; 12 : e050979 .  10.1136/bmjopen-2021-050979 PMC8753091 35017239
+
+[R13] Walker S ,  Goodfellow H ,  Pookarnjanamorakot P ,  et al .  Impact of fatigue as the primary determinant of functional limitations among patients with post-COVID-19 syndrome: A cross-sectional observational study .  BMJ Open 2023 ; 13 : e069217 .  10.1136/bmjopen-2022-069217 PMC10335413 37286327
+
+[R14] Perlis RH ,  Santillana M ,  Ognyanova K ,  et al .  Prevalence and correlates of long COVID symptoms among US adults .  JAMA Netw Open 2022 ; 5 : e2238804 .  10.1001/jamanetworkopen.2022.38804 36301542 PMC9614581
+
+[R15] Thaweethai T ,  Jolley SE ,  Karlson EW ,  et al .  Development of a definition of Postacute sequelae of SARS-Cov-2 infection .  JAMA 2023 ; 329 : 1934 .  10.1001/jama.2023.8823 37278994 PMC10214179
+
+[R16] Davis HE ,  Assaf GS ,  McCorkell L ,  et al .  Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  EClinicalMedicine 2021 ; 38 : 101019 .  10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[R17] Naik H ,  Shao S ,  Tran KC ,  et al .  Evaluating fatigue in patients recovering from COVID-19: validation of the fatigue severity scale and single item screening questions .  Health Qual Life Outcomes 2022 ; 20 : 170 .  10.1186/s12955-022-02082-x 36575437 PMC9792925
+
+[R18] Leite LC ,  Carvalho L ,  Queiroz DM de ,  et al .  Can the post-COVID-19 functional status scale discriminate between patients with different levels of fatigue, quality of life and functional performance Pulmonology 2022 ; 28 : 220 – 3 .  10.1016/j.pulmoe.2022.01.001 35120866 PMC8752288
+
+[R19] Aiyegbusi OL ,  Hughes SE ,  Turner G ,  et al .  Symptoms, complications and management of long COVID: a review .  J R Soc Med 2021 ; 114 : 428 – 42 .  10.1177/01410768211032850 34265229 PMC8450986
+
+[R20] Magel T ,  Meagher E ,  Boulter T ,  et al .  Fatigue presentation, severity, and related outcomes in a prospective cohort following post-COVID-19 hospitalization in British Columbia .  Front Med (Lausanne) 2023 ; 10 : 1179783 .  10.3389/fmed.2023.1179783 37457578 PMC10344448
+
+[R21] Bonilla H ,  Peluso MJ ,  Rodgers K ,  et al .  Therapeutic trials for long COVID-19: A call to action from the interventions Taskforce of the RECOVER initiative .  Front Immunol 2023 ; 14 .  10.3389/fimmu.2023.1129459 PMC10034329 36969241
+
+[R22] Jamoulle M ,  Louazon E ,  Antonacci T ,  et al .  Long COVID needs novel clinical trials .  Nature 2024 ; 626 : 954 .  10.1038/d41586-024-00560-4 38413755
+
+[R23] Wong AW ,  Tran KC ,  Binka M ,  et al .  Use of latent class analysis and patient reported outcome measures to identify distinct long COVID phenotypes: A longitudinal cohort study .  PLoS ONE 2023 ; 18 : e0286588 .  10.1371/journal.pone.0286588 37267379 PMC10237387
+
+[R24] Zhang H ,  Zang C ,  Xu Z ,  et al .  Data-driven identification of post-acute SARS-Cov-2 infection Subphenotypes .  Nat Med 2023 ; 29 : 226 – 35 .  10.1038/s41591-022-02116-3 36456834 PMC9873564
+
+[R25] Bonilla H ,  Quach TC ,  Tiwari A ,  et al .  Myalgic Encephalomyelitis/ chronic fatigue syndrome is common in post-acute sequelae of SARS-Cov-2 infection (PASC): results from a post-COVID-19 Multidisciplinary clinic .  Front Neurol 2023 ; 14 .  10.3389/fneur.2023.1090747 PMC9998690 36908615
+
+[R26] Décary S ,  Gaboury I ,  Poirier S ,  et al .  Humility and acceptance: working within our limits with long COVID and Myalgic Encephalomyelitis/ chronic fatigue syndrome .  J Orthop Sports Phys Ther 2021 ; 51 : 197 – 200 .  10.2519/jospt.2021.0106 33930983
+
+[R27] Wong TL ,  Weitzer DJ .  Long COVID and Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS)-A systemic review and comparison of clinical presentation and Symptomatology .  Medicina 2021 ; 57 : 418 .  10.3390/medicina57050418 33925784 PMC8145228
+
+[R28] Komaroff AL ,  Bateman L .  Will COVID-19 lead to Myalgic Encephalomyelitis/chronic fatigue syndrome .  Front Med (Lausanne) 2020 ; 7 : 606824 .  10.3389/fmed.2020.606824 33537329 PMC7848220
+
+[R29] Brown DA ,  O’Brien KK .  Conceptualising long COVID as an episodic health condition .  BMJ Glob Health 2021 ; 6 : e007004 .  10.1136/bmjgh-2021-007004 PMC8460526 34551971
+
+[R30] Goodman BP ,  Khoury JA ,  Blair JE ,  et al .  COVID-19 Dysautonomia .  Front Neurol 2021 ; 12 : 624968 .  10.3389/fneur.2021.624968 33927679 PMC8076737
+
+[R31] Nacul L ,  O’Boyle S ,  Palla L ,  et al .  How Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS) progresses: the natural history of ME/CFS .  Front Neurol 2020 ; 11 : 826 .  10.3389/fneur.2020.00826 32849252 PMC7431524
+
+[R32] Johnston S ,  Brenu EW ,  Staines DR ,  et al .  The adoption of chronic fatigue syndrome/Myalgic Encephalomyelitis case definitions to assess prevalence: A systematic review .  Ann Epidemiol 2013 ; 23 : 371 – 6 .  10.1016/j.annepidem.2013.04.003 23683713
+
+[R33] Institute of Medicine (U.S.) .  Committee on the diagnostic criteria for Myalgic Encephalomyelitis/chronic fatigue syndrome, Institute of medicine (U.S.). board on the health of select populations. beyond Myalgic Encephalomyelitis/chronic fatigue syndrome: redefining an illness .
+
+[R34] Lacerda EM ,  Geraghty K ,  Kingdon CC ,  et al .  A logistic regression analysis of risk factors in ME/CFS pathogenesis .  BMC Neurol 2019 ; 19 : 275 .  10.1186/s12883-019-1468-2 31699051 PMC6839177
+
+[R35] Perrin R ,  Riste L ,  Hann M ,  et al .  Into the looking glass: post-viral syndrome post COVID-19 .  Medical Hypotheses 2020 ; 144 : 110055 .  10.1016/j.mehy.2020.110055 32758891 PMC7320866
+
+[R36] Lyons D ,  Frampton M ,  Naqvi S ,  et al .  Fallout from the COVID-19 pandemic-should we prepare for a tsunami of post viral depression Ir J Psychol Med 2020 ; 37 : 295 – 300 .  10.1017/ipm.2020.40 32408926 PMC7431842
+
+[R37] Campos MC ,  Nery T ,  Starke AC ,  et al .  Post-viral fatigue in COVID-19: A review of symptom assessment methods, mental, cognitive, and physical impairment .  Neurosci Biobehav Rev 2022 ; 142 : 104902 .  10.1016/j.neubiorev.2022.104902 36202253 PMC9528075
+
+[R38] Legler AF ,  Meyer-Arndt L ,  Mödl L ,  et al .  Symptom persistence and biomarkers in post-COVID-19/chronic fatigue syndrome – results from a prospective observational cohort .  Neurology  [ Preprint ]  2023 .  10.1101/2023.04.15.23288582 PMC10469383 37662515
+
+[R39] Bonilla H ,  Tian L ,  Marconi VC ,  et al .  Low-dose Naltrexone use for the management of post-acute sequelae of COVID-19 .  International Immunopharmacology 2023 ; 124 : 110966 .  10.1016/j.intimp.2023.110966 37804660 PMC11028858
+
+[R40] O’Kelly B ,  Vidal L ,  McHugh T ,  et al .  Safety and efficacy of low dose Naltrexone in a long Covid cohort; an Interventional pre-post study .  Brain Behav Immun Health 2022 ; 24 : 100485 .  10.1016/j.bbih.2022.100485 35814187 PMC9250701
+
+[R41] Srivastava AB ,  Gold MS .  Naltrexone: A history and future directions .  Cerebrum 2018 ; 2018 : cer-13-18 . PMC6353110 30746025
+
+[R42] Product monograph: Apo-Naltrexone .  Toronto ,  2015 .
+
+[R43] Toljan K ,  Vrooman B .  Low-dose Naltrexone (LDN)-Review of therapeutic utilization .  Medical Sciences 2018 ; 6 : 82 .  10.3390/medsci6040082 30248938 PMC6313374
+
+[R44] Parker CE ,  Nguyen TM ,  Segal D ,  et al .  Low dose Naltrexone for induction of remission in Crohn’s disease .  Cochrane Database Syst Rev 2018 ; 4 : CD010410 .  10.1002/14651858.CD010410.pub3 29607497 PMC6494424
+
+[R45] Bolton MJ ,  Chapman BP ,  Van Marwijk H .  Low-dose Naltrexone as a treatment for chronic fatigue syndrome .  BMJ Case Rep 2020 ; 13 : e232502 .  10.1136/bcr-2019-232502 PMC6954765 31911410
+
+[R46] Polo O ,  Pesonen P ,  Tuominen E .  Low-dose Naltrexone in the treatment of Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS) .  Fatigue: Biomedicine, Health & Behavior 2019 ; 7 : 207 – 17 .  10.1080/21641846.2019.1692770
+
+[R47] Cree BAC ,  Kornyeyeva E ,  Goodin DS .  Pilot trial of low-dose Naltrexone and quality of life in multiple sclerosis .  Ann Neurol 2010 ; 68 : 145 – 50 .  10.1002/ana.22006 20695007
+
+[R48] Hatfield E ,  Phillips K ,  Swidan S ,  et al .  Use of low-dose Naltrexone in the management of chronic pain conditions: A systematic review .  J Am Dent Assoc 2020 ; 151 : 891 – 902 .  10.1016/j.adaj.2020.08.019 33228882
+
+[R49] Aitcheson N ,  Lin Z ,  Tynan K .  Focus | research low-dose Naltrexone in the treatment of Fibromyalgia A systematic review and narrative synthesis .  Aust J Gen Pract 2023 ; 52 : 189 – 95 .  10.31128/AJGP-09-22-6564 37021443
+
+[R50] Bruun KD ,  Amris K ,  Vaegter HB ,  et al .  Low-dose Naltrexone for the treatment of Fibromyalgia: protocol for a double-blind, randomized, placebo-controlled trial .  Trials 2021 ; 22 : 804 .  10.1186/s13063-021-05776-7 34781989 PMC8591911
+
+[R51] Younger J ,  Noor N ,  McCue R ,  et al .  Low-dose Naltrexone for the treatment of Fibromyalgia: findings of a small, randomized, double-blind, placebo-controlled, counterbalanced, crossover trial assessing daily pain levels .  Arthritis Rheum 2013 ; 65 : 529 – 38 .  10.1002/art.37734 23359310
+
+[R52] Patten DK ,  Schultz BG ,  Berlau DJ .  The safety and efficacy of low-dose Naltrexone in the management of chronic pain and inflammation in multiple sclerosis, Fibromyalgia, Crohn’s disease, and other chronic pain disorders .  Pharmacotherapy 2018 ; 38 : 382 – 9 .  10.1002/phar.2086 29377216
+
+[R53] Driver CN ,  D’Souza RS .  Efficacy of low-dose Naltrexone and predictors of treatment success or discontinuation in Fibromyalgia and other chronic pain conditions: A fourteen-year, enterprise-wide retrospective analysis .  Biomedicines 2023 ; 11 : 1087 .  10.3390/biomedicines11041087 37189705 PMC10135963
+
+[R54] Colomer-Carbonell A ,  Sanabria-Mazo JP ,  Hernández-Negrín H ,  et al .  Study protocol for a randomised, double-blinded, placebo-controlled phase III trial examining the add-on efficacy, cost-utility and Neurobiological effects of low-dose Naltrexone (LDN) in patients with Fibromyalgia (INNOVA study) .  BMJ Open 2022 ; 12 : e055351 .  10.1136/bmjopen-2021-055351 PMC8739052 34992118
+
+[R55] Ekelem C ,  Juhasz M ,  Khera P ,  et al .  Utility of Naltrexone treatment for chronic inflammatory Dermatologic conditions: A systematic review .  JAMA Dermatol 2019 ; 155 : 229 – 36 .  10.1001/jamadermatol.2018.4093 30484835
+
+[R56] Mischoulon D ,  Hylek L ,  Yeung AS ,  et al .  Randomized, proof-of-concept trial of low dose Naltrexone for patients with breakthrough symptoms of major depressive disorder on antidepressants .  J Affect Disord 2017 ; 208 : 6 – 14 .  10.1016/j.jad.2016.08.029 27736689
+
+[R57] Due Bruun K ,  Christensen R ,  Amris K ,  et al .  Naltrexone 6 mg once daily versus placebo in women with Fibromyalgia: a randomised, double-blind, placebo-controlled trial .  Lancet Rheumatol 2024 ; 6 : e31 – 9 .  10.1016/S2665-9913(23)00278-3 38258677
+
+[R58] Kumari R ,  Kareem ZY ,  McLaughlin PJ .  Acute low dose Naltrexone increases Β-Endorphin and promotes neuronal recovery following hypoxia-ischemic stroke in Type-2 diabetic mice .  Neurochem Res 2023 ; 48 : 2835 – 46 .  10.1007/s11064-023-03938-4 37166576
+
+[R59] Panerai AE ,  Vecchiet J ,  Panzeri P ,  et al .  Panerai Chronjourpain 2001 peripheral blood mononuclear cell Β-Endorphin concentration is decreased in chronic fatigue syndrome and Fibromyalgia but not in depression_ preliminary report .  The Clinical Journal of Pain 2002 ; 18 : 270 – 3 .  10.1097/00002508-200207000-00008 12131069
+
+[R60] Cant R ,  Dalgleish AG ,  Allen RL .  Naltrexone inhibits IL-6 and TNFα production in human immune cell Subsets following stimulation with ligands for intracellular toll-like receptors .  Front Immunol 2017 ; 8 : 809 .  10.3389/fimmu.2017.00809 28744288 PMC5504148
+
+[R61] Hutchinson MR ,  Zhang Y ,  Brown K ,  et al .  Non-stereoselective reversal of neuropathic pain by naloxone and Naltrexone: involvement of toll-like receptor 4 (Tlr4) .  Eur J Neurosci 2008 ; 28 : 20 – 9 .  10.1111/j.1460-9568.2008.06321.x 18662331 PMC2588470
+
+[R62] Kučić N ,  Rački V ,  Šverko R ,  et al .  Immunometabolic Modulatory role of Naltrexone in Bv‐2 Microglia cells .  IJMS 2021 ; 22 : 8429 .  10.3390/ijms22168429 34445130 PMC8395119
+
+[R63] Kwilasz AJ ,  Todd LS ,  Duran-Malle JC ,  et al .  Experimental autoimmune encephalopathy (EAE)-Induced hippocampal Neuroinflammation and memory deficits are prevented with the non-opioid Tlr2/Tlr4 antagonist (+)-Naltrexone .  Behav Brain Res 2021 ; 396 : 112896 .  10.1016/j.bbr.2020.112896 32905811 PMC7572683
+
+[R64] Schultheiß C ,  Willscher E ,  Paschold L ,  et al .  The IL-1Β, IL-6, and TNF cytokine Triad is associated with post-acute sequelae of COVID-19 .  Cell Rep Med 2022 ; 3 : 100663 .  10.1016/j.xcrm.2022.100663 35732153 PMC9214726
+
+[R65] Braga J ,  Lepra M ,  Kish SJ ,  et al .  Neuroinflammation after COVID-19 with persistent depressive and cognitive symptoms .  JAMA Psychiatry 2023 ; 80 : 787 – 95 .  10.1001/jamapsychiatry.2023.1321 37256580 PMC10233457
+
+[R66] Fernández-Castañeda A ,  Lu P ,  Geraghty AC ,  et al .  Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation .  Cell 2022 ; 185 : 2452 – 68 .  10.1016/j.cell.2022.06.008 35768006 PMC9189143
+
+[R67] Nelson T ,  Zhang L-X ,  Guo H ,  et al .  Brainstem abnormalities in Myalgic Encephalomyelitis/chronic fatigue syndrome: A Scoping review and evaluation of magnetic resonance imaging findings .  Front Neurol 2021 ; 12 : 769511 .  10.3389/fneur.2021.769511 34975729 PMC8718708
+
+[R68] Renz-Polster H ,  Tremblay M-E ,  Bienzle D ,  et al .  The Pathobiology of Myalgic Encephalomyelitis/chronic fatigue syndrome: the case for Neuroglial failure .  Front Cell Neurosci 2022 ; 16 : 888232 .  10.3389/fncel.2022.888232 35614970 PMC9124899
+
+[R69] Fairbank R .  An overdose drug shows promise for long COVID patients .  Natl Geogr Mag ;  2023 .  Available :  https://www.nationalgeographic.com/premium/article/drug-overdose-low-dose-naltrexone-long-covid  [Accessed  9 Jul 2023 ].
+
+[R70] Yuko E .  Can an addiction drug treat long Covid? rolling stone .  2023 .  Available :  https://www.rollingstone.com/culture/culture-features/long-covid-treatment-addiction-drug-1234701573/  [Accessed  8 Jul 2023 ].
+
+[R71] Steenhuysen J .  Addiction drug shows promise lifting long COVID brain fog, fatigue Reuters .  2022 .  Available :  https://www.reuters.com/business/healthcare-pharmaceuticals/addiction-drug-shows-promise-lifting-long-covid-brain-fog-fatigue-2022-10-18/  [Accessed  8 Jul 2023 ].
+
+[R72] Velasquez-Manoff M .  What if you never get better from COVID-19? N Y Times Mag ;  2021 .  Available :  https://www.nytimes.com/2021/01/21/magazine/covid-aftereffects.html
+
+[R73] Ducharme J .  Researchers are getting closer to learning how to treat and prevent long COVID time .  2023 .
+
+[R74] Castro-Root G .  Game Changer’: 5 long COVID treatments researchers are most excited about .  San Francisco Chronicle ;  2023 .  Available :  https://www.sfchronicle.com/health/article/long-covid-treatment-18144379.php  [Accessed  8 Jul 2023 ].
+
+[R75] Graedon J .  Should Doctors Consider Low Dose Naltrexone for Long COVID? The People’s Pharmacy ,  2023 .  Available :  https://www.peoplespharmacy.com/articles/should-doctors-consider-low-dose-naltrexone-for-long-covid  [Accessed  8 Jul 2023 ].
+
+[R76] Brown S .  Low-dose Naltrexone could treat long COVID symptoms .  Verywellhealth 2023 ; 6 .  10.3390/medsci6040082
+
+[R77] Bonilla H ,  Tian L ,  Marconi VC ,  et al .  Low-dose Naltrexone use for the management of post-acute sequelae of COVID-19 .  Int Immunopharmacol 2023 ; 124 : 110966 .  10.1016/j.intimp.2023.110966 37804660 PMC11028858
+
+[R78] Chan A-W ,  Tetzlaff JM ,  Gøtzsche PC ,  et al .  SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials .  BMJ 2013 ; 346 : e7586 .  10.1136/bmj.e7586 23303884 PMC3541470
+
+[R79] Levin A ,  Malbeuf M ,  Hoens AM ,  et al .  Creating a provincial post COVID-19 Interdisciplinary clinical care network as a learning health system during the pandemic: integrating clinical care and research .  Learn Health Syst 2022 ; 7 : e10316 .  10.1002/lrh2.10316 35942206 PMC9348470
+
+[R80] Naik H ,  Malbeuf M ,  Shao S ,  et al .  A learning health system for long Covid care and research in British Columbia .  NEJM Catalyst 2023 ; 4 .  10.1056/CAT.23.0120
+
+[R81] Naik H ,  Malbeuf M ,  Levin A .  Expanding the learning health care system beyond the academic health center .  Acad Med 2023 ; 98 : 973 .  10.1097/ACM.0000000000005273 37797301
+
+[R82] Naik H ,  Li R ,  Shao S ,  et al .  D-Dimer elevation and venous thromboembolism ≥90 days following COVID-19 .  Can Journ Gen Int Med 2023 ; 18 : 43 – 8 .  10.22374/cjgim.v18i2.688
+
+[R83] Boulter T ,  Prestley N ,  Lai S ,  et al .  Characterizing the complex chronic diseases program’s (CCDP) patient population presenting for management of Fibromyalgia, Myalgic Encephalomyelitis, and symptoms attributed to chronic Lyme disease at BC women’s hospital + health centre .  International Association for Chronic Fatigue Syndrome/Myalgic Encephalomyelitis Conference ;  2021
+
+[R84] MEDISCA .  Certificate of analysis Naltrexone hydrochloride, USP* .  2021 .
+
+[R85] MEDISCA .  CERTIFICATE OF ANALYSIS CELLULOSE, NF/EP (Microcrystalline)(Flocel® 101) .  2021 .
+
+[R86] Krupp LB ,  LaRocca NG ,  Muir-Nash J ,  et al .  The fatigue severity scale: application to patients with multiple sclerosis and systemic lupus erythematosus .  Arch Neurol 1989 ; 46 : 1121 – 3 .  10.1001/archneur.1989.00520460115022 2803071
+
+[R87] Lerdal A .  Fatigue Severity Scale. Encyclopedia of Quality of Life and Well-Being Research .  Springer International Publishing ,  2022 : 1 – 5 . Available :  10.1007/978-3-319-69909-7_1018-3
+
+[R88] Neuberger GB .  Measures of fatigue: the fatigue questionnaire, fatigue severity scale, multidimensional assessment of fatigue scale, and short Form-36 vitality (energy/fatigue) Subscale of the short form health survey .  Arthritis & Rheumatism 2003 ; 49 : S175 – 83 .  10.1002/art.11405
+
+[R89] Tomassini V ,  Pozzilli C ,  Onesti E ,  et al .  Comparison of the effects of acetyl L-Carnitine and Amantadine for the treatment of fatigue in multiple sclerosis: results of a pilot, randomised, double-blind, crossover trial .  J Neurol Sci 2004 ; 218 : 103 – 8 .  10.1016/j.jns.2003.11.005 14759641
+
+[R90] Fried MW ,  Buti M ,  Dore GJ ,  et al .  Once-daily Simeprevir (Tmc435) with pegylated interferon and ribavirin in treatment-Naïve genotype 1 hepatitis C: the randomized PILLAR study .  Hepatology 2013 ; 58 : 1918 – 29 .  10.1002/hep.26641 23907700 PMC4112500
+
+[R91] Kim D-Y ,  Lee J-S ,  Park S-Y ,  et al .  Systematic review of randomized controlled trials for chronic fatigue syndrome/Myalgic Encephalomyelitis (CFS/ME) .  J Transl Med 2020 ; 18 .  10.1186/s12967-019-02196-9 PMC6943902 31906979
+
+[R92] Tabacof L ,  Tosto-Mancuso J ,  Wood J ,  et al .  Post-acute COVID-19 syndrome negatively impacts physical function, cognitive function, health-related quality of life, and participation .  Am J Phys Med Rehabil 2022 ; 101 : 48 – 52 .  10.1097/PHM.0000000000001910 34686631 PMC8667685
+
+[R93] Raman B ,  Cassar MP ,  Tunnicliffe EM ,  et al .  Medium-term effects of SARS-Cov-2 infection on multiple vital organs, exercise capacity, cognition, quality of life and mental health, post-hospital discharge .  EClinicalMedicine 2021 ; 31 : 100683 .  10.1016/j.eclinm.2020.100683 33490928 PMC7808914
+
+[R94] Cella D ,  Dimmock M ,  Friedberg F ,  et al .  NINDS CDE project Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS) .  Fatigue Subgroup ;  2017 .  Available :  https://www.commondataelements.ninds.nih.gov/sites/nindscde/files/Doc/MECFS/Fatigue_Subgroup_Summary.pdf  [Accessed  20 Nov 2023 ].
+
+[R95] Gorst SL ,  Seylanova N ,  Dodd SR ,  et al .  Core outcome measurement instruments for use in clinical and research settings for adults with post-COVID-19 condition: an international Delphi consensus study .  Lancet Respir Med 2023 ; 11 : 1101 – 14 .  10.1016/S2213-2600(23)00370-3 37926103
+
+[R96] Hawker GA ,  Mian S ,  Kendzerska T ,  et al .  Measures of adult pain: visual analog scale for pain (VAS pain), Numeric rating scale for pain (NRS pain) McGill pain questionnaire (MPQ), short-form McGill pain questionnaire (SF-MPQ), chronic pain grade scale (CPGS), short Form-36 bodily pain scale (SF-36 BPS), and measure of intermittent and constant osteoarthritis pain (ICOAP) .  Arthritis Care Res (Hoboken) 2011 ; 63 Suppl 11 : S240 – 52 .  10.1002/acr.20543 22588748
+
+[R97] Nacul L ,  Authier FJ ,  Scheibenbogen C ,  et al .  European network on Myalgic Encephalomyelitis/chronic fatigue syndrome (EUROMENE): expert consensus on the diagnosis, service provision, and care of people with me/CFS in Europe .  Medicina (Kaunas) 2021 ; 57 : 510 .  10.3390/medicina57050510 34069603 PMC8161074
+
+[R98] Lacerda EM ,  Mudie K ,  Kingdon CC ,  et al .  The UK ME/CFS Biobank: A disease-specific Biobank for advancing clinical research into Myalgic Encephalomyelitis/chronic fatigue syndrome .  Front Neurol 2018 ; 9 : 1026 .  10.3389/fneur.2018.01026 30564186 PMC6288193
+
+[R99] Xie F ,  Pullenayegum E ,  Gaebel K ,  et al .  A time trade-off-derived value set of the EQ-5D-5L for Canada .  Med Care 2016 ; 54 : 98 – 105 .  10.1097/MLR.0000000000000447 26492214 PMC4674140
+
+[R100] Harris T ,  Kerry SM ,  Limb ES ,  et al .  Physical activity levels in adults and older adults 3–4 years after Pedometer-based walking interventions: long-term follow-up of participants from two randomised controlled trials in UK primary care .  PLoS Med 2018 ; 15 : e1002526 .  10.1371/journal.pmed.1002526 29522529 PMC5844512
+
+[R101] Nolan CM ,  Maddocks M ,  Canavan JL ,  et al .  Pedometer step count targets during pulmonary rehabilitation in chronic obstructive pulmonary disease: A randomized controlled trial .  Am J Respir Crit Care Med 2017 ; 195 : 1344 – 52 .  10.1164/rccm.201607-1372OC 27911566 PMC5443901
+
+[R102] Shcherbina A ,  Hershman SG ,  Lazzeroni L ,  et al .  The effect of Digital physical activity interventions on daily step count: a randomised controlled crossover Substudy of the Myheart counts cardiovascular health study .  Lancet Digit Health 2019 ; 1 : e344 – 52 .  10.1016/S2589-7500(19)30129-3 33323209
+
+[R103] Wong H .  Minimum important difference is minimally important in sample size calculations .  Trials 2023 ; 24 : 34 .  10.1186/s13063-023-07092-8 36650587 PMC9847050
+
+[R104] Nordin Å ,  Taft C ,  Lundgren-Nilsson Å ,  et al .  Minimal important differences for fatigue patient reported outcome measures - A systematic review .  BMC Med Res Methodol 2016 ; 16 .  10.1186/s12874-016-0167-6 PMC4937582 27387456
+
+[R105] Goligher EC ,  Pouchot J ,  Brant R ,  et al .  Minimal clinically important difference f or 7 measures of fatigue in patients with systemic lupus erythematosus .  J Rheumatol 2008 ; 35 : 635 – 42 . 18322987
+
+[R106] Harris PA ,  Taylor R ,  Minor BL ,  et al .  The Redcap consortium: building an international community of software platform partners .  Journal of Biomedical Informatics 2019 ; 95 : 103208 .  10.1016/j.jbi.2019.103208 31078660 PMC7254481
+
+[R107] Harris PA ,  Taylor R ,  Thielke R ,  et al .  Research electronic data capture (Redcap)-A Metadata-driven methodology and Workflow process for providing Translational research Informatics support .  Journal of Biomedical Informatics 2009 ; 42 : 377 – 81 .  10.1016/j.jbi.2008.08.010 18929686 PMC2700030
+
+[R108] Hernán MA ,  Robins JM .  Per-protocol analyses of pragmatic trials .  N Engl J Med 2017 ; 377 : 1391 – 8 .  10.1056/NEJMsm1605385 28976864
+
+[R109] Moher D ,  Hopewell S ,  Schulz KF ,  et al .  CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials .  BMJ 2010 ; 340 : c869 .  10.1136/bmj.c869 20332511 PMC2844943
+
+[R110] Kjellberg A ,  Hassler A ,  Boström E ,  et al .  Hyperbaric oxygen therapy for long COVID (HOT-Loco), an interim safety report from a randomised controlled trial .  BMC Infect Dis 2023 ; 23 : 33 .  10.1186/s12879-023-08002-8 36670365 PMC9854077
+
+[R111] Kjellberg A ,  Abdel-Halim L ,  Hassler A ,  et al .  Hyperbaric oxygen for treatment of long COVID-19 syndrome (HOT-Loco): protocol for a randomised, placebo-controlled, double-blind, phase II clinical trial .  BMJ Open 2022 ; 12 : e061870 .  10.1136/bmjopen-2022-061870 PMC9638753 36323462
+
+[R112] Badran BW ,  Huffman SM ,  Dancy M ,  et al .  A pilot randomized controlled trial of supervised, at-home, self-administered Transcutaneous Auricular Vagus nerve stimulation (taVNS) to manage long COVID symptoms .  Bioelectron Med 2022 ; 8 : 13 .  10.1186/s42234-022-00094-y 36002874 PMC9402278
+
+[R113] Zilberman-Itskovich S ,  Catalogna M ,  Sasson E ,  et al .  Hyperbaric oxygen therapy improves Neurocognitive functions and symptoms of post-COVID condition: randomized controlled trial .  Sci Rep 2022 ; 12 : 11252 .  10.1038/s41598-022-15565-0 35821512 PMC9276805
+
+[R114] Robbins T ,  Gonevski M ,  Clark C ,  et al .  Hyperbaric oxygen therapy for the treatment of long COVID: early evaluation of a highly promising intervention .  Clin Med (Lond) 2021 ; 21 : e629 – 32 .  10.7861/clinmed.2021-0462 34862223 PMC8806311
+
+[R115] Singh U ,  Geng L .  Paxlovid for Treatment of Long Covid (STOP-PASC) ,  2022 .  Available :  https://classic.clinicaltrials.gov/ct2/show/NCT05576662  [Accessed  9 2023 ].
+
+[R116] Liu LD ,  Duricka DL .  Stellate ganglion block reduces symptoms of long COVID: A case series .  J Neuroimmunol 2022 ; 362 : 577784 .  10.1016/j.jneuroim.2021.577784 34922127 PMC8653406
+
+[R117] Vernon SD ,  Hartle M ,  Sullivan K ,  et al .  Post-Exertional malaise among people with long COVID compared to Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS) .  Work 2023 ; 74 : 1179 – 86 .  10.3233/WOR-220581 36911963
+
+[R118] Damant RW ,  Rourke L ,  Cui Y ,  et al .  Reliability and validity of the post COVID-19 condition stigma questionnaire: A prospective cohort study .  EClinicalMedicine 2023 ; 55 : 101755 .  10.1016/j.eclinm.2022.101755 36447641 PMC9694932
+
+[R119] Lowenstein F ,  Vazquez A .  Open letter to the NIH .  Body Politic ;  2023 .  Available :  https://www.wearebodypolitic.com/bodytype/2021/4/22/open-letter-to-nih  [Accessed  8 Jul 2023 ].
+
+[R120] Cohrs R .  A slow-moving Glacier’: NIH’s sluggish and often opaque efforts to study long Covid draw patient, expert ire .  STAT News ;  2022 .  Available :  https://www.statnews.com/2022/03/29/nih-long-covid-sluggish-study/  [Accessed  27 Dec 2023 ].
+
+[R121] Cohrs R ,  Ladyzhets B .  The NIH has poured $1 billion into long Covid research-with little to show for it .  STAT News 2023 .  Available :  https://www.statnews.com/2023/04/20/long-covid-nih-billion/
+
+[R122] Rubin R .  As their numbers grow, COVID-19 ‘long haulers’ stump experts .  JAMA 2020 ; 324 : 1381 .  10.1001/jama.2020.17709 32965460
+
+[R123] Choutka J ,  Jansari V ,  Hornig M ,  et al .  Unexplained post-acute infection syndromes .  Nat Med 2022 ; 28 : 911 – 23 .  10.1038/s41591-022-01810-6 35585196
+
+[R124] Nacul L ,  de Barros B ,  Kingdon CC ,  et al .  Evidence of clinical pathology abnormalities in people with Myalgic Encephalomyelitis/chronic fatigue syndrome (ME/CFS) from an analytic cross-sectional study .  Diagnostics (Basel) 2019 ; 9 : 41 .  10.3390/diagnostics9020041 30974900 PMC6627354
+
+[R125] Ruiz-Núñez B ,  Tarasse R ,  Vogelaar EF ,  et al .  Higher prevalence of ‘low T3 syndrome’ in patients with chronic fatigue syndrome: A case-control study .  Front Endocrinol (Lausanne) 2018 ; 9 : 97 .  10.3389/fendo.2018.00097 29615976 PMC5869352
+
+[R126] Nacul LC ,  Mudie K ,  Kingdon CC ,  et al .  Hand grip strength as a clinical biomarker for ME/CFS and disease severity .  Front Neurol 2018 ; 9 : 992 .  10.3389/fneur.2018.00992 30538664 PMC6277492

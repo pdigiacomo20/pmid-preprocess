@@ -1,0 +1,161 @@
+[CR1] Fava GA, Sonino N, Aron DC, Balon R, Berrocal Montiel C, Cao J, Concato J, Eory A, Horwitz RI, Rafanelli C, Schnyder U, Wang H, Wise TN, Wright JH, Zipfel S, Patierno C (2024) Clinical interviewing: an essential but neglected method of medicine. Psychother Psychosom 93(2):94–99 38382481 10.1159/000536490
+
+[CR2] Sonino N, Guidi J, Fava GA (2015) Psychological aspects of endocrine disease. J R Coll Physicians Edinb 45(1):55–59 25874833 10.4997/JRCPE.2015.113
+
+[CR3] Aron DC (2023) Precision medicine and the challenges of human complexity. Psychother Psychosom 92(6):349–353 37980898 10.1159/000534728
+
+[CR4] Horwitz RI, Singer BH, Hayes-Conroy A, Cullen MR, Mawn M, Colella K, Sim I (2022) Biosocial pathogenesis. Psychother Psychosom 91(2):273–277 10.1159/000521567 35104822
+
+[CR5] Hill-Briggs F, Adler NE, Berkowitz SA, Chin MH, Gary-Webb TL, Navas-Acien A, Thornton PL, Haire-Joshu D (2020) Social determinants of health and diabetes: a scientific review. Diabetes Care 44(1):258–279 33139407 10.2337/dci20-0053 PMC7783927
+
+[CR6] Howell NA, Booth GL (2022) The weight of place: built environment correlates of obesity and diabetes. Endocr Rev 43(6):966–983 35201344 10.1210/endrev/bnac005 PMC9695105
+
+[CR7] Kalyani RR, Allende-Vigo MZ, Antinori-Lent KJ, Close KL, Das SR, Deroze P, Edelman SV, El Sayed NA, Kerr D, Neumiller JJ, Norton A (2024) Prioritizing patient experiences in the management of diabetes and its complications. J Clin Endocrinol Metab 109(5):1155–1178 38381587 10.1210/clinem/dgad745
+
+[CR8] Wise TN, Dellemonache PM, Bachawati MM (2012) The psychosomatic interview. Adv Psychosom Med 32:19–34 22056896 10.1159/000330001
+
+[CR9] Kroenke K (2024) Restoring and preserving the clinical interview. Psychother Psychosom 93(2):85–87 38493771 10.1159/000538076
+
+[CR10] Feinstein AR (1973) An analysis of diagnostic reasoning. I. The domains and disorders of clinical macrobiology. Yale J Biol Med 46(3):212–232 4803623 PMC2591978
+
+[CR11] Balon R (2005) By whom and how is the quality of research data collection assured and checked? Psychother Psychosom 74(6):331–335 16244508 10.1159/000087779
+
+[CR12] Carrozzino D, Patierno C, Guidi J, Berrocal C, Cao J, Charlson ME, Christensen KS, Concato J, De Las Cuevas C, de Leon J, Eöry A, Fleck MP, Furukawa TA, Horwitz RI, Nierenberg AA, Rafanelli A, Wang H, Wise TN, Sonino N, Fava GA (2021) Clinimetric criteria for patient-reported outcome measures. Psychother Psychosom 90(4):222–232 34038901 10.1159/000516599
+
+[CR13] Weiner SJ Schwartz A Listening for what matters: avoiding contextual errors in health care 2023 Oxford Oxford University Press
+
+[CR14] Bar RS Early diagnosis and treatment of endocrine disorders 2003 Totowa Humana
+
+[CR15] Lee SY, Pearce EN (2023) Hyperthyroidism: a review. JAMA 330(15):1472–1483 37847271 10.1001/jama.2023.19052 PMC10873132
+
+[CR16] Jansen HI, Boelen A, Heijboer AC, Bruinstroop E, Fliers E (2023) Hypothyroidism: the difficulty in attributing symptoms to their underlying cause. Front Endocrinol Feb 6:14:1130661 10.3389/fendo.2023.1130661 PMC9939761 36814580
+
+[CR17] Ross DS (2022) Treating hypothyroidism is not always easy: when to treat sublinical hypothyroidism, TSH goals in the elderly, and alternatives to levothyroxine monotherapy. J Intern Med 291(2):128–140 34766382 10.1111/joim.13410
+
+[CR18] Hegedus L, Van Der Feltz-Cornelis CM, Papini E, Nagy EV, Weetman AP, Perros P (2024) Medically not yet explained symptoms in hypothyroidism. Nat Rev Endocrinol 20(11):685–693 39138377 10.1038/s41574-024-01022-7
+
+[CR19] Monticone S, Goi J, Burrello J, Di Dalmazi G, Cicero AFG, Mancusi C, Coletti Moia E, Iaccarino G, Veglio F, Borghi C, Muiesan ML, Ferri C, Mulatero P, Italian Society of Arterial Hypertension (SIIA) (2025) Screening of primary aldosteronism and pheochromocytoma among patients with hypertension: an Italian nationwide survey.  J Endocrinol Invest  Early online 10.1007/s40618-025-02532-5 PMC12049289 39826012
+
+[CR20] Ferrante E, Simeoli C, Mantovani G, Pivonello R (2024) Who and how to screen for endogenous hypercortisolism in patients with mood disorders. J Endocrinol Invest. Online ahead of print 10.1007/s40618-024-02457-5 10.1007/s40618-024-02457-5 PMC12031932 39531206
+
+[CR21] Diamanti-Kandarakis E, Duntas L, Kanakis GA, Kandaraki E, Karavitaki N, Kassi E, Livadas S, Mastorakos G, Migdalis I, Miras AD, Nader S, Papalou O, Poladian R, Popovic V, Rachoń D, Tigas S, Tsigos C, Tsilchorozidou T, Tzotzas T, Bargiota A, Pfeifer M (2019) Diagnosis of endocrine disease: Drug-induced endocrinopathies and diabetes: a combo-endocrinology overview. Eur J Endocrinol 181(2):R73–R105 31242462 10.1530/EJE-19-0154
+
+[CR22] Caruso B, Bovo C, Guidi GC (2020) Causes of preanalytical interferences on laboratory immunoassays - A critical review. EJIFCC 31(1):70–84 32256291 PMC7109499
+
+[CR23] Gnjidic D, Tinetti M, Allore HG (2017) Assessing medication burden and polypharmacy: finding the perfect measure. Expert Rev Clin Pharmacol 10(4):345–347 28271722 10.1080/17512433.2017.1301206 PMC5477055
+
+[CR24] Baum HB (2018) Clinical excellence in endocrinology. J Clin Endocrinol Metab 103(7):2430–2435 10.1210/jc.2018-00916 29733361
+
+[CR25] Shepherd LM, Schmidtke KA, Hazlehurst JM, Melson E, Dretzke J, Hawks N, Arlt W, Tahrani AA, Swift A, Carrick-Sen DM (2022) Interventions for the prevention of adrenal crisis in adults with primary adrenal insufficiency: a systematic review. Eur J Endocrinol 187(1):S1–S20 35536876 10.1530/EJE-21-1248 PMC9175553
+
+[CR26] Rubæk M, Hitz MF, Holmberg T, Schønwandt BMT, Andersen S (2022) Effectiveness of patient education for patients with osteoporosis: a systematic review. Osteoporos Int 33(5):959–977 34773131 10.1007/s00198-021-06226-5
+
+[CR27] Fava GA, Cosci F, Sonino N, Guidi J (2023) Understanding health attitudes and behavior. Am J Med 136(3):252–259 36356919 10.1016/j.amjmed.2022.10.019
+
+[CR28] Patierno C, Fava GA, Carrozzino D (2023) Illness denial in medical disorders. Psychother Psychosom 92(4):211–226 37429268 10.1159/000531260
+
+[CR29] Horwitz RI, Horwitz SM (1993) Adherence to treatment and health outcomes. Arch Inter Med 153(16):1863–1868 8250647
+
+[CR30] Sonino N, Sirri L, Fava GA (2014) Including illness behavior in the assessment of endocrine patients. J Clin Endocrinol Metab 99(9):3122–3124 24905069 10.1210/jc.2014-1871
+
+[CR31] Kreitschmann-Andermahr I, Psaras T, Tsiogka M, Starz D, Kleist B, Siegel S, Milian M, Kohlmann J, Menzel C, Führer-Sakel D, Honegger J, Sure U, Müller O, Buchfelder M (2015) From first symptoms to final diagnosis of Cushing’s disease: experiences of 176 patients. Eur J Endocrinol 172(3):285–289 25501963 10.1530/EJE-14-0766
+
+[CR32] Gibson-Helm M, Teede H, Dunaif A, Dokras A (2017) Delayed diagnosis and a lack of information associated with dissatisfaction in women with polycystic ovary syndrome. J Clin Endocrinol Metab 102(2):604–612 27906550 10.1210/jc.2016-2963 PMC6283441
+
+[CR33] Chin MH (2021) New horizons - Addressing healthcare disparities in endocrine disease: bias, science, and patient care. J Clin Endocrinol Metab 106(12):e4887–e4902 33837415 10.1210/clinem/dgab229 PMC8083316
+
+[CR34] Webb SM, Kristensen J, Nordenström A, Vitali D, Amodru V, Wiehe LK, Bolz-Johnson M (2022) Patient journey experiences may contribute to improve healthcare for patients with rare endocrine diseases. Endocr Connect 11(12):e220385 36228311 10.1530/EC-22-0385 PMC9716367
+
+[CR35] Yoshida Y, Horiuchi K, Otsuki M, Okamoto T (2024) Diagnosis and management of adrenal incidentaloma: use of clinical judgment and evidence in dialogue with the patient. Surg Today 54:1417–1427 38091063 10.1007/s00595-023-02781-y PMC11582175
+
+[CR36] Sonino N, Ruini C, Navarrini C, Ottolini F, Sirri L, Paoletta A, Fallo F, Boscaro M, Fava GA (2007) Psychosocial impairment in patients treated for pituitary disease: a controlled study. Clin Endocrinol 67(5):719–726 10.1111/j.1365-2265.2007.02951.x 17608817
+
+[CR37] Li D, Brand S, Hamidi O, Westfall AA, Suresh M, Else T, Vaidya A, Bancos I (2022) Quality of life and its determinants in patients with adrenal insufficiency: A survey study at 3 centers in the United States. J Clin Endocrinol Metab 107(7):e2851–e2861 35350067 10.1210/clinem/dgac175 PMC9202727
+
+[CR38] Amiri M, Bidhendi Yarandi R, Nahidi F, Tohidi M, Ramezani Tehrani F (2019) The relationship between clinical and biochemical characteristics and quality of life in patients with polycystic ovary syndrome. Clin Endocrinol 90(1):129–137 10.1111/cen.13858 30229992
+
+[CR39] Broersen LHA, Andela CD, Dekkers OM, Pereira AM, Biermasz NR (2019) Improvement but no normalization of quality of life and cognitive functioning after treatment of Cushing syndrome. J Clin Endocrinol Metab 104(11):5325–5337 31276166 10.1210/jc.2019-01054
+
+[CR40] Crespo I, Valassi E, Webb SM (2017) Update on quality of life in patients with acromegaly. Pituitary 20(1):185–188 27730455 10.1007/s11102-016-0761-y
+
+[CR41] Cangiano B, Giusti E, Premoli C, Soranna D, Vitale G, Grottoli S, Cambria V, Mantovani G, Mungari R, Maffei P, Dassie F, Giampietro A, Chiloiro S, Tanda ML, Ippolito S, Cannavò S, Ragonese M, Zambon A, Persani L, Fatti LM, Scacchi M; PRO-ACRO study group on Motor Disability in Acromegaly, of the Italian Society of Endocrinology (SIE) (2022) Psychological complications in patients with acromegaly: relationships with sex, arthropathy, and quality of life.  Endocrine  77(3):510–518 10.1007/s12020-022-03106-8 PMC9385810 35779206
+
+[CR42] Perros P, Van Der Feltz-Cornelis C, Papini E, Nagy EV, Weetman AP, Hegedüs L (2023) The enigma of persistent symptoms in hypothyroid patients treated with levothyroxine: A narrative review. Clin Endocrinol 98(4):461–468 10.1111/cen.14473 33783849
+
+[CR43] Scandurra C, Modica R, Maldonato NM, Dolce P, Dipietrangelo GG, Centello R, Di Vito V, Bottiglieri F, de Cicco F, Giannetta E, Isidori AM, Lenzi A, Muzii B, Faggiano A, Colao A (2021) Quality of life in patients with neuroendocrine neoplasms: the role of severity, clinical heterogeneity, and resilience. J Clin Endocrinol Metab 106(1):e316–e327 33084861 10.1210/clinem/dgaa760
+
+[CR44] Guidi J, Fava GA (2022) The clinical science of euthymia: A conceptual map. Psychother Psychosom 91(3):156–167 35421862 10.1159/000524279
+
+[CR45] Kalra S, Das AK, Baruah MP, Unnikrishnan AG, Dasgupta A, Shah P, Sahay R, Shukla R, Das S, Tiwaskar M, Vijayakumar G, Chawla M, Eliana F, Suastika K, Orabi A, Rahim AAA, Uloko A, Lamptey R, Ngugi N, Bahendeka S, Abdela AA, Mohammed F, Pathan MF, Rahman MH, Afsana F, Selim S, Moosa M, Murad M, Shreshtha PK, Shreshtha D, Giri M, Hussain W, Al-Ani A, Ramaiya K, Singh S, Raza SA, Aye TT, Garusinghe C, Muthukuda D, Weerakkody M, Kahandawa S, Bavuma C, Ruder S, Vanny K, Khanolkar M, Czupryniak L (2019) Euthymia in diabetes: Clinical evidence and practice-based opinion from an international expert group.  Diabetes Ther  10(3):791–804 10.1007/s13300-019-0614-6 PMC6531538 31012081
+
+[CR46] Benasi G, Gostoli S, Zhu B, Offidani E, Artin MG, Gagliardi L, Rignanese G, Sassi G, Fava GA, Rafanelli C (2022) Well-BeingTherapy and lifestyle intervention in type 2 diabetes: A pilot randomized controlled trial. Psychosom Med 84(9):1041–1049 36346956 10.1097/PSY.0000000000001115
+
+[CR47] Agorastos A, Chrousos GP (2022) The neuroendocrinology of stress: the stress-related continuum of chronic disease development. Mol Psychiatry 27(1):502–513 34290370 10.1038/s41380-021-01224-9
+
+[CR48] McEwen BS (1998) Protective and damaging effects of stress mediators. N Engl J Med 338(3):171–179 9428819 10.1056/NEJM199801153380307
+
+[CR49] Guidi J, Lucente M, Sonino N, Fava GA (2021) Allostatic load and its impact on health: A systematic review. Psychother Psychosom 90(1):11–27 32799204 10.1159/000510696
+
+[CR50] Sonino N, Fava GA, Lucente M, Guidi J (2023) Allostatic load and endocrine disorders. Psychother Psychosom 92(3):162–169 37253338 10.1159/000530691
+
+[CR51] Fava GA Sonino N Lucente M Guidi J Allostatic load in clinical practice Clin Psychol Sci 2023 11 2 345 356
+
+[CR52] Sonino N, Fava GA (1998) A simple instrument for assessing stress in clinical practice. Postgrad Med J 74(873):408–410 9799912 10.1136/pgmj.74.873.408 PMC2360999
+
+[CR53] Guidi J, Fava GA, Bech P, Paykel E (2011) The clinical interview for depression: a comprehensive review of studies and clinimetric properties. Psychother Psychosom 80(1):10–27 20975323 10.1159/000317532
+
+[CR54] Sonino N, Tomba E, Genesia ML, Bertello C, Mulatero P, Veglio F, Fava GA, Fallo F (2011) Psychological assessment of primary aldosteronism: a controlled study. J Clin Endocrinol Metab 96(6):E878–E883 21389142 10.1210/jc.2010-2723
+
+[CR55] Fava GA, Guidi J (2023) The clinical characterization of demoralization. Psychother Psychosom 92(3):139–147 37231894 10.1159/000530760
+
+[CR56] Stern RA, Robinson B, Thorner AR, Arruda JE, Prohaska ML, Prange AJ Jr (1996) A survey study of neuropsychiatric complaints in patients with Graves’ disease. J Neuropsychiatry Clin Neurosci 8(2):181–185 9081554 10.1176/jnp.8.2.181
+
+[CR57] Buckman MT, Kellner R (1985) Reduction of distress in hyperprolactinemia with bromocriptine. Am J Psychiatry 142(2):242–244 3882004 10.1176/ajp.142.2.242
+
+[CR58] Fava GA, Patierno C, Sonino N, Cosci F (2024) Key psychosocial issues in medical care. Acta Psychiatr Scand 149(5):368–377 38303125 10.1111/acps.13667
+
+[CR59] Feinstein AR Clinimetrics 1987 New Haven Yale University Press
+
+[CR60] Fava GA, Tomba E, Sonino N (2012) Clinimetrics: the science of clinical measurements. Int J Clin Pract 66(1):11–15 22171900 10.1111/j.1742-1241.2011.02825.x
+
+[CR61] Charlson ME, Wells MY (2022) Comorbidity: from a confounder in longitudinal clinical research to the main issue in population management. Psychother Psychosom 91(3):145–151 35196663 10.1159/000521952 PMC9064932
+
+[CR62] Goldwater DS, Dharmarajan K, McEwan BS, Krumholz HM (2018) Is posthospital syndrome a result of hospitalization-induced allostatic overload? J Hosp Med 13(5). 10.12788/jhm.2986 10.12788/jhm.2986 29813141
+
+[CR63] Wolf MS, Gazmararian JA, Baker DW (2005) Health literacy and functional health status among older adults. Arch Intern Med 165(17): 1946–1952 10.1001/archinte.165.17.1946 16186463
+
+[CR64] Bergmann N, Gyntelberg F, Faber J (2014) The appraisal of chronic stress and the development of the metabolic syndrome: a systematic review of prospective cohort studies. Endocr Connect 3(2):R55–80 24743684 10.1530/EC-14-0031 PMC4025474
+
+[CR65] Parkinson MD, Stout R, Dysinger W (2023) Lifestyle medicine: prevention, treatment, and reversal of disease. Med Clin North Am 107(6):1109–1120 37806726 10.1016/j.mcna.2023.06.007
+
+[CR66] Kelly JH, Lianov L, Shurney D, Tanigawa Guimarães S, Palma M, Esselstyn C, Stoll S, Patel P, Rea B, Reddy K, Guthrie G, Reiss M, Karlsen MC (2024) Lifestyle medicine performance measures: an expert consensus statement defining metrics to identify remission or long-term progress following lifestyle medicine treatment. Am J Lifestyle Med 18(4):567–573 39262894 10.1177/15598276241230237 PMC11384852
+
+[CR67] Fava GA (2023) Patients as health producers: the psychosomatic foundation of lifestyle medicine. Psychother Psychosom 92(2):81–86 36958303 10.1159/000529953
+
+[CR68] Starcevic V (2024) The impact of online health information seeking on patients, clinicians, and patient-clinician relationship. Psychother Psychosom 93(2):80–84 38531342 10.1159/000538149
+
+[CR69] Steinberg MP Miller WR Motivational interviewing in diabetes care 2015 New York Guilford Press
+
+[CR70] Rollnick S Miller WR Butler CC Motivational interviewing in health care. Helping patients change their behavior 2008 New York Guilford Press
+
+[CR71] Cushing H Psychic disturbances associated with disorders of the ductless glands Am J Insan 1913 69 965 990
+
+[CR72] Aron DC (2020) Precision medicine in an imprecise and complex world: magic bullets, hype, and the fuzzy line between health and disease. J Eval Clin Pract 26(5):1534–1538 31863633 10.1111/jep.13306
+
+[CR73] Sonino N, Fava GA (2012) Improving the concept of recovery in endocrine disease by consideration of psychosocial issues. J Clin Endocrinol Metab 97(8):2614–2616 22563103 10.1210/jc.2012-1710
+
+[CR74] Pivonello R, Isidori AM, De Martino MC, Newell-Price J, Biller BM, Colao A (2016) Complications of Cushing’s syndrome: state of the art. Lancet Diabetes Endocrinol 4(7):611–629 27177728 10.1016/S2213-8587(16)00086-3
+
+[CR75] Ebbehoj A, Søndergaard E, Jepsen P, Stochholm K, Svane HML, Madsen M, Poulsen PL, Jørgensen JOL (2022) The socioeconomic consequences of Cushing’s syndrome: A nationwide cohort study. J Clin Endocrinol Metab 107(7):e2921–e2929 35311897 10.1210/clinem/dgac174
+
+[CR76] Giustina A, Biermasz N, Casanueva FF, Fleseriu M, Mortini P, Strasburger C, van der Lely AJ, Wass J, Melmed S, Acromegaly Consensus Group (2024) Consensus on criteria for acromegaly diagnosis and remission. Pituitary 27(1):7–22 38052967 10.1007/s11102-023-01373-w PMC10837242
+
+[CR77] van der Meulen M, Zamanipoor Najafabadi AH, Broersen LHA, Schoones JW, Pereira AM, van Furth WR, Claessen KMJA, Biermasz NR (2022) State of the art of patient-reported outcomes in acromegaly or GH deficiency: A systematic review and meta-analysis. J Clin Endocrinol Metab 107(5):1225–1238 34871425 10.1210/clinem/dgab874 PMC9016456
+
+[CR78] Retnakaran R, Kashyap SR, Gerstein HC, Aroda VR (2024) Contemporary clinical perspectives on targeting remission of type 2 diabetes. J Clin Endocrinol Metab 109(5):1179–1188 38108415 10.1210/clinem/dgad746
+
+[CR79] Sonino N, Fava GA (2007) Rehabilitation in endocrine patients: a novel psychosomatic approach. Psychother Psychosom 76(6):319–324 17917466 10.1159/000107558
+
+[CR80] Sonino N, Peruzzi P (2009) A psychoneuroendocrinology service. Psychother Psychosom 78(6):346–351 19713729 10.1159/000235738
+
+[CR81] Fava GA (2024) The role of well-being in physicians’ health. Am J Med 137(2):83–84 37984776 10.1016/j.amjmed.2023.10.032

@@ -1,0 +1,115 @@
+[bib0001] National Institute for Health and Care Excellence. COVID-19 rapid guideline: managing the long-term effects of COVID-19. Available at: https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-51035515742 . Accessed May 3, 2022. 33555768
+
+[bib0002] Lippi G Plebani M. Laboratory abnormalities in patients with COVID-2019 infection Clin Chem Lab Med. 25 7 2020 1131 1134 58 10.1515/cclm-2020-0198 32119647
+
+[bib0003] Zhou F Yu T Du R Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study Lancet. 395 10229 2020 1054 1062 32171076 10.1016/S0140-6736(20)30566-3 PMC7270627
+
+[bib0004] Huang C Wang Y Li X Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China Lancet. 395 10223 2020 497 506 31986264 10.1016/S0140-6736(20)30183-5 PMC7159299
+
+[bib0005] Wang D Hu B Hu C Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China J Am Med Assoc. 323 2020 1061 1069 10.1001/jama.2020.1585 PMC7042881 32031570
+
+[bib0006] Bader F Manla Y Atallah B Starling RC. Heart failure and COVID-19 Heart Fail Rev 26 2021 1 10 32720082 10.1007/s10741-020-10008-2 PMC7383122
+
+[bib0007] Italia L Tomasoni D Bisegna S Pancaldi E Stretti L Adamo M Metra M. COVID-19 and Heart Failure: From Epidemiology During the Pandemic to Myocardial Injury, Myocarditis, and Heart Failure Sequelae Front Cardiovasc Med 8 2021 713560 10.3389/fcvm.2021.713560 PMC8382715 34447795
+
+[bib0008] Stahl K Bräsen JH Hoeper MM David S. Direct evidence of SARS-CoV-2 in gut endothelium Intensive Care Med 23 2020 1 2 10.1007/s00134-020-06237-6 PMC7483488 32915253
+
+[bib0009] Varga Z Flammer AJ Steiger P Endothelial cell infection and endotheliitis in COVID-19 Lancet 395 10234 2020 1417 1418 32325026 10.1016/S0140-6736(20)30937-5 PMC7172722
+
+[bib0010] Hattori Y Hattori K Machida T Matsuda N. Vascular endotheliitis associated with infections: its pathogenetic role and therapeutic implication Biochem Pharmacol 197 2022 114909 10.1016/j.bcp.2022.114909 PMC8743392 35021044
+
+[bib0011] Quinaglia T Shabani M Breder I Silber HA Lima JAC Sposito AC. Coronavirus disease-19: the multi-level, multi-faceted vasculopathy Atherosclerosis 322 2021 39 50 33706082 10.1016/j.atherosclerosis.2021.02.009 PMC7883684
+
+[bib0012] Ma Z Li X Fan RLY A human pluripotent stem cell-based model of SARS-CoV-2 infection reveals an ACE2-independent inflammatory activation of vascular endothelial cells through TLR4 Stem Cell Reports 2022 S2213-6711(22)00059-5 10.1016/j.stemcr.2022.01.015 PMC8851885 35180397
+
+[bib0013] Zhang J Tecson KM McCullough PA. Endothelial dysfunction contributes to COVID-19-associated vascular inflammation and coagulopathy Rev Cardiovasc Med 21 2020 315 319 33070537 10.31083/j.rcm.2020.03.126
+
+[bib0014] Pons S Fodil S Azoulay E Zafrani L. The vascular endothelium: the cornerstone of organ dysfunction in severe SARS-CoV-2 infection Crit Care 24 1 2020 353 32546188 10.1186/s13054-020-03062-7 PMC7296907
+
+[bib0015] Otifi HM Adiga BK. Endothelial dysfunction in COVID-19 infection Am J Med Sci 363 4 2022 281 287 35093394 10.1016/j.amjms.2021.12.010 PMC8802031
+
+[bib0016] Chen L Li X Chen M Feng Y Xiong C. The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2 Cardiovasc Res 116 6 2020 1097 1100 Erratum in: Cardiovasc Res. 2020 Oct 1;116:1994 32227090 10.1093/cvr/cvaa078 PMC7184507
+
+[bib0017] Sun J Xiao J Sun R Prolonged persistence of SARS-CoV-2 RNA in body fluids Emerg Infect Dis 26 2020 1834 1838 32383638 10.3201/eid2608.201097 PMC7392422
+
+[bib0018] Vibholm LK Nielsen SSF Pahus MH SARS-CoV-2 persistence is associated with antigen-specific CD8 T-cell responses EBioMedicine 64 2021 103230 10.1016/j.ebiom.2021.103230 PMC7847186 33530000
+
+[bib0019] Liotti FM Menchinelli G Marchetti S Assessment of SARS-CoV-2 RNA test results among patients who recovered from COVID-19 with prior negative results JAMA Intern Med 181 5 2021 702 704 33180119 10.1001/jamainternmed.2020.7570 PMC7662488
+
+[bib0020] Stahl K Bräsen JH Hoeper MM David S. Absence of SARS-CoV-2 RNA in COVID-19-associated intestinal endothelialitis Intensive Care Med 47 2021 359 360 33388837 10.1007/s00134-020-06326-6 PMC7778861
+
+[bib0021] Pepys MB Hirschfield GM. C-reactive protein: a critical update J Clin Invest 111 2003 1805 1812 12813013 10.1172/JCI18921 PMC161431
+
+[bib0022] Wu KK Thiagarajan P. Role of endothelium in thrombosis and hemostasis Annu Rev Med 47 1996 315 331 8712785 10.1146/annurev.med.47.1.315
+
+[bib0023] Daniels LB Clopton P deFilippi CR Serial measurement of N-terminal pro-B-type natriuretic peptide and cardiac troponin T for cardiovascular disease risk assessment in the Multi-Ethnic Study of Atherosclerosis (MESA) Am Heart J 170 2015 1170 1183 26678639 10.1016/j.ahj.2015.09.010 PMC4684596
+
+[bib0024] Goshua G Pine AB Meizlish ML Endotheliopathy in COVID-19-associated coagulopathy: evidence from a single-centre, cross-sectional study Lancet Haematol 7 2020 e575 e582 32619411 10.1016/S2352-3026(20)30216-7 PMC7326446
+
+[bib0025] Hermansyah TA Ginanjar E Putri VH. Elevation of cardiac biomarkers in COVID-19 as a major determinant for mortality: a systematic review Acta Med Indones 53 2021 385 396 35027485
+
+[bib0026] Carvalho-Schneider C Laurent E Lemaignen A Follow-up of adults with noncritical COVID-19 two months after symptom onset Clin Microbiol Infect 27 2021 258 263 33031948 10.1016/j.cmi.2020.09.052 PMC7534895
+
+[bib0027] Ware JE Snow KK Kosinski M Gandek B. SF-36® Health Survey Manual and Interpretation Guide 1993 New England Medical Center, The Health Institute Boston, MA
+
+[bib0028] Huang C Huang L Wang Y 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study Lancet 397 10270 2021 220 232 33428867 10.1016/S0140-6736(20)32656-8 PMC7833295
+
+[bib0029] Chan PK To KF Lo AW Persistent infection of SARS coronavirus in colonic cells in vitro J Med Virol 74 2004 1 7 15258961 10.1002/jmv.20138 PMC7166317
+
+[bib0030] Li AM Chan CH Chan DF. Long-term sequelae of SARS in children Paediatr Respir Rev 5 2004 296 299 15531253 10.1016/j.prrv.2004.07.012 PMC7106002
+
+[bib0031] Tso EY Tsang OT Choi KW Princess Margaret Hospital SARS Study Group. Persistence of physical symptoms in and abnormal laboratory findings for survivors of severe acute respiratory syndrome Clin Infect Dis 38 2004 1338 15127357 10.1086/383580 PMC7107853
+
+[bib0032] Moldofsky H Patcai J. Chronic widespread musculoskeletal pain, fatigue, depression and disordered sleep in chronic post-SARS syndrome; a case-controlled study BMC Neurol 24 11 2011 37 10.1186/1471-2377-11-37 PMC3071317 21435231
+
+[bib0033] Ahmed H Patel K Greenwood DC Long-term clinical outcomes in survivors of severe acute respiratory syndrome and Middle East respiratory syndrome coronavirus outbreaks after hospitalisation or ICU admission: a systematic review and meta-analysis J Rehabil Med 52 2020 jrm00063 32449782 10.2340/16501977-2694
+
+[bib0034] Ahn SH Kim JL Kim JR Association between chronic fatigue syndrome and suicidality among survivors of Middle East respiratory syndrome over a 2-year follow-up period J Psychiatr Res 137 2021 1 6 33631632 10.1016/j.jpsychires.2021.02.029 PMC7888998
+
+[bib0035] Lam MH Wing YK Yu MW Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: long-term follow-up Arch Intern Med 169 2009 2142 2147 20008700 10.1001/archinternmed.2009.384
+
+[bib0036] Douaud G Lee S Alfaro-Almagro F SARS-CoV-2 is associated with changes in brain structure in UK Biobank Nature 604 7907 2022 697 707 35255491 10.1038/s41586-022-04569-5 PMC9046077
+
+[bib0037] Golia E Limongelli G Natale F Inflammation and cardiovascular disease: from pathogenesis to therapeutic target Curr Atheroscler Rep 16 2014 435 25037581 10.1007/s11883-014-0435-z
+
+[bib0038] Çırakoğlu ÖF Yılmaz AS. Systemic immune-inflammation index is associated with increased carotid intima-media thickness in hypertensive patients Clin Exp Hypertens 43 2021 565 571 33858279 10.1080/10641963.2021.1916944
+
+[bib0039] Emerging Risk Factors Collaboration Kaptoge S Di Angelantonio E Lowe G C-reactive protein concentration and risk of coronary heart disease, stroke, and mortality: an individual participant meta-analysis Lancet 375 9709 2010 132 140 20031199 10.1016/S0140-6736(09)61717-7 PMC3162187
+
+[bib0040] Kucharska-Newton AM Couper DJ Pankow JS Hemostasis, inflammation, and fatal and nonfatal coronary heart disease: long-term follow-up of the atherosclerosis risk in communities (ARIC) cohort Arterioscler Thromb Vasc Biol 29 2009 2182 2190 19797708 10.1161/ATVBAHA.109.192740 PMC3057473
+
+[bib0041] Willeit P Thompson A Aspelund T Hemostatic factors and risk of coronary heart disease in general populations: new prospective study and updated meta-analyses PLoS One 8 2013 e55175 23408959 10.1371/journal.pone.0055175 PMC3567058
+
+[bib0042] Clapp BR Hingorani AD Kharbanda RK Inflammation-induced endothelial dysfunction involves reduced nitric oxide bioavailability and increased oxidant stress Cardiovasc Res 64 1 2004 172 178 15364625 10.1016/j.cardiores.2004.06.020
+
+[bib0043] Castellon X Bogdanova V. Chronic inflammatory diseases and endothelial dysfunction Aging Dis 7 2016 81 89 26815098 10.14336/AD.2015.0803 PMC4723236
+
+[bib0044] Botts SR Fish JE Howe KL. Dysfunctional vascular endothelium as a driver of atherosclerosis: emerging insights into pathogenesis and treatment Front Pharmacol 12 2021 787541 10.3389/fphar.2021.787541 PMC8727904 35002720
+
+[bib0045] Xu S Ilyas I Little PJ Endothelial dysfunction in atherosclerotic cardiovascular diseases and beyond: from mechanism to pharmacotherapies Pharmacol Rev 73 2021 924 967 34088867 10.1124/pharmrev.120.000096
+
+[bib0046] Boknäs N Laine C Hillarp A Associations between hemostatic markers and mortality in COVID-19 - Compounding effects of D-dimer, antithrombin and PAP complex Thromb Res 213 2022 97 104 35316719 10.1016/j.thromres.2022.03.013 PMC8930184
+
+[bib0047] Philippe A Chocron R Gendron N Circulating von Willebrand factor and high molecular weight multimers as markers of endothelial injury predict COVID-19 in-hospital mortality Angiogenesis 24 2021 505 517 33449299 10.1007/s10456-020-09762-6 PMC7809553
+
+[bib0048] Sandoval Y Januzzi JL Jr Jaffe AS Cardiac troponin for assessment of myocardial injury in COVID-19: JACC Review topic of the week J Am Coll Cardiol 76 10 2020;8 1244 1258 32652195 10.1016/j.jacc.2020.06.068 PMC7833921
+
+[bib0049] Calvo-Fernández A Izquierdo A Subirana I Markers of myocardial injury in the prediction of short-term COVID-19 prognosis Rev Esp Cardiol (Engl Ed) 74 7 2021 576 583 33153955 10.1016/j.rec.2020.09.011 PMC7522647
+
+[bib0050] Bai F Tomasoni D Falcinella C Female gender is associated with long COVID syndrome: a prospective cohort study Clin Microbiol Infect 28 4 2022 611.e9-611.e16 10.1016/j.cmi.2021.11.002 PMC8575536 34763058
+
+[bib0051] Mohamed MS Moulin TC Schioth HB. Sex differences in COVID-19: the role of androgens in disease severity and progression Endocrine. 71 2021 3e8 33179220 10.1007/s12020-020-02536-6 PMC7657570
+
+[bib0052] Bienvenu LA Noonan J Wang X Peter K. Higher mortality of COVID-19 in males: sex differences in immune response and cardiovascular comorbidities Cardiovasc Res. 116 2020 2197e206 33063089 10.1093/cvr/cvaa284 PMC7665363
+
+[bib0053] Zeng F Dai C Cai P A comparison study of SARS-CoV-2 IgG antibody between male and female COVID-19 patients: a possible reason underlying different outcome between sex J Med Virol. 92 2020 2050 2054 32383183 10.1002/jmv.25989 PMC7267228
+
+[bib0054] World Health Organization. WHO coronavirus (COVID-19) dashboard. Available at:  https://covid19.who.int/?adgroupsurvey={adgroupsurvey}&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKJHW3Xbn1sySpayqR5wsJau8WjsSxpXjdXDVM0qGANFq5AqUq1ykgaAoFhEALw_wcB . Accessed March 11, 2023.
+
+[bib0055] https://www.cdc.gov/mmwr/volumes/70/wr/mm7037a7.htm?s_cid=mm7037a7_w  (accessed 24th April, 2022)
+
+[bib0056] Menyhart O Weltz B Győrffy B MultipleTesting.com: A tool for life science researchers for multiple hypothesis testing correction PLoS One 16 6 2021 e0245824 Erratum in: PLoS One. 2022 Sep 9;17(9):e0274662 10.1371/journal.pone.0245824 PMC8189492 34106935
+
+[bib0057] Andrade C. Multiple testing and protection against a type 1 (False Positive) error using the Bonferroni and Hochberg Corrections Indian J Psychol Med 41 1 2019 99 100 30783320 10.4103/IJPSYM.IJPSYM_499_18 PMC6337927
+
+[bib0058] Armstrong RA. When to use the Bonferroni correction Ophthalmic Physiol Opt 34 5 2014 502 508 24697967 10.1111/opo.12131

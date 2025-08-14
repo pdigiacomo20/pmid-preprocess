@@ -1,0 +1,37 @@
+[bib1] Altmann D.M. Boyton R.J. Decoding the unknowns in long covid BMJ (Clinical research ed.) 372 2021 n132 10.1136/bmj.n132 33541867
+
+[bib2] Bolton M.J. Chapman B.P. Van Marwijk H. Low-dose naltrexone as a treatment for chronic fatigue syndrome BMJ Case Rep. 13 2020 e232502 10.1136/bcr-2019-232502 PMC6954765 31911410
+
+[bib3] Care D.o.H.a.S. New research into treatment and diagnosis of long COVID https://www.gov.uk/government/news/new-research-into-treatment-and-diagnosis-of-long-covid 2021
+
+[bib4] Crook H. Raza S. Nowell J. Young M. Edison P. Long covid—mechanisms, risk factors, and management BMJ (Clinical research ed.) 374 2021 n1648 10.1136/bmj.n1648 34312178
+
+[bib5] Dennis A. Wamil M. Alberts J. Oben J. Cuthbertson D.J. Wootton D. Crooks M. Gabbay M. Brady M. Hishmeh L. Attree E. Heightman M. Banerjee R. Banerjee A. Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, community-based study BMJ Open 11 2021 e048391 10.1136/bmjopen-2020-048391 PMC8727683 33785495
+
+[bib6] Li Z. You Y. Griffin N. Feng J. Shan F. Low-dose naltrexone (LDN): a promising treatment in immune-related diseases and cancer therapy Int. Immunopharm. 61 2018 178 184 10.1016/j.intimp.2018.05.020 29885638
+
+[bib7] Lie M.R.K.L. van der Giessen J. Fuhler G.M. de Lima A. Peppelenbosch M.P. van der Ent C. van der Woude C.J. Low dose Naltrexone for induction of remission in inflammatory bowel disease patients J. Transl. Med. 16 2018 55 29523156 10.1186/s12967-018-1427-5 PMC5845217
+
+[bib8] Nalbandian A. Sehgal K. Gupta A. Madhavan M.V. McGroder C. Stevens J.S. Cook J.R. Nordvig A.S. Shalev D. Sehrawat T.S. Ahluwalia N. Bikdeli B. Dietz D. Der-Nigoghossian C. Liyanage-Don N. Rosner G.F. Bernstein E.J. Mohan S. Beckley A.A. Seres D.S. Choueiri T.K. Uriel N. Ausiello J.C. Accili D. Freedberg D.E. Baldwin M. Schwartz A. Brodie D. Garcia C.K. Elkind M.S.V. Connors J.M. Bilezikian J.P. Landry D.W. Wan E.Y. Post-acute COVID-19 syndrome Nat. Med. 27 2021 601 615 33753937 10.1038/s41591-021-01283-z PMC8893149
+
+[bib9] NICE COVID-19 Rapid Guideline: Managing the Long-Term Effects of COVID-19 2021 NICE guideline [NG188] https://www.nice.org.uk/guidance/ng188 33555768
+
+[bib10] Patten D.K. Schultz B.G. Berlau D.J. The safety and efficacy of low-dose naltrexone in the management of chronic pain and inflammation in multiple sclerosis, fibromyalgia, crohn's disease, and other chronic pain disorders Pharmacotherapy 38 2018 382 389 29377216 10.1002/phar.2086
+
+[bib11] Raknes G. Simonsen P. Småbrekke L. The effect of low-dose naltrexone on medication in inflammatory bowel disease: a quasi experimental before-and-after prescription database study Journal of Crohn's and Colitis 12 2018 677 686 10.1093/ecco-jcc/jjy008 PMC5972567 29385430
+
+[bib12] Raknes G. Småbrekke L. Low dose naltrexone: effects on medication in rheumatoid and seropositive arthritis. A nationwide register-based controlled quasi-experimental before-after study PLoS One 14 2019 e0212460 10.1371/journal.pone.0212460 PMC6375629 30763385
+
+[bib13] Townsend L. Dowds J. O'Brien K. Sheill G. Dyer A.H. O'Kelly B. Hynes J.P. Mooney A. Dunne J. Ni Cheallaigh C. O'Farrelly C. Bourke N.M. Conlon N. Martin-Loeches I. Bergin C. Nadarajan P. Bannan C. Persistent poor Health after COVID-19 is not associated with respiratory complications or initial disease severity Annals of the American Thoracic Society 18 2021 997 1003 33413026 10.1513/AnnalsATS.202009-1175OC PMC8456724
+
+[bib14] Townsend L. Dyer A.H. Jones K. Dunne J. Mooney A. Gaffney F. O'Connor L. Leavy D. O'Brien K. Dowds J. Sugrue J.A. Hopkins D. Martin-Loeches I. Ni Cheallaigh C. Nadarajan P. McLaughlin A.M. Bourke N.M. Bergin C. O'Farrelly C. Bannan C. Conlon N. Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection e0240784 PLoS One 15 2020 10.1371/journal.pone.0240784 PMC7652254 33166287
+
+[bib15] Turel A.P. Oh K.H. Zagon I.S. McLaughlin P.J. Low dose naltrexone for treatment of multiple sclerosis: a retrospective chart review of safety and tolerability J. Clin. Psychopharmacol. 35 2015 609 611 26203498 10.1097/JCP.0000000000000373
+
+[bib16] Whitaker M.E.J. Chadeau-Hyam M. Riley S. Darzi A. Cooke G. Ward H. Elliott P. Persistent Symptoms Following SARS-CoV-2 Infection in a Random Community Sample of 508,707 People 2021 Imperial College London https://spiral.imperial.ac.uk/handle/10044/1/89844
+
+[bib17] WHO WHO Coronavirus (COVID-19) Dashboard 2022 https://covid19.who.int/
+
+[bib18] Yong S.J. Persistent brainstem dysfunction in long-COVID: a hypothesis ACS Chem. Neurosci. 12 2021 573 580 33538586 10.1021/acschemneuro.0c00793
+
+[bib19] Younger J. Parkitny L. McLain D. The use of low-dose naltrexone (LDN) as a novel anti-inflammatory treatment for chronic pain Clin. Rheumatol. 33 2014 451 459 24526250 10.1007/s10067-014-2517-2 PMC3962576

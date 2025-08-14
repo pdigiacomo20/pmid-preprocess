@@ -1,0 +1,68 @@
+[R1] Rosenblum HG ,
+ Wallace M ,
+ Godfrey M ,  Interim recommendations from the Advisory Committee on
+Immunization Practices for the use of bivalent booster doses of COVID-19
+vaccines—United States, October 2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 : 1436 – 41 .
+ 10.15585/mmwr.mm7145a2 36355612 PMC9707353
+
+[R2] Lopez
+Bernal J ,
+ Andrews N ,
+ Gower C ,  Effectiveness of Covid-19 vaccines against the B.1.617.2 (Delta)
+variant. N Engl J Med 2021 ; 385 : 585 – 94 .
+ 10.1056/NEJMoa2108891 34289274 PMC8314739
+
+[R3] Thompson MG ,
+ Natarajan K ,
+ Irving SA ,  Effectiveness of a third dose of mRNA vaccines against
+COVID-19–associated emergency department and urgent care encounters
+and hospitalizations among adults during periods of Delta and Omicron
+variant predominance—VISION Network, 10 states, August
+2021–January 2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 : 139 – 45 .
+ 10.15585/mmwr.mm7104e3 35085224 PMC9351525
+
+[R4] Britton A ,
+ Embi PJ ,
+ Levy ME ,  Effectiveness of COVID-19 mRNA vaccines against
+COVID-19–associated hospitalizations among immunocompromised adults
+during SARS-CoV-2 Omicron predominance—VISION Network, 10 states,
+December 2021–August 2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 : 1335 – 42 .
+ 10.15585/mmwr.mm7142a4 36264840 PMC9590295
+
+[R5] Link-Gelles R ,
+ Levy ME ,
+ Natarajan K ,  Association between COVID-19 mRNA vaccination and COVID-19
+illness and severity during BA.4 and BA.5 sublineage
+periods. medRxiv [Preprint posted online October 5, 2022 .  10.1101/2022.10.04.22280459
+
+[R6] Surie D ,
+ DeCuir J ,
+ Zhu Y ,  Early effectiveness estimates of bivalent mRNA vaccines in
+preventing COVID-19–associated hospitalization among immunocompetent
+adults aged ≥65 years—IVY Network, 18 states, September
+8–November 30, 2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 . Epub December 16, 2022.  https://www.cdc.gov/mmwr/volumes/71/wr/mm715152e2.htm?s_cid=mm715152e2_w 10.15585/mmwr.mm715152e2 PMC9812444 36580424
+
+[R7] Chalkias S ,
+ Harper C ,
+ Vrbicky K ,  A bivalent Omicron-containing booster vaccine against
+Covid-19. N Engl J Med 2022 ; 387 : 1279 – 91 .
+ 10.1056/NEJMoa2208343 36112399 PMC9511634
+
+[R8] Link-Gelles R ,
+ Ciesla AA ,
+ Fleming-Dutra KE ,  Effectiveness of bivalent mRNA vaccines in preventing symptomatic
+SARS-CoV-2 infection—Increasing Community Access to Testing program,
+United States, September–November 2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 : 1526 – 30 .
+ 10.15585/mmwr.mm7148e1 36454688 PMC9721148
+
+[R9] CDC . Health Alert Network.
+Increased respiratory virus activity, especially among children, early in the
+2022–2023 fall and winter. Atlanta, GA: US Department of Health and Human
+Services, CDC; 2022.  https://emergency.cdc.gov/han/2022/han00479.asp
+
+[R10] Clarke KEN ,
+ Jones JM ,
+ Deng Y ,  Seroprevalence of infection-induced SARS-CoV-2
+antibodies—United States, September 2021–February
+2022. MMWR Morb Mortal Wkly Rep 2022 ; 71 : 606 – 8 .
+ 10.15585/mmwr.mm7117e3 35482574 PMC9098232

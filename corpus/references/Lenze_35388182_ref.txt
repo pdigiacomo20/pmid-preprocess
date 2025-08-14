@@ -1,0 +1,13 @@
+[CR1] Hashimoto Y, Suzuki T, Hashimoto K. Mechanisms of action of fluvoxamine for COVID-19: a historical review. Mol Psychiatry. 2022:1–10. Online ahead of the print. 10.1038/s41380-021-01432-3 PMC8739627 34997196
+
+[CR2] Rosen DA Seki SM Fernández-Castañeda A Beiter RM Eccles JD Woodfolk JA Modulation of the sigma-1 receptor-IRE1 pathway is beneficial in preclinical models of inflammation and sepsis Sci Transl Med 2019 11 eaau5266 10.1126/scitranslmed.aau5266 30728287 PMC6936250
+
+[CR3] Hsiao JR Chang KC Chen CW Wu SY Su IJ Hsu MC Endoplasmic reticulum stress triggers XBP-1-mediated up-regulation of an EBV oncoprotein in nasopharyngeal carcinoma Cancer Res 2009 69 4461 67 10.1158/0008-5472.CAN-09-0277 19435892
+
+[CR4] Gonzalez-Farre B Rovira J Martinez D Valera A Garcia-Herrera A Marcos MA In vivo intratumoral Epstein-Barr virus replication is associated with XBP1 activation and early-onset post-transplant lymphoproliferative disorders with prognostic implications Mod Pathol 2014 27 1599 611 10.1038/modpathol.2014.68 24762547
+
+[CR5] Gold JE Okyay RA Licht WE Hurley DJ Investigation of Long COVID Prevalence and Its Relationship to Epstein-Barr Virus Reactivation Pathogens 2021 10 763 10.3390/pathogens10060763 34204243 PMC8233978
+
+[CR6] Taquet M Dercon Q Luciano S Geddes JR Husain M Harrison PJ Incidence, co-occurrence, and evolution of long-COVID features: A 6-month retrospective cohort study of 273,618 survivors of COVID-19 PLoS Med 2021 18 e1003773 10.1371/journal.pmed.1003773 34582441 PMC8478214
+
+[CR7] Bjornevik K Cortese M Healy BC Kuhle J Mina MJ Leng Y Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis Science 2022 375 296 301 10.1126/science.abj8222 35025605

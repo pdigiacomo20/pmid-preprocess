@@ -1,0 +1,489 @@
+[bib1] Januzzi J.L. Jr. Ahmad T. Binder L.G. 2019 methodology for creating expert consensus decision pathways: a report of the American College of Cardiology J Am Coll Cardiol 74 2019 1138 1150 31350041 10.1016/j.jacc.2019.05.035
+
+[bib2] Johns Hopkins University & Medicine Coronarvirus Resource Center https://coronavirus.jhu.edu/map.html
+
+[bib3] Shi S. Qin M. Shen B. Association of cardiac injury with mortality in hospitalized patients with COVID-19 in Wuhan, China JAMA Cardiol 5 2020 802 810 32211816 10.1001/jamacardio.2020.0950 PMC7097841
+
+[bib4] Sandoval Y. Januzzi J.L. Jr. Jaffe A.S. Cardiac troponin for assessment of myocardial injury in COVID-19: JACC review topic of the week J Am Coll Cardiol 76 2020 1244 1258 32652195 10.1016/j.jacc.2020.06.068 PMC7833921
+
+[bib5] McCullough S.A. Goyal P. Krishnan U. Electrocardiographic findings in coronavirus disease-19: insights on mortality and underlying myocardial processes J Card Fail 26 2020 626 632 32544622 10.1016/j.cardfail.2020.06.005 PMC7293518
+
+[bib6] Kochi A.N. Tagliari A.P. Forleo G.B. Cardiac and arrhythmic complications in patients with COVID-19 J Cardiovasc Electrophysiol 31 2020 1003 1008 32270559 10.1111/jce.14479 PMC7262150
+
+[bib7] Bilaloglu S. Aphinyanaphongs Y. Jones S. Thrombosis in hospitalized patients with COVID-19 in a New York City health system JAMA 324 2020 799 801 32702090 10.1001/jama.2020.13372 PMC7372509
+
+[bib8] Carfi A. Bernabei R. Landi F. Persistent symptoms in patients after acute COVID-19 JAMA 324 2020 603 605 32644129 10.1001/jama.2020.12603 PMC7349096
+
+[bib9] Logue J.K. Franko N.M. McCulloch D.J. Sequelae in adults at 6 months after COVID-19 infection JAMA Netw Open 4 2021 e210830 10.1001/jamanetworkopen.2021.0830 PMC7896197 33606031
+
+[bib10] Giustino G. Croft L.B. Stefanini G.G. Characterization of myocardial injury in patients with COVID-19 J Am Coll Cardiol 76 2020 2043 2055 33121710 10.1016/j.jacc.2020.08.069 PMC7588179
+
+[bib11] Puntmann V.O. Carerj M.L. Wieters I. Outcomes of cardiovascular magnetic resonance imaging in patients recently recovered from coronavirus disease 2019 (COVID-19) JAMA Cardiol 5 2020 1265 1273 32730619 10.1001/jamacardio.2020.3557 PMC7385689
+
+[bib12] Bozkurt B. Kamat I. Hotez P.J. Myocarditis with COVID-19 mRNA vaccines Circulation 144 2021 471 484 34281357 10.1161/CIRCULATIONAHA.121.056135 PMC8340726
+
+[bib13] Bhatt A.S. Adler E.D. Albert N.M. Coronavirus disease-2019 and heart failure: a scientific statement from the Heart Failure Society of America J Card Fail 28 2022 93 112 34481067 10.1016/j.cardfail.2021.08.013 PMC8408888
+
+[bib14] World Health Organization A clinical case definition of post COVID-19 condition by a Delphi consensus, 6 October 2021 https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1
+
+[bib15] Centers for Disease Control and Prevention Post-COVID conditions https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
+
+[bib16] COVID-19 treatment guidelines panel. Coronavirus disease 2019 (COVID-19) treatment guidelines https://www.covid19treatmentguidelines.nih.gov/overview/clinical-spectrum/
+
+[bib17] Thygesen K. Alpert J.S. Jaffe A.S. Fourth universal definition of myocardial infarction (2018) J Am Coll Cardiol 72 2018 2231 2264 30153967 10.1016/j.jacc.2018.08.1038
+
+[bib18] Verma A.K. Lavine K.J. Lin C.Y. Myocarditis after COVID-19 mRNA vaccination N Engl J Med 385 2021 1332 1334 34407340 10.1056/NEJMc2109975 PMC8385564
+
+[bib19] Hanneman K. Houbois C. Schoffel A. Combined cardiac fluorodeoxyglucose-positron emission tomography/magnetic resonance imaging assessment of myocardial injury in patients who recently recovered from COVID-19 JAMA Cardiol Published online January 12, 2022 10.1001/jamacardio.2021.5505 PMC8756363 35019953
+
+[bib20] Webster G. Patel A.B. Carr M.R. Cardiovascular magnetic resonance imaging in children after recovery from symptomatic COVID-19 or MIS-C: a prospective study J Cardiovasc Magn Reson 23 2021 86 34193197 10.1186/s12968-021-00786-5 PMC8245157
+
+[bib21] Theocharis P. Wong J. Pushparajah K. Multimodality cardiac evaluation in children and young adults with multisystem inflammation associated with COVID-19 Eur Heart J Cardiovasc Imaging 22 2021 896 903 32766671 10.1093/ehjci/jeaa212 PMC7454452
+
+[bib22] Singer M.E. Taub I.B. Kaelber D.C. Risk of myocarditis from COVID-19 infection in people under age 20: a population-based analysis medRxiv Published online July 27, 2021 10.1101/2021.07.23.21260998
+
+[bib23] Pellegrini J.A.S. Rech T.H. Schwarz P. Incidence of venous thromboembolism among patients with severe COVID-19 requiring mechanical ventilation compared to other causes of respiratory failure: a prospective cohort study J Thromb Thrombolysis 52 2021 482 492 33599858 10.1007/s11239-021-02395-6 PMC7890785
+
+[bib24] Nune A. Iyengar K.P. Goddard C. Multisystem inflammatory syndrome in an adult following the SARS-CoV-2 vaccine (MIS-V) BMJ Case Rep 14 7 2021 e243888 10.1136/bcr-2021-243888 PMC8323360 34326117
+
+[bib25] Halushka M.K. Vander Heide R.S. Myocarditis is rare in COVID-19 autopsies: cardiovascular findings across 277 postmortem examinations Cardiovasc Pathol 50 2021 107300 33132119 10.1016/j.carpath.2020.107300 PMC7583586
+
+[bib26] Aretz H.T. Billingham M.E. Edwards W.D. Myocarditis. A histopathologic definition and classification Am J Cardiovasc Pathol 1 1987 3 14 3455232
+
+[bib27] Baughman K.L. Diagnosis of myocarditis: death of Dallas criteria Circulation 113 2006 593 595 16449736 10.1161/CIRCULATIONAHA.105.589663
+
+[bib28] Friedrich M.G. Sechtem U. Schulz-Menger J. Cardiovascular magnetic resonance in myocarditis: a JACC White Paper J Am Coll Cardiol 53 2009 1475 1487 19389557 10.1016/j.jacc.2009.02.007 PMC2743893
+
+[bib29] Ferreira V.M. Schulz-Menger J. Holmvang G. Cardiovascular magnetic resonance in nonischemic myocardial inflammation: expert recommendations J Am Coll Cardiol 72 2018 3158 3176 30545455 10.1016/j.jacc.2018.09.072
+
+[bib30] Francone M. Chimenti C. Galea N. CMR sensitivity varies with clinical presentation and extent of cell necrosis in biopsy-proven acute myocarditis J Am Coll Cardiol Img 7 2014 254 263 10.1016/j.jcmg.2013.10.011 24560214
+
+[bib31] Nagel E. Kwong R.Y. Chandrashekhar Y.S. CMR in nonischemic myocardial inflammation: solving the problem of diagnosing myocarditis or still diagnostic ambiguity? J Am Coll Cardiol Img 13 2020 163 166 10.1016/j.jcmg.2019.10.023 31918908
+
+[bib32] Cornelissen A. Kutyna M. Cheng Q. Effects of simulated COVID-19 cytokine storm on stent thrombogenicity Cardiovasc Revasc Med Published online April 8, 2021 10.1016/j.carrev.2021.03.023 PMC8026249 33863660
+
+[bib33] Huang C. Wang Y. Li X. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China Lancet 395 2020 497 506 31986264 10.1016/S0140-6736(20)30183-5 PMC7159299
+
+[bib34] Lala A. Johnson K.W. Januzzi J.L. Prevalence and impact of myocardial injury in patients hospitalized with COVID-19 infection J Am Coll Cardiol 76 2020 533 546 32517963 10.1016/j.jacc.2020.06.007 PMC7279721
+
+[bib35] Wang D. Hu B. Hu C. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China JAMA 323 2020 1061 1069 32031570 10.1001/jama.2020.1585 PMC7042881
+
+[bib36] Meyer P. Degrauwe S. Van Delden C. Typical takotsubo syndrome triggered by SARS-CoV-2 infection Eur Heart J 41 2020 1860 32285915 10.1093/eurheartj/ehaa306 PMC7184501
+
+[bib37] Nguyen D. Nguyen T. De Bels D. A case of Takotsubo cardiomyopathy with COVID 19 Eur Heart J Cardiovasc Imaging 21 2020 1052 32395765 10.1093/ehjci/jeaa152 PMC7239208
+
+[bib38] Alvarez-Garcia J. Jaladanki S. Rivas-Lasarte M. New heart failure diagnoses among patients hospitalized for COVID-19 J Am Coll Cardiol 77 2021 2260 2262 33926664 10.1016/j.jacc.2021.03.006 PMC8074874
+
+[bib39] Goyal P. Reshetnyak E. Khan S. Clinical characteristics and outcomes of adults with a history of heart failure hospitalized for COVID-19 Circ Heart Fail 14 2021 e008354 10.1161/CIRCHEARTFAILURE.121.008354 PMC8711641 34517720
+
+[bib40] Kirkegaard C. Falco-Roget A. Sanchez-Montalva A. Incidence and risk factors for early readmission after hospitalization for SARS-CoV-2 infection: results from a retrospective cohort study Infection Published online July 30, 2021 10.1007/s15010-021-01662-1 PMC8323963 34331263
+
+[bib41] Yoo J. Grewal P. Hotelling J. Admission NT-proBNP and outcomes in patients without history of heart failure hospitalized with COVID-19 ESC Heart Fail 8 2021 4278 4287 34346182 10.1002/ehf2.13548 PMC8426942
+
+[bib42] Wei Z.Y. Geng Y.J. Huang J. Pathogenesis and management of myocardial injury in coronavirus disease 2019 Eur J Heart Fail 22 2020 1994 2006 32683753 10.1002/ejhf.1967 PMC7405025
+
+[bib43] Moulson N. Petek B.J. Drezner J.A. SARS-CoV-2 cardiac involvement in young competitive athletes Circulation 144 2021 256 266 33866822 10.1161/CIRCULATIONAHA.121.054824 PMC8300154
+
+[bib44] Pellegrini D. Kawakami R. Guagliumi G. Microthrombi as a major cause of cardiac injury in COVID-19: a pathologic study Circulation 143 2021 1031 1042 33480806 10.1161/CIRCULATIONAHA.120.051828
+
+[bib45] Basso C. Leone O. Rizzo S. Pathological features of COVID-19-associated myocardial injury: a multicentre cardiovascular pathology study Eur Heart J 41 2020 3827 3835 32968776 10.1093/eurheartj/ehaa664 PMC7543528
+
+[bib46] Rathore S.S. Rojas G.A. Sondhi M. Myocarditis associated with COVID-19 disease: a systematic review of published case reports and case series Int J Clin Pract 75 2021 e14470 10.1111/ijcp.14470 34235815
+
+[bib47] Grant M.C. Geoghegan L. Arbyn M. The prevalence of symptoms in 24,410 adults infected by the novel coronavirus (SARS-CoV-2; COVID-19): a systematic review and meta-analysis of 148 studies from 9 countries PLoS One 15 2020 e0234765 10.1371/journal.pone.0234765 PMC7310678 32574165
+
+[bib48] Sudre C.H. Murray B. Varsavsky T. Attributes and predictors of long COVID Nat Med 27 2021 626 631 33692530 10.1038/s41591-021-01292-y PMC7611399
+
+[bib49] Abelmann W.H. Virus and the heart Circulation 44 1971 950 956 5115086 10.1161/01.cir.44.5.950
+
+[bib50] Campeau L. Letter: grading of angina pectoris Circulation 54 1976 522 523 947585
+
+[bib51] UK Research and Innovation MRC dyspnoea scale / MRC breathlessness scale https://mrc.ukri.org/research/facilities-and-resources-for-researchers/mrc-scales/mrc-dyspnoea-scale-mrc-breathlessness-scale/
+
+[bib52] Klok F.A. Boon G. Barco S. The post-COVID-19 functional status scale: a tool to measure functional status over time after COVID-19 Eur Respir J 56 1 2020 2001494 32398306 10.1183/13993003.01494-2020 PMC7236834
+
+[bib53] Inciardi R.M. Lupi L. Zaccone G. Cardiac involvement in a patient with coronavirus disease 2019 (COVID-19) JAMA Cardiol 5 2020 819 824 32219357 10.1001/jamacardio.2020.1096 PMC7364333
+
+[bib54] Castiello T. Georgiopoulos G. Finocchiaro G. COVID-19 and myocarditis: a systematic review and overview of current challenges Heart Fail Rev 27 2022 251 261 33761041 10.1007/s10741-021-10087-9 PMC7988375
+
+[bib55] Gaine S. Devitt P. Coughlan J.J. COVID-19-associated myocarditis presenting as new-onset heart failure and atrial fibrillation BMJ Case Rep 14 7 2021 e244027 10.1136/bcr-2021-244027 PMC8276282 34253533
+
+[bib56] Ammirati E. Cipriani M. Moro C. Clinical presentation and outcome in a contemporary cohort of patients with acute myocarditis: multicenter Lombardy registry Circulation 138 2018 1088 1099 29764898 10.1161/CIRCULATIONAHA.118.035319
+
+[bib57] Dai H. Lotan D. Much A.A. Global, regional, and national burden of myocarditis and cardiomyopathy, 1990-2017 Front Cardiovasc Med 8 2021 610989 33644130 10.3389/fcvm.2021.610989 PMC7904878
+
+[bib58] Szekely Y. Lichter Y. Taieb P. Spectrum of cardiac manifestations in COVID-19: a systematic echocardiographic study Circulation 142 2020 342 353 32469253 10.1161/CIRCULATIONAHA.120.047971 PMC7382541
+
+[bib59] Sun W. Zhang Y. Wu C. Incremental prognostic value of biventricular longitudinal strain and high-sensitivity troponin I in COVID-19 patients Echocardiography 38 2021 1272 1281 34184314 10.1111/echo.15133 PMC8444873
+
+[bib60] Carrizales-Sepulveda E.F. Vera-Pineda R. Flores-Ramirez R. Echocardiographic manifestations in COVID-19: a review Heart Lung Circ 30 2021 1117 1129 33715970 10.1016/j.hlc.2021.02.004 PMC7894123
+
+[bib61] Furqan M.M. Verma B.R. Cremer P.C. Pericardial diseases in COVID19: a contemporary review Curr Cardiol Rep 23 2021 90 34081219 10.1007/s11886-021-01519-x PMC8173318
+
+[bib62] Rath D. Petersen-Uribe A. Avdiu A. Impaired cardiac function is associated with mortality in patients with acute COVID-19 infection Clin Res Cardiol 109 2020 1491 1499 32537662 10.1007/s00392-020-01683-0 PMC7293880
+
+[bib63] Huang L. Zhao P. Tang D. Cardiac involvement in patients recovered from COVID-2019 identified using magnetic resonance imaging J Am Coll Cardiol Img 13 2020 2330 2339 10.1016/j.jcmg.2020.05.004 PMC7214335 32763118
+
+[bib64] Knight D.S. Kotecha T. Razvi Y. COVID-19: myocardial injury in survivors Circulation 142 2020 1120 1122 32673505 10.1161/CIRCULATIONAHA.120.049252 PMC7492396
+
+[bib65] Kotecha T. Knight D.S. Razvi Y. Patterns of myocardial injury in recovered troponin-positive COVID-19 patients assessed by cardiovascular magnetic resonance Eur Heart J 42 2021 1866 1878 33596594 10.1093/eurheartj/ehab075 PMC7928984
+
+[bib66] Joy G. Artico J. Kurdi H. Prospective case-control study of cardiovascular abnormalities 6 months following mild COVID-19 in healthcare workers J Am Coll Cardiol Img 14 2021 2155 2166 10.1016/j.jcmg.2021.04.011 PMC8105493 33975819
+
+[bib67] Galea N. Marchitelli L. Pambianchi G. T2-mapping increase is the prevalent imaging biomarker of myocardial involvement in active COVID-19: a Cardiovascular Magnetic Resonance study J Cardiovasc Magn Reson 23 2021 68 34107985 10.1186/s12968-021-00764-x PMC8189727
+
+[bib68] Daniels C.J. Rajpal S. Greenshields J.T. Prevalence of clinical and subclinical myocarditis in competitive athletes with recent SARS-CoV-2 infection: results from the Big Ten COVID-19 Cardiac Registry JAMA Cardiol 6 2021 1078 1087 34042947 10.1001/jamacardio.2021.2065 PMC8160916
+
+[bib69] Martinez M.W. Tucker A.M. Bloom O.J. Prevalence of inflammatory heart disease among professional athletes with prior COVID-19 infection who received systematic return-to-play cardiac screening JAMA Cardiol 6 2021 745 752 33662103 10.1001/jamacardio.2021.0565 PMC7934073
+
+[bib70] Valverde I. Singh Y. Sanchez-de-Toledo J. Acute cardiovascular manifestations in 286 children with multisystem inflammatory syndrome associated with COVID-19 infection in Europe Circulation 143 2021 21 32 33166189 10.1161/CIRCULATIONAHA.120.050065
+
+[bib71] Sirico D. Basso A. Reffo E. Early echocardiographic and cardiac MRI findings in multisystem inflammatory syndrome in children J Clin Med 10 15 2021 3360 34362141 10.3390/jcm10153360 PMC8348478
+
+[bib72] Palabiyik F. Akcay N. Sevketoglu E. Imaging of multisystem inflammatory disease in children (MIS-C) associated With COVID-19 Acad Radiol 28 2021 1200 1208 34284918 10.1016/j.acra.2021.05.030 PMC8179194
+
+[bib73] Starekova J. Bluemke D.A. Bradham W.S. Evaluation for myocarditis in competitive student athletes recovering from coronavirus disease 2019 with cardiac magnetic resonance imaging JAMA Cardiol 6 2021 945 950 33443537 10.1001/jamacardio.2020.7444 PMC7809616
+
+[bib74] Brito D. Meester S. Yanamala N. High prevalence of pericardial involvement in college student athletes recovering from COVID-19 J Am Coll Cardiol Img 14 2021 541 555 10.1016/j.jcmg.2020.10.023 PMC7641597 33223496
+
+[bib75] Ammirati E. Varrenti M. Veronese G. Prevalence and outcome of patients with acute myocarditis and positive viral search on nasopharyngeal swab Eur J Heart Fail 23 2021 1242 1245 34036693 10.1002/ejhf.2247
+
+[bib76] Tschope C. Ammirati E. Bozkurt B. Myocarditis and inflammatory cardiomyopathy: current evidence and future directions Nat Rev Cardiol 18 2021 169 193 33046850 10.1038/s41569-020-00435-x PMC7548534
+
+[bib77] Chau V.Q. Giustino G. Mahmood K. Cardiogenic shock and hyperinflammatory syndrome in young males with COVID-19 Circ Heart Fail 13 2020 e007485 10.1161/CIRCHEARTFAILURE.120.007485 32844662
+
+[bib78] Skendros P. Mitsios A. Chrysanthopoulou A. Complement and tissue factor-enriched neutrophil extracellular traps are key drivers in COVID-19 immunothrombosis J Clin Invest 130 2020 6151 6157 32759504 10.1172/JCI141374 PMC7598040
+
+[bib79] Fox S.E. Falgout L. Vander Heide R.S. COVID-19 myocarditis: quantitative analysis of the inflammatory infiltrate and a proposed mechanism Cardiovasc Pathol 54 2021 107361 34174415 10.1016/j.carpath.2021.107361 PMC8223028
+
+[bib80] Bajaj R. Sinclair H.C. Patel K. Delayed-onset myocarditis following COVID-19 Lancet Respir Med 9 2021 e32 e34 33617781 10.1016/S2213-2600(21)00085-0 PMC7906752
+
+[bib81] Hendren N.S. Drazner M.H. Bozkurt B. Description and proposed management of the acute COVID-19 cardiovascular syndrome Circulation 141 2020 1903 1914 32297796 10.1161/CIRCULATIONAHA.120.047349 PMC7314493
+
+[bib82] Tavazzi G. Pellegrini C. Maurelli M. Myocardial localization of coronavirus in COVID-19 cardiogenic shock Eur J Heart Fail 22 2020 911 915 32275347 10.1002/ejhf.1828 PMC7262276
+
+[bib83] Kawakami R. Sakamoto A. Kawai K. Pathological evidence for SARS-CoV-2 as a cause of myocarditis: JACC review topic of the week J Am Coll Cardiol 77 2021 314 325 33478655 10.1016/j.jacc.2020.11.031 PMC7816957
+
+[bib84] Xu Z. Shi L. Wang Y. Pathological findings of COVID-19 associated with acute respiratory distress syndrome Lancet Respir Med 8 2020 420 422 32085846 10.1016/S2213-2600(20)30076-X PMC7164771
+
+[bib85] Fox S.E. Li G. Akmatbekov A. Unexpected features of cardiac pathology in COVID-19 infection Circulation 142 2020 1123 1125 32689809 10.1161/CIRCULATIONAHA.120.049465
+
+[bib86] Wichmann D. Sperhake J.P. Lutgehetmann M. Autopsy findings and venous thromboembolism in patients with COVID-19: a prospective cohort study Ann Intern Med 173 2020 268 277 32374815 10.7326/M20-2003 PMC7240772
+
+[bib87] Barton L.M. Duval E.J. Stroberg E. COVID-19 autopsies, Oklahoma, USA Am J Clin Pathol 153 2020 725 733 32275742 10.1093/ajcp/aqaa062 PMC7184436
+
+[bib88] Youd E. Moore L. COVID-19 autopsy in people who died in community settings: the first series J Clin Pathol 73 2020 840 844 32605920 10.1136/jclinpath-2020-206710
+
+[bib89] Edler C. Schroder A.S. Aepfelbacher M. Dying with SARS-CoV-2 infection-an autopsy study of the first consecutive 80 cases in Hamburg, Germany Int J Legal Med 134 2020 1275 1284 32500199 10.1007/s00414-020-02317-w PMC7271136
+
+[bib90] Buja L.M. Wolf D.A. Zhao B. The emerging spectrum of cardiopulmonary pathology of the coronavirus disease 2019 (COVID-19): report of 3 autopsies from Houston, Texas, and review of autopsy findings from other United States cities Cardiovasc Pathol 48 2020 107233 32434133 10.1016/j.carpath.2020.107233 PMC7204762
+
+[bib91] Varga Z. Flammer A.J. Steiger P. Endothelial cell infection and endotheliitis in COVID-19 Lancet 395 2020 1417 1418 32325026 10.1016/S0140-6736(20)30937-5 PMC7172722
+
+[bib92] De Michele S. Sun Y. Yilmaz M.M. Forty postmortem examinations in COVID-19 patients Am J Clin Pathol 154 2020 748 760 32876680 10.1093/ajcp/aqaa156 PMC7499554
+
+[bib93] Hanley B. Naresh K.N. Roufosse C. Histopathological findings and viral tropism in UK patients with severe fatal COVID-19: a post-mortem study Lancet Microbe 1 2020 e245 e253 32844161 10.1016/S2666-5247(20)30115-4 PMC7440861
+
+[bib94] Bradley B.T. Maioli H. Johnston R. Histopathology and ultrastructural findings of fatal COVID-19 infections in Washington State: a case series Lancet 396 2020 320 332 32682491 10.1016/S0140-6736(20)31305-2 PMC7365650
+
+[bib95] Rapkiewicz A.V. Mai X. Carsons S.E. Megakaryocytes and platelet-fibrin thrombi characterize multi-organ thrombosis at autopsy in COVID-19: a case series EClinicalMedicine 24 2020 100434 32766543 10.1016/j.eclinm.2020.100434 PMC7316051
+
+[bib96] Yao X.H. Li T.Y. He Z.C. [A pathological report of three COVID-19 cases by minimal invasive autopsies] Zhonghua Bing Li Xue Za Zhi 49 2020 411 417 32172546 10.3760/cma.j.cn112151-20200312-00193
+
+[bib97] Menter T. Haslbauer J.D. Nienhold R. Postmortem examination of COVID-19 patients reveals diffuse alveolar damage with severe capillary congestion and variegated findings in lungs and other organs suggesting vascular dysfunction Histopathology 77 2020 198 209 32364264 10.1111/his.14134 PMC7496150
+
+[bib98] Fox S.E. Akmatbekov A. Harbert J.L. Pulmonary and cardiac pathology in African American patients with COVID-19: an autopsy series from New Orleans Lancet Respir Med 8 2020 681 686 32473124 10.1016/S2213-2600(20)30243-5 PMC7255143
+
+[bib99] Duarte-Neto A.N. Monteiro R.A.A. da Silva L.F.F. Pulmonary and systemic involvement in COVID-19 patients assessed with ultrasound-guided minimally invasive autopsy Histopathology 77 2020 186 197 32443177 10.1111/his.14160 PMC7280721
+
+[bib100] Lax S.F. Skok K. Zechner P. Pulmonary arterial thrombosis in COVID-19 with fatal outcome: results from a prospective, single-center, clinicopathologic case series Ann Intern Med 173 2020 350 361 32422076 10.7326/M20-2566 PMC7249507
+
+[bib101] Tombolini A. Scendoni R. SARS-CoV-2-related deaths in routine forensic autopsy practice: histopathological patterns Int J Legal Med 134 2020 2205 2208 32613447 10.1007/s00414-020-02354-5 PMC7327488
+
+[bib102] Remmelink M. De Mendonca R. D'Haene N. Unspecific post-mortem findings despite multiorgan viral spread in COVID-19 patients Crit Care 24 2020 495 32787909 10.1186/s13054-020-03218-5 PMC7422463
+
+[bib103] Guo T. Fan Y. Chen M. Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19) JAMA Cardiol 5 2020 811 818 32219356 10.1001/jamacardio.2020.1017 PMC7101506
+
+[bib104] Dweck M.R. Bularga A. Hahn R.T. Global evaluation of echocardiography in patients with COVID-19 Eur Heart J Cardiovasc Imaging 21 2020 949 958 32556199 10.1093/ehjci/jeaa178 PMC7337658
+
+[bib105] Fayol A. Livrozet M. Boutouyrie P. Cardiac performance in patients hospitalized with COVID-19: a 6 month follow-up study ESC Heart Fail 8 2021 2232 2239 33773099 10.1002/ehf2.13315 PMC8120370
+
+[bib106] Kelle S. Bucciarelli-Ducci C. Judd R.M. Society for Cardiovascular Magnetic Resonance (SCMR) recommended CMR protocols for scanning patients with active or convalescent phase COVID-19 infection J Cardiovasc Magn Reson 22 2020 61 32878639 10.1186/s12968-020-00656-6 PMC7467754
+
+[bib107] Petersen S.E. Friedrich M.G. Leiner T. Cardiovascular magnetic resonance for patients with COVID-19 J Am Coll Cardiol Img Published online October 7, 2021 10.1016/j.jcmg.2021.08.021
+
+[bib108] Caforio A.L. Pankuweit S. Arbustini E. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases Eur Heart J 34 2013 2636 2648 2648a-2648d 23824828 10.1093/eurheartj/eht210
+
+[bib109] Seferovic P.M. Tsutsui H. McNamara D.M. Heart Failure Association, Heart Failure Society of America, and Japanese Heart Failure Society position statement on endomyocardial biopsy J Card Fail 27 2021 727 743 34022400 10.1016/j.cardfail.2021.04.010
+
+[bib110] Cooper L.T. Baughman K.L. Feldman A.M. The role of endomyocardial biopsy in the management of cardiovascular disease: a scientific statement from the American Heart Association, the American College of Cardiology, and the European Society of Cardiology J Am Coll Cardiol 50 2007 1914 1931 17980265 10.1016/j.jacc.2007.09.008
+
+[bib111] Al-Aly Z. Xie Y. Bowe B. High-dimensional characterization of post-acute sequelae of COVID-19 Nature 594 2021 259 264 33887749 10.1038/s41586-021-03553-9
+
+[bib112] Ammirati E. Frigerio M. Adler E.D. Management of acute myocarditis and chronic inflammatory cardiomyopathy: an expert consensus document Circ Heart Fail 13 2020 e007405 10.1161/CIRCHEARTFAILURE.120.007405 PMC7673642 33176455
+
+[bib113] Kociol R.D. Cooper L.T. Fang J.C. Recognition and initial management of fulminant myocarditis: a scientific statement from the American Heart Association Circulation 141 2020 e69 e92 31902242 10.1161/CIR.0000000000000745
+
+[bib114] RECOVERY Collaborative Group Horby P. Lim W.S. Dexamethasone in hospitalized patients with COVID-19 N Engl J Med 384 2021 693 704 32678530 10.1056/NEJMoa2021436 PMC7383595
+
+[bib115] Adler Y. Charron P. Imazio M. 2015 ESC guidelines for the diagnosis and management of pericardial diseases: the Task Force for the diagnosis and management of pericardial diseases of the European Society of Cardiology (ESC) endorsed by: the European Association for Cardio-Thoracic Surgery (EACTS) Eur Heart J 36 2015 2921 2964 26320112 10.1093/eurheartj/ehv318 PMC7539677
+
+[bib116] Clemente-Moragon A. Martinez-Milla J. Oliver E. Metoprolol in critically ill patients with COVID-19 J Am Coll Cardiol 78 2021 1001 1011 34474731 10.1016/j.jacc.2021.07.003 PMC8404624
+
+[bib117] Hekimian G. Kerneis M. Zeitouni M. Coronavirus disease 2019 acute myocarditis and multisystem inflammatory syndrome in adult intensive and cardiac care units Chest 159 2021 657 662 32910974 10.1016/j.chest.2020.08.2099 PMC7476896
+
+[bib118] Belhadjer Z. Meot M. Bajolle F. Acute heart failure in multisystem inflammatory syndrome in children in the context of global SARS-CoV-2 pandemic Circulation 142 2020 429 436 32418446 10.1161/CIRCULATIONAHA.120.048360
+
+[bib119] Truong D.T. Dionne A. Muniz J.C. Clinically suspected myocarditis temporally related to COVID-19 vaccination in adolescents and young adults Circulation 145 5 2022 345 356 10.1161/CIRCULATIONAHA.121.056583 34865500
+
+[bib120] Montgomery J. Ryan M. Engler R. Myocarditis following immunization with mRNA COVID-19 vaccines in members of the US Military JAMA Cardiol 6 2021 1202 1206 34185045 10.1001/jamacardio.2021.2833 PMC8243257
+
+[bib121] Klein N.P. Lewis N. Goddard K. Surveillance for adverse events after COVID-19 mRNA vaccination JAMA 326 2021 1390 1399 34477808 10.1001/jama.2021.15072 PMC8511971
+
+[bib122] Jain S.S. Steele J.M. Fonseca B. COVID-19 vaccination-associated myocarditis in adolescents Pediatrics 148 5 2021 e2021053427 10.1542/peds.2021-053427 34389692
+
+[bib123] Gargano J.W. Wallace M. Hadler S.C. Use of mRNA COVID-19 vaccine after reports of myocarditis among vaccine recipients: ppdate from the Advisory Committee on Immunization Practices - United States, June 2021 MMWR Morb Mortal Wkly Rep 70 2021 977 982 34237049 10.15585/mmwr.mm7027e2 PMC8312754
+
+[bib124] Mevorach D. Anis E. Cedar N. Myocarditis after BNT162b2 mRNA vaccine against COVID-19 in Israel N Engl J Med 385 2021 2140 2149 34614328 10.1056/NEJMoa2109730 PMC8531987
+
+[bib125] Witberg G. Barda N. Hoss S. Myocarditis after COVID-19 vaccination in a large health care organization N Engl J Med 385 2021 2132 2139 34614329 10.1056/NEJMoa2110737 PMC8531986
+
+[bib126] Sharff K.A. Dancoes D.M. Longueil J.L. Risk of myopericarditis following COVID-19 mRNA vaccination in a large integrated health system: a comparison of completeness and timeliness of two methods medRxiv Published online December 27, 2021 10.1101/2021.12.21.21268209 PMC9088632 35404496
+
+[bib127] Husby A. Hansen J.V. Fosbol E. SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study BMJ 375 2021 e068665 10.1136/bmj-2021-068665 PMC8683843 34916207
+
+[bib128] Patone M. Mei X.W. Handunnetthi L. Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection Nat Med Published online on December 14, 2021 10.1038/s41591-021-01630-0 PMC8863574 34907393
+
+[bib129] Caforio A.L. Mahon N.J. Tona F. Circulating cardiac autoantibodies in dilated cardiomyopathy and myocarditis: pathogenetic and clinical significance Eur J Heart Fail 4 2002 411 417 12167378 10.1016/s1388-9842(02)00010-7
+
+[bib130] Heymans S. Cooper L.T. Myocarditis after COVID-19 mRNA vaccination: clinical observations and potential mechanisms Nat Rev Cardiol 19 2 2022 75 77 34887571 10.1038/s41569-021-00662-w PMC8656440
+
+[bib131] Heymans S. Eriksson U. Lehtonen J. The quest for new approaches in myocarditis and inflammatory cardiomyopathy J Am Coll Cardiol 68 2016 2348 2364 27884253 10.1016/j.jacc.2016.09.937
+
+[bib132] Larson K.F. Ammirati E. Adler E.D. Myocarditis after BNT162b2 and mRNA-1273 vaccination Circulation 144 2021 506 508 34133884 10.1161/CIRCULATIONAHA.121.055913 PMC8340725
+
+[bib133] Rosner C.M. Genovese L. Tehrani B.N. Myocarditis temporally associated with COVID-19 vaccination Circulation 144 2021 502 505 34133885 10.1161/CIRCULATIONAHA.121.055891 PMC8340723
+
+[bib134] D'Angelo T. Cattafi A. Carerj M.L. Myocarditis after SARS-CoV-2 vaccination: a vaccine-induced reaction? Can J Cardiol 37 2021 1665 1667 34118375 10.1016/j.cjca.2021.05.010 PMC8187737
+
+[bib135] Baden L.R. El Sahly H.M. Essink B. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine N Engl J Med 384 2021 403 416 33378609 10.1056/NEJMoa2035389 PMC7787219
+
+[bib136] Polack F.P. Thomas S.J. Kitchin N. Safety and efficacy of the BNT162b2 mRNA COVID-19 vaccine N Engl J Med 383 2020 2603 2615 33301246 10.1056/NEJMoa2034577 PMC7745181
+
+[bib137] Boehmer T.K. Kompaniyets L. Lavery A.M. Association between COVID-19 and myocarditis using hospital-based administrative data - United States, March 2020-January 2021 MMWR Morb Mortal Wkly Rep 70 2021 1228 1232 34473684 10.15585/mmwr.mm7035e5 PMC8422872
+
+[bib138] Barda N. Dagan N. Ben-Shlomo Y. Safety of the BNT162b2 mRNA covid-19 vaccine in a nationwide setting N Engl J Med 385 2021 1078 1090 34432976 10.1056/NEJMoa2110475 PMC8427535
+
+[bib139] Most Z.M. Hendren N. Drazner M.H. Striking similarities of multisystem inflammatory syndrome in children and a myocarditis-like syndrome in adults: overlapping manifestations of COVID-19 Circulation 143 2021 4 6 32787714 10.1161/CIRCULATIONAHA.120.050166
+
+[bib140] Hageman J.R. Long COVID-19 or post-acute sequelae of SARS-CoV-2 infection in children, adolescents, and young adults Pediatr Ann 50 2021 e232 e233 34115558 10.3928/19382359-20210519-02
+
+[bib141] Centers for Disease Control and Prevention Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covid-net/purpose-methods.html
+
+[bib142] Centers for Disease Control and Prevention Summary document for interim clinical considerations for use of COVID-19 vaccines currently authorized or approved in the United States https://www.cdc.gov/vaccines/covid-19/downloads/summary-interim-clinical-considerations.pdf
+
+[bib143] Nalbandian A. Sehgal K. Gupta A. Post-acute COVID-19 syndrome Nat Med 27 2021 601 615 33753937 10.1038/s41591-021-01283-z PMC8893149
+
+[bib144] Venkatesan P. NICE guideline on long COVID Lancet Respir Med 9 2021 129 33453162 10.1016/S2213-2600(21)00031-X PMC7832375
+
+[bib145] Amenta E.M. Spallone A. Rodriguez-Barradas M.C. Postacute COVID-19: an overview and approach to classification Open Forum Infect Dis 7 2020 ofaa509 10.1093/ofid/ofaa509 PMC7665635 33403218
+
+[bib146] Huang L. Yao Q. Gu X. 1-year outcomes in hospital survivors with COVID-19: a longitudinal cohort study Lancet 398 2021 747 758 34454673 10.1016/S0140-6736(21)01755-4 PMC8389999
+
+[bib147] National Institute for Health and Care Excellence Royal College of General Practitioners, and Scottish Intercolleciate Guidelines Network COVID-19 rapid guideline: managing the long-term effects of COVID-19 https://www.nice.org.uk/guidance/NG188 33555768
+
+[bib148] Biehl M. Sese D. Post-intensive care syndrome and COVID-19 - implications post pandemic Cleve Clin J Med Published online August 5, 2020 10.3949/ccjm.87a.ccc055 32759175
+
+[bib149] Patel P. DeCuir J. Abrams J. Clinical characteristics of multisystem inflammatory syndrome in adults: a systematic review JAMA Netw Open 4 2021 e2126456 10.1001/jamanetworkopen.2021.26456 PMC8459192 34550381
+
+[bib150] Morris S.B. Schwartz N.G. Patel P. Case series of multisystem inflammatory syndrome in adults associated with SARS-CoV-2 infection - United Kingdom and United States, March-August 2020 MMWR Morb Mortal Wkly Rep 69 2020 1450 1456 33031361 10.15585/mmwr.mm6940e1 PMC7561225
+
+[bib151] Havervall S. Rosell A. Phillipson M. Symptoms and functional impairment assessed 8 months after mild COVID-19 among health care workers JAMA 325 2021 2015 2016 33825846 10.1001/jama.2021.5612 PMC8027932
+
+[bib152] Davis H.E. Assaf G.S. McCorkell L. Characterizing long COVID in an international cohort: 7 months of symptoms and their impact EClinicalMedicine 38 2021 101019 34308300 10.1016/j.eclinm.2021.101019 PMC8280690
+
+[bib153] Whitaker M. Elliott J. Chadeau-Hyam M. Persistent symptoms following SARS-CoV-2 infection in a random community sample of 508,707 people medRxiv 18 9 2021 e1003777 10.1101/2021.06.28.21259452
+
+[bib154] Cassar M.P. Tunnicliffe E.M. Petousi N. Symptom persistence despite improvement in cardiopulmonary health— insights from longitudinal CMR, CPET and lung function testing post-COVID-19 EClinicalMedicine 41 2021 101159 34693230 10.1016/j.eclinm.2021.101159 PMC8527025
+
+[bib155] Greenhalgh T. Knight M. A'Court C. Management of post-acute covid-19 in primary care BMJ 370 2020 m3026 32784198 10.1136/bmj.m3026
+
+[bib156] Richter D. Guasti L. Koehler F. Late phase of COVID-19 pandemic in general cardiology. a position paper of the ESC Council for Cardiology Practice ESC Heart Fail 8 2021 3483 3494 34170086 10.1002/ehf2.13466 PMC8427022
+
+[bib157] Saricam E. Dursun A.D. Turkmen Sariyildiz G. Laboratory and imaging evaluation of cardiac involvement in patients with post-acute COVID-19 Int J Gen Med 14 2021 4977 4985 34511982 10.2147/IJGM.S321156 PMC8412825
+
+[bib158] Wang S.Y. Adejumo P. See C. Characteristics of patients referred to a cardiovascular disease clinic for post-acute sequelae of SARS-CoV-2 infection medRxiv Published online December 5, 2021 10.1101/2021.12.04.21267294 PMC9277988 35856065
+
+[bib159] Catena C. Colussi G. Bulfone L. Echocardiographic comparison of COVID-19 patients with or without prior biochemical evidence of cardiac injury after recovery J Am Soc Echocardiogr 34 2021 193 195 33243582 10.1016/j.echo.2020.10.009 PMC7580530
+
+[bib160] Daher A. Balfanz P. Cornelissen C. Follow up of patients with severe coronavirus disease 2019 (COVID-19): pulmonary and extrapulmonary disease sequelae Respir Med 174 2020 106197 33120193 10.1016/j.rmed.2020.106197 PMC7573668
+
+[bib161] Sonnweber T. Sahanic S. Pizzini A. Cardiopulmonary recovery after COVID-19: an observational prospective multicentre trial Eur Respir J 57 4 2021 2003481 33303539 10.1183/13993003.03481-2020 PMC7736754
+
+[bib162] Becker J.H. Lin J.J. Doernberg M. Assessment of cognitive function in patients after COVID-19 infection JAMA Netw Open 4 2021 e2130645 10.1001/jamanetworkopen.2021.30645 PMC8536953 34677597
+
+[bib163] Johansson M. Stahlberg M. Runold M. Long-haul post-COVID-19 symptoms presenting as a variant of postural orthostatic tachycardia syndrome: the Swedish experience J Am Coll Cardiol Case Rep 3 2021 573 580 10.1016/j.jaccas.2021.01.009 PMC7946344 33723532
+
+[bib164] Bryarly M. Phillips L.T. Fu Q. Postural orthostatic tachycardia syndrome: JACC focus seminar J Am Coll Cardiol 73 2019 1207 1228 30871704 10.1016/j.jacc.2018.11.059
+
+[bib165] Thieben M.J. Sandroni P. Sletten D.M. Postural orthostatic tachycardia syndrome: the Mayo Clinic experience Mayo Clin Proc 82 2007 308 313 17352367 10.4065/82.3.308
+
+[bib166] Raj S.R. Arnold A.C. Barboi A. Long-COVID postural tachycardia syndrome: an American Autonomic Society statement Clin Auton Res 31 2021 365 368 33740207 10.1007/s10286-021-00798-2 PMC7976723
+
+[bib167] Stahlberg M. Reistam U. Fedorowski A. Post-COVID-19 tachycardia syndrome: a distinct phenotype of post-acute COVID-19 syndrome Am J Med 134 2021 1451 1456 34390682 10.1016/j.amjmed.2021.07.004 PMC8356730
+
+[bib168] Komaroff A.L. Lipkin W.I. Insights from myalgic encephalomyelitis/chronic fatigue syndrome may help unravel the pathogenesis of postacute COVID-19 syndrome Trends Mol Med 27 2021 895 906 34175230 10.1016/j.molmed.2021.06.002 PMC8180841
+
+[bib169] Clayton E.W. Beyond myalgic encephalomyelitis/chronic fatigue syndrome: an IOM report on redefining an illness JAMA 313 2015 1101 1102 25668027 10.1001/jama.2015.1346
+
+[bib170] Lambert N. Corps S. El-Azab S.A. COVID-19 survivors’ reports of the timing, duration, and health impacts of post-acute sequelae of SARS-CoV-2 (PASC) Infection medRxiv Published online March 22, 2021 10.1101/2021.03.22.21254026
+
+[bib171] Petek B.J. Moulson N. Baggish A.L. Prevalence and clinical implications of persistent or exertional cardiopulmonary symptoms following SARS-CoV-2 infection in 3597 collegiate athletes: a study from the Outcomes Registry for Cardiac Conditions in Athletes (ORCCA) Br J Sports Med Published online November 1, 2021 10.1136/bjsports-2021-104644 PMC8561826 34725052
+
+[bib172] O’Laughlin K.N. Thompson M. Hota B. Study protocol for the Innovative Support for Patients with SARS-COV-2 Infections Registry (INSPIRE): a longitudinal study of the medium and long-term sequelae of SARS-CoV-2 infection medRxiv Published online August 5, 2021 10.1101/2021.08.01.21261397 PMC8893622 35239680
+
+[bib173] Peluso M.J. Lu S. Tang A.F. Markers of immune activation and inflammation in individuals with post-acute sequelae of SARS-CoV-2 infection medRxiv Published online July 11, 2021 10.1101/2021.07.09.21260287
+
+[bib174] Wang E.Y. Mao T. Klein J. Diverse functional autoantibodies in patients with COVID-19 Nature 595 2021 283 288 34010947 10.1038/s41586-021-03631-y
+
+[bib175] Visvabharathy L. Hanson B. Orban Z. Neuro-COVID long-haulers exhibit broad dysfunction in T cell memory generation and responses to vaccination medRxiv Published online October 29, 2021 10.1101/2021.08.08.21261763
+
+[bib176] Gold J.E. Okyay R.A. Licht W.E. Investigation of long COVID prevalence and its relationship to Epstein-Barr virus reactivation Pathogens 10 6 2021 763 34204243 10.3390/pathogens10060763 PMC8233978
+
+[bib177] Evans P.C. Rainger G.E. Mason J.C. Endothelial dysfunction in COVID-19: a position paper of the ESC Working Group for Atherosclerosis and Vascular Biology, and the ESC Council of Basic Cardiovascular Science Cardiovasc Res 116 2020 2177 2184 32750108 10.1093/cvr/cvaa230 PMC7454368
+
+[bib178] Charfeddine S. Ibn Hadj Amor H. Jdidi J. Long COVID 19 syndrome: is it related to microcirculation and endothelial dysfunction? Insights from TUN-EndCOV Study Front Cardiovasc Med 8 2021 745758 34917659 10.3389/fcvm.2021.745758 PMC8670225
+
+[bib179] Baratto C. Caravita S. Faini A. Impact of COVID-19 on exercise pathophysiology: a combined cardiopulmonary and echocardiographic exercise study J Appl Physiol (1985) 130 2021 1470 1478 33764166 10.1152/japplphysiol.00710.2020 PMC8143785
+
+[bib180] Clavario P. De Marzo V. Lotti R. Assessment of functional capacity with cardiopulmonary exercise testing in non-severe COVID-19 patients at three months follow-up medRxiv Published online November 16, 2020 10.1101/2020.11.15.20231985
+
+[bib181] Rinaldo R.F. Mondoni M. Parazzini E.M. Deconditioning as main mechanism of impaired exercise response in COVID-19 survivors Eur Respir J 58 2 2021 2100870 33926969 10.1183/13993003.00870-2021 PMC8082950
+
+[bib182] Benarroch E.E. “Dysautonomia”: a plea for precision Clin Auton Res 31 2021 27 29 33387098 10.1007/s10286-020-00749-3
+
+[bib183] Levine B.D. Zuckerman J.H. Pawelczyk J.A. Cardiac atrophy after bed-rest deconditioning: a nonneural mechanism for orthostatic intolerance Circulation 96 1997 517 525 9244220 10.1161/01.cir.96.2.517
+
+[bib184] Fu Q. Vangundy T.B. Galbreath M.M. Cardiac origins of the postural orthostatic tachycardia syndrome J Am Coll Cardiol 55 2010 2858 2868 20579544 10.1016/j.jacc.2010.02.043 PMC2914315
+
+[bib185] Shibata S. Fu Q. Bivens T.B. Short-term exercise training improves the cardiovascular response to exercise in the postural orthostatic tachycardia syndrome J Physiol 590 2012 3495 3505 22641777 10.1113/jphysiol.2012.233858 PMC3547265
+
+[bib186] Gaffney F.A. Nixon J.V. Karlsson E.S. Cardiovascular deconditioning produced by 20 hours of bedrest with head-down tilt (-5 degrees) in middle-aged healthy men Am J Cardiol 56 1985 634 638 4050700 10.1016/0002-9149(85)91025-2
+
+[bib187] Saltin B. Blomqvist G. Mitchell J.H. Response to exercise after bed rest and after training Circulation 38 1968 VII1 VII78 5696236
+
+[bib188] Singh I. Joseph P. Heerdt P.M. Persistent exertional intolerance after COVID-19: insights from invasive cardiopulmonary exercise testing Chest 161 2022 54 63 34389297 10.1016/j.chest.2021.08.010 PMC8354807
+
+[bib189] Blomberg B. Mohn K.G. Brokstad K.A. Long COVID in a prospective cohort of home-isolated patients Nat Med 27 2021 1607 1613 34163090 10.1038/s41591-021-01433-3 PMC8440190
+
+[bib190] Quyyumi A.A. Cannon R.O. 3rd Panza J.A. Endothelial dysfunction in patients with chest pain and normal coronary arteries Circulation 86 1992 1864 1871 1451258 10.1161/01.cir.86.6.1864
+
+[bib191] Kunadian V. Chieffo A. Camici P.G. An EAPCI expert consensus document on ischaemia with non-obstructive coronary arteries in collaboration with European Society of Cardiology Working Group on Coronary Pathophysiology & Microcirculation endorsed by Coronary Vasomotor Disorders International Study Group Eur Heart J 41 2020 3504 3520 32626906 10.1093/eurheartj/ehaa503 PMC7577516
+
+[bib192] Espejo C. Mejia-Renteria H. Travieso A. Myocardial ischaemia of non-obstructive origin as a cause of new onset anginal chest pain in the long COVID syndrome Eur Heart J 42 2021
+
+[bib193] Bellan M. Soddu D. Balbo P.E. Respiratory and psychophysical sequelae among patients with COVID-19 four months after hospital discharge JAMA Netw Open 4 2021 e2036142 10.1001/jamanetworkopen.2020.36142 PMC7841464 33502487
+
+[bib194] Finney L.J. Doughty R. Lovage S. Lung function deficits and symptom burden in survivors of COVID-19 requiring mechanical ventilation Ann Am Thorac Soc 18 2021 1740 1743 33769926 10.1513/AnnalsATS.202102-099RL PMC8522286
+
+[bib195] Aparisi A. Ybarra-Falcon C. Garcia-Gomez M. Exercise ventilatory inefficiency in post-COVID-19 syndrome: insights from a prospective evaluation J Clin Med 10 12 2021 2591 34208271 10.3390/jcm10122591 PMC8230788
+
+[bib196] Mancini D.M. Brunjes D.L. Lala A. Use of cardiopulmonary stress testing for patients with unexplained dyspnea post-coronavirus disease J Am Coll Cardiol HF 9 2021 927 937 10.1016/j.jchf.2021.10.002 PMC8629098 34857177
+
+[bib197] Gulati M. Levy P.D. Mukherjee D. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines J Am Coll Cardiol 78 2021 e187 e285 34756653 10.1016/j.jacc.2021.07.053
+
+[bib198] Hastings J.L. Krainski F. Snell P.G. Effect of rowing ergometry and oral volume loading on cardiovascular structure and function during bed rest J Appl Physiol (1985) 112 2012 1735 1743 22345434 10.1152/japplphysiol.00019.2012 PMC3785184
+
+[bib199] George S.A. Bivens T.B. Howden E.J. The international POTS registry: evaluating the efficacy of an exercise training intervention in a community setting Heart Rhythm 13 2016 943 950 26690066 10.1016/j.hrthm.2015.12.012
+
+[bib200] Torjesen I. NICE advises against using graded exercise therapy for patients recovering from COVID-19 BMJ 370 2020 m2912 32694164 10.1136/bmj.m2912
+
+[bib201] Lindsay R.K. Wilson J.J. Trott M. What are the recommendations for returning athletes who have experienced long term COVID-19 symptoms? Ann Med 53 2021 1935 1944 34726085 10.1080/07853890.2021.1992496 PMC8567919
+
+[bib202] Fu Q. Levine B.D. Exercise and non-pharmacological treatment of POTS Auton Neurosci 215 2018 20 27 30001836 10.1016/j.autneu.2018.07.001 PMC6289756
+
+[bib203] Howden E.J. Sarma S. Lawley J.S. Reversing the cardiac effects of sedentary aging in middle age-a randomized controlled trial: implications for heart failure prevention Circulation 137 2018 1549 1560 29311053 10.1161/CIRCULATIONAHA.117.030617 PMC5893372
+
+[bib204] Bhella P.S. Hastings J.L. Fujimoto N. Impact of lifelong exercise “dose” on left ventricular compliance and distensibility J Am Coll Cardiol 64 2014 1257 1266 25236519 10.1016/j.jacc.2014.03.062 PMC4272199
+
+[bib205] Fu Q. Vangundy T.B. Shibata S. Exercise training versus propranolol in the treatment of the postural orthostatic tachycardia syndrome Hypertension 58 2011 167 175 21690484 10.1161/HYPERTENSIONAHA.111.172262 PMC3142863
+
+[bib206] Arnold A.C. Okamoto L.E. Diedrich A. Low-dose propranolol and exercise capacity in postural tachycardia syndrome: a randomized study Neurology 80 2013 1927 1933 23616163 10.1212/WNL.0b013e318293e310 PMC3716342
+
+[bib207] Raj S.R. Black B.K. Biaggioni I. Propranolol decreases tachycardia and improves symptoms in the postural tachycardia syndrome: less is more Circulation 120 2009 725 734 19687359 10.1161/CIRCULATIONAHA.108.846501 PMC2758650
+
+[bib208] Taub P.R. Zadourian A. Lo H.C. Randomized trial of ivabradine in patients with hyperadrenergic postural orthostatic tachycardia syndrome J Am Coll Cardiol 77 2021 861 871 33602468 10.1016/j.jacc.2020.12.029
+
+[bib209] Rector T.S. Bank A.J. Mullen K.A. Randomized, double-blind, placebo-controlled study of supplemental oral L-arginine in patients with heart failure Circulation 93 1996 2135 2141 8925582 10.1161/01.cir.93.12.2135
+
+[bib210] Lundberg J.O. Carlstrom M. Larsen F.J. Roles of dietary inorganic nitrate in cardiovascular health and disease Cardiovasc Res 89 2011 525 532 20937740 10.1093/cvr/cvq325
+
+[bib211] Lerman A. Burnett J.C. Jr. Higano S.T. Long-term L-arginine supplementation improves small-vessel coronary endothelial function in humans Circulation 97 1998 2123 2128 9626172 10.1161/01.cir.97.21.2123
+
+[bib212] Tooba R. Mayuga K.A. Wilson R. Dyspnea in chronic low ventricular preload states Ann Am Thorac Soc 18 2021 573 581 33792518 10.1513/AnnalsATS.202005-581CME PMC8009011
+
+[bib213] Gea J. Pascual S. Casadevall C. Muscle dysfunction in chronic obstructive pulmonary disease: update on causes and biological findings J Thorac Dis 7 2015 e418 e438 26623119 10.3978/j.issn.2072-1439.2015.08.04 PMC4635259
+
+[bib214] Adeloye D. Elneima O. Daines L. The long-term sequelae of COVID-19: an international consensus on research priorities for patients with pre-existing and new-onset airways disease Lancet Respir Med 9 2021 1467 1478 34416191 10.1016/S2213-2600(21)00286-1 PMC8372501
+
+[bib215] American Heart Association $10 million invested to study long-term impact of COVID-19 on heart and brain health https://newsroom.heart.org/news/10-million-invested-to-study-long-term-impact-of-covid-19-on-heart-and-brain-health
+
+[bib216] National Institutes of Health NIH builds large nationwide study population of tens of thousands to support research on long-term effects of COVID-19 https://www.nih.gov/news-events/news-releases/nih-builds-large-nationwide-study-population-tens-thousands-support-research-long-term-effects-covid-19
+
+[bib217] Clerkin K.J. Fried J.A. Raikhelkar J. COVID-19 and cardiovascular disease Circulation 141 2020 1648 1655 32200663 10.1161/CIRCULATIONAHA.120.046941
+
+[bib218] Driggin E. Madhavan M.V. Bikdeli B. Cardiovascular considerations for patients, health care workers, and health systems during the COVID-19 pandemic J Am Coll Cardiol 75 2020 2352 2371 32201335 10.1016/j.jacc.2020.03.031 PMC7198856
+
+[bib219] Baggish A. Drezner J.A. Kim J. Resurgence of sport in the wake of COVID-19: cardiac considerations in competitive athletes Br J Sports Med 54 2020 1130 1131 32561518 10.1136/bjsports-2020-102516 PMC7513253
+
+[bib220] Bhatia R.T. Marwaha S. Malhotra A. Exercise in the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) era: a question and answer session with the experts endorsed by the section of Sports Cardiology & Exercise of the European Association of Preventive Cardiology (EAPC) Eur J Prev Cardiol 27 2020 1242 1251 32475157 10.1177/2047487320930596 PMC7717284
+
+[bib221] Phelan D. Kim J.H. Chung E.H. A game plan for the resumption of sport and exercise after coronavirus disease 2019 (COVID-19) infection JAMA Cardiol 5 2020 1085 1086 32402054 10.1001/jamacardio.2020.2136
+
+[bib222] Kim J.H. Levine B.D. Phelan D. Coronavirus disease 2019 and the athletic heart: emerging perspectives on pathology, risks, and return to play JAMA Cardiol 6 2021 219 227 33104154 10.1001/jamacardio.2020.5890
+
+[bib223] Rajpal S. Tong M.S. Borchers J. Cardiovascular magnetic resonance findings in competitive athletes recovering from COVID-19 infection JAMA Cardiol 6 2021 116 118 32915194 10.1001/jamacardio.2020.4916 PMC7489396
+
+[bib224] Clark D.E. Parikh A. Dendy J.M. COVID-19 Myocardial Pathology Evaluation in Athletes With Cardiac Magnetic Resonance (COMPETE CMR) Circulation 143 2021 609 612 33332151 10.1161/CIRCULATIONAHA.120.052573 PMC7864610
+
+[bib225] Eichhorn C. Biere L. Schnell F. Myocarditis in athletes is a challenge: diagnosis, risk stratification, and uncertainties J Am Coll Cardiol Img 13 2020 494 507 10.1016/j.jcmg.2019.01.039 31202742
+
+[bib226] Vago H. Szabo L. Dohy Z. Cardiac magnetic resonance findings in patients recovered from COVID-19: initial experiences in elite athletes J Am Coll Cardiol Img 14 2021 1279 1281 10.1016/j.jcmg.2020.11.014 PMC7837171 33341416
+
+[bib227] Malek L.A. Marczak M. Milosz-Wieczorek B. Cardiac involvement in consecutive elite athletes recovered from Covid-19: a magnetic resonance study J Magn Reson Imaging 53 2021 1723 1729 33474768 10.1002/jmri.27513 PMC8014772
+
+[bib228] Hendrickson B.S. Stephens R.E. Chang J.V. Cardiovascular evaluation after COVID-19 in 137 collegiate athletes: results of an algorithm-guided screening Circulation 143 2021 1926 1928 33970675 10.1161/CIRCULATIONAHA.121.053982
+
+[bib229] Hwang C.E. Kussman A. Christle J.W. Findings from cardiovascular evaluation of National Collegiate Athletic Association Division I collegiate student-athletes after asymptomatic or mildly symptomatic SARS-CoV-2 infection Clin J Sport Med Published online June 24, 2021 10.1097/JSM.0000000000000954 34173780
+
+[bib230] Kilgore A. Health experts worry coronavirus could cause lasting heart complications for athletes https://www.washingtonpost.com/sports/2020/08/08/athletes-coronavirus-heart-complications/
+
+[bib231] The Big Ten conference adopts stringent medical protocols; football season to resume October 23-24, 2020 https://bigten.org/news/2020/9/16/the-big-ten-conference-adopts-stringent-medical-protocols-football-season-to-resume-october-23-24-2020.aspx
+
+[bib232] Anderson R. Red Sox pitcher Eduardo Rodriguez confirms he's dealing with heart issue stemming from COVID-19 infection https://www.cbssports.com/mlb/news/red-sox-pitcher-eduardo-rodriguez-confirms-hes-dealing-with-heart-issue-stemming-from-covid-19-infection/
+
+[bib233] Bozkurt B. Colvin M. Cook J. Current diagnostic and treatment strategies for specific dilated cardiomyopathies: a scientific statement from the American Heart Association Circulation 134 2016 e579 e646 27832612 10.1161/CIR.0000000000000455
+
+[bib234] Malek L.A. Bucciarelli-Ducci C. Myocardial fibrosis in athletes-Current perspective Clin Cardiol 43 2020 882 888 32189357 10.1002/clc.23360 PMC7403702
+
+[bib235] Baggish A.L. Battle R.W. Beckerman J.G. Sports cardiology: core curriculum for providing cardiovascular care to competitive athletes and highly active people J Am Coll Cardiol 70 2017 1902 1918 28982505 10.1016/j.jacc.2017.08.055
+
+[bib236] Feldstein L.R. Rose E.B. Horwitz S.M. Multisystem inflammatory syndrome in U.S. children and adolescents N Engl J Med 383 2020 334 346 32598831 10.1056/NEJMoa2021680 PMC7346765
+
+[bib237] Yonker L.M. Neilan A.M. Bartsch Y. Pediatric severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): clinical presentation, infectivity, and immune responses J Pediatr 227 2020 45 52 e45 32827525 10.1016/j.jpeds.2020.08.037 PMC7438214
+
+[bib238] Merghani A. Maestrini V. Rosmini S. Prevalence of subclinical coronary artery disease in Masters Endurance Athletes with a low atherosclerotic risk profile Circulation 136 2017 126 137 28465287 10.1161/CIRCULATIONAHA.116.026964
+
+[bib239] Svedberg N. Sundstrom J. James S. Long-term incidence of atrial fibrillation and stroke among cross-country skiers Circulation 140 2019 910 920 31446766 10.1161/CIRCULATIONAHA.118.039461
+
+[bib240] Centers for Disease Control and Prevention Quarantine and Isolation https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html
+
+[bib241] Maron B.J. Udelson J.E. Bonow R.O. Eligibility and disqualification recommendations for competitive athletes with cardiovascular abnormalities: task force 3: hypertrophic cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy and other cardiomyopathies, and myocarditis: a scientific statement from the American Heart Association and American College of Cardiology Circulation 132 2015 e273 e280 26621644 10.1161/CIR.0000000000000239
+
+[bib242] La Gerche A. Burns A.T. Mooney D.J. Exercise-induced right ventricular dysfunction and structural remodelling in endurance athletes Eur Heart J 33 2012 998 1006 22160404 10.1093/eurheartj/ehr397
+
+[bib243] Abdullah S.M. Barkley K.W. Bhella P.S. Lifelong physical activity regardless of dose is not associated with myocardial fibrosis Circ Cardiovasc Imaging 9 2016 e005511 10.1161/CIRCIMAGING.116.005511 PMC5137797 27903541
+
+[bib244] Kim J.H. Baggish A.L. Differentiating exercise-induced cardiac adaptations from cardiac pathology: the “grey zone” of clinical uncertainty Can J Cardiol 32 2016 429 437 26875013 10.1016/j.cjca.2015.11.025
+
+[bib245] Millar L.M. Fanton Z. Finocchiaro G. Differentiation between athlete's heart and dilated cardiomyopathy in athletic individuals Heart 106 2020 1059 1065 32341137 10.1136/heartjnl-2019-316147

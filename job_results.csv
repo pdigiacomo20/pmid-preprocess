@@ -1,3 +1,85 @@
 job_id,reference_index,status,pmid,extracted_title,error_message,processed_at
 41523c63-708a-4073-baf3-e862e12b33c3,0,failed,,Post-COVID Recovery is More Likely after an Infection with the SARS-CoV-2 Omicron Variant: A Population-Based Cohort Study,PubMed search failed for: Post-COVID Recovery is More Likely after an Infection with the SARS-CoV-2 Omicron Variant: A Population-Based Cohort Study,2025-08-10T21:42:14.251506
-41523c63-708a-4073-baf3-e862e12b33c3,1,success,38416429,Cognition and Memory after Covid-19 in a Large Community Sample,,2025-08-10T21:42:23.853575
+41523c63-708a-4073-baf3-e862e12b33c3,1,success,38416429.0,Cognition and Memory after Covid-19 in a Large Community Sample,,2025-08-10T21:42:23.853575
+deb97c2a-10d2-4a45-9303-c9e3f3843a1f,0,failed,,"Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section 1557","PubMed search failed for: Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section 1557",2025-08-14T08:43:50.550534
+477f5852-a52a-4369-888a-41074cbb9129,0,failed,,Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Strategies to Prevent Worsening of Symptoms,PubMed search failed for: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Strategies to Prevent Worsening of Symptoms,2025-08-14T08:44:39.005205
+477f5852-a52a-4369-888a-41074cbb9129,1,success,32920235.0,Covid-19 hyperinflammation and post-Covid-19 illness may be rooted in mast cell activation syndrome,,2025-08-14T08:44:45.509332
+477f5852-a52a-4369-888a-41074cbb9129,2,success,37234076.0,"Female reproductive health impacts of Long COVID and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature review",,2025-08-14T08:44:53.418909
+477f5852-a52a-4369-888a-41074cbb9129,3,success,38496502.0,Sex differences in symptomatology and immune profiles of Long COVID,,2025-08-14T08:45:00.101581
+e84b7487-0146-436d-a874-23e17f1f9f03,0,success,32188386.0,Inflammatory Markers in Cardiovascular Disease; Lessons Learned and Future Perspectives,,2025-08-14T08:46:19.761514
+e84b7487-0146-436d-a874-23e17f1f9f03,1,success,37169323.0,Long COVID Syndrome: A Case-Control Study,,2025-08-14T08:46:25.603928
+e84b7487-0146-436d-a874-23e17f1f9f03,2,failed,,Post COVID-19 Patient information pack: Helping you to recover and manage your symptoms following COVID-19,PubMed search failed for: Post COVID-19 Patient information pack: Helping you to recover and manage your symptoms following COVID-19,2025-08-14T08:46:29.121560
+e84b7487-0146-436d-a874-23e17f1f9f03,3,success,37806726.0,"Lifestyle Medicine: Prevention, Treatment, and Reversal of Disease",,2025-08-14T08:46:35.092793
+e84b7487-0146-436d-a874-23e17f1f9f03,4,success,34506003.0,Lifestyle Adjustments in Long-COVID Management: Potential Benefits of Plant-Based Diets,,2025-08-14T08:46:42.702057
+e84b7487-0146-436d-a874-23e17f1f9f03,5,success,35814187.0,Safety and efficacy of low dose naltrexone in a long covid cohort; An interventional pre-post study,,2025-08-14T08:46:48.368708
+e84b7487-0146-436d-a874-23e17f1f9f03,6,success,38970055.0,Low-dose naltrexone in the treatment of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS),,2025-08-14T08:46:54.912117
+e84b7487-0146-436d-a874-23e17f1f9f03,7,success,38740499.0,"Low-dose naltrexone for post-COVID fatigue syndrome: a study protocol for a double-blind, randomised trial in British Columbia",,2025-08-14T08:47:01.637975
+e84b7487-0146-436d-a874-23e17f1f9f03,8,success,37062302.0,Effectiveness of a bivalent mRNA vaccine booster dose to prevent severe COVID-19 outcomes: a retrospective cohort study,,2025-08-14T08:47:07.559432
+e84b7487-0146-436d-a874-23e17f1f9f03,9,success,36820640.0,"Protection against severe COVID-19 after second booster dose of adapted bivalent (original/Omicron BA.4-5) mRNA vaccine in persons ≥ 60 years, by time since infection, Italy, 12 September to 11 December 2022",,2025-08-14T08:47:15.535239
+e84b7487-0146-436d-a874-23e17f1f9f03,10,success,36921274.0,"Early Estimates of Bivalent mRNA Vaccine Effectiveness in Preventing COVID-19-Associated Emergency Department or Urgent Care Encounters and Hospitalizations Among Immunocompetent Adults - VISION Network, Nine States, September-November 2022",,2025-08-14T08:47:24.500679
+f358636d-1f68-44f7-bbbe-2c2c2c0fa3ac,0,success,36910458.0,Efficacy of first dose of covid-19 vaccine versus no vaccination on symptoms of patients with long covid: target trial emulation based on ComPaRe e-cohort,,2025-08-14T08:59:32.098349
+7c261ca6-0447-4ede-8572-86251b220439,0,success,36910458.0,Efficacy of first dose of covid-19 vaccine versus no vaccination on symptoms of patients with long covid: target trial emulation based on ComPaRe e-cohort,,2025-08-14T09:34:37.591210
+7c261ca6-0447-4ede-8572-86251b220439,1,success,35200425.0,Overview of COVID-19 Vaccines,,2025-08-14T09:34:43.825109
+7c261ca6-0447-4ede-8572-86251b220439,2,success,20192908.0,Alternative Medical Interventions Used in the Treatment and Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia,,2025-08-14T09:34:53.234938
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,0,success,36910458.0,Efficacy of first dose of covid-19 vaccine versus no vaccination on symptoms of patients with long covid: target trial emulation based on ComPaRe e-cohort,,2025-08-14T09:38:25.488138
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,1,success,35200425.0,Overview of COVID-19 Vaccines,,2025-08-14T09:38:31.349176
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,2,success,20192908.0,Alternative Medical Interventions Used in the Treatment and Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia,,2025-08-14T09:38:37.475877
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,3,success,30607330.0,A Review of Herbal Therapy in Multiple Sclerosis,,2025-08-14T09:38:44.669574
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,4,success,29157400.0,Advanced Symptom Management in Multiple Sclerosis,,2025-08-14T09:38:51.268715
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,0,failed,,"Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– )","PubMed search failed for: Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– )",2025-08-14T09:39:42.075058
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,1,success,37793728.0,"Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome",,2025-08-14T09:39:48.270646
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,2,success,32324159.0,Mast Cell Activation Syndrome,,2025-08-14T09:39:56.717282
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,3,success,19111779.0,"The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures",,2025-08-14T09:40:03.568059
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,4,success,37155736.0,"Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+Randomized Controlled Trial",,2025-08-14T09:40:08.805750
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,5,success,33529750.0,"Diagnosing and treating myalgic encephalomyelitis/chronic
+fatigue syndrome (ME/CFS)",,2025-08-14T09:40:15.312775
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,6,success,37216955.0,"Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation",,2025-08-14T09:40:21.451388
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,0,success,36556003.0,An Impairment in Resting and Exertional Breathing Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.,,2025-08-14T09:41:08.706380
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,1,failed,,Billing and Coding: Pulmonary Rehabilitation Services: A52770,PubMed search failed for: Billing and Coding: Pulmonary Rehabilitation Services: A52770,2025-08-14T09:41:12.066657
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,2,success,38246521.0,Pulmonary Rehabilitation for People With Persistent Symptoms After COVID-19.,,2025-08-14T09:41:18.084357
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,3,success,38397731.0,Safety and Efficacy of Pulmonary Rehabilitation for Long COVID Patients Experiencing Long-Lasting Symptoms.,,2025-08-14T09:41:27.078204
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,4,success,37626710.0,Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic Review and Meta-Analysis.,,2025-08-14T09:41:34.008002
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,5,success,33634144.0,Airway Clearance Techniques: The Right Choice for the Right Patient.,,2025-08-14T09:41:41.037842
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,6,success,34258904.0,Cardiac Manifestations of Coronavirus (COVID-19),,2025-08-14T09:41:52.609884
+0a669600-14c1-412d-bb07-6740cc18ae07,0,success,35132265.0,Long-term cardiovascular outcomes of COVID-19,,2025-08-14T09:42:44.168895
+0a669600-14c1-412d-bb07-6740cc18ae07,1,success,39050244.0,"Increased risk of arrhythmias, heart failure, and
+thrombosis in SARS-CoV-2 positive individuals persists at one year post-infection",,2025-08-14T09:42:50.281279
+0a669600-14c1-412d-bb07-6740cc18ae07,2,success,35307156.0,"2022 ACC Expert Consensus Decision
+Pathway on Cardiovascular Sequelae of COVID-19 in Adults: Myocarditis and Other Myocardial
+Involvement, Post-Acute Sequelae of SARS-CoV-2 Infection, and Return to Play: A Report of the
+American College of Cardiology Solution Set Oversight Committee",,2025-08-14T09:42:57.869861
+0a669600-14c1-412d-bb07-6740cc18ae07,3,success,35939544.0,Post-COVID Return to Play Guidance Evolves,,2025-08-14T09:43:03.298975
+0a669600-14c1-412d-bb07-6740cc18ae07,4,success,33419740.0,Returning to physical activity after covid-19,,2025-08-14T09:43:08.956719
+0a669600-14c1-412d-bb07-6740cc18ae07,5,success,38311655.0,"Randomized controlled trial of
+intravenous immunoglobulin for autoimmune postural orthostatic tachycardia syndrome
+(iSTAND)",,2025-08-14T09:43:15.506954
+013f5621-6d95-4d4b-9d41-83124f23990b,0,success,36312294.0,COUNTER-PRESSURE MANEUVERS,,2025-08-14T09:44:10.250227
+013f5621-6d95-4d4b-9d41-83124f23990b,1,success,37586567.0,Greater executive dysfunction in patients post-COVID-19 compared to those not infected,,2025-08-14T09:44:16.620677
+013f5621-6d95-4d4b-9d41-83124f23990b,2,failed,,Identification and Management of Mental Health Symptoms and Conditions Associated with Long COVID,PubMed search failed for: Identification and Management of Mental Health Symptoms and Conditions Associated with Long COVID,2025-08-14T09:44:20.877561
+013f5621-6d95-4d4b-9d41-83124f23990b,3,success,36966460.0,Neurologic Manifestations of Long COVID Differ Based on Acute COVID-19 Severity,,2025-08-14T09:44:29.594024
+013f5621-6d95-4d4b-9d41-83124f23990b,4,success,38081885.0,Clinical characteristics of Long COVID patients presenting to a dedicated academic post-COVID-19 clinic in Central Texas,,2025-08-14T09:44:37.860032
+013f5621-6d95-4d4b-9d41-83124f23990b,5,success,38172101.0,Features of acute COVID-19 associated with post-acute sequelae of SARS-CoV-2 phenotypes: results from the IMPACC study,,2025-08-14T09:44:45.884285
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,0,failed,,"A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial (REVIVE)","PubMed search failed for: A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in Participants With Long COVID-19: The REVIVE Trial (REVIVE)",2025-08-14T09:47:19.762438
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,1,success,35388182.0,Fluvoxamine for Long COVID-19,,2025-08-14T09:47:29.017599
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,2,success,38813984.0,Longitudinal Progression of Patients with Long COVID Treated in a Post-COVID Clinic: A Cross-Sectional Survey,,2025-08-14T09:47:41.590265
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,3,success,38560070.0,Enhanced external counterpulsation for management of symptoms associated with long COVID,,2025-08-14T09:47:53.799404
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,4,success,38866353.0,Enhanced External Counterpulsation Improves Long COVID-Associated Symptoms,,2025-08-14T09:48:05.668265
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,5,success,38206585.0,Enhanced External Counterpulsation Improves Cognitive Function of Persons With Long COVID,,2025-08-14T09:48:21.645129
+4ff58089-2f2c-454b-b25e-cc569f4243b3,0,success,37496529.0,Efficacy of Stellate Ganglion Block in Treating Long-Term COVID-19-Related Olfactory and Gustatory Dysfunction: A Case Series,,2025-08-14T10:06:41.278778
+4ff58089-2f2c-454b-b25e-cc569f4243b3,1,success,36628048.0,Stellate Ganglion Block for Long COVID Symptom Management: A Case Report,,2025-08-14T10:06:47.547436
+4ff58089-2f2c-454b-b25e-cc569f4243b3,2,success,37711269.0,Stellate Ganglion Block Relieves Long COVID-19 Symptoms in 86% of Patients: A Retrospective Cohort Study,,2025-08-14T10:06:54.622810
+4ff58089-2f2c-454b-b25e-cc569f4243b3,3,success,38173801.0,Non-invasive Vagus Nerve Simulation in Postural Orthostatic Tachycardia Syndrome,,2025-08-14T10:07:00.412605
+4ff58089-2f2c-454b-b25e-cc569f4243b3,4,success,38756213.0,Transcutaneous vagus nerve stimulation improves Long COVID symptoms in a female cohort: a pilot study,,2025-08-14T10:07:06.951679
+4ff58089-2f2c-454b-b25e-cc569f4243b3,5,success,38672710.0,Effects of Hyperbaric Oxygen Therapy on Long COVID: A Systematic Review,,2025-08-14T10:07:14.691746
+3541dac3-0170-446c-a600-b06a07ef0212,0,success,36700201.0,The therapeutic potential of non-invasive brain stimulation for the treatment of Long-COVID-related cognitive fatigue,,2025-08-14T10:08:16.885769
+3541dac3-0170-446c-a600-b06a07ef0212,1,success,38272997.0,Transcranial direct current stimulation (tDCS) in the treatment of neuropsychiatric symptoms of long COVID,,2025-08-14T10:08:22.641352
+3541dac3-0170-446c-a600-b06a07ef0212,2,failed,,"RECOVER-NEURO: Platform Protocol, Appendix_A to Measure the Effects of BrainHQ, PASC CoRE and tDCS Interventions on Long COVID Symptoms","PubMed search failed for: RECOVER-NEURO: Platform Protocol, Appendix_A to Measure the Effects of BrainHQ, PASC CoRE and tDCS Interventions on Long COVID Symptoms",2025-08-14T10:08:26.603951
+3541dac3-0170-446c-a600-b06a07ef0212,3,success,28890890.0,"The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood",,2025-08-14T10:08:35.062466
+3541dac3-0170-446c-a600-b06a07ef0212,4,success,34308526,Pilot Study on Reducing Symptoms of Anxiety with a Heart Rate Variability Biofeedback Wearable and Remote Stress Management Coach,,2025-08-14T10:08:41.166728

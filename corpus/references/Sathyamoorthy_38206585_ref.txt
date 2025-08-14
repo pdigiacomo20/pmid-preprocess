@@ -1,0 +1,15 @@
+[j_med-2025-1216_ref_001] Huang J, Fan Y, Wang Y, Liu J. The effects of enhanced external counter-pulsation on post-acute sequelae of COVID-19: A narrative review. Open Med. 2025;20(1):20241067.  10.1515/med-2024-1067 . PMC11716443 39802655
+
+[j_med-2025-1216_ref_002] Fox J, Verduzco-Gutierrez M, Sanchez S, Lopez M, Ali F, Quesada O, et al. Enhanced external counterpulsation improves Long COVID–associated symptoms. Am J Cardiol. 2024;224:12–3.  10.1016/j.amjcard.2024.05.03 . PMC11257783 38866353
+
+[j_med-2025-1216_ref_003] Fox J, Farhan A, Lopez M, Shah S, Schmidt C, Quesada O, et al. Enhanced external counterpulsation improves dyspnea, fatigue, and functional capacity in patients with Long COVID. COVID. 2024;4(9):98.  10.3390/covid4090098 .
+
+[j_med-2025-1216_ref_004] National Center for Health Statistics. U.S. Census Bureau, Household Pulse Survey, 2022–2024. Long COVID. Centers for Disease Control and Prevention, U.S. Department of Health and Human Services; Atlanta, GA. Published August 21, 2024. Accessed September 9, 2024.  https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm .
+
+[j_med-2025-1216_ref_005] Davis HE, McCorkell L, Vogel JM, Topol EJ. Long COVID: major findings, mechanisms and recommendations. Nat Rev Microbiol. 2023;21(3):133–46.  10.1038/s41579-022-00846 . PMC9839201 36639608
+
+[j_med-2025-1216_ref_006] Dayrit JK, Verduzco-Gutierrez M, Teal A, Shah S. Enhanced external counterpulsation as a novel treatment for post-acute COVID-19 sequelae. Cureus. 2021;13(4):e14358.  10.7759/cureus.14358 . PMC8110286 33987042
+
+[j_med-2025-1216_ref_007] Wu E, Mahdi A, Nickander J, Bruchfeld J, Mellbin L, Haugaa K, et al. Enhanced external counterpulsation for management of postacute sequelae of SARS-CoV-2 associated microvascular angina and fatigue: An interventional pilot study. Cardiovasc Ther. 2023;2023:6687803.  10.1155/2023/6687803 . PMC10764650 38179014
+
+[j_med-2025-1216_ref_008] Sathyamoorthy M, Sevak RJ, Cabrera J, Lopez M, Fox J, Shah S, et al. Enhanced external counterpulsation improves cognitive function of persons with Long COVID. Am J Phys Med Rehabil. 2024;103(8):734–9.  10.1097/phm.0000000000002433 . 38206585

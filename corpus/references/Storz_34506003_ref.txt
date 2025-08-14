@@ -1,0 +1,317 @@
+[CR1] Nalbandian A Sehgal K Gupta A Madhavan MV McGroder C Stevens JS Post-acute COVID-19 syndrome Nat Med 2021 27 4 601 615 33753937 10.1038/s41591-021-01283-z PMC8893149
+
+[CR2] World Health Organization. COVID-19 weekly epidemiological update; [cited 2021 May 30]. Available from:  https://www.who.int/docs/default-source/coronaviruse/situation-reports/20210601_weekly_epi_update_42.pdf?sfvrsn=5b0bbc7c_5&download=true
+
+[CR3] NIHR. Living with covid-19. A dynamic review of the evidence around ongoing covid-19 symptoms (often called long covid). October 2020; [cited 2021 May 30].  https://evidence.nihr.ac.uk/themedreview/living-with-covid19 .
+
+[CR4] Iwu CJ Iwu CD Wiysonge CS The occurrence of long COVID: a rapid review Pan Afr Med J 2021 38 65 33889231 10.11604/pamj.2021.38.65.27366 PMC8028365
+
+[CR5] Lopez-Leon S, Wegman-Ostrosky T, Perelman C, Sepulveda R, Rebolledo PA, Cuapio A, et al. More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis. medRxiv. 2021 Jan 30; 10.1038/s41598-021-95565-8 PMC8352980 34373540
+
+[CR6] Wong TL Weitzer DJ Long COVID and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)-a systemic review and comparison of clinical presentation and symptomatology Medicina (Kaunas). 2021 57 5 418 33925784 10.3390/medicina57050418 PMC8145228
+
+[CR7] Carfì A Bernabei R Landi F Gemelli against COVID-19 post-acute care study group. Persistent symptoms in patients after acute COVID-19 JAMA 2020 324 6 603 5 32644129 10.1001/jama.2020.12603 PMC7349096
+
+[CR8] Huang C Huang L Wang Y Li X Ren L Gu X 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study Lancet 2021 397 10270 220 232 33428867 10.1016/S0140-6736(20)32656-8 PMC7833295
+
+[CR9] Logue JK Franko NM McCulloch DJ McDonald D Magedson A Wolf CR Sequelae in adults at 6 months after COVID-19 infection JAMA Netw Open 2021 4 2 e210830 33606031 10.1001/jamanetworkopen.2021.0830 PMC7896197
+
+[CR10] Osikomaiya B Erinoso O Wright KO Odusola AO Thomas B Adeyemi O ‘Long COVID’: persistent COVID-19 symptoms in survivors managed in Lagos State, Nigeria BMC Infect Dis 2021 21 1 304 33765941 10.1186/s12879-020-05716-x PMC7993075
+
+[CR11] Marra A Pandharipande PP Girard TD Patel MB Hughes CG Jackson JC Co-occurrence of post-intensive care syndrome problems among 406 survivors of critical illness Crit Care Med 2018 46 9 1393 1401 29787415 10.1097/CCM.0000000000003218 PMC6095801
+
+[CR12] Iqbal FM Lam K Sounderajah V Elkin S Ashrafian H Darzi A Understanding the survivorship burden of long COVID EClinicalMedicine 2021 33 100767 33649741 10.1016/j.eclinm.2021.100767 PMC7904277
+
+[CR13] Sykes DL Holdsworth L Jawad N Gunasekera P Morice AH Crooks MG Post-COVID-19 symptom burden: what is long-COVID and how should we manage it? Lung 2021 199 2 113 119 33569660 10.1007/s00408-021-00423-z PMC7875681
+
+[CR14] Del Rio C Collins LF Malani P Long-term health consequences of COVID-19 JAMA 2020 324 17 1723 1724 33031513 10.1001/jama.2020.19719 PMC8019677
+
+[CR15] World Health Organization | 1. Introduction [Internet]. WHO. World Health Organization; [cited 2021 May 21]. Available from:  https://www.who.int/nutrition/topics/1_introduction/en/
+
+[CR16] Nalbandian A Sehgal K Gupta A Madhavan MV McGroder C Stevens JS Post-acute COVID-19 syndrome Nat Med 2021 27 4 601 615 10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[CR17] Holdoway A Addressing nutrition in the road map of recovery for those with long COVID-19 Br J Community Nurs 2021 26 5 218 222 33939462 10.12968/bjcn.2021.26.5.218
+
+[CR18] Physicians Committee for Responsible Medicine. Diet can fight diseases linked to poor COVID-19 outcomes [Internet]. Physicians Committee for Responsible Medicine; [cited 2021 May 21]. Available from:  https://www.pcrm.org/news/blog/diet-can-fight-diseases-linked-poor-covid-19-outcomes
+
+[CR19] Benavides H, Meireles CL, Benavente V, Mays MH, Wang J. Decreasing older adult COVID-19 risk factors using digital technology to implement a plant-based-diet: an opinion paper. JMIR Aging. 2021 May 31; 10.2196/25327 PMC8406109 34081595
+
+[CR20] Ostfeld RJ Definition of a plant-based diet and overview of this special issue J Geriatr Cardiol 2017 14 5 315 28630607 10.11909/j.issn.1671-5411.2017.05.008 PMC5466934
+
+[CR21] Craddock JC Neale EP Peoples GE Probst YC Plant-based eating patterns and endurance performance: a focus on inflammation, oxidative stress and immune responses Nutr Bull 2020 45 2 123 132
+
+[CR22] Satija A Hu FB Plant-based diets and cardiovascular health Trends Cardiovasc Med 2018 28 7 437 441 29496410 10.1016/j.tcm.2018.02.004 PMC6089671
+
+[CR23] Storz MA Is there a lack of support for whole-food, plant-based diets in the medical community? Perm J 2018 23 18 068 30589405 10.7812/TPP/18-068 PMC6307547
+
+[CR24] Storz MA Will the plant-based movement redefine physicians’ understanding of chronic disease? New Bioeth 2020 26 2 141 157 32594898 10.1080/20502877.2020.1767921
+
+[CR25] Trautwein EA, McKay S. The role of specific components of a plant-based diet in management of dyslipidemia and the impact on cardiovascular risk. Nutrients. 2020 Sept 1;12(9). 10.3390/nu12092671 PMC7551487 32883047
+
+[CR26] Grosse CSJ Christophersen CT Devine A Lawrance IC The role of a plant-based diet in the pathogenesis, etiology and management of the inflammatory bowel diseases Expert Rev Gastroenterol Hepatol 2020 14 3 137 145 32077339 10.1080/17474124.2020.1733413
+
+[CR27] Medawar E Huhn S Villringer A Veronica WA The effects of plant-based diets on the body and the brain: a systematic review Transl Psychiatry 2019 9 1 226 31515473 10.1038/s41398-019-0552-0 PMC6742661
+
+[CR28] •• Kim H, Rebholz CM, Hegde S, LaFiura C, Raghavan M, Lloyd JF, et al. Plant-based diets, pescatarian diets and COVID-19 severity: a population-based case–control study in six countries. BMJ Nutrition, Prevention & Health. 2021 May 18;bmjnph.  This is the first high-quality case-control study that revealed that following plant-based diets is associated with 73% lower odds of moderate-to-severe COVID-19-like illness compared with individuals who did not follow these diets . 10.1136/bmjnph-2021-000272 PMC8219480 34308134
+
+[CR29] Rehman U Shahnawaz MG Khan NH Kharshiing KD Khursheed M Gupta K Depression, anxiety and stress among Indians in times of covid-19 lockdown Community Ment Health J 2021 57 1 42 48 32577997 10.1007/s10597-020-00664-x PMC7309680
+
+[CR30] Gao J Zheng P Jia Y Chen H Mao Y Chen S Mental health problems and social media exposure during COVID-19 outbreak PLoS One 2020 15 4 e0231924 32298385 10.1371/journal.pone.0231924 PMC7162477
+
+[CR31] Choi EPH Hui BPH Wan EYF Depression and anxiety in Hong Kong during COVID-19 Int J Environ Res Public Health 2020 17 10 3740 10.3390/ijerph17103740 PMC7277420 32466251
+
+[CR32] Liu CH Zhang E Wong GTF Hyun S Chris HH Factors associated with depression, anxiety, and PTSD symptomatology during the COVID-19 pandemic: clinical implications for US young adult mental health Psychiatry Research 2020 290 113172 32512357 10.1016/j.psychres.2020.113172 PMC7263263
+
+[CR33] Mazza MG De Lorenzo R Conte C Poletti S Vai B Bollettini I Anxiety and depression in COVID-19 survivors: role of inflammatory and clinical predictors Brain Behav Immun 2020 1 89 594 600 10.1016/j.bbi.2020.07.037 PMC7390748 32738287
+
+[CR34] Wilsher SH. The impact of emotional health on fruit and vegetable consumption in young men: a qualitative study. Proceedings of the Nutrition Society [Internet]. 2013 ed [cited 2021 May 24];72(OCE4). Available from:  https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-emotional-health-on-fruit-and-vegetable-consumption-in-young-men-a-qualitative-study/79ED3B2F9D71AC5C98AC58B62FA90D21
+
+[CR35] Głąbska D Guzek D Groele B Gutkowska K Fruit and vegetable intake and mental health in adults: a systematic review Nutrients 2020 12 1 E115 31906271 10.3390/nu12010115 PMC7019743
+
+[CR36] Blanchflower DG Oswald AJ Stewart-Brown S Is psychological well-being linked to the consumption of fruit and vegetables? Soc Indic Res 2013 114 3 785 801
+
+[CR37] Boehm JK Williams DR Rimm EB Ryff C Kubzansky LD Association between optimism and serum antioxidants in the midlife in the United States study Psychosom Med 2013 75 1 2 10 23257932 10.1097/PSY.0b013e31827c08a9 PMC3539819
+
+[CR38] Kelloniemi H Ek E Laitinen J Optimism, dietary habits, body mass index and smoking among young Finnish adults Appetite 2005 45 2 169 176 16009454 10.1016/j.appet.2005.05.001
+
+[CR39] Giltay EJ Geleijnse JM Zitman FG Buijsse B Kromhout D Lifestyle and dietary correlates of dispositional optimism in men: The Zutphen Elderly Study J Psychosom Res 2007 63 5 483 490 17980220 10.1016/j.jpsychores.2007.07.014
+
+[CR40] Bhatt T Patel K Carotenoids: potent to prevent diseases review Nat Prod Bioprospect 2020 10 3 109 117 32405969 10.1007/s13659-020-00244-2 PMC7253555
+
+[CR41] Ju S-Y Park YK Low fruit and vegetable intake is associated with depression among Korean adults in data from the 2014 Korea National Health and Nutrition Examination Survey J Health Popul Nutr 2019 38 1 39 31796113 10.1186/s41043-019-0204-2 PMC6892133
+
+[CR42] Huang P O’Keeffe M Elia C Karamanos A Goff LM Maynard M Fruit and vegetable consumption and mental health across adolescence: evidence from a diverse urban British cohort study Int J Behav Nutr Phys Act 2019 16 1 19 30736801 10.1186/s12966-019-0780-y PMC6368762
+
+[CR43] Dharmayani PNA Juergens M Allman-Farinelli M Mihrshahi S Association between fruit and vegetable consumption and depression symptoms in young people and adults aged 15–45: a systematic review of cohort studies Int J Environ Res Public Health 2021 18 2 E780 33477603 10.3390/ijerph18020780 PMC7831325
+
+[CR44] Wattick RA Hagedorn RL Olfert MD Relationship between diet and mental health in a young adult appalachian college population Nutrients 2018 10 8 957 10.3390/nu10080957 PMC6115820 30044399
+
+[CR45] Akbaraly TN Brunner EJ Ferrie JE Marmot MG Kivimaki M Singh-Manoux A Dietary pattern and depressive symptoms in middle age Br J Psychiatry 2009 195 5 408 413 19880930 10.1192/bjp.bp.108.058925 PMC2801825
+
+[CR46] Zhang Y Yang Y Xie M-S Ding X Li H Liu Z-C Is meat consumption associated with depression? a meta-analysis of observational studies BMC Psychiatry 2017 17 1 409 29282023 10.1186/s12888-017-1540-7 PMC5745880
+
+[CR47] Beezhold BL Johnston CS Daigle DR Vegetarian diets are associated with healthy mood states: a cross-sectional study in Seventh Day Adventist adults Nutr J 2010 1 9 26 10.1186/1475-2891-9-26 PMC2887769 20515497
+
+[CR48] Shen Y-C Chang C-E Lin M-N Lin C-L Vegetarian diet is associated with lower risk of depression in Taiwan Nutrients 2021 13 4 1059 33805124 10.3390/nu13041059 PMC8064096
+
+[CR49] Agarwal U Mishra S Xu J Levin S Gonzales J Barnard ND A multicenter randomized controlled trial of a nutrition intervention program in a multiethnic adult population in the corporate setting reduces depression and anxiety and improves quality of life: the GEICO study Am J Health Promot 2015 29 4 245 254 24524383 10.4278/ajhp.130218-QUAN-72
+
+[CR50] Kahleova H Hrachovinova T Hill M Pelikanova T Vegetarian diet in type 2 diabetes–improvement in quality of life, mood and eating behaviour Diabet Med 2013 30 1 127 129 23050853 10.1111/dme.12032
+
+[CR51] Rajaram S Jones J Lee GJ Plant-based dietary patterns, plant foods, and age-related cognitive decline Adv Nutr 2019 10 Suppl_4 422 36 10.1093/advances/nmz081 PMC6855948 31728502
+
+[CR52] Gomez-Pinilla F Nguyen TTJ Natural mood foods: the actions of polyphenols against psychiatric and cognitive disorders Nutr Neurosci 2012 15 3 127 133 22334236 10.1179/1476830511Y.0000000035 PMC3355196
+
+[CR53] Bouayed J Polyphenols: a potential new strategy for the prevention and treatment of anxiety and depression Curr Nutr Food Sci 2010 6 1 13 18
+
+[CR54] Flanagan E Müller M Hornberger M Vauzour D Impact of flavonoids on cellular and molecular mechanisms underlying age-related cognitive decline and neurodegeneration Curr Nutr Rep 2018 7 2 49 57 29892788 10.1007/s13668-018-0226-1 PMC5960493
+
+[CR55] Joris PJ Mensink RP Adam TC Liu TT Cerebral blood flow measurements in adults: a review on the effects of dietary factors and exercise Nutrients 2018 10 5 E530 29693564 10.3390/nu10050530 PMC5986410
+
+[CR56] Tungmunnithum D, Thongboonyou A, Pholboon A, Yangsabai A. Flavonoids and other phenolic compounds from medicinal plants for pharmaceutical and medical aspects: an overview. Medicines (Basel) [Internet]. 2018 Aug 25 [cited 2021 May 24];5(3). Available from:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165118/ 10.3390/medicines5030093 PMC6165118 30149600
+
+[CR57] Anand David AV Arulmoli R Parasuraman S Overviews of biological importance of quercetin: a bioactive flavonoid Pharmacogn Rev 2016 10 20 84 89 28082789 10.4103/0973-7847.194044 PMC5214562
+
+[CR58] Dixon Clarke SE Ramsay RR Dietary inhibitors of monoamine oxidase A J Neural Transm (Vienna) 2011 118 7 1031 1041 21190052 10.1007/s00702-010-0537-x
+
+[CR59] Higuchi Y Soga T Parhar IS Regulatory pathways of monoamine oxidase A during social stress Front Neurosci 2017 11 604 29163009 10.3389/fnins.2017.00604 PMC5671571
+
+[CR60] aan het Rot M, Mathew SJ, Charney DS. Neurobiological mechanisms in major depressive disorder. CMAJ. 2009 Feb 3;180(3):305–13 10.1503/cmaj.080697 PMC2630359 19188629
+
+[CR61] Ismail H Amanat MA Iqbal A Mirza B Medicinal plants: a complementary and alternative antidepressant therapy Curr Pharm Des 2018 24 22 2609 2624 30051783 10.2174/1381612824666180727123950
+
+[CR62] Bahramsoltani R Farzaei MH Farahani MS Rahimi R Phytochemical constituents as future antidepressants: a comprehensive review Rev Neurosci 2015 26 6 699 719 26146123 10.1515/revneuro-2015-0009
+
+[CR63] Dhiman P, Malik N, Sobarzo-Sánchez E, Uriarte E, Khatkar A. Quercetin and related chromenone derivatives as monoamine oxidase inhibitors: targeting neurological and mental disorders. Molecules [Internet]. 2019 Jan 24 [cited 2021 May 24];24(3). Available from:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6385169/ 10.3390/molecules24030418 PMC6385169 30678358
+
+[CR64] Agrawal PK Agrawal C Blunden G Quercetin: antiviral significance and possible COVID-19 integrative considerations Nat Prod Commun 2020 15 12 1934578X20976293
+
+[CR65] Colunga Biancatelli RML Berrill M Catravas JD Marik PE Quercetin and vitamin C: an experimental, synergistic therapy for the prevention and treatment of SARS-CoV-2 related disease (COVID-19) Front Immunol 2020 11 1451 32636851 10.3389/fimmu.2020.01451 PMC7318306
+
+[CR66] Grosso G Galvano F Marventano S Malaguarnera M Bucolo C Drago F Omega-3 fatty acids and depression: scientific evidence and biological mechanisms Oxid Med Cell Longev 2014 2014 313570 24757497 10.1155/2014/313570 PMC3976923
+
+[CR67] Hathaway D Pandav K Patel M Riva-Moscoso A Singh BM Patel A Omega 3 fatty acids and COVID-19: a comprehensive review Infect Chemother 2020 52 4 478 495 33377319 10.3947/ic.2020.52.4.478 PMC7779984
+
+[CR68] Gutiérrez S Svahn SL Johansson ME Effects of omega-3 fatty acids on immune cells Int J Mol Sci 2019 20 20 5028 10.3390/ijms20205028 PMC6834330 31614433
+
+[CR69] Asher A Tintle NL Myers M Lockshon L Bacareza H Harris WS Blood omega-3 fatty acids and death from COVID-19: a pilot study Prostaglandins Leukot Essent Fatty Acids 2021 166 102250 33516093 10.1016/j.plefa.2021.102250 PMC7816864
+
+[CR70] Doaei S Gholami S Rastgoo S Gholamalizadeh M Bourbour F Bagheri SE The effect of omega-3 fatty acid supplementation on clinical and biochemical parameters of critically ill patients with COVID-19: a randomized clinical trial J Transl Med 2021 19 1 128 33781275 10.1186/s12967-021-02795-5 PMC8006115
+
+[CR71] Chang JP-C Pariante CM Su K-P Omega-3 fatty acids in the psychological and physiological resilience against COVID-19 Prostaglandins Leukot Essent Fatty Acids 2020 161 102177 33031994 10.1016/j.plefa.2020.102177 PMC7516470
+
+[CR72] Domingo JL Omega-3 fatty acids and the benefits of fish consumption: is all that glitters gold? Environ Int 2007 33 7 993 998 17540446 10.1016/j.envint.2007.05.001
+
+[CR73] Physicians Committee for Responsible Medicine. Food and mood: eating plants to fight the blues [Internet] [cited 2021 May 24]. Available from:  https://www.pcrm.org/good-nutrition/food-and-mood
+
+[CR74] Beezhold BL Johnston CS Restriction of meat, fish, and poultry in omnivores improves mood: a pilot randomized controlled trial Nutr J 2012 14 11 9 10.1186/1475-2891-11-9 PMC3293760 22333737
+
+[CR75] Innes JK Calder PC Omega-6 fatty acids and inflammation Prostaglandins Leukot Essent Fatty Acids 2018 132 41 48 29610056 10.1016/j.plefa.2018.03.004
+
+[CR76] Patterson E Wall R Fitzgerald GF Ross RP Stanton C Health implications of high dietary omega-6 polyunsaturated Fatty acids J Nutr Metab 2012 2012 539426 22570770 10.1155/2012/539426 PMC3335257
+
+[CR77] Lucas M Chocano-Bedoya P Schulze MB Shulze MB Mirzaei F O’Reilly ÉJ Inflammatory dietary pattern and risk of depression among women Brain Behav Immun 2014 36 46 53 24095894 10.1016/j.bbi.2013.09.014 PMC3947176
+
+[CR78] Vogelzangs N Beekman ATF de Jonge P Penninx BWJH Anxiety disorders and inflammation in a large adult cohort Transl Psychiatry 2013 3 e249 23612048 10.1038/tp.2013.27 PMC3641413
+
+[CR79] Kwon SY Massey K Watson MA Hussain T Volpe G Buckley CD Oxidised metabolites of the omega-6 fatty acid linoleic acid activate dFOXO Life Sci Alliance 2020 3 2 e201900356 31992650 10.26508/lsa.201900356 PMC6988086
+
+[CR80] Burhani MD Rasenick MM Fish oil and depression: the skinny on fats J Integr Neurosci 2017 16 s1 S115 S124 29254106 10.3233/JIN-170072 PMC6087692
+
+[CR81] Lange KW Omega-3 fatty acids and mental health Global Health J 2020 4 1 18 30
+
+[CR82] Lange KW Nakamura Y Gosslau AM Li S Are there serious adverse effects of omega-3 polyunsaturated fatty acid supplements? J Food Bioactives 2019 10.31665/JFB.2019.7192
+
+[CR83] Storz MA The role of vegan diets in lipotoxicity-induced beta-cell dysfunction in type-2-diabetes J Popl Ther Clin Pharmacol 2020 27 SP2 e22 38 10.15586/jptcp.v27SP2.744 34032395
+
+[CR84] Sanders TA Roshanai F Platelet phospholipid fatty acid composition and function in vegans compared with age- and sex-matched omnivore controls Eur J Clin Nutr 1992 46 11 823 831 1425536
+
+[CR85] Kahleova H Hlozkova A Fleeman R Fletcher K Holubkov R Barnard ND Fat quantity and quality, as part of a low-fat, vegan diet, are associated with changes in body composition, insulin resistance, and insulin secretion. A 16-Week Randomized Controlled Trial Nutrient 2019 11 3 615 10.3390/nu11030615 PMC6472059 30871233
+
+[CR86] Beezhold B Radnitz C Rinne A DiMatteo J Vegans report less stress and anxiety than omnivores Nutr Neurosci 2015 18 7 289 296 25415255 10.1179/1476830514Y.0000000164
+
+[CR87] Cherian L Wang Y Holland T Agarwal P Aggarwal N Morris MC DASH and Mediterranean-dash intervention for neurodegenerative delay (MIND) diets are associated with fewer depressive symptoms over time J Gerontol A Biol Sci Med Sci 2021 76 1 151 156 32080745 10.1093/gerona/glaa044 PMC7973257
+
+[CR88] Cong X Tracy M Edmunds LS Hosler AS Appleton AA The relationship between inflammatory dietary pattern in childhood and depression in early adulthood Brain Behav Immun Health 2020 2 100017 32140686 10.1016/j.bbih.2019.100017 PMC7043331
+
+[CR89] Farooqui AA, Farooqui T. Chapter 20 - Effects of Western, Mediterranean, vegetarian, and Okinawan diet patterns on human brain. In: Farooqui T, Farooqui AA, editors. Role of the Mediterranean diet in the brain and neurodegenerative diseases [Internet]. Academic Press; 2018 [cited 2021 Jul 4]. p. 317–32. Available from:  https://www.sciencedirect.com/science/article/pii/B9780128119594000201
+
+[CR90] Pistollato F Battino M Role of plant-based diets in the prevention and regression of metabolic syndrome and neurodegenerative diseases Trends Food Sci Technol 2014 40 1 62 81
+
+[CR91] Marx W Lane M Hockey M Aslam H Berk M Walder K Diet and depression: exploring the biological mechanisms of action Mol Psychiatry 2021 26 1 134 150 33144709 10.1038/s41380-020-00925-x
+
+[CR92] Strasser B Gostner JM Fuchs D Mood, food, and cognition: role of tryptophan and serotonin Curr Opin Clin Nutr Metab Care 2016 19 1 55 61 26560523 10.1097/MCO.0000000000000237
+
+[CR93] Shabbir F Patel A Mattison C Bose S Krishnamohan R Sweeney E Effect of diet on serotonergic neurotransmission in depression Neurochem Int 2013 62 3 324 329 23306210 10.1016/j.neuint.2012.12.014
+
+[CR94] Lindseth G Helland B Caspers J The effects of dietary tryptophan on affective disorders Arch Psychiatr Nurs 2015 29 2 102 107 25858202 10.1016/j.apnu.2014.11.008 PMC4393508
+
+[CR95] Reuter M Zamoscik V Plieger T Bravo R Ugartemendia L Rodriguez AB Tryptophan-rich diet is negatively associated with depression and positively linked to social cognition Nutr Res 2021 1 85 14 20 10.1016/j.nutres.2020.10.005 33383299
+
+[CR96] Chojnacki C Popławski T Chojnacki J Fila M Konrad P Blasiak J Tryptophan intake and metabolism in older adults with mood disorders Nutrients 2020 12 10 E3183 33081001 10.3390/nu12103183 PMC7603218
+
+[CR97] Thomas T Stefanoni D Reisz JA Nemkov T Bertolone L Francis RO COVID-19 infection alters kynurenine and fatty acid metabolism, correlating with IL-6 levels and renal status JCI Insight 2020 5 14 140327 32559180 10.1172/jci.insight.140327 PMC7453907
+
+[CR98] Ansone L Ustinova M Terentjeva A Perkons I Birzniece L Rovite V Tryptophan and arginine metabolism is significantly altered at the time of admission in hospital for severe COVID-19 patients: findings from longitudinal targeted metabolomics analysis medRxiv 2021 323 1239 10.1128/spectrum.00338-21 PMC8653833 34878333
+
+[CR99] Eroğlu İ Eroğlu BÇ Güven GS Altered tryptophan absorption and metabolism could underlie long-term symptoms in survivors of coronavirus disease 2019 (COVID-19) Nutrition 2021 90 111308 34111831 10.1016/j.nut.2021.111308 PMC8087860
+
+[CR100] Shader RI COVID-19, interferons, and depression: a commentary Psychiatr Res 2020 291 113198 10.1016/j.psychres.2020.113198 32535509
+
+[CR101] Palego L Betti L Rossi A Giannaccini G Tryptophan biochemistry: structural, nutritional, metabolic, and medical aspects in humans J Amino Acids 2016 2016 8952520 26881063 10.1155/2016/8952520 PMC4737446
+
+[CR102] Stone TW Stoy N Darlington LG An expanding range of targets for kynurenine metabolites of tryptophan Trends Pharmacol Sci 2013 34 2 136 143 23123095 10.1016/j.tips.2012.09.006
+
+[CR103] Wurtman RJ Wurtman JJ Regan MM McDermott JM Tsay RH Breu JJ Effects of normal meals rich in carbohydrates or proteins on plasma tryptophan and tyrosine ratios Am J Clin Nutr 2003 77 1 128 132 12499331 10.1093/ajcn/77.1.128
+
+[CR104] Lederer A-K Maul-Pavicic A Hannibal L Hettich M Steinborn C Gründemann C Vegan diet reduces neutrophils, monocytes and platelets related to branched-chain amino acids - a randomized, controlled trial Clin Nutr 2020 39 11 3241 3250 32147197 10.1016/j.clnu.2020.02.011
+
+[CR105] St-Onge M-P Crawford A Aggarwal B Plant-based diets: reducing cardiovascular risk by improving sleep quality? Curr Sleep Med Rep 2018 4 1 74 78 29910998 PMC5999325
+
+[CR106] Muscogiuri G Barrea L Savastano S Colao A Nutritional recommendations for CoVID-19 quarantine Eur J Clin Nutr 2020 74 6 850 851 32286533 10.1038/s41430-020-0635-2 PMC7155155
+
+[CR107] Casagrande M Favieri F Tambelli R Forte G The enemy who sealed the world: effects quarantine due to the COVID-19 on sleep quality, anxiety, and psychological distress in the Italian population Sleep Med 2020 1 75 12 20 10.1016/j.sleep.2020.05.011 PMC7215153 32853913
+
+[CR108] Gupta R Grover S Basu A Krishnan V Tripathi A Subramanyam A Changes in sleep pattern and sleep quality during COVID-19 lockdown Indian J Psychiatr 2020 62 4 370 378 10.4103/psychiatry.IndianJPsychiatry_523_20 PMC7597722 33165382
+
+[CR109] Coiro MJ Asraf K Tzischinsky O Hadar-Shoval D Tannous-Haddad L Wolfson AR Sleep quality and COVID-19-related stress in relation to mental health symptoms among Israeli and US adults Sleep Health 2021 7 2 127 33 33691986 10.1016/j.sleh.2021.02.006
+
+[CR110] Kocevska D Blanken TF Van Someren EJW Rösler L Sleep quality during the COVID-19 pandemic: not one size fits all Sleep Med 2020 76 86 88 33126035 10.1016/j.sleep.2020.09.029 PMC7543757
+
+[CR111] Sanlier N Sabuncular G Relationship between nutrition and sleep quality, focusing on the melatonin biosynthesis Sleep Biol Rhythms 2020 18 2 89 99
+
+[CR112] Pengpid S Peltzer K Fruit and vegetable consumption is protective from short sleep and poor sleep quality among university students from 28 countries Nat Sci Sleep 2020 12 627 633 32943964 10.2147/NSS.S263922 PMC7467659
+
+[CR113] Jyväkorpi SK Urtamo A Kivimäki M Strandberg TE Associations of sleep quality, quantity and nutrition in oldest-old men The Helsinki Businessmen Study (HBS) Eur Geriatr Med 2021 12 1 117 122 33131032 10.1007/s41999-020-00421-z PMC7900075
+
+[CR114] St-Onge M-P Roberts A Shechter A Choudhury AR Fiber and saturated fat are associated with sleep arousals and slow wave sleep J Clin Sleep Med 2016 12 1 19 24 26156950 10.5664/jcsm.5384 PMC4702189
+
+[CR115] Sato-Mito N Sasaki S Murakami K Okubo H Takahashi Y Shibata S The midpoint of sleep is associated with dietary intake and dietary behavior among young Japanese women Sleep Med 2011 12 3 289 294 21296614 10.1016/j.sleep.2010.09.012
+
+[CR116] Tan X Alén M Cheng SM Mikkola TM Tenhunen J Lyytikäinen A Associations of disordered sleep with body fat distribution, physical activity and diet among overweight middle-aged men J Sleep Res 2015 24 4 414 424 25644747 10.1111/jsr.12283
+
+[CR117] Kristensen NB Madsen ML Hansen TH Allin KH Hoppe C Fagt S Intake of macro- and micronutrients in Danish vegans Nutr J 2015 14 1 115 26518233 10.1186/s12937-015-0103-3 PMC4628270
+
+[CR118] Abbasi B Kimiagar M Sadeghniiat K Shirazi MM Hedayati M Rashidkhani B The effect of magnesium supplementation on primary insomnia in elderly: a double-blind placebo-controlled clinical trial J Res Med Sci 2012 17 12 1161 1169 23853635 PMC3703169
+
+[CR119] Zhang Y Chen C Lu L Knuston K Carnethon M Fly A Association of magnesium intake with sleep duration and sleep quality: findings from the CARDIA study Curr Dev Nutr 2021 5 1109 1109 10.1093/sleep/zsab276 PMC8996025 34883514
+
+[CR120] Pickering G Mazur A Trousselard M Bienkowski P Yaltsewa N Amessou M Magnesium status and stress: the vicious circle concept revisited Nutrients 2020 12 12 3672 10.3390/nu12123672 PMC7761127 33260549
+
+[CR121] Wienecke E Nolden C Long-term HRV analysis shows stress reduction by magnesium intake MMW Fortschr Med 2016 158 Suppl 6 12 16 27933574 10.1007/s15006-016-9054-7
+
+[CR122] Carfì A Bernabei R Landi F Gemelli against COVID-19 post-acute care study group. Persistent symptoms in patients after acute COVID-19 JAMA 2020 324 6 603 5 32644129 10.1001/jama.2020.12603 PMC7349096
+
+[CR123] Ali AM Kunugi H Skeletal muscle damage in COVID-19: a call for action Medicina (Kaunas) 2021 57 4 372 33921429 10.3390/medicina57040372 PMC8069858
+
+[CR124] Elma Ö Yilmaz ST Deliens T Coppieters I Clarys P Nijs J Do nutritional factors interact with chronic musculoskeletal pain? a systematic review J Clin Med 2020 9 3 702 10.3390/jcm9030702 PMC7141322 32150934
+
+[CR125] Choi KW Somers TJ Babyak MA Sikkema KJ Blumenthal JA Keefe FJ The relationship between pain and eating among overweight and obese individuals with osteoarthritis: an ecological momentary study Pain Res Manag 2014 19 6 e159 163 24911176 10.1155/2014/598382 PMC4273714
+
+[CR126] Meleger AL Froude CK Walker J Nutrition and eating behavior in patients with chronic pain receiving long-term opioid therapy PM&R 2014 6 1 7 12.e1 23973502 10.1016/j.pmrj.2013.08.597
+
+[CR127] Batista ED Andretta A de Miranda RC Nehring J Dos Santos PE Schieferdecker MEM Food intake assessment and quality of life in women with fibromyalgia Rev Bras Reumatol Engl Ed 2016 56 2 105 110 27267522 10.1016/j.rbre.2015.08.015
+
+[CR128] Tarleton EK Kennedy AG Rose GL Littenberg B Relationship between magnesium intake and chronic pain in US adults Nutrients 2020 12 7 2014 10.3390/nu12072104 PMC7400867 32708577
+
+[CR129] Towery P Guffey JS Doerflein C Stroup K Saucedo S Taylor J Chronic musculoskeletal pain and function improve with a plant-based diet Complement Ther Med 2018 40 64 69 30219471 10.1016/j.ctim.2018.08.001
+
+[CR130] McDougall J Bruce B Spiller G Westerdahl J McDougall M Effects of a very low-fat, vegan diet in subjects with rheumatoid arthritis J Altern Complement Med 2002 8 1 71 75 11890437 10.1089/107555302753507195
+
+[CR131] Clinton CM O’Brien S Law J Renier CM Wendt MR Whole-foods, plant-based diet alleviates the symptoms of osteoarthritis Arthritis 2015 2015 708152 25815212 10.1155/2015/708152 PMC4359818
+
+[CR132] Solway J McBride M Haq F Abdul W Miller R Diet and dermatology: the role of a whole-food, plant-based diet in preventing and reversing skin aging—a review J Clin Aesthet Dermatol 2020 13 5 38 43 32802255 PMC7380694
+
+[CR133] Turner-McGrievy GM Barnard ND Scialli AR A two-year randomized weight loss trial comparing a vegan diet to a more moderate low-fat diet Obesity (Silver Spring) 2007 15 9 2276 2281 17890496 10.1038/oby.2007.270
+
+[CR134] Najjar RS Feresin RG Plant-based diets in the reduction of body fat: physiological effects and biochemical insights Nutrients 2019 11 11 2712 10.3390/nu11112712 PMC6893503 31717463
+
+[CR135] • Doykov I, Hällqvist J, Gilmour KC, Grandjean L, Mills K, Heywood WE. ‘The long tail of Covid-19’ - the detection of a prolonged inflammatory response after a SARS-CoV-2 infection in asymptomatic and mildly affected patients. F1000Res [Internet]. 2021 Jan 8 [cited 2021 May 25];9. Available from:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745182/ .  The authors demonstrated that inflammatory pathways can remain perturbed up to 60 days after a SARS-CoV-2 infection in patients with long-COVID. Nutritional anti-inflammatory interventions are urgently warranted to reduce systemic inflammation in affected patients . 10.12688/f1000research.27287.1 PMC7745182 33391730
+
+[CR136] Mazza MG Palladini M De Lorenzo R Magnaghi C Poletti S Furlan R Persistent psychopathology and neurocognitive impairment in COVID-19 survivors: effect of inflammatory biomarkers at three-month follow-up Brain Behav Immun 2021 94 138 147 33639239 10.1016/j.bbi.2021.02.021 PMC7903920
+
+[CR137] Storz MA How research on depression could now fundamentally change preventive cardiology Eur J Prev Cardiol 2020 30 2047487320915804 10.1177/2047487320915804 33611430
+
+[CR138] Turner-McGrievy GM Wirth MD Shivappa N Wingard EE Fayad R Wilcox S Randomization to plant-based dietary approaches leads to larger short-term improvements in Dietary Inflammatory Index scores and macronutrient intake compared with diets that contain meat Nutr Res 2015 35 2 97 106 25532675 10.1016/j.nutres.2014.11.007
+
+[CR139] Kim M-S Hwang S-S Park E-J Bae J-W Strict vegetarian diet improves the risk factors associated with metabolic diseases by modulating gut microbiota and reducing intestinal inflammation Environ Microbiol Rep 2013 5 5 765 775 24115628 10.1111/1758-2229.12079
+
+[CR140] Eichelmann F Schwingshackl L Fedirko V Aleksandrova K Effect of plant-based diets on obesity-related inflammatory profiles: a systematic review and meta-analysis of intervention trials Obes Rev 2016 17 11 1067 1079 27405372 10.1111/obr.12439
+
+[CR141] Franco-de-Moraes AC de Almeida-Pititto B da Rocha FG Gomes EP da Costa PA Ferreira SRG Worse inflammatory profile in omnivores than in vegetarians associates with the gut microbiota composition Diabetol Metab Syndr 2017 9 62 28814977 10.1186/s13098-017-0261-x PMC5557559
+
+[CR142] • Shah B, Newman JD, Woolf K, Ganguzza L, Guo Y, Allen N, et al. Anti-inflammatory effects of a vegan diet versus the American Heart Association-recommended diet in coronary artery disease trial. J Am Heart Assoc. 2018 Dec 4;7(23):e011367.  Shah et al. demonstrated that an 8-week vegan intervention can significantly reduce high-sensitivity C-reactive protein by 32%. This approach could be useful to reduce systemic inflammation in patients with long-COVID . 10.1161/JAHA.118.011367 PMC6405545 30571591
+
+[CR143] Baden MY Satija A Hu FB Huang T Change in plant-based diet quality is associated with changes in plasma adiposity-associated biomarker concentrations in women J Nutr 2019 149 4 676 686 30927000 10.1093/jn/nxy301 PMC6461739
+
+[CR144] Craddock JC Neale EP Peoples GE Probst YC Vegetarian-based dietary patterns and their relation with inflammatory and immune biomarkers: a systematic review and meta-analysis Adv Nutr 2019 10 3 433 451 30947338 10.1093/advances/nmy103 PMC6520040
+
+[CR145] Mainardi T Kapoor S Bielory L Complementary and alternative medicine: herbs, phytochemicals and vitamins and their immunologic effects J Allergy Clin Immunol 2009 123 2 283 94 19203652 10.1016/j.jaci.2008.12.023
+
+[CR146] Ninfali P Antonelli A Magnani M Scarpa ES Antiviral properties of flavonoids and delivery strategies Nutrients 2020 12 9 E2534 32825564 10.3390/nu12092534 PMC7551920
+
+[CR147] Zakaryan H Arabyan E Oo A Zandi K Flavonoids: promising natural compounds against viral infections Arch Virol 2017 162 9 2539 2551 28547385 10.1007/s00705-017-3417-y PMC7087220
+
+[CR148] Kim YS Sayers TJ Colburn NH Milner JA Young HA Impact of dietary components on NK and Treg cell function for cancer prevention Mol Carcinog 2015 54 9 669 678 25845339 10.1002/mc.22301 PMC4536099
+
+[CR149] Malter M Schriever G Eilber U Natural killer cells, vitamins, and other blood components of vegetarian and omnivorous men Nutr Cancer 1989 12 3 271 278 2771803 10.1080/01635588909514026
+
+[CR150] Haddad EH Berk LS Kettering JD Hubbard RW Peters WR Dietary intake and biochemical, hematologic, and immune status of vegans compared with nonvegetarians Am J Clin Nutr 1999 70 3 Suppl 586S 593S 10479236 10.1093/ajcn/70.3.586s
+
+[CR151] Tong TYN Key TJ Gaitskell K Green TJ Guo W Sanders TA Hematological parameters and prevalence of anemia in white and British Indian vegetarians and nonvegetarians in the UK Biobank Am J Clin Nutr 2019 110 2 461 472 31190054 10.1093/ajcn/nqz072 PMC6669054
+
+[CR152] Jung C-H Lee W-Y Kim B-Y Park SE Rhee E-J Park C-Y The risk of metabolic syndrome according to the white blood cell count in apparently healthy Korean adults Yonsei Med J 2013 54 3 615 620 23549805 10.3349/ymj.2013.54.3.615 PMC3635622
+
+[CR153] Gkrania-Klotsas E Ye Z Cooper AJ Sharp SJ Luben R Biggs ML Differential white blood cell count and type 2 diabetes: systematic review and meta-analysis of cross-sectional and prospective studies PLoS One 2010 5 10 e13405 20976133 10.1371/journal.pone.0013405 PMC2956635
+
+[CR154] Booth A Reed AB Ponzo S Yassaee A Aral M Plans D Population risk factors for severe disease and mortality in COVID-19: a global systematic review and meta-analysis PLoS One 2021 16 3 e0247461 33661992 10.1371/journal.pone.0247461 PMC7932512
+
+[CR155] Farmer B Larson BT Fulgoni VL Rainville AJ Liepa GU A vegetarian dietary pattern as a nutrient-dense approach to weight management: an analysis of the national health and nutrition examination survey 1999–2004 J Am Diet Assoc 2011 111 6 819 827 21616194 10.1016/j.jada.2011.03.012
+
+[CR156] Fresán U Errendal S Craig WJ Influence of the socio-cultural environment and external factors in following plant-based diets Sustainability 2020 12 21 9093
+
+[CR157] Mensink GBM Lage Barbosa C Brettschneider AK Prevalence of persons following a vegetarian diet in Germany J Health Monitor 2016 1 2 2 14 10.17886/RKI-GBE-2016-039 PMC9838578 36654829
+
+[CR158] Paslakis G Richardson C Nöhre M Brähler E Holzapfel C Hilbert A Prevalence and psychopathology of vegetarians and vegans – results from a representative survey in Germany Sci Rep 2020 10 1 6840 32321977 10.1038/s41598-020-63910-y PMC7176641
+
+[CR159] Davey GK Spencer EA Appleby PN Allen NE Knox KH Key TJ EPIC-Oxford: lifestyle characteristics and nutrient intakes in a cohort of 33 883 meat-eaters and 31 546 non meat-eaters in the UK Public Health Nutr 2003 6 3 259 269 12740075 10.1079/PHN2002430

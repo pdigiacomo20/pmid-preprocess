@@ -1,0 +1,85 @@
+[CR1] Sheldon RS, Grubb BP 2nd, Olshansky B, et al. 2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope. Heart Rhythm. 2015;12:e41–63. 25980576 10.1016/j.hrthm.2015.03.029 PMC5267948
+
+[CR2] Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011;21:69–72. 10.1007/s10286-011-0119-5. 21431947 10.1007/s10286-011-0119-5
+
+[CR3] Benarroch EE. “Dysautonomia”: a plea for precision. Clin Auton Res. 2021;31(1):27–9. 10.1007/s10286-020-00749-3. 33387098 10.1007/s10286-020-00749-3
+
+[CR4] Ståhlberg M, Mahdi A, Johansson M, Fedorowski A, Olshansky B. Cardiovascular dysautonomia in postacute sequelae of SARS-CoV-2 infection. J Cardiovasc Electrophysiol. 2024;35(3):608–17. 10.1111/jce.16117. 37877234 10.1111/jce.16117
+
+[CR5] Blitshteyn S. Dysautonomia, hypermobility spectrum disorders and mast cell activation syndrome as migraine comorbidities. Curr Neurol Neurosci Rep. 2023;23:769–76. 10.1007/s11910-023-01307-w. 37847487 10.1007/s11910-023-01307-w
+
+[CR6] Blitshteyn S, Whiteson JH, Abramoff B, et al. Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of autonomic dysfunction in patients with post-acute sequelae of SARS-CoV-2 infection (PASC). PM R. 2022;14(1):270–1291. 10.1002/pmrj.12894. 10.1002/pmrj.12894 PMC9538426 36169154
+
+[CR7] Novak P, Systrom DM, Witte A, Marciano SP. Orthostatic intolerance with tachycardia (postural tachycardia syndrome) and without (hypocapnic cerebral hypoperfusion) represent a spectrum of the same disorder. Front Neurol. 2024;15:1476918. 10.3389/fneur.2024.1476918. 39544990 10.3389/fneur.2024.1476918 PMC11562747
+
+[CR8] Blitshteyn S, Treisman GJ, Ruhoy IS, Saperstein DS, Schofield JR, Goodman BP, Davenport TE, Cutchins AC, Grubb BP. Postural orthostatic tachycardia syndrome and other common autonomic disorders are not functional neurologic disorders. Front Neurol. 2024;15:1490744. 10.3389/fneur.2024.1490744. 39634769 10.3389/fneur.2024.1490744 PMC11614728
+
+[CR9] Sletten DM, Suarez GA, Low PA, Mandrekar J, Singer W. COMPASS 31: a refined and abbreviated composite autonomic symptom score. Mayo Clin Proc. 2012;87:1196–201. 23218087 10.1016/j.mayocp.2012.10.013 PMC3541923
+
+[CR10] Shaw BH, Stiles LE, Bourne K, Green EA, Shibao CA, Okamoto LE, Garland EM, Gamboa A, Diedrich A, Raj V, Sheldon RS, Biaggioni I, Robertson D, Raj SR. The face of postural tachycardia syndrome - insights from a large cross-sectional online community-based survey. J Intern Med. 2019;286(4):438–48. 10.1111/joim.12895. 30861229 10.1111/joim.12895 PMC6790699
+
+[CR11] Natelson BH, Brunjes DL, Mancini D. Chronic fatigue syndrome and cardiovascular disease: JACC State-of-the-Art review. J Am Coll Cardiol. 2021;78:1056–67. 10.1016/j.jacc.2021.06.045. 34474739 10.1016/j.jacc.2021.06.045
+
+[CR12] Zetterman T, Markkula R, Miettinen T, et al. Heart rate variability responses to cognitive stress in fibromyalgia are characterised by inadequate autonomous system stress responses: a clinical trial. Sci Rep. 2023;13:700. 10.1038/s41598-023-27581-9. 36639565 10.1038/s41598-023-27581-9 PMC9839669
+
+[CR13] Penny HA, Aziz I, Ferrar M, et al. Is there a relationship between gluten sensitivity and postural tachycardia syndrome? Eur J Gastroenterol Hepatol. 2016;28:1383–7. 10.1097/MEG.0000000000000740. 27606948 10.1097/MEG.0000000000000740
+
+[CR14] Blitshteyn S. Autoimmune markers and autoimmune disorders in patients with postural tachycardia syndrome (POTS). Lupus. 2015;24:1364–9. 10.1177/0961203315587566. 26038344 10.1177/0961203315587566
+
+[CR15] Gala D, Scharf S, Kudlak M, et al. A comprehensive review of the neurological manifestations of celiac disease and its treatment. Diseases. 2022;10:111. 10.3390/diseases10040111. 36412605 10.3390/diseases10040111 PMC9680226
+
+[CR16] Benarroch EE. Physiology and pathophysiology of the autonomic nervous system. Continuum (Minneap Minn). 2020;26:12–24. 10.1212/CON.0000000000000817. 31996619 10.1212/CON.0000000000000817
+
+[CR17] Pavlov VA, Tracey KJ. The vagus nerve and the inflammatory reflex–linking immunity and metabolism. Nat Rev Endocrinol. 2012;8:743–54. 10.1038/nrendo.2012.189. 23169440 10.1038/nrendo.2012.189 PMC4082307
+
+[CR18] Pongratz G, Straub RH. The sympathetic nervous response in inflammation. Arthritis Res Ther. 2014;16:504. 10.1186/s13075-014-0504-2. 25789375 10.1186/s13075-014-0504-2 PMC4396833
+
+[CR19] Davenport TE, Blitshteyn S, Clague-Baker N, Davies-Payne D, Treisman GJ, Tyson S. Long Covid is not a functional neurologic disorder. Journal of Personalized Medicine. 2024;14:799. 10.3390/jpm14080799. 39201991 10.3390/jpm14080799 PMC11355889
+
+[CR20] Goodman BP. Evaluation of postural tachycardia syndrome (POTS). Auton Neurosci. 2018;215:12–9. 29705015 10.1016/j.autneu.2018.04.004
+
+[CR21] Heidrich H. Functional vascular diseases: raynaud’s syndrome, acrocyanosis and erythromelalgia. Vasa. 2010;39:33–41. 10.1024/0301-1526/a000003. 20186674 10.1024/0301-1526/a000003
+
+[CR22] Miller AJ, Stiles LE, Sheehan T, et al. Prevalence of hypermobile Ehlers-Danlos syndrome in postural orthostatic tachycardia syndrome. Auton Neurosci. 2020;224: 102637. 10.1016/j.autneu.2020.102637. 31954224 10.1016/j.autneu.2020.102637 PMC7282488
+
+[CR23] Wang E, Ganti T, Vaou E, Hohler A. The relationship between mast cell activation syndrome, postural tachycardia syndrome, and Ehlers-Danlos syndrome. Allergy Asthma Proc. 2021;42:243–6. 10.2500/aap.2021.42.210022. 33980338 10.2500/aap.2021.42.210022
+
+[CR24] Raj SR, Fedorowski A, Sheldon RS. Diagnosis and management of postural orthostatic tachycardia syndrome. CMAJ. 2022;194:E378–85. 10.1503/cmaj.211373. 35288409 10.1503/cmaj.211373 PMC8920526
+
+[CR25] Grubb AF, Grubb BP. Postural orthostatic tachycardia syndrome: new concepts in pathophysiology and management. Trends Cardiovasc Med. 2023;33:65–9. 10.1016/j.tcm.2021.10.007. 34695573 10.1016/j.tcm.2021.10.007
+
+[CR26] Trimble KZ, Switzer JN, Blitshteyn S. Exercise in postural orthostatic tachycardia syndrome: focus on individualized approach. J Clin Med. 2024;13:6747. 39597891 10.3390/jcm13226747 PMC11594886
+
+[CR27] Abed HS, Fulcher JR, Kilborn MJ, Keech AC. Inappropriate sinus tachycardia: focus on ivabradine. Intern Med J. 2016;46(8):875–83. 10.1111/imj.13093. 27059112 10.1111/imj.13093
+
+[CR28] Dixit K, Frishman WH. Postural tachycardia syndrome and COVID-19: focus on ivabradine therapy. Cardiol Rev. 2024;32(3):279–84. 10.1097/CRD.0000000000000503. 36729924 10.1097/CRD.0000000000000503
+
+[CR29] NIH opens long COVID trials to evaluate treatments for autonomic nervous system dysfunction. National Institutes of Health, News Release; 2024.  https://www.nih.gov/news-events/news-releases/nih-opens-long-covid-trials-evaluate-treatments-autonomic-nervous-system-dysfunction . Accessed 15 June 2025.
+
+[CR30] Ruzieh M, Baugh A, Dasa O, Parker RL, Perrault JT, Renno A, Karabin BL, Grubb B. Effects of intermittent intravenous saline infusions in patients with medication-refractory postural tachycardia syndrome. J Interv Card Electrophysiol. 2017;48:255–60. 10.1007/s10840-017-0225-y. 28185102 10.1007/s10840-017-0225-y
+
+[CR31] Stavrakis S, Chakraborty P, Farhat K, Whyte S, Morris L, Abideen Asad ZU, Karfonta B, Anjum J, Matlock HG, Cai X, Yu X. Noninvasive vagus nerve stimulation in postural tachycardia syndrome: a randomized clinical trial. JACC Clin Electrophysiol. 2024;10(2):346–55. 10.1016/j.jacep.2023.10.015. 37999672 10.1016/j.jacep.2023.10.015 PMC10932945
+
+[CR32] Zha K, Brook J, McLaughlin A, Blitshteyn S. Gluten-free diet in postural orthostatic tachycardia syndrome (POTS). Chronic Illn. 2023;19(2):409–17. 10.1177/17423953221076984. 35098721 10.1177/17423953221076984
+
+[CR33] Stallkamp Tidd SJ, Cantrell C, Greene BD, Wilson R. Low-dose naltrexone use in postural orthostatic tachycardia syndrome: a case series. Cureus. 2023;15(8):e43426. 37706146 10.7759/cureus.43426 PMC10497067
+
+[CR34] Spargo A, Gonser L, Faley B. Evaluation of low-dose naltrexone for chronic pain management. J Pain Palliat Care Pharmacother. 2025;39(2):319–22. 10.1080/15360288.2025.2456279. 39901608 10.1080/15360288.2025.2456279
+
+[CR35] Livieratos A, Gogos C, Akinosoglou K. Beyond antivirals: alternative therapies for long COVID. Viruses. 2024;16(11):1795. 10.3390/v16111795. 39599909 10.3390/v16111795 PMC11599064
+
+[CR36] 36. Blitshteyn S, Funez-dePagnier G, Szombathy A, Hutchinson M. Immunotherapies for postural orthostatic tachycardia syndrome, other common autonomic disorders and long COVID: current state and future direction. Preprints. 2025; 2025041175. 10.20944/preprints202504.1175.v1
+
+[CR37] Kesterson K, Schofield J, Blitshteyn S. Immunotherapy with subcutaneous immunoglobulin or plasmapheresis in patients with postural orthostatic tachycardia syndrome (POTS). J Neurol. 2023;270:233–9. 10.1007/s00415-022-11344-z. 36008726 10.1007/s00415-022-11344-z
+
+[CR38] Schofield JR, Chemali KR. Intravenous immunoglobulin therapy in refractory autoimmune dysautonomias: a retrospective analysis of 38 patients. Am J Ther. 2019;26:570–82. 10.1097/MJT.0000000000000778. 29781817 10.1097/MJT.0000000000000778
+
+[CR39] Vernino S, Hopkins S, Bryarly M, Hernandez RS, Salter A. Randomized controlled trial of intravenous immunoglobulin for autoimmune postural orthostatic tachycardia syndrome (iSTAND). Clin Auton Res. 2024;34:153–63. 38311655 10.1007/s10286-024-01020-9
+
+[CR40] Chémali KR, Blitshteyn S, Perez JA, Schofield JF. iSTAND trial of IVIG in POTS: a step in the right direction, but more studies are needed. Clin Auton Res. 2024. 10.1007/s10286-024-01087-4. 39548035 10.1007/s10286-024-01087-4
+
+[CR41] Blitshteyn S, Ruhoy I. New challenges and perspectives in neurology and autonomic disorders: a leap forward. J Pers Med. 2024;14:1063. 10.3390/jpm14101063. 39452569 10.3390/jpm14101063 PMC11508984
+
+[CR42] Ewing AG, Joffe D, Blitshteyn S, et al. Long COVID clinical evaluation, research and impact on society: a global expert consensus. Ann Clin Microbiol Antimicrob. 2025;24:27. 40254579 10.1186/s12941-025-00793-9 PMC12010688
+
+[CR43] Smyth NJ, Blitshteyn S. Language matters: what not to say to patients with long COVID, myalgic encephalomyelitis/chronic fatigue syndrome, and other complex chronic disorders. Int J Environ Res Public Health. 2025;22:275. 40003500 10.3390/ijerph22020275 PMC11855516

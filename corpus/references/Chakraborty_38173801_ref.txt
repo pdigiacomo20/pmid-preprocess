@@ -1,0 +1,103 @@
+[r1] Vernino S Bourne KM Stiles LE Postural orthostatic tachycardia syndrome (POTS): state of the science and clinical care from a 2019 National Institutes of Health Expert Consensus Meeting – Part 1. Auton Neurosci 2021 235 102828 10.1016/j.autneu.2021.102828 34144933 PMC8455420
+
+[r2] Bryarly M Phillips LT Fu Q Postural orthostatic tachycardia syndrome: JACC focus seminar. J Am Coll Cardiol 2019 73 1207 28 10.1016/j.jacc.2018.11.059 30871704
+
+[r3] Mar PL Raj SR Postural orthostatic tachycardia syndrome: mechanisms and new therapies. Annu Rev Med 2020 71 235 48 10.1146/annurev-med-041818-011630 31412221
+
+[r4] Farmer AD Strzelczyk A Finisguerra A International consensus based review and recommendations for minimum reporting standards in research on transcutaneous vagus nerve stimulation (version 2020). Front Hum Neurosci 2020 14 568051 10.3389/fnhum.2020.568051 33854421 PMC8040977
+
+[r5] Jiang Y Po SS Amil F Dasari TW Non-invasive low-level tragus stimulation in cardiovascular diseases. Arrhythm Electrophysiol Rev 2020 9 40 6 10.15420/aer.2020.01 32637119 PMC7330730
+
+[r6] Stavrakis S Stoner JA Humphrey MB TREAT AF (Transcutaneous Electrical Vagus Nerve Stimulation to Suppress Atrial Fibrillation): a randomized clinical trial. JACC Clin Electrophysiol 2020 6 282 91 10.1016/j.jacep.2019.11.008 32192678 PMC7100921
+
+[r7] Sha Y Scherlag BJ Yu L Low-level right vagal stimulation: anticholinergic and antiadrenergic effects. J Cardiovasc Electrophysiol 2011 22 1147 53 10.1111/j.1540-8167.2011.02070.x 21489033
+
+[r8] Pavlov VA Tracey KJ The cholinergic anti-inflammatory pathway. Brain Behav Immun 2005 19 493 9 10.1016/j.bbi.2005.03.015 15922555
+
+[r9] Raj SR Robertson D Moving from the present to the future of postural tachycardia syndrome: what we need. Auton Neurosci 2018 215 126 8 10.1016/j.autneu.2018.06.007 30539785 PMC6293980
+
+[r10] Streeten DH Pathogenesis of hyperadrenergic orthostatic hypotension. Evidence of disordered venous innervation exclusively in the lower limbs. J Clin Invest 1990 86 1582 8 10.1172/JCI114878 2243132 PMC296906
+
+[r11] Roma M Marden CL De Wandele I Postural tachycardia syndrome and other forms of orthostatic intolerance in Ehlers–Danlos syndrome. Auton Neurosci 2018 215 89 96 10.1016/j.autneu.2018.02.006 29519641
+
+[r12] Doherty TA White AA Postural orthostatic tachycardia syndrome and the potential role of mast cell activation. Auton Neurosci 2018 215 83 8 10.1016/j.autneu.2018.05.001 30033040
+
+[r13] Zhang ZY Qian LL Wang RX Molecular mechanisms underlying renin-angiotensin-aldosterone system mediated regulation of BK channels. Front Physiol 2017 8 698 10.3389/fphys.2017.00698 28955251 PMC5601423
+
+[r14] Levine BD Zuckerman JH Pawelczyk JA Cardiac atrophy after bed-rest deconditioning: a nonneural mechanism for orthostatic intolerance. Circulation 1997 96 517 25 10.1161/01.cir.96.2.517 9244220
+
+[r15] Fedorowski A Li H Yu X Antiadrenergic autoimmunity in postural tachycardia syndrome. Europace 2017 19 1211 9 10.1093/europace/euw154 27702852 PMC5834103
+
+[r16] Mayuga KA Fedorowski A Ricci F Sinus tachycardia: a multidisciplinary expert focused review. Circ Arrhythm Electrophysiol 2022 15 e007960 10.1161/CIRCEP.121.007960 36074973 PMC9523592
+
+[r17] Pongratz G Straub RH The sympathetic nervous response in inflammation. Arthritis Res Ther 2014 16 504 10.1186/s13075-014-0504-2 25789375 PMC4396833
+
+[r18] Li H Yu X Liles C Autoimmune basis for postural tachycardia syndrome. J Am Heart Assoc 2014 3 e000755 10.1161/JAHA.113.000755 24572257 PMC3959717
+
+[r19] Li H Zhang G Forsythe E Implications of antimuscarinic autoantibodies in postural tachycardia syndrome. J Cardiovasc Transl Res 2022 15 438 40 10.1007/s12265-021-10167-z 34409582 PMC8854442
+
+[r20] Badiudeen T Forsythe EA Bennett G A functional cell-based bioassay for assessing adrenergic autoantibody activity in postural tachycardia syndrome. J Transl Autoimmun 2019 2 100006 10.1016/j.jtauto.2019.100006 32743496 PMC7388390
+
+[r21] Yu X Li H Murphy TA Angiotensin II type 1 receptor autoantibodies in postural tachycardia syndrome. J Am Heart Assoc 2018 7 e008351 10.1161/JAHA.117.008351 29618472 PMC6015435
+
+[r22] Mustafa HI Garland EM Biaggioni I Abnormalities of angiotensin regulation in postural tachycardia syndrome. Heart Rhythm 2011 8 422 8 10.1016/j.hrthm.2010.11.009 21266211 PMC3050076
+
+[r23] Wallukat G Hohberger B Wenzel K Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms. J Transl Autoimmun 2021 4 100100 10.1016/j.jtauto.2021.100100 33880442 PMC8049853
+
+[r24] Hall J Bourne KM Vernino S Detection of G protein-coupled receptor autoantibodies in postural orthostatic tachycardia syndrome using standard methodology. Circulation 2022 146 613 22 10.1161/CIRCULATIONAHA.122.059971 35766055 PMC9390234
+
+[r25] Malik V Nguyen MT Seeley MC Abnormal cardiac remodeling in postural orthostatic tachycardia syndrome: further insights into its cardiac origin. JACC Clin Electrophysiol 2022 8 1044 6 10.1016/j.jacep.2022.02.012 35981794
+
+[r26] Baker J Racosta JM Balint B Kimpinski K Utility of time and frequency domain parameters of heart rate variability in the context of autonomic disorders characterized by orthostatic dysfunction. J Clin Neurophysiol 2018 35 123 9 10.1097/WNP.0000000000000452 29342011
+
+[r27] Baker J Racosta JM Kimpinski K Comparison of heart rate variability parameters to the autonomic reflex screen in postural orthostatic tachycardia syndrome and neurogenic orthostatic hypotension. J Clin Neurophysiol 2018 35 115 22 10.1097/WNP.0000000000000436 29210841
+
+[r28] Orjatsalo M Alakuijala A Partinen M Heart rate variability in head-up tilt tests in adolescent postural tachycardia syndrome patients. Front Neurosci 2020 14 725 10.3389/fnins.2020.00725 32848537 PMC7432293
+
+[r29] Swai J Hu Z Zhao X Heart rate and heart rate variability comparison between postural orthostatic tachycardia syndrome versus healthy participants; a systematic review and meta-analysis. BMC Cardiovasc Disord 2019 19 320 10.1186/s12872-019-01298-y 31888497 PMC6936126
+
+[r30] Furlan R Jacob G Snell M Chronic orthostatic intolerance: a disorder with discordant cardiac and vascular sympathetic control. Circulation 1998 98 2154 9 10.1161/01.cir.98.20.2154 9815870
+
+[r31] Jacob G Diedrich L Sato K Vagal and sympathetic function in neuropathic postural tachycardia syndrome. Hypertension 2019 73 1087 96 10.1161/HYPERTENSIONAHA.118.11803 30879357 PMC6592426
+
+[r32] Muenter Swift N Charkoudian N Dotson RM Baroreflex control of muscle sympathetic nerve activity in postural orthostatic tachycardia syndrome. Am J Physiol Heart Circ Physiol 2005 289 H1226 33 10.1152/ajpheart.01243.2004 15863453
+
+[r33] Bhanu C Nimmons D Petersen I Drug-induced orthostatic hypotension: a systematic review and meta-analysis of randomised controlled trials. PLoS Med 2021 18 e1003821 10.1371/journal.pmed.1003821 34752479 PMC8577726
+
+[r34] Deuchars SA Lall VK Clancy J Mechanisms underpinning sympathetic nervous activity and its modulation using transcutaneous vagus nerve stimulation. Exp Physiol 2018 103 326 31 10.1113/EP086433 29205954 PMC5887928
+
+[r35] Tran N Asad Z Elkholey K Autonomic neuromodulation acutely ameliorates left ventricular strain in humans. J Cardiovasc Transl Res 2019 12 221 30 10.1007/s12265-018-9853-6 30560316 PMC6579714
+
+[r36] Stavrakis S Elkholey K Morris L Neuromodulation of inflammation to treat heart failure with preserved ejection fraction: a pilot randomized clinical trial. J Am Heart Assoc 2022 11 e023582 10.1161/JAHA.121.023582 35023349 PMC9238491
+
+[r37] Clancy JA Mary DA Witte KK Non-invasive vagus nerve stimulation in healthy humans reduces sympathetic nerve activity. Brain Stimul 2014 7 871 7 10.1016/j.brs.2014.07.031 25164906
+
+[r38] Shen MJ Shinohara T Park HW Continuous low-level vagus nerve stimulation reduces stellate ganglion nerve activity and paroxysmal atrial tachyarrhythmias in ambulatory canines. Circulation 2011 123 2204 12 10.1161/CIRCULATIONAHA.111.018028 21555706 PMC3101282
+
+[r39] Gunning WT 3rd Stepkowski SM Kramer PM Inflammatory biomarkers in postural orthostatic tachycardia syndrome with elevated G-protein-coupled receptor autoantibodies. J Clin Med 2021 10 623 10.3390/jcm10040623 33562074 PMC7914580
+
+[r40] Johansson M Yan H Welinder C Plasma proteomic profiling in postural orthostatic tachycardia syndrome (POTS) reveals new disease pathways. Sci Rep 2022 12 20051 10.1038/s41598-022-24729-x 36414707 PMC9681882
+
+[r41] Kennedy RH Silver R Neuroimmune signaling: cytokines and the CNS. Pfaff DW Volkow ND eds. Neuroscience in the 21st Century. New York: Springer 2016 1 41
+
+[r42] Vila E Salaices M Cytokines and vascular reactivity in resistance arteries. Am J Physiol Heart Circ Physiol 2005 288 H1016 21 10.1152/ajpheart.00779.2004 15706038
+
+[r43] Breit S Kupferberg A Rogler G Hasler G Vagus nerve as modulator of the brain–gut axis in psychiatric and inflammatory disorders. Front Psychiatry 2018 9 44 10.3389/fpsyt.2018.00044 29593576 PMC5859128
+
+[r44] Conway CR Xiong W The mechanism of action of vagus nerve stimulation in treatment-resistant depression: current conceptualizations. Psychiatr Clin North Am 2018 41 395 407 10.1016/j.psc.2018.04.005 30098653
+
+[r45] Diedrich A Urechie V Shiffer D Transdermal auricular vagus stimulation for the treatment of postural tachycardia syndrome. Auton Neurosci 2021 236 102886 10.1016/j.autneu.2021.102886 34634682 PMC8939715
+
+[r46] Deng J Li H Guo Y Transcutaneous vagus nerve stimulation attenuates autoantibody-mediated cardiovagal dysfunction and inflammation in a rabbit model of postural tachycardia syndrome. J Interv Card Electrophysiol 2023 66 291 300 10.1007/s10840-022-01144-w 35118574 PMC9349471
+
+[r47] Li H Zhang G Zhou L Adrenergic autoantibody-induced postural tachycardia syndrome in rabbits. J Am Heart Assoc 2019 8 e013006 10.1161/JAHA.119.013006 31547749 PMC6806023
+
+[r48] Guo Y Li H Deng J Low-level tragus stimulation improves autoantibody-induced hyperadrenergic postural tachycardia syndrome in rabbits. Heart Rhythm 2023 4 127 33 10.1016/j.hroo.2022.12.001 36873318 PMC9975011
+
+[r49] Lankford J Numan M Adejumo R Vagal nerve stimulation in autonomic dysfunction: a case study. Auton Neurosci Basic Clin 2015 192 83 10.1016/j.autneu.2015.07.094
+
+[r50] Petelin Gadze Z Bujan Kovac A Adamec I Vagal nerve stimulation is beneficial in postural orthostatic tachycardia syndrome and epilepsy. Seizure 2018 57 11 3 10.1016/j.seizure.2018.03.001 29529557
+
+[r51] Diedrich A Okamoto L Black B Abstract P387: sub-perception transdermal vagal stimulation in postural tachycardia syndrome. Hypertension 2018 72 (Suppl 1) AP387 10.1161/hyp.72.suppl_1.P387
+
+[r52] Stavrakis S Chakraborty P Farhat K Noninvasive vagus nerve stimulation in postural tachycardia syndrome: a randomized clinical trial. JACC Clin Electrophysiol 2023 10.1016/j.jacep.2023.10.015 epub ahead of press PMC10932945 37999672

@@ -1,0 +1,59 @@
+[REF1] Long COVID or post-COVID conditions 1 2023 2023 25 2022 https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html
+
+[REF2] World Health Organization. Post COVID-19 condition 1 2023 2023 https://www.who.int/teams/health-care-readiness/post-covid-19-condition
+
+[REF3] The epidemiology of long coronavirus disease in US adults Clin Infect Dis Robertson MM Qasmieh SA Kulkarni SG 1636 1645 76 2023 36542514 10.1093/cid/ciac961
+
+[REF4] Dysautonomia in COVID-19 patients: a narrative review on clinical course, diagnostic and therapeutic strategies Front Neurol Carmona-Torre F Mínguez-Olaondo A López-Bravo A 886609 13 2022 35720084 10.3389/fneur.2022.886609 PMC9198643
+
+[REF5] Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes Nat Med Zhang H Zang C Xu Z 226 235 29 2023 36456834 10.1038/s41591-022-02116-3 PMC9873564
+
+[REF6] A review of cytokine-based pathophysiology of long COVID symptoms Front Med (Lausanne) Low RN Low RJ Akrami A 1011936 10 2023 37064029 10.3389/fmed.2023.1011936 PMC10103649
+
+[REF7] Plasma CRP level is positively associated with the severity of COVID-19 Ann Clin Microbiol Antimicrob Chen W Zheng KI Liu S Yan Z Xu C Qiao Z 18 19 2020 32414383 10.1186/s12941-020-00362-2 PMC7227180
+
+[REF8] The sympathetic nerve--an integrative interface between two supersystems: the brain and the immune system Pharmacol Rev Elenkov IJ Wilder RL Chrousos GP Vizi ES 595 638 52 2000 https://pubmed.ncbi.nlm.nih.gov/11121511/ 11121511
+
+[REF9] The inflammatory reflex Nature Tracey KJ 853 859 420 2002 12490958 10.1038/nature01321
+
+[REF10] Regulation of acute reflectory hyperinflammation in viral and other diseases by means of stellate ganglion block. A conceptual view with a focus on COVID-19 Auton Neurosci Fischer L Barop H Ludin SM Schaible HG 102903 237 2022 34894589 10.1016/j.autneu.2021.102903 PMC9761017
+
+[REF11] Stellate ganglion block reduces symptoms of long COVID: a case series J Neuroimmunol Liu LD Duricka DL 577784 362 2022 34922127 10.1016/j.jneuroim.2021.577784 PMC8653406
+
+[REF12] Ultrasound-guided stellate ganglion block: safety and efficacy Curr Pain Headache Rep Narouze S 424 18 2014 24760493 10.1007/s11916-014-0424-5
+
+[REF13] Effect of endovenous lidocaine on analgesia and serum cytokines: double-blinded and randomized trial J Clin Anesth Ortiz MP Godoy MC Schlosser RS 70 77 35 2016 https://pubmed.ncbi.nlm.nih.gov/27871598/ 27871598 10.1016/j.jclinane.2016.07.021
+
+[REF14] Sympathetic innervation to the head and neck 2022 Williams, C, 2022 https://teachmeanatomy.info/head/nerves/sympathetic/
+
+[REF15] Therapy of pulmonary edema with procaine block of the right stellate ganglion Dtsch Med Wochenschr Pierach A Stotz K 1344 1346 77 1952 12988825 10.1055/s-0028-1117238
+
+[REF16] Stellate ganglion block improves refractory post-traumatic stress disorder and associated memory dysfunction: a case report and systematic literature review Mil Med Lipov EG Navaie M Brown PR Hickey AH Stedje-Larsen ET McLay RN 0 4 178 2013 10.7205/MILMED-D-12-00290 23764335
+
+[REF17] Stellate ganglion block potentially ameliorates postoperative cognitive decline in aged rats by regulating the neuroendocrine response to stress Heliyon Deng X Sun T Zhao D Sana SR Li W 0 9 2023 10.1016/j.heliyon.2023.e14337 PMC10020081 36938410
+
+[REF18] A review of stellate ganglion block as an adjunctive treatment modality Cureus Kirkpatrick K Khan MH Deng Y Shah KB 0 15 2023 10.7759/cureus.35174 PMC10029323 36949968
+
+[REF19] Lymphocyte activation is attenuated by stellate ganglion block Reg Anesth Pain Med Sugimoto M Shimaoka M Taenaka N Kiyono H Yoshiya I 30 35 24 1999 https://pubmed.ncbi.nlm.nih.gov/9952092/ 9952092 10.1016/s1098-7339(99)90162-1
+
+[REF20] Stellate ganglion block modifies the distribution of lymphocyte subsets and natural-killer cell activity Anesthesiology Yokoyama M Nakatsuka H Itano Y Hirakawa M 109 115 92 2000 10638906 10.1097/00000542-200001000-00021
+
+[REF21] Cervical sympathetic block regulates early systemic inflammatory response in severe trauma patients Med Sci Monit Liu MH Tian J Su YP Wang T Xiang Q Wen L 194 201 19 2013 23492458 10.12659/MSM.883833 PMC3628790
+
+[REF22] Effect of a stellate ganglion block on acute lung injury in septic rats Inflammation Chen Y Guo L Lang H 1601 1609 41 2018 29737475 10.1007/s10753-018-0803-x
+
+[REF23] Impacts of stellate ganglion block on plasma NF-κB and inflammatory factors of TBI patients Int J Clin Exp Med Yang X Shi Z Li X Li J 15630 15638 8 2015 https://pubmed.ncbi.nlm.nih.gov/26629057/ 26629057 PMC4658946
+
+[REF24] Effects of stellate ganglion block on blood pressure in spontaneously hypertensive rats. (Article in Chinese) Zhejiang Da Xue Xue Bao Yi Xue Ban Chen YQ Hu GX Fu Q Jin XJ 65 68 41 2012 22419466 10.3785/j.issn.1008-9292.2012.01.011
+
+[REF25] Effectiveness of cervical sympathetic ganglia block on regeneration of the trigeminal nerve following transection in rats Reg Anesth Pain Med Hanamatsu N Yamashiro M Sumitomo M Furuya H 268 276 27 2002 12016600 10.1053/rapm.2002.31206
+
+[REF26] Microcirculatory changes identified by photoacoustic microscopy in patients with complex regional pain syndrome type I after stellate ganglion blocks J Biomed Opt Zhou Y Yi X Xing W Hu S Maslov KI Wang LV 86017 19 2014 10.1117/1.JBO.19.8.086017 PMC4407664 25144451
+
+[REF27] Regulating autonomic nervous system homeostasis improves pulmonary function in rabbits with acute lung injury BMC Pulm Med Liu Y Tao T Li W Bo Y 98 17 2017 28673269 10.1186/s12890-017-0436-0 PMC5496256
+
+[REF28] Sympathetic blockade blunts hypercapnic pulmonary arterial vasoconstriction in newborn piglets Eur J Cardiothorac Surg Myers JL Domkowski PW Wang Y Hopkins RA 298 305 13 1998 9628381 10.1016/s1010-7940(98)00007-4
+
+[REF29] Pathophysiology of pain and neural therapy Praxis (Bern 1994) Fischer L 2051 2059 92 2003 14694543 10.1024/0369-8394.92.48.2051
+
+[REF30] Autonomic nervous system and inflammation Auton Neurosci Jänig W 1 3 182 2014 24581951 10.1016/j.autneu.2014.02.002

@@ -47,15 +47,19 @@ For each reference you find, extract:
 - journal: The journal name if available
 - year: The publication year (4-digit number)
 
-IMPORTANT INSTRUCTIONS:
-- References may be numbered (like "24 Author..." or "[1] Author...") - ignore these numbers
+CRITICAL JSON FORMATTING RULES:
+- ALL string values MUST be properly escaped for JSON
+- Replace all " (double quotes) with \\" in string values
+- Replace all \\ (backslashes) with \\\\ in string values  
+- Replace all newlines with \\n in string values
+- Remove or replace any control characters
+- If any field cannot be determined, use null (not "null")
+- References may be numbered (like "66 Author..." or "[1] Author...") - ignore these numbers
 - The first author surname comes after any reference number
 - Extract only the surname, not initials or first names
 - Be careful not to confuse reference numbers with author names
-- If any field cannot be determined, use null
-- Clean up formatting and remove extra spaces/newlines
 
-Return your response as a JSON array where each object represents one reference:
+Return ONLY a valid JSON array where each object represents one reference:
 
 [
   {{
@@ -68,7 +72,7 @@ Return your response as a JSON array where each object represents one reference:
   ...
 ]
 
-Make sure to return valid JSON only, with no additional text or explanation.
+CRITICAL: Return ONLY valid JSON with no additional text, explanations, or markdown formatting.
 """
 
             # Use modern OpenAI client
@@ -89,13 +93,28 @@ Make sure to return valid JSON only, with no additional text or explanation.
             import json
             try:
                 references_data = json.loads(content)
-            except json.JSONDecodeError:
+            except json.JSONDecodeError as e:
+                logger.error(f"Initial JSON parsing failed: {e}")
                 # Fallback: try to extract JSON from response
                 json_match = re.search(r'\[.*\]', content, re.DOTALL)
                 if json_match:
-                    references_data = json.loads(json_match.group())
+                    try:
+                        references_data = json.loads(json_match.group())
+                    except json.JSONDecodeError as e2:
+                        logger.error(f"Extracted JSON parsing also failed: {e2}")
+                        # Try to fix common JSON issues
+                        json_content = json_match.group()
+                        # Fix unescaped quotes and newlines
+                        json_content = self._fix_json_content(json_content)
+                        try:
+                            references_data = json.loads(json_content)
+                        except json.JSONDecodeError as e3:
+                            logger.error(f"Fixed JSON parsing still failed: {e3}")
+                            logger.error(f"Problematic content: {content[:1000]}...")
+                            raise ValueError(f"Could not parse JSON from GPT response: {e3}")
                 else:
-                    raise ValueError("Could not parse JSON from GPT response")
+                    logger.error(f"No JSON array found in content: {content[:500]}...")
+                    raise ValueError("Could not find JSON array in GPT response")
             
             # Clean and validate the extracted data
             cleaned_refs = []
@@ -116,6 +135,71 @@ Make sure to return valid JSON only, with no additional text or explanation.
             # Fallback to old method if GPT fails
             return self._fallback_to_old_parsing(references_text)
     
+    def _fix_json_content(self, json_content: str) -> str:
+        """
+        Fix common JSON parsing issues in GPT responses, particularly unescaped newlines.
+        """
+        try:
+            # Remove any markdown code block markers
+            json_content = re.sub(r'```json\s*|\s*```', '', json_content)
+            
+            # Remove any leading/trailing whitespace
+            json_content = json_content.strip()
+            
+            # The main issue is unescaped newlines in string values
+            # We need to fix these by escaping them properly
+            
+            # First, let's fix the most common issue: newlines in string values
+            # Look for patterns like "key": "value with\nnewline"
+            
+            import json
+            
+            # Try a different approach: parse character by character and fix as we go
+            fixed_content = ""
+            in_string = False
+            escape_next = False
+            quote_char = None
+            
+            i = 0
+            while i < len(json_content):
+                char = json_content[i]
+                
+                if escape_next:
+                    fixed_content += char
+                    escape_next = False
+                elif char == '\\':
+                    fixed_content += char
+                    escape_next = True
+                elif char == '"' and not in_string:
+                    # Starting a string
+                    in_string = True
+                    quote_char = char
+                    fixed_content += char
+                elif char == '"' and in_string:
+                    # Ending a string
+                    in_string = False
+                    quote_char = None
+                    fixed_content += char
+                elif in_string and char == '\n':
+                    # Found unescaped newline in string - fix it
+                    fixed_content += '\\n'
+                elif in_string and char == '\r':
+                    # Found unescaped carriage return in string - fix it
+                    fixed_content += '\\r'
+                elif in_string and char == '\t':
+                    # Found unescaped tab in string - fix it
+                    fixed_content += '\\t'
+                else:
+                    fixed_content += char
+                
+                i += 1
+            
+            return fixed_content
+            
+        except Exception as e:
+            logger.error(f"Error in _fix_json_content: {e}")
+            return json_content
+
     def _fallback_to_old_parsing(self, references_text: str) -> List[Dict]:
         """Fallback method - returns empty list since old parsing is removed."""
         logger.error("GPT parsing failed and fallback is not available")

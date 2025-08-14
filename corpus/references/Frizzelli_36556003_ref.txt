@@ -1,0 +1,43 @@
+[B1-jcm-11-07388] COVID-19 Rapid Guideline: Managing the Long-Term Effects of COVID-19 NICE Guideline, No. 188 National Institute for Health and Care Excellence (NICE) London, UK 18 December 2020 ISBN-13: 978-1-4731-3943-5 33555768
+
+[B2-jcm-11-07388] Carfì A. Bernabei R. Landi F. Gemelli against COVID-19 Post-Acute Care Study Group Persistent symptoms in patients after acute COVID-19 JAMA 2020 324 603 605 10.1001/jama.2020.12603 32644129 PMC7349096
+
+[B3-jcm-11-07388] Skjørten I. Ankerstjerne O.A.W. Trebinjac D. Brønstad E. Rasch-Halvorsen Ø. Einvik G. Lerum T.V. Stavem K. Edvardsen A. Ingul C.B. Cardiopulmonary exercise capacity and limitations 3 months after COVID-19 hospitalisation Eur. Respir. J. 2021 58 2100996 10.1183/13993003.00996-2021 34210791 PMC8247555
+
+[B4-jcm-11-07388] Rinaldo R.R. Mondoni M. Parazzini E.M. Pitari F. Brambilla E. Luraschi S. Balbi M. Papa G.F.S. Sotgiu G. Guazzi M. Deconditioning as main mechanism of impaired exercise response in COVID-19 survivors Eur. Respir. J. 2021 58 2100870 10.1183/13993003.00870-2021 33926969 PMC8082950
+
+[B5-jcm-11-07388] Motiejunaite J. Balagny P. Arnoult F. Mangin L. Bancal C. Vidal-Petiot E. Flamant M. Jondeau G. Cohen-Solal A. d’Ortho M.-P. Hyperventilation as one of the mechanisms of persistent dyspnoea in SARS-CoV-2 survivors Eur. Respir. J. 2021 58 2101578 10.1183/13993003.01578-2021 34385265 PMC8361302
+
+[B6-jcm-11-07388] Mancini D.M. Brunjes D.L. Lala A. Trivieri M.G. Contreras J.P. Natelson B.H. Use of Cardiopulmonary Stress Testing for Patients with Unexplained Dyspnea Post-Coronavirus Disease JACC Heart Fail. 2021 9 927 937 10.1016/j.jchf.2021.10.002 34857177 PMC8629098
+
+[B7-jcm-11-07388] Frésard I. Genecand L. Altarelli M. Gex G. Vremaroiu P. Vremaroiu-Coman A. Lawi D. Bridevaux P.O. Dysfunctional breathing diagnosed by cardiopulmonary exercise testing in ‘long COVID’ patients with persistent dyspnoea BMJ Open Respir. Res. 2022 9 e001126 10.1136/bmjresp-2021-001126 35354589 PMC8968537
+
+[B8-jcm-11-07388] von Gruenewaldt A. Nylander E. Hedman K. Classification and occurrence of an abnormal breathing pattern during cardiopulmonary exercise testing in subjects with persistent symptoms following COVID-19 disease Physiol. Rep. 2022 10 e15197 10.14814/phy2.15197 35179831 PMC8855681
+
+[B9-jcm-11-07388] Barker N. Everard M.L. Getting to grips with ‘dysfunctional breathing’ Paediatr. Respir. Rev. 2015 16 53 61 10.1016/j.prrv.2014.10.001 25499573
+
+[B10-jcm-11-07388] Boulding R. Stacey R. Niven R. Fowler S.J. Dysfunctional breathing: A review of the literature and proposal for classification Eur. Respir. Rev. 2016 25 287 294 10.1183/16000617.0088-2015 27581828 PMC9487208
+
+[B11-jcm-11-07388] Tobin M.J. Breathing pattern analysis Intensive Care Med. 1992 18 193 201 10.1007/BF01709831 1430581
+
+[B12-jcm-11-07388] Lind F. Hesser C.M. Breathing pattern and lung volumes during exercise Acta Physiol. Scand. 1984 120 123 129 10.1111/j.1748-1716.1984.tb07381.x 6720321
+
+[B13-jcm-11-07388] Graham B.L. Steenbruggen I. Miller M.R. Barjaktarevic I.Z. Cooper B.G. Hall G.L. Hallstrand T.S. Kaminsky D.A. McCarthy K. McCormack M.C. Standardization of spirometry 2019 update an official American Thoracic Society and European Respiratory Society technical statement Am. J. Respir. Crit. Care Med. 2019 200 E70 E88 10.1164/rccm.201908-1590ST 31613151 PMC6794117
+
+[B14-jcm-11-07388] Quanjer P.H. Tammeling G.J. Cotes J.E. Pedersen O.F. Peslin R. Yernault J.C. Lung volumes and forced ventilatory flows. Report working party standardization of lung function tests, European community for steel and oral official statement of the European respiratory society Eur. Respir. J. 1993 6 5 40 10.1183/09041950.005s1693 8499054
+
+[B15-jcm-11-07388] Ross R.M. ATS/ACCP Statement on cardiopulmonary exercise testing Am. J. Respir. Crit. Care Med. 2003 167 211 277 10.1164/ajrccm.167.10.950 12738602
+
+[B16-jcm-11-07388] Wasserman K. Hansen J.E. Sue D.Y. Casaburi R. Whipp B.J. Normal values Principles of Exercise Testing & Interpretation Lippincott Williams & Wilkins Philadelphia, PA, USA 1994 143 162
+
+[B17-jcm-11-07388] Baba R. Nagashima M. Goto M. Nagano Y. Yokota M. Tauchi N. Nishibata K. Oxygen uptake efficiency slope: A new index of cardiorespiratory functional reserve derived from the relation between oxygen uptake and minute ventilation during incremental exercise J. Am. Coll. Cardiol. 1996 28 1567 1572 10.1016/S0735-1097(96)00412-3 8917273
+
+[B18-jcm-11-07388] Cole C.R. Blackstone E.H. Pashkow F.J. Snader C.E. Lauer M.S. Heart-rate recovery immediately after exercise as a predictor of mortality N. Engl. J. Med. 1999 341 1351 1357 10.1056/NEJM199910283411804 10536127
+
+[B19-jcm-11-07388] Singh I. Joseph P. Heerdt P.M. Cullinan M. Lutchmansingh D.D. Gulati M. Possick J.D. Systrom D.M. Waxman A.B. Persistent Exertional Intolerance After COVID-19: Insights from Invasive Cardiopulmonary Exercise Testing Chest 2022 161 54 63 10.1016/j.chest.2021.08.010 34389297 PMC8354807
+
+[B20-jcm-11-07388] Bellemare F. Grassino A. Evaluation of human diaphragm fatigue J. Appl. Physiol. Respir. Environ. Exerc. Physiol. 1982 53 1196 1206 10.1152/jappl.1982.53.5.1196 7174414
+
+[B21-jcm-11-07388] Lederer D.H. Altose M.D. Kelsen S.G. Cherniack N.S. Comparison of occlusion pressure and ventilatory responses Thorax 1977 32 212 220 10.1136/thx.32.2.212 867336 PMC470574
+
+[B22-jcm-11-07388] Gayan-Ramirez G. Decramer M. Effects of mechanical ventilation on diaphragm function and biology Eur. Respir. J. 2002 20 1579 1586 10.1183/09031936.02.00063102 12503720

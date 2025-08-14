@@ -1,0 +1,69 @@
+[CR1] Al-Aly Z Xie Y Bowe B High-dimensional characterization of post-acute sequelae of COVID-19 Nature 2021 594 259 264 10.1038/s41586-021-03553-9 33887749
+
+[CR2] Ayoubkhani D Post-COVID syndrome in individuals admitted to hospital with COVID-19: retrospective cohort study BMJ 2021 372 n693 10.1136/bmj.n693 33789877 PMC8010267
+
+[CR3] Huang, C. et al. 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study.  Lancet 397 , 220−232 (2021). 10.1016/S0140-6736(20)32656-8 PMC7833295 33428867
+
+[CR4] Carfi, A., Bernabei, R., Landi, F. & the Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent symptoms in patients after acute COVID-19.  JAMA 324 , 603–605 (2020). 10.1001/jama.2020.12603 PMC7349096 32644129
+
+[CR5] Daugherty SE Risk of clinical sequelae after the acute phase of SARS-CoV-2 infection: retrospective cohort study BMJ 2021 373 n1098 10.1136/bmj.n1098 34011492 PMC8132065
+
+[CR6] Katsoularis I Fonseca-Rodriguez O Farrington P Lindmark K Fors Connolly AM Risk of acute myocardial infarction and ischaemic stroke following COVID-19 in Sweden: a self-controlled case series and matched cohort study Lancet 2021 398 599 607 10.1016/S0140-6736(21)00896-5 34332652 PMC8321431
+
+[CR7] Xie Y Bowe B Maddukuri G Al-Aly Z Comparative evaluation of clinical manifestations and risk of death in patients admitted to hospital with COVID-19 and seasonal influenza: cohort study BMJ 2021 371 m4677 10.1136/bmj.m4677 PMC7735416 33323357
+
+[CR8] Gupta A Extrapulmonary manifestations of COVID-19 Nat. Med. 2020 26 1017 1032 10.1038/s41591-020-0968-3 32651579 PMC11972613
+
+[CR9] Alwan NA The road to addressing long COVID Science 2021 373 491 493 10.1126/science.abg7113 34326224
+
+[CR10] Briggs A Vassall A Count the cost of disability caused by COVID-19 Nature 2021 593 502 505 10.1038/d41586-021-01392-2 34040204
+
+[CR11] Farshidfar, F., Koleini, N. & Ardehali, H. Cardiovascular complications of COVID-19.  JCI Insight 6 , e148980 (2021). 10.1172/jci.insight.148980 PMC8410051 34061779
+
+[CR12] Nalbandian A Post-acute COVID-19 syndrome Nat. Med. 2021 27 601 615 10.1038/s41591-021-01283-z 33753937 PMC8893149
+
+[CR13] Nishiga M Wang DW Han Y Lewis DB Wu JC COVID-19 and cardiovascular disease: from basic mechanisms to clinical perspectives Nat. Rev. Cardiol. 2020 17 543 558 10.1038/s41569-020-0413-9 32690910 PMC7370876
+
+[CR14] Chung MK COVID-19 and cardiovascular disease Circ. Res. 2021 128 1214 1236 10.1161/CIRCRESAHA.121.317997 33856918 PMC8048382
+
+[CR15] Delorey TM COVID-19 tissue atlases reveal SARS-CoV-2 pathology and cellular targets Nature 2021 595 107 113 10.1038/s41586-021-03570-8 33915569 PMC8919505
+
+[CR16] Song W-C FitzGerald GA COVID-19, microangiopathy, hemostatic activation, and complement J. Clin. Invest. 2020 130 3950 3953 32459663 10.1172/JCI140183 PMC7410042
+
+[CR17] Varga Z Endothelial cell infection and endotheliitis in COVID-19 Lancet 2020 395 1417 1418 10.1016/S0140-6736(20)30937-5 32325026 PMC7172722
+
+[CR18] Long-term Immunological Health Consequences of COVID-19  (British Society for Immunology, 2020);  https://www.immunology.org/sites/default/files/BSI_Briefing_Note_August_2020_FINAL.pdf
+
+[CR19] Di Toro A Long COVID: long-term effects? Eur. Heart J. Suppl. 2021 23 E1 E5 10.1093/eurheartj/suab080 34650349 PMC8503490
+
+[CR20] Zhang, L. et al. Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissues.  Proc. Natl Acad. Sci. USA 118 , e2105968118 (2021). 10.1073/pnas.2105968118 PMC8166107 33958444
+
+[CR21] Cai M Bowe B Xie Y Al-Aly Z Temporal trends of COVID-19 mortality and hospitalisation rates: an observational cohort study from the US Department of Veterans Affairs BMJ Open 2021 11 e047369 10.1136/bmjopen-2020-047369 PMC8370839 34400452
+
+[CR22] Kind AJH Buckingham WR Making neighborhood-disadvantage metrics accessible—The Neighborhood Atlas N. Engl. J. Med. 2018 378 2456 2458 10.1056/NEJMp1802313 29949490 PMC6051533
+
+[CR23] Xie Y Bowe B Al-Aly Z Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health status Nat. Commun. 2021 12 6571 10.1038/s41467-021-26513-3 34772922 PMC8589966
+
+[CR24] Bowe B Acute kidney injury in a national cohort of hospitalized US veterans with COVID-19 Clin. J. Am. Soc. Nephrol. 2020 16 14 25 10.2215/CJN.09610620 33199414 PMC7792643
+
+[CR25] Bowe B Xie Y Xu E Al-Aly Z Kidney outcomes in long COVID J. Am. Soc. Nephrol. 2021 32 2851 2862 10.1681/ASN.2021060734 34470828 PMC8806085
+
+[CR26] Harrell, F. E.  Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis  (Springer, 2015).
+
+[CR27] Schneeweiss S High-dimensional propensity score adjustment in studies of treatment effects using health care claims data Epidemiology 2009 20 512 522 10.1097/EDE.0b013e3181a663cc 19487948 PMC3077219
+
+[CR28] Austin PC An introduction to propensity score methods for reducing the effects of confounding in observational studies Multivariate Behav. Res. 2011 46 399 424 10.1080/00273171.2011.568786 21818162 PMC3144483
+
+[CR29] Wing C Simon K Bello-Gomez RA Designing difference in difference studies: best practices for public health policy research Annu. Rev. Public Health 2018 39 453 469 10.1146/annurev-publhealth-040617-013507 29328877
+
+[CR30] Lechner M The estimation of causal effects by difference-in-difference methods Found. Trends Econom. 2011 4 165 224 10.1561/0800000014
+
+[CR31] Imbens GW Angrist JD Identification and estimation of local average treatment effects Econometrica 1994 62 467 475 10.2307/2951620
+
+[CR32] Dimick JB Ryan AM Methods for evaluating changes in health care policy: the difference-in-differences approach JAMA 2014 312 2401 2402 10.1001/jama.2014.16153 25490331
+
+[CR33] Funk MJ Doubly robust estimation of causal effects Am. J. Epidemiol. 2011 173 761 767 10.1093/aje/kwq439 21385832 PMC3070495
+
+[CR34] Davis HE Characterizing long COVID in an international cohort: 7 months of symptoms and their impact EClinicalMedicine 2021 38 101019 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[CR35] Lipsitch M Tchetgen Tchetgen E Cohen T Negative controls: a tool for detecting confounding and bias in observational studies Epidemiology 2010 21 383 388 10.1097/EDE.0b013e3181d61eeb 20335814 PMC3053408

@@ -1,0 +1,91 @@
+[CR1] Long COVID or post-COVID conditions. CDC  https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html  (2022).
+
+[CR2] Lara Bull-Otterson, PhD .  et al. Post–COVID conditions among adult COVID-19 survivors aged 18–64 and ≥65 Years — United States . CDC  https://www.cdc.gov/mmwr/volumes/71/wr/mm7121e1.htm  (2022).
+
+[CR3] Logue JK Sequelae in adults at 6 months after COVID-19 infection JAMA Netw. Open 2021 4 e210830 10.1001/jamanetworkopen.2021.0830 33606031 PMC7896197
+
+[CR4] Perlis RH Prevalence and correlates of long COVID symptoms among US adults JAMA Netw. Open 2022 5 e2238804 10.1001/jamanetworkopen.2022.38804 36301542 PMC9614581
+
+[CR5] Xie Y Bowe B Al-Aly Z Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health status Nat. Commun. 2021 12 6571 10.1038/s41467-021-26513-3 34772922 PMC8589966
+
+[CR6] Huang C 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study Lancet 2021 397 220 232 10.1016/S0140-6736(20)32656-8 33428867 PMC7833295
+
+[CR7] A clinical case definition of post COVID-19 condition by a Delphi consensus. WHO  https://www.who.int/publications-detail-redirect/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1  (2021). 10.1016/S1473-3099(21)00703-9 PMC8691845 34951953
+
+[CR8] Davis HE Characterizing long COVID in an international cohort: 7 months of symptoms and their impact EClinicalMedicine 2021 38 101019 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[CR9] Groff D Short-term and long-term rates of postacute sequelae of SARS-CoV-2 infection: A systematic review JAMA Netw. Open 2021 4 e2128568 10.1001/jamanetworkopen.2021.28568 34643720 PMC8515212
+
+[CR10] Antonelli M Pujol JC Spector TD Ourselin S Steves CJ Risk of long COVID associated with delta versus omicron variants of SARS-CoV-2 Lancet 2022 399 2263 2264 10.1016/S0140-6736(22)00941-2 35717982 PMC9212672
+
+[CR11] Notarte KI Impact of COVID-19 vaccination on the risk of developing long-COVID and on existing long-COVID symptoms: A systematic review EClinicalMedicine 2022 53 101624 10.1016/j.eclinm.2022.101624 36051247 PMC9417563
+
+[CR12] Ayoubkhani D Risk of long COVID in people infected with severe acute respiratory syndrome coronavirus 2 after 2 doses of a coronavirus disease 2019 vaccine: Community-based, matched cohort study Open Forum Infect. Dis. 2022 9 ofac464 10.1093/ofid/ofac464 36168555 PMC9494414
+
+[CR13] Al-Aly Z Bowe B Xie Y Long COVID after breakthrough SARS-CoV-2 infection Nat. Med. 2022 28 1461 1467 10.1038/s41591-022-01840-0 35614233 PMC9307472
+
+[CR14] Bach, K. Is ‘long Covid’ worsening the labor shortage? Brookings  https://www.brookings.edu/research/is-long-covid-worsening-the-labor-shortage  (2022).
+
+[CR15] 15. Post-COVID Care Centers. SurvivorCorps post-COVID care centers—survivor corps (2023).
+
+[CR16] Ladyzhets, B. Where are the long COVID clinics? ScienceNews  https://www.sciencenews.org/article/long-covid-clinics-map-locations-prevalence .  (2022).
+
+[CR17] Vanichkachorn G Post-COVID-19 syndrome (long haul syndrome): Description of a multidisciplinary clinic at mayo clinic and characteristics of the initial patient cohort Mayo Clin. Proc. 2021 96 1782 1791 10.1016/j.mayocp.2021.04.024 34218857 PMC8112396
+
+[CR18] Ali ST Evolution of neurologic symptoms in non-hospitalized COVID-19 "long haulers" Ann. Clin. Transl. Neurol. 2022 9 950 961 10.1002/acn3.51570 35607826 PMC9268866
+
+[CR19] Robineau O Long-lasting symptoms after an acute COVID-19 infection and factors associated with their resolution JAMA Netw. Open 2022 5 e2240985 10.1001/jamanetworkopen.2022.40985 36350653 PMC9647489
+
+[CR20] 20. Underlying medical conditions associated with higher risk for severe COVID-19: Information for Healthcare Professionals. CDC Underlying Medical Conditions Associated with Higher Risk for Severe COVID-19: Information for Healthcare Professionals|CDC (2023).
+
+[CR21] Shanley JE Longitudinal evaluation of neurologic-post acute sequelae SARS-CoV-2 infection symptoms Ann. Clin. Transl. Neurol. 2022 9 995 1010 10.1002/acn3.51578 35702954 PMC9268882
+
+[CR22] Nittas V Long COVID through a public health lens: An umbrella review Public Health Rev. 2022 43 1604501 10.3389/phrs.2022.1604501 35359614 PMC8963488
+
+[CR23] Mumtaz A COVID-19 vaccine and long COVID: A scoping review Life (Basel) 2022 10.3390/life12071066 35888154 PMC9324565
+
+[CR24] Davis HE McCorkell L Vogel JM Topol EJ Long COVID: Major findings, mechanisms and recommendations Nat. Rev. Microbiol. 2023 21 133 146 10.1038/s41579-022-00846-2 36639608 PMC9839201
+
+[CR25] Carruthers BM Myalgic encephalomyelitis: International consensus criteria J. Intern. Med. 2011 270 327 338 10.1111/j.1365-2796.2011.02428.x 21777306 PMC3427890
+
+[CR26] Cristillo V Premorbid vulnerability and disease severity impact on long-COVID cognitive impairment Aging Clin. Exp. Res. 2022 34 257 260 10.1007/s40520-021-02042-3 35014002 PMC8747881
+
+[CR27] Crivelli L Changes in cognitive functioning after COVID-19: A systematic review and meta-analysis Alzheimers Dement. 2022 18 1047 1066 10.1002/alz.12644 35297561 PMC9073922
+
+[CR28] Venkataramani V Winkler F Cognitive deficits in long covid-19 N. Engl. J. Med. 2022 387 1813 1815 10.1056/NEJMcibr2210069 36351274
+
+[CR29] Cristillo V Predictors of "brain fog" 1 year after COVID-19 disease Neurol. Sci. 2022 43 5795 5797 10.1007/s10072-022-06285-4 35930181 PMC9361921
+
+[CR30] Hazumi M Usuda K Okazaki E Kataoka M Nishi D Differences in the course of depression and anxiety after COVID-19 infection between recovered patients with and without a psychiatric history: A cross-sectional study Int. J. Environ. Res. Public Health 2022 10.3390/ijerph191811316 36141588 PMC9517442
+
+[CR31] Rojas M Autoimmunity is a hallmark of post-COVID syndrome J. Transl. Med. 2022 10.1186/s12967-022-03328-4 35296346 PMC8924736
+
+[CR32] Son K Circulating anti-nuclear autoantibodies in COVID-19 survivors predict long COVID symptoms Eur. Respir. J. 2023 10.1183/13993003.00970-2022 36137590 PMC9515477
+
+[CR33] Arthur JM Development of ACE2 autoantibodies after SARS-CoV-2 infection PLoS One 2021 16 e0257016 10.1371/journal.pone.0257016 34478478 PMC8415618
+
+[CR34] Ritchie K Chan D Watermeyer T The cognitive consequences of the COVID-19 epidemic: Collateral damage? Brain Commun. 2020 2 fcaa069 10.1093/braincomms/fcaa069 33074266 PMC7314157
+
+[CR35] Bell ML Post-acute sequelae of COVID-19 in a non-hospitalized cohort: Results from the Arizona CoVHORT PLoS One 2021 16 e0254347 10.1371/journal.pone.0254347 34347785 PMC8336814
+
+[CR36] Augustin M Post-COVID syndrome in non-hospitalised patients with COVID-19: A longitudinal prospective cohort study Lancet Reg. Health Eur. 2021 6 100122 10.1016/j.lanepe.2021.100122 34027514 PMC8129613
+
+[CR37] Peluso MJ Persistence, magnitude, and patterns of postacute symptoms and quality of life following onset of SARS-CoV-2 infection: Cohort description and approaches for measurement Open Forum Infect. Dis. 2022 9 ofab640 10.1093/ofid/ofab640 35106317 PMC8755302
+
+[CR38] Zawilska JB Kuczynska K Psychiatric and neurological complications of long COVID J. Psychiatr. Res. 2022 156 349 360 10.1016/j.jpsychires.2022.10.045 36326545 PMC9582925
+
+[CR39] Goodman ML Molldrem S Elliott A Robertson D Keiser P Long COVID and mental health correlates: A new chronic condition fits existing patterns Health Psychol. Behav. Med. 2023 11 2164498 10.1080/21642850.2022.2164498 36643576 PMC9833408
+
+[CR40] Clinical spectrum of SARS-CoV-2 Infection. NIH  https://www.covid19treatmentguidelines.nih.gov/overview/clinical-spectrum/ . (2023).
+
+[CR41] 41. Global COVID-19 clinical platform case report form (CRF) for Post COVID condition (Post COVID-19 CRF), WHO Global COVID-19 Clinical Platform Case Report Form (CRF) for Post COVID condition (Post COVID-19 CRF) (who.int) (2021).
+
+[CR42] Hays RD Bjorner JB Revicki DA Spritzer KL Cella D Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items Qual. Life Res. 2009 18 873 880 10.1007/s11136-009-9496-9 19543809 PMC2724630
+
+[CR43] PROMIS® score cut points, HealthMeasures  https://www.healthmeasures.net/score-and-interpret/interpret-scores/promis/promis-score-cut-points  (2021).
+
+[CR44] Levis B Benedetti A Thombs BD Collaboration DESD Accuracy of Patient Health questionnaire-9 (PHQ-9) for screening to detect major depression: Individual participant data meta-analysis BMJ 2019 365 l1476 10.1136/bmj.l1476 30967483 PMC6454318
+
+[CR45] Hinz A Psychometric evaluation of the generalized anxiety disorder screener GAD-7, based on a large German general population sample J. Affect. Disord. 2017 210 338 344 10.1016/j.jad.2016.12.012 28088111
+
+[CR46] Kar N Kar B Kar S Stress and coping during COVID-19 pandemic: Result of an online survey Psychiatry Res. 2021 295 113598 10.1016/j.psychres.2020.113598 33264677 PMC7688436

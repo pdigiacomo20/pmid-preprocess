@@ -1,0 +1,77 @@
+[bibr1-21501319241258671] Callard F Perego E. How and why patients made Long Covid .  Soc Sci Med .  2021 ; 268 : 113426 . 33199035 10.1016/j.socscimed.2020.113426 PMC7539940
+
+[bibr2-21501319241258671] Greenhalgh T Knight M A’Court C Buxton M Husain L .  Management of post-acute covid-19 in primary care .  BMJ .  2020 ; 370 :m3026. 10.1136/bmj.m3026 32784198
+
+[bibr3-21501319241258671] Nalbandian A Sehgal K Gupta A ,  et al .  Post-acute COVID-19 syndrome .  Nat Med .  2021 ; 27 : 601 - 615 . 33753937 10.1038/s41591-021-01283-z PMC8893149
+
+[bibr4-21501319241258671] Nasserie T Hittle M Goodman SN. Assessment of the frequency and variety of persistent symptoms among patients with COVID-19: a systematic review .  JAMA Netw Open .  2021 ; 4 :e2111417. 10.1001/jamanetworkopen.2021.11417 PMC8155823 34037731
+
+[bibr5-21501319241258671] Parker AM Brigham E Connolly B ,  et al .  Addressing the post-acute sequelae of SARS-CoV-2 infection: a multidisciplinary model of care .  Lancet Respir Med .  2021 ; 9 : 1328 - 1341 . 34678213 10.1016/S2213-2600(21)00385-4 PMC8525917
+
+[bibr6-21501319241258671] Siso-Almirall A Brito-Zeron P Conangla Ferrin L ,  et al .  Long covid-19: proposed primary care clinical guidelines for diagnosis and disease management .  Int J Environ Res Public Health .  2021 ; 18 : 4350 . 33923972 10.3390/ijerph18084350 PMC8073248
+
+[bibr7-21501319241258671] Ganesh R Ghosh AK Nyman MA ,  et al .  PROMIS scales for assessment of persistent post-COVID symptoms: a cross sectional study .  J Prim Care Community Health .  2021 ; 12 : 21501327211030413 . 34231395 10.1177/21501327211030413 PMC8267017
+
+[bibr8-21501319241258671] Couzin-Frankel J. Clues to long COVID .  Science .  2022 ; 376 : 1261 - 1265 . 35709281 10.1126/science.add4297
+
+[bibr9-21501319241258671] Ganesh R Grach SL Ghosh AK ,  et al .  The female-predominant persistent immune dysregulation of the post-COVID syndrome .  Mayo Clin Proc .  2022 ; 97 : 454 - 464 . 35135695 10.1016/j.mayocp.2021.11.033 PMC8817110
+
+[bibr10-21501319241258671] Mueller MR Ganesh R Hurt RT Beckman TJ. Post-COVID conditions .  Mayo Clin Proc .  2023 ; 98 : 1071 - 1078 . 37419575 10.1016/j.mayocp.2023.04.007
+
+[bibr11-21501319241258671] Subramanian A Nirantharakumar K Hughes S ,  et al .  Symptoms and risk factors for long COVID in non-hospitalized adults .  Nat Med .  2022 ; 28 : 1706 - 1714 . 35879616 10.1038/s41591-022-01909-w PMC9388369
+
+[bibr12-21501319241258671] Mundi MS Patel JJ Mohamed Elfadil O ,  et al .  When pandemics collide: the interplay of obesity and COVID-19 .  Curr Gastroenterol Rep .  2021 ; 23 : 26 . 34735631 10.1007/s11894-021-00822-5 PMC8566966
+
+[bibr13-21501319241258671] Office of National Statisctics .  Updated Estimates of the Prevalence of Long COVID Symptoms .  Office of National Statisctics ;  2021 .
+
+[bibr14-21501319241258671] Ford ND Slaughter D Edwards D ,  et al .  Long COVID and significant activity limitation among adults, by age - United States, June 1-13, 2022, to June 7-19, 2023 .  MMWR Morb Mortal Wkly Rep .  2023 ; 72 : 866 - 870 . 37561665 10.15585/mmwr.mm7232a3 PMC10415000
+
+[bibr15-21501319241258671] Hastie CE Lowe DJ McAuley A ,  et al .  True prevalence of long-COVID in a nationwide, population cohort study .  Nat Commun .  2023 ; 14 : 7892 . 38036541 10.1038/s41467-023-43661-w PMC10689486
+
+[bibr16-21501319241258671] Davis HE Assaf GS McCorkell L ,  et al .  Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  EClinicalMedicine .  2021 ; 38 : 101019 . 34308300 10.1016/j.eclinm.2021.101019 PMC8280690
+
+[bibr17-21501319241258671] Bach K .  New Data Shows Long Covid is Keeping as Many as 4 Million People Out of Work .  Brookings Institution ;  2022 : 24 .
+
+[bibr18-21501319241258671] Taboada M Carinena A Moreno E ,  et al .  Post-COVID-19 functional status six-months after hospitalization .  J Infect .  2021 ; 82 :e31-e33. 10.1016/j.jinf.2020.12.022 PMC7834022 33373650
+
+[bibr19-21501319241258671] Bonilla H Peluso MJ Rodgers K ,  et al .  Therapeutic trials for long COVID-19: a call to action from the interventions taskforce of the RECOVER initiative .  Front Immunol .  2023 ; 14 : 1129459 . 36969241 10.3389/fimmu.2023.1129459 PMC10034329
+
+[bibr20-21501319241258671] Bierle DM Aakre CA Grach SL ,  et al .  Central sensitization phenotypes in post acute sequelae of SARS-CoV-2 infection (PASC): defining the post COVID syndrome .  J Prim Care Community Health .  2021 ; 12 : 21501327211030826 . 34231404 10.1177/21501327211030826 PMC8267019
+
+[bibr21-21501319241258671] Ganesh R Vanichkachorn GS Munipalli B ,  et al .  Postacute sequelae of SARS-CoV-2 infection-lessons learned from a coordinated health system response .  Mayo Clin Proc Innov Qual Outcomes .  2022 ; 6 : 311 - 319 . 35669936 10.1016/j.mayocpiqo.2022.05.007 PMC9156955
+
+[bibr22-21501319241258671] Gilman EA Aakre C Meyers A ,  et al .  Development of a visit facilitator role to assist physicians in an ambulatory consultative medical practice .  Mayo Clin Proc Innov Qual Outcomes .  2023 ; 7 : 187 - 193 . 37213712 10.1016/j.mayocpiqo.2023.04.003 PMC10196913
+
+[bibr23-21501319241258671] Grach SL Ganesh R Messina SA Hurt RT. Post-COVID-19 syndrome: persistent neuroimaging changes and symptoms 9 months after initial infection .  BMJ Case Rep .  2022 ; 15 :e248448. 10.1136/bcr-2021-248448 PMC8996041 35396239
+
+[bibr24-21501319241258671] Hurt RT Edakkanambeth Varayil J Epp LM ,  et al .  Blenderized tube feeding use in adult home enteral nutrition patients: a cross-sectional study .  Nutr Clin Pract .  2015 ; 30 : 824 - 829 . 26150105 10.1177/0884533615591602
+
+[bibr25-21501319241258671] Harris PA Taylor R Thielke R Payne J Gonzalez N Conde JG. Research electronic data capture (REDCap): a metadata-driven methodology and workflow process for providing translational research informatics support .  J Biomed Inform .  2009 ; 42 : 377 - 381 . 18929686 10.1016/j.jbi.2008.08.010 PMC2700030
+
+[bibr26-21501319241258671] Mateu L Tebe C Loste C ,  et al .  Determinants of the onset and prognosis of the post-COVID-19 condition: a 2-year prospective observational cohort study .  Lancet Reg Health Eur .  2023 ; 33 : 100724 . 37954002 10.1016/j.lanepe.2023.100724 PMC10636281
+
+[bibr27-21501319241258671] Hastie CE Lowe DJ McAuley A ,  et al .  Outcomes among confirmed cases and a matched comparison group in the Long-COVID in Scotland study .  Nat Commun .  2022 ; 13 : 5663 . 36224173 10.1038/s41467-022-33415-5 PMC9556711
+
+[bibr28-21501319241258671] Angeli AM Salonen BR Ganesh R ,  et al .  Symptom presentation by phenotype of postural orthostatic tachycardia syndrome .  Sci Rep .  2024 ; 14 : 205 . 38168762 10.1038/s41598-023-50886-8 PMC10761725
+
+[bibr29-21501319241258671] Grach SL Seltzer J Chon TY Ganesh R. Diagnosis and management of myalgic encephalomyelitis/chronic fatigue syndrome .  Mayo Clin Proc .  2023 ; 98 : 1544 - 1551 . 37793728 10.1016/j.mayocp.2023.07.032
+
+[bibr30-21501319241258671] Thilagar BP Ghosh AK Nguyen J ,  et al .  Anti-spike monoclonal antibody therapy in pregnant women with mild-to-moderate coronavirus disease 2019 (COVID-19) .  Obstet Gynecol .  2022 ; 139 : 616 - 618 . 35026789 10.1097/AOG.0000000000004700 PMC8936149
+
+[bibr31-21501319241258671] Ganesh R Salonen BR Bhuiyan MN ,  et al .  Managing patients in the COVID-19 pandemic: a virtual multidisciplinary approach .  Mayo Clin Proc Innov Qual Outcomes .  2021 ; 5 : 118 - 126 . 33521583 10.1016/j.mayocpiqo.2020.12.003 PMC7833108
+
+[bibr32-21501319241258671] Yadav S Bonnes SL Gilman EA ,  et al .  Inflammatory arthritis after COVID-19: a case series .  Am J Case Rep .  2023 ; 24 :e939870. 10.12659/AJCR.939870 PMC10311574 37368875
+
+[bibr33-21501319241258671] Bailey J Lavelle B Miller J ,  et al .  Multidisciplinary center care for long COVID syndrome: a retrospective cohort study .  Am J Med . Published online May 22, 2023. doi: 10.1016/j.amjmed.2023.05.002 PMC10200714 37220832
+
+[bibr34-21501319241258671] Heightman M Prashar J Hillman TE ,  et al .  Post-COVID-19 assessment in a specialist clinical service: a 12-month, single-centre, prospective study in 1325 individuals .  BMJ Open Respir Res .  2021 ; 8 :e001041. 10.1136/bmjresp-2021-001041 PMC8587466 34764200
+
+[bibr35-21501319241258671] Rahamim-Cohen D Kertes J Feldblum I Shamir-Stein N Shapiro Ben David S. Use of a virtual multi-disciplinary clinic for the treatment of post-COVID-19 patients .  Healthcare (Basel) .  2024 ; 12 : 376 . 38338261 10.3390/healthcare12030376 PMC10855243
+
+[bibr36-21501319241258671] Thaweethai T Jolley SE Karlson EW ,  et al .  Development of a definition of postacute sequelae of SARS-CoV-2 infection .  JAMA .  2023 ; 329 : 1934 - 1946 . 37278994 10.1001/jama.2023.8823 PMC10214179
+
+[bibr37-21501319241258671] Wittich CM Burkle CM Lanier WL. Ten common questions (and their answers) about off-label drug use .  Mayo Clin Proc .  2012 ; 87 : 982 - 990 . 22877654 10.1016/j.mayocp.2012.04.017 PMC3538391
+
+[bibr38-21501319241258671] Hendra R Hill A. Rethinking response rates: new evidence of little relationship between survey response rates and nonresponse bias .  Eval Rev .  2019 ; 43 : 307 - 330 . 30580577 10.1177/0193841X18807719
+
+[bibr39-21501319241258671] Sataloff RT Vontela S. Response rates in survey research .  J Voice .  2021 ; 35 : 683 - 684 . 33546940 10.1016/j.jvoice.2020.12.043

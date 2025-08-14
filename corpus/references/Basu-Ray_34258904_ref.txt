@@ -1,0 +1,119 @@
+[B1-jcm-14-03192] World Health Organization Novel Coronavirus (2019-nCoV): Situation Report, 1 World Health Organization Geneva, Switzerland 2020
+
+[B2-jcm-14-03192] World Health Organization From Emergency Response to Long-Term COVID-19 Disease Management: Sustaining Gains Made During the COVID-19 Pandemic Emergencies Preparedness World Health Organization Geneva, Switzerland 2023
+
+[B3-jcm-14-03192] Cui S. Chen S. Li X. Liu S. Wang F. Prevalence of Venous Thromboembolism in Patients with Severe Novel Coronavirus Pneumonia J. Thromb. Haemost. 2020 18 1421 1424 10.1111/jth.14830 32271988 PMC7262324
+
+[B4-jcm-14-03192] Nopp S. Moik F. Jilma B. Pabinger I. Ay C. Risk of Venous Thromboembolism in Patients with COVID-19: A systematic Review and Meta-Analysis Res. Pract. Thromb. Haemost. 2020 4 1178 1191 10.1002/rth2.12439 33043231 PMC7537137
+
+[B5-jcm-14-03192] Cheng N.M. Chan Y.C. Cheng S.W. COVID-19 Related Thrombosis: A Mini-Review Phlebology 2022 37 326 337 10.1177/02683555211052170 35403487 PMC9006089
+
+[B6-jcm-14-03192] The Lancet Haematology COVID-19 and Thrombosis: A Continuing Story Lancet Haematol. 2021 8 e95 10.1016/S2352-3026(21)00002-8 PMC9766759 33513375
+
+[B7-jcm-14-03192] Ali M.A.M. Spinler S.A. COVID-19 and Thrombosis: From Bench to Bedside Trends Cardiovasc. Med. 2021 31 143 160 10.1016/j.tcm.2020.12.004 33338635 PMC7836332
+
+[B8-jcm-14-03192] Ten Berg J. Venous and Arterial Thromboembolic Disease in COVID-19 J. Thromb. Thrombolysis 2021 52 1007 1009 10.1007/s11239-021-02524-1 34255267 PMC8276541
+
+[B9-jcm-14-03192] Catanzaro M. Fagiani F. Racchi M. Corsini E. Govoni S. Lanni C. Immune Response in COVID-19: Addressing a Pharmacological Challenge by Targeting Pathways Triggered by SARS-CoV-2 Sig. Transduct. Target Ther. 2020 5 84 10.1038/s41392-020-0191-1 PMC7255975 32467561
+
+[B10-jcm-14-03192] Rosário C. Zandman-Goddard G. Meyron-Holtz E.G. D’Cruz D.P. Shoenfeld Y. The Hyperferritinemic Syndrome: Macrophage Activation Syndrome, Still’s Disease, Septic Shock and Catastrophic Antiphospholipid Syndrome BMC Med. 2013 11 185 10.1186/1741-7015-11-185 23968282 PMC3751883
+
+[B11-jcm-14-03192] Deng F. Zhang L. Lyu L. Lu Z. Gao D. Ma X. Guo Y. Wang R. Gong S. Jiang W. Increased Levels of Ferritin on Admission Predicts Intensive Care Unit Mortality in Patients with COVID-19 Med. Clin. 2021 156 324 331 10.1016/j.medcli.2020.11.030 PMC8016043 33824908
+
+[B12-jcm-14-03192] Gómez-Mesa J.E. Galindo-Coral S. Montes M.C. Muñoz Martin A.J. Thrombosis and Coagulopathy in COVID-19 Curr. Probl. Cardiol. 2021 46 100742 10.1016/j.cpcardiol.2020.100742 33243440 PMC7605852
+
+[B13-jcm-14-03192] Lodigiani C. Iapichino G. Carenzo L. Cecconi M. Ferrazzi P. Sebastian T. Kucher N. Studt J.-D. Sacco C. Bertuzzi A. Venous and Arterial Thromboembolic Complications in COVID-19 Patients Admitted to an Academic Hospital in Milan, Italy Thromb. Res. 2020 191 9 14 10.1016/j.thromres.2020.04.024 32353746 PMC7177070
+
+[B14-jcm-14-03192] Lippi G. Plebani M. Laboratory Abnormalities in Patients with COVID-2019 Infection Clin. Chem. Lab. Med. 2020 58 1131 1134 10.1515/cclm-2020-0198 32119647
+
+[B15-jcm-14-03192] Schuurman A.R. Léopold V. Pereverzeva L. Chouchane O. Reijnders T.D.Y. Brabander J.D. Douma R.A. Weeghel M.V. Wever E. Schomaker B.V. The Platelet Lipidome Is Altered in Patients with COVID-19 and Correlates with Platelet Reactivity Thromb. Haemost. 2022 122 1683 1692 10.1055/s-0042-1749438 35850149 PMC9512584
+
+[B16-jcm-14-03192] Lee Y. Jehangir Q. Li P. Gudimella D. Mahale P. Lin C.-H. Apala D.R. Krishnamoorthy G. Halabi A.R. Patel K. Venous Thromboembolism in COVID-19 Patients and Prediction Model: A Multicenter Cohort Study BMC Infect Dis. 2022 22 462 10.1186/s12879-022-07421-3 35562677 PMC9100286
+
+[B17-jcm-14-03192] Gerotziafas G.T. Sergentanis T.N. Voiriot G. Lassel L. Papageorgiou C. Elabbadi A. Turpin M. Vandreden P. Papageorgiou L. Psaltopoulou T. Derivation and Validation of a Predictive Score for Disease Worsening in Patients with COVID-19 Thromb. Haemost. 2020 120 1680 1690 10.1055/s-0040-1716544 32961572 PMC7869041
+
+[B18-jcm-14-03192] Legrand M. Bell S. Forni L. Joannidis M. Koyner J.L. Liu K. Cantaluppi V. Pathophysiology of COVID-19-Associated Acute Kidney Injury Nat. Rev. Nephrol. 2021 17 751 764 10.1038/s41581-021-00452-0 34226718 PMC8256398
+
+[B19-jcm-14-03192] Flythe J.E. Assimon M.M. Tugman M.J. Chang E.H. Gupta S. Shah J. Sosa M.A. Renaghan A.D. Melamed M.L. Wilson F.P. Characteristics and Outcomes of Individuals With Pre-existing Kidney Disease and COVID-19 Admitted to Intensive Care Units in the United States Am. J. Kidney Dis. 2021 77 190 203.e1 10.1053/j.ajkd.2020.09.003 32961244 PMC7501875
+
+[B20-jcm-14-03192] Xia P. Wen Y. Duan Y. Su H. Cao W. Xiao M. Ma J. Zhou Y. Chen G. Jiang W. Clinicopathological Features and Outcomes of Acute Kidney Injury in Critically Ill COVID-19 with Prolonged Disease Course: A Retrospective Cohort J. Am. Soc. Nephrol. 2020 31 2205 2221 10.1681/ASN.2020040426 32826326 PMC7461691
+
+[B21-jcm-14-03192] Narayanan A. Cunningham P. Mehta M. Lang T. Hammes M. Acute Kidney Injury in Coronavirus Disease and Association with Thrombosis Am. J. Nephrol. 2023 54 156 164 10.1159/000530524 37019091
+
+[B22-jcm-14-03192] Wang C. Yu C. Novakovic V.A. Xie R. Shi J. Circulating Microparticles in the Pathogenesis and Early Anticoagulation of Thrombosis in COVID-19 With Kidney Injury Front. Cell Dev. Biol. 2022 9 784505 10.3389/fcell.2021.784505 35118071 PMC8804312
+
+[B23-jcm-14-03192] Sánchez A.D.L.V. Pérez A.N. Pérez-Carrasco M. Sonet M.T. Buendia Y.D. Ballujera P.O. López M.R. Riera J.S. Olmo-Isasmendi A. Torra E.V. Acute Kidney Injury in Critically Ill Patients with COVID–19: The AKICOV Multicenter Study in Catalonia PLoS ONE 2023 18 e0284248 10.1371/journal.pone.0284248 37058544 PMC10104297
+
+[B24-jcm-14-03192] Arikan H. Ozturk S. Tokgoz B. Dursun B. Seyahi N. Trabulus S. Islam M. Ayar Y. Gorgulu N. Karadag S. Characteristics and Outcomes of Acute Kidney Injury in Hospitalized COVID-19 Patients: A Multicenter Study by the Turkish Society of Nephrology PLoS ONE 2021 16 e0256023 10.1371/journal.pone.0256023 34375366 PMC8354466
+
+[B25-jcm-14-03192] Curran C.S. Kopp J.B. RAGE Pathway Activation and Function in Chronic Kidney Disease and COVID-19 Front. Med. 2022 9 970423 10.3389/fmed.2022.970423 36017003 PMC9395689
+
+[B26-jcm-14-03192] Thakur M. Junho C.V.C. Bernhard S.M. Schindewolf M. Noels H. Döring Y. NETs-Induced Thrombosis Impacts on Cardiovascular and Chronic Kidney Disease Circ. Res. 2023 132 933 949 10.1161/CIRCRESAHA.123.321750 37053273 PMC10377271
+
+[B27-jcm-14-03192] Cheng Y. Luo R. Wang K. Zhang M. Wang Z. Dong L. Li J. Yao Y. Ge S. Xu G. Kidney Disease Is Associated with in-Hospital Death of Patients with COVID-19 Kidney Int. 2020 97 829 838 10.1016/j.kint.2020.03.005 32247631 PMC7110296
+
+[B28-jcm-14-03192] Van Den Boom B.P. Lisman T. Pathophysiology and Management of Bleeding and Thrombosis in Patients with Liver Disease Int. J. Lab. Hematol. 2022 44 79 88 10.1111/ijlh.13856 35446468 PMC9540811
+
+[B29-jcm-14-03192] D’Ardes D. Boccatonda A. Cocco G. Fabiani S. Rossi I. Bucci M. Guagnano M.T. Schiavone C. Cipollone F. Impaired Coagulation, Liver Dysfunction and COVID-19: Discovering an Intriguing Relationship World J. Gastroenterol. 2022 28 1102 1112 10.3748/wjg.v28.i11.1102 35431501 PMC8985482
+
+[B30-jcm-14-03192] Chen S. Liu H. Li T. Huang R. Gui R. Zhang J. Correlation Analysis of Coagulation Dysfunction and Liver Damage in Patients with Novel Coronavirus Pneumonia: A Single-Center, Retrospective, Observational Study Upsala J. Med. Sci. 2020 125 293 296 10.1080/03009734.2020.1822960 32990149 PMC7594753
+
+[B31-jcm-14-03192] McConnell M.J. Kawaguchi N. Kondo R. Sonzogni A. Licini L. Valle C. Bonaffini P.A. Sironi S. Alessio M.G. Previtali G. Liver injury in COVID-19 and IL-6 Trans-Signaling-Induced Endotheliopathy J. Hepatol. 2021 75 647 658 10.1016/j.jhep.2021.04.050 33991637 PMC8285256
+
+[B32-jcm-14-03192] Garg S.S. Sharma A. Gupta J. Immunomodulation and Immunotherapeutics of COVID-19 Clin. Immunol. 2021 231 108842 10.1016/j.clim.2021.108842 34461289 PMC8393504
+
+[B33-jcm-14-03192] Kaur S. Bansal R. Kollimuttathuillam S. Gowda A.M. Singh B. Mehta D. Maroules M. The Looming Storm: Blood and Cytokines in COVID-19 Blood Rev. 2021 46 100743 10.1016/j.blre.2020.100743 32829962 PMC7431319
+
+[B34-jcm-14-03192] Azevedo R.B. Botelho B.G. Hollanda J.V.G.D. Ferreira L.V.L. Junqueira De Andrade L.Z. Oei S.S.M.L. Mello T.D.S. Muxfeldt E.S. Covid-19 and the Cardiovascular System: A Comprehensive Review J. Hum. Hypertens. 2021 35 4 11 10.1038/s41371-020-0387-4 32719447 PMC7384729
+
+[B35-jcm-14-03192] Bielecka-Dabrowa A. Cichocka-Radwan A. Lewek J. Pawliczak F. Maciejewski M. Banach M. Cardiac Manifestations of COVID-19 Rev. Cardiovasc. Med. 2021 22 365 10.31083/j.rcm2202043 34258904
+
+[B36-jcm-14-03192] Yang C.-W. Li H. Thomas L. Ramos M. Liu P.-H. Roe T. Valadri R. Kiel M.C. Su V.Y.-F. Shi Q. Retrospective Cause Analysis of Troponin I Elevation in Non-CAD Patients: Special Emphasis on Sepsis Medicine 2017 96 e8027 10.1097/MD.0000000000008027 28906388 PMC5604657
+
+[B37-jcm-14-03192] Long B. Long D.A. Tannenbaum L. Koyfman A. An Emergency Medicine Approach to Troponin Elevation Due to Causes Other Than Occlusion Myocardial Infarction Am. J. Emerg. Med. 2020 38 998 1006 10.1016/j.ajem.2019.12.007 31864875
+
+[B38-jcm-14-03192] Garcia-Olivé I. Sintes H. Radua J. Abad Capa J. Rosell A. D-Dimer in Patients Infected with COVID-19 and Suspected Pulmonary Embolism Respir. Med. 2020 169 106023 10.1016/j.rmed.2020.106023 32454268 PMC7219417
+
+[B39-jcm-14-03192] Al-Samkari H. Karp Leaf R.S. Dzik W.H. Carlson J.C.T. Fogerty A.E. Waheed A. Goodarzi K. Bendapudi P.K. Bornikova L. Gupta S. COVID-19 and Coagulation: Bleeding and Thrombotic Manifestations of SARS-CoV-2 Infection Blood 2020 136 489 500 10.1182/blood.2020006520 32492712 PMC7378457
+
+[B40-jcm-14-03192] Leentjens J. Van Haaps T.F. Wessels P.F. Schutgens R.E.G. Middeldorp S. COVID-19-Associated Coagulopathy and Antithrombotic Agents—Lessons After 1 Year Lancet Haematol. 2021 8 e524 e533 10.1016/S2352-3026(21)00105-8 33930350 PMC8078884
+
+[B41-jcm-14-03192] Rahi M.S. Jindal V. Reyes S.-P. Gunasekaran K. Gupta R. Jaiyesimi I. Hematologic Disorders Associated with COVID-19: A Review Ann. Hematol. 2021 100 309 320 10.1007/s00277-020-04366-y 33415422 PMC7789889
+
+[B42-jcm-14-03192] Grimnes G. Isaksen T. Tichelaar Y.I.G.V. Brox J. Brækkan S.K. Hansen J.-B. C-Reactive Protein and Risk of Venous Thromboembolism: Results from a Population-Based Case-Crossover Study Haematologica 2018 103 1245 1250 10.3324/haematol.2017.186957 29674505 PMC6029539
+
+[B43-jcm-14-03192] Escher R. Breakey N. Lämmle B. Severe COVID-19 Infection Associated with Endothelial Activation Thromb. Res. 2020 190 62 10.1016/j.thromres.2020.04.014 32305740 PMC7156948
+
+[B44-jcm-14-03192] Wang J. Jiang M. Chen X. Montaner L.J. Cytokine storm and Leukocyte Changes in Mild Versus Severe SARS-CoV-2 Infection: Review of 3939 COVID-19 Patients in China and Emerging Pathogenesis and Therapy Concepts J. Leukoc. Biol. 2020 108 17 41 10.1002/JLB.3COVR0520-272R 32534467 PMC7323250
+
+[B45-jcm-14-03192] Kurian S.J. Mathews S.P. Paul A. Viswam S.K. Kaniyoor Nagri S. Miraj S.S. Karanth S. Association of Serum Ferritin with Severity and Clinical Outcome in COVID-19 Patients: An Observational Study in a Tertiary Healthcare Facility Clin. Epidemiol. Glob. Health 2023 21 101295 10.1016/j.cegh.2023.101295 37012977 PMC10060024
+
+[B46-jcm-14-03192] Cheng L. Li H. Li L. Liu C. Yan S. Chen H. Li Y. Ferritin in the Coronavirus Disease 2019 (COVID-19): A Systematic Review and Meta-Analysis Clin. Lab. Anal. 2020 34 e23618 10.1002/jcla.23618 PMC7595919 33078400
+
+[B47-jcm-14-03192] Wool G.D. Miller J.L. The Impact of COVID-19 Disease on Platelets and Coagulation Pathobiology 2021 88 15 27 10.1159/000512007 33049751 PMC7649697
+
+[B48-jcm-14-03192] Pormohammad A. Ghorbani S. Baradaran B. Khatami A. Turner R.J. Mansournia M.A. Kyriacou D.N. Idrovo J.-P. Bahr N.C. Clinical Characteristics, Laboratory Findings, Radiographic Signs and Outcomes of 61,742 Patients with Confirmed COVID-19 Infection: A Systematic Review and Meta-Analysis Microb. Pathog. 2020 147 104390 10.1016/j.micpath.2020.104390 32681968 PMC7361116
+
+[B49-jcm-14-03192] Lippi G. Plebani M. Henry B.M. Thrombocytopenia is Associated with Severe Coronavirus Disease 2019 (COVID-19) Infections: A Meta-Analysis Clin. Chim. Acta 2020 506 145 148 10.1016/j.cca.2020.03.022 32178975 PMC7102663
+
+[B50-jcm-14-03192] Malik P. Patel U. Mehta D. Patel N. Kelkar R. Akrmah M. Gabrilove J.L. Sacks H. Biomarkers and Outcomes of COVID-19 Hospitalisations: Systematic Review and Meta-Analysis BMJ Evid.-Based Med. 2021 26 107 108 10.1136/bmjebm-2020-111536 PMC7493072 32934000
+
+[B51-jcm-14-03192] Hong L.-Z. Shou Z.-X. Zheng D.-M. Jin X. The Most Important Biomarker Associated with Coagulation and Inflammation among COVID-19 Patients Mol. Cell. Biochem. 2021 476 2877 2885 10.1007/s11010-021-04122-4 33742367 PMC7978444
+
+[B52-jcm-14-03192] Qiu X. Nair M.G. Jaroszewski L. Godzik A. Deciphering Abnormal Platelet Subpopulations in COVID-19, Sepsis and Systemic Lupus Erythematosus through Machine Learning and Single-Cell Transcriptomics Int. J. Mol. Sci. 2024 25 5941 10.3390/ijms25115941 38892129 PMC11173046
+
+[B53-jcm-14-03192] Henry B.M. Aggarwal G. Wong J. Benoit S. Vikse J. Plebani M. Lippi G. Lactate Dehydrogenase Levels Predict Coronavirus Disease 2019 (COVID-19) Severity and Mortality: A Pooled Analysis Am. J. Emerg. Med. 2020 38 1722 1726 10.1016/j.ajem.2020.05.073 32738466 PMC7251362
+
+[B54-jcm-14-03192] Han Y. Zhang H. Mu S. Wei W. Jin C. Tong C. Song Z. Zha Y. Xue Y. Gu G. Lactate Dehydrogenase, an Independent Risk Factor of Severe COVID-19 Patients: A Retrospective and Observational Study Aging 2020 12 11245 11258 10.18632/aging.103372 32633729 PMC7343511
+
+[B55-jcm-14-03192] Tang N. Bai H. Chen X. Gong J. Li D. Sun Z. Anticoagulant Treatment is Associated with Decreased Mortality in Severe Coronavirus Disease 2019 Patients with Coagulopathy J. Thromb. Haemost. 2020 18 1094 1099 10.1111/jth.14817 32220112 PMC9906401
+
+[B56-jcm-14-03192] Thachil J. Agarwal S. Understanding the COVID-19 Coagulopathy Spectrum Anaesthesia 2020 75 1432 1436 10.1111/anae.15141 32437586 PMC7280700
+
+[B57-jcm-14-03192] Comer S.P. Cullivan S. Szklanna P.B. Weiss L. Cullen S. Kelliher S. Smolenski A. Murphy C. Altaie H. Curran J. COVID-19 Induces a Hyperactive Phenotype in Circulating Platelets PLoS Biol. 2021 19 e3001109 10.1371/journal.pbio.3001109 33596198 PMC7920383
+
+[B58-jcm-14-03192] Pizzi R. Gini G. Caiano L. Castelli B. Dotan N. Magni F. Virano A. Roveda A. Bertù L. Ageno W. Coagulation Parameters and Venous Thromboembolism in Patients with and without COVID-19 Admitted to the Emergency Department for Acute Respiratory Insufficiency Thromb. Res. 2020 196 209 212 10.1016/j.thromres.2020.09.004 32911392 PMC7468277
+
+[B59-jcm-14-03192] Wilcox T. Smilowitz N.R. Seda B. Xia Y. Hochman J. Berger J.S. Sex Differences in Thrombosis and Mortality in Patients Hospitalized for COVID-19 Am. J. Cardiol. 2022 170 112 117 10.1016/j.amjcard.2022.01.024 35282877 PMC8908016
+
+[B60-jcm-14-03192] Butler A.M. Burcu M. Christian J.B. Tian F. Andersen K.M. Blumentals W.A. Joynt Maddox K.E. Alexander G.C. Noninterventional Studies in the COVID-19 Era: Methodological Considerations for Study Design and Analysis J. Clin. Epidemiol. 2023 153 91 101 10.1016/j.jclinepi.2022.11.011 36400263 PMC9671552

@@ -1,0 +1,59 @@
+[R1] Office for National Statistics .  Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK .  London, UK ;  2021  [Accessed  02 Sep 2021 ].
+
+[R2] Ayoubkhani D ,  Khunti K ,  Nafilyan V ,  et al .  Post-covid syndrome in individuals admitted to hospital with covid-19: retrospective cohort study .  BMJ 2021 ; 372 : n693 .  10.1136/bmj.n693 33789877 PMC8010267
+
+[R3] Davis HE ,  Assaf GS ,  McCorkell L ,  et al .  Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  eClinicalMedicine 2021 ; 38 : 101019 .  10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[R4] Tran V-T ,  Porcher R ,  Pane I ,  et al .  Course of post COVID-19 disease symptoms over time in the ComPaRe long COVID prospective e-cohort .  Nat Commun 2022 ; 13 : 1812 .  10.1038/s41467-022-29513-z 35383197 PMC8983754
+
+[R5] Notarte KI ,  Catahay JA ,  Velasco JV ,  et al .  Impact of COVID-19 vaccination on the risk of developing long-COVID and on existing long-COVID symptoms: a systematic review .  eClinicalMedicine 2022 ; 53 : 101624 .  10.1016/j.eclinm.2022.101624 36051247 PMC9417563
+
+[R6] Antonelli M ,  Pujol JC ,  Spector TD ,  et al .  Risk of long COVID associated with delta versus omicron variants of SARS-CoV-2 .  Lancet 2022 ; 399 : 2263 – 4 .  10.1016/S0140-6736(22)00941-2 35717982 PMC9212672
+
+[R7] Al-Aly Z ,  Bowe B ,  Xie Y .  Long COVID after breakthrough SARS-CoV-2 infection .  Nat Med 2022 ; 28 : 1461 – 7 .  10.1038/s41591-022-01840-0 35614233 PMC9307472
+
+[R8] LongCovidSOS .  The impact of COVID vaccination on symptoms of long Covid. An international survey of 900 people with lived experience ,  2021 . Available:  https://3ca26cd7-266e-4609-b25f-6f3d1497c4cf.filesusr.com/ugd/8bd4fe_a338597f76bf4279a851a7a4cb0e0a74.pdf  [Accessed  03 Sep 2021 ]. 10.3390/vaccines10050652 PMC9146071 35632408
+
+[R9] Arnold D ,  Milne A ,  Samms E ,  et al .  Are vaccines safe in patients with long COVID? A prospective observational study .  medRxiv 2021 .  10.1101/2021.03.11.21253225
+
+[R10] Kuodi P ,  Gorelik Y ,  Zayyad H ,  et al .  Association between vaccination status and reported incidence of post-acute COVID-19 symptoms in Israel: a cross-sectional study of patients tested between March 2020 and November 2021 .  medRxiv 2022 .  10.1101/2022.01.05.22268800
+
+[R11] Ayoubkhani D ,  Bermingham C ,  Pouwels K ,  et al .  Changes in the trajectory of long Covid symptoms following COVID-19 vaccination: community-based cohort study .  medRxiv 2022 .  10.1101/2021.12.09.21267516v1 PMC9115603 35584816
+
+[R12] Massey D ,  Berrent D ,  Akrami A ,  et al .  Change in symptoms and immune response in people with post-acute sequelae of SARS-Cov-2 infection (PASC) after SARS-Cov-2 vaccination .  medRxiv 2021 .  10.1101/2021.07.21.21260391
+
+[R13] Mehandru S ,  Merad M .  Pathological sequelae of long-haul COVID .  Nat Immunol 2022 ; 23 : 194 – 202 .  10.1038/s41590-021-01104-y 35105985 PMC9127978
+
+[R14] Hernán MA ,  Robins JM .  Using big data to emulate a target trial when a randomized trial is not available .  Am J Epidemiol 2016 ; 183 : 758 – 64 .  10.1093/aje/kwv254 26994063 PMC4832051
+
+[R15] Tran V-T ,  Ravaud P .  Collaborative open platform E-cohorts for research acceleration in trials and epidemiology .  J Clin Epidemiol 2020 ; 124 : 139 – 48 .  10.1016/j.jclinepi.2020.04.021 32380177
+
+[R16] Denscombe M .  The Good Research Guide .  Buckingham :  Open University Press ,  1997 .
+
+[R17] Tran V-T ,  Riveros C ,  Clepier B ,  et al .  Development and validation of the long covid symptom and impact tools, a set of patient-reported instruments constructed from patients' lived experience .  Clin Infect Dis 2022 ; 74 : 278 – 87 .  10.1093/cid/ciab352 33912905 PMC8135558
+
+[R18] Haute Autorité de Santé .  Stratégie de vaccination contre le SARS-CoV-2 : Vaccination des personnes ayant un antécédent de Covid-19 ;  2021 .
+
+[R19] Tubach F ,  Dougados M ,  Falissard B ,  et al .  Feeling good rather than feeling better matters more to patients .  Arthritis Rheum 2006 ; 55 : 526 – 30 .  10.1002/art.22110 16874795
+
+[R20] Food and Drug Administration .  What is a serious adverse event? 2022 . Available:  https://www.fda.gov/safety/reporting-serious-problems-fda/what-serious-adverse-event  [Accessed  04 Nov 2022 ].
+
+[R21] García-Albéniz X ,  Hsu J ,  Bretthauer M ,  et al .  Effectiveness of screening colonoscopy to prevent colorectal cancer among Medicare beneficiaries aged 70 to 79 years .  Ann Intern Med 2017 ; 166 : 18 – 26 .  10.7326/M16-0758 27669524 PMC5417337
+
+[R22] World Health Organization .  International classification of primary care, second edition (ICPC-2) ,  2003 . Available:  https://www.who.int/classifications/icd/adaptations/icpc2/en/  [Accessed  04 Apr 2020 ].
+
+[R23] Austin PC .  Balance diagnostics for comparing the distribution of baseline covariates between treatment groups in propensity-score matched samples .  Stat Med 2009 ; 28 : 3083 – 107 .  10.1002/sim.3697 19757444 PMC3472075
+
+[R24] Austin PC .  A critical appraisal of propensity-score matching in the medical literature between 1996 and 2003 .  Stat Med 2008 ; 27 : 2037 – 49 .  10.1002/sim.3150 18038446
+
+[R25] Rotnitzky A ,  Robins J .  Analysis of semi-parametric regression models with non-ignorable non-response .  Stat Med 1997 ; 16 : 81 – 102 .  10.1002/(SICI)1097-0258(19970115)16:1&#x00026;lt;81::AID-SIM473&#x00026;gt;3.0.CO;2-0 9004385
+
+[R26] VanderWeele TJ ,  Ding P .  Sensitivity analysis in observational research: introducing the E-Value .  Ann Intern Med 2017 ; 167 : 268 – 74 .  10.7326/M16-2607 28693043
+
+[R27] Desai RJ ,  Franklin JM .  Alternative approaches for confounding adjustment in observational studies using weighting based on the propensity score: a primer for practitioners .  BMJ 2019 ; 188 : l5657 .  10.1136/bmj.l5657 31645336
+
+[R28] Tsuchida T ,  Hirose M ,  Inoue Y ,  et al .  Relationship between changes in symptoms and antibody titers after a single vaccination in patients with long COVID .  J Med Virol 2022 ; 94 : 3416 – 20 .  10.1002/jmv.27689 35238053 PMC9088489
+
+[R29] Swank Z ,  Senussi Y ,  Manickas-Hill Z ,  et al .  Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae .  Clin Infect Dis 2022 . doi: 10.1093/cid/ciac722 . [Epub ahead of print:  02 Sep 2022 ]. PMC10169416 36052466
+
+[R30] Son K ,  Jamil R ,  Chowdhury A ,  et al .  Circulating anti-nuclear autoantibodies in COVID-19 survivors predict long-COVID symptoms .  Eur Respir J 2022 : 2200970 .  10.1183/13993003.00970-2022 PMC9515477 36137590

@@ -1,0 +1,259 @@
+[B1] WHO .  A clinical case definition of post COVID-19 condition by a Delphi consensus  Vol.  6 .  World Health Organization  ( 2021 ).
+
+[B2] WHO .  Coronavirus disease (COVID-19): Post COVID-19 condition  ( 2021 ). Available at:  https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition#:~:text=People%20with%20post%20COVID%2D19,as%20work%20or%20household%20chores .
+
+[B3] National Institute for Health and Care Excellence Royal College of General Practitioners Healthcare Improvement Scotland SIGN .  COVID-19 rapid guideline: managing the long term effects of COVID-19 . ( 2020 ).  https://www.nice.org.uk/guidance/ng188 . 33555768
+
+[B4] Koczulla AR Ankermann T Behrends U Berlit P Böing S Brinkmann F .  S1-leitlinie post-COVID/Long-COVID [S1 guideline post-COVID/Long-COVID] .  Pneumologie  ( 2021 )  75 ( 11 ): 869 – 900 . doi:  10.1055/a-1551-9734 34474488
+
+[B5] Sisó-Almirall A Brito-Zerón P Conangla Ferrín L Kostov B Moragas Moreno A Mestres J .  Long covid-19: Proposed primary care clinical guidelines for diagnosis and disease management .  Int J Environ Res Public Health  ( 2021 )  18 ( 8 ): 4350 . doi:  10.3390/ijerph18084350 PMC8073248 33923972
+
+[B6] Nalbandian A Sehgal K Gupta A Madhavan MV McGroder C Stevens JS .  Post-acute COVID-19 syndrome .  Nat Med  ( 2021 )  27 ( 4 ): 601–15 . doi:  10.1038/s41591-021-01283-z PMC8893149 33753937
+
+[B7] Kluger BM Krupp LB Enoka RM .  Fatigue and fatigability in neurologic illnesses: Proposal for a unified taxonomy .  Neurology  ( 2013 )  80 ( 4 ): 409–16 . doi:  10.1212/WNL.0b013e31827f07be PMC3589241 23339207
+
+[B8] Fisk JD Pontefract A Ritvo PG Archibald CJ Murray TJ .  The impact of fatigue on patients with multiple sclerosis .  Can J Neurol Sci  ( 1994 )  21 ( 1 ): 9 – 14 . doi:  10.1017/S0317167100048691 8180914
+
+[B9] Siciliano M Trojano L Santangelo G Micco R Tedeschi G Tessitore A .  Fatigue in parkinson’s disease: A systematic review and meta-analysis .  Mov Disord  ( 2018 )  33 ( 11 ): 1712–23 . doi:  10.1002/mds.27461 30264539
+
+[B10] Choi-Kwon S Kim JS .  Poststroke fatigue: An emerging, critical issue in stroke medicine .  Int J Stroke  ( 2011 )  6 ( 4 ): 328–36 . doi:  10.1111/j.1747-4949.2011.00624.x 21745344
+
+[B11] Nacul L Authier FJ Scheibenbogen C Lorusso L Helland IB Martin JA .  European Network on myalgic Encephalomyelitis/Chronic fatigue syndrome (EUROMENE): Expert consensus on the diagnosis, service provision, and care of people with ME/CFS in Europe .  Med (Kaunas Lithuania)  ( 2021 )  57 ( 5 ): 510 . doi:  10.3390/medicina57050510 PMC8161074 34069603
+
+[B12] Yamout B Issa Z Herlopian A El Bejjani M Khalifa A Ghadieh AS .  Predictors of quality of life among multiple sclerosis patients: A comprehensive analysis .  Eur J Neurol  ( 2013 )  20 ( 5 ): 756–64 . doi:  10.1111/ene.12046 23294397
+
+[B13] Ceban F Ling S Lui LM Lee Y Gill H Teopiz KM .  Fatigue and cognitive impairment in post-COVID-19 syndrome: A systematic review and meta-analysis .  Brain Behav Immun  ( 2022 )  101 : 93 – 135 . doi:  10.1016/j.bbi.2021.12.020 34973396 PMC8715665
+
+[B14] Malik P Patel K Pinto C Jaiswal R Tirupathi R Pillai S .  Post-acute COVID-19 syndrome (PCS) and health-related quality of life (HRQoL)-a systematic review and meta-analysis .  J Med Virol  ( 2022 )  94 ( 1 ): 253–62 . doi:  10.1002/jmv.27309 PMC8662132 34463956
+
+[B15] Hsu W.-Y. Cheng CH Zanto TP Gazzaley A Bove RM .  Effects of transcranial direct current stimulation on cognition, mood, pain, and fatigue in multiple sclerosis: A systematic review and meta-analysis .  Front Neurol  ( 2021 )  12 : 626113 . doi:  10.3389/fneur.2021.626113 33763014 PMC7982804
+
+[B16] Badran BW Huffman SM Dancy M Austelle CW Bikson M Kautz SA .  A pilot randomized controlled trial of supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation (taVNS) to manage long COVID symptoms .  Bioelectron Med  ( 2022 )  8 ( 1 ): 13 . doi:  10.1186/s42234-022-00094-y 36002874 PMC9402278
+
+[B17] Loffler BS Stecher HI Fudickar S Sordi D Otto-Sobotka F Hein A .  Counteracting the slowdown of reaction times in a vigilance experiment with 40-Hz transcranial alternating current stimulation .  IEEE Trans Neural Syst Rehabil Eng  ( 2018 )  26 ( 10 ): 2053–61 . doi:  10.1109/TNSRE.2018.2869471 30207962
+
+[B18] Sprugnoli G Munsch F Cappon D Paciorek R Macone J Connor A .  Impact of multisession 40Hz tACS on hippocampal perfusion in patients with alzheimer’s disease .  Alzheimer’s Res Ther  ( 2021 )  13 ( 1 ): 203 . doi:  10.1186/s13195-021-00922-4 34930421 PMC8690894
+
+[B19] Jacobson KB Rao M Bonilla H Subramanian A Hack I Madrigal M .  Patients with uncomplicated coronavirus disease 2019 (COVID-19) have long-term persistent symptoms and functional impairment similar to patients with severe COVID-19: A cautionary tale during a global pandemic .  Clin Infect Dis  ( 2021 )  73 ( 3 ): e826–9 . doi:  10.1093/cid/ciab103 PMC7929039 33624010
+
+[B20] Schou TM Joca S Wegener G Bay-Richter C .  Psychiatric and neuropsychiatric sequelae of COVID-19 - a systematic review .  Brain Behav Immun  ( 2021 )  97 : 328–48 . doi:  10.1016/j.bbi.2021.07.018 PMC8363196 34339806
+
+[B21] Sudre CH Murray B Varsavsky T Graham MS Penfold RS Bowyer RC .  Attributes and predictors of long COVID .  Nat Med  ( 2021 )  27 ( 4 ): 626–31 . doi:  10.1038/s41591-021-01292-y PMC7611399 33692530
+
+[B22] Townsend L Dowds J O’Brien K Sheill G Dyer AH O’Kelly B .  Persistent poor health after COVID-19 is not associated with respiratory complications or initial disease severity .  Ann Am Thorac Soc  ( 2021 )  18 ( 6 ): 997 – 1003 . doi:  10.1513/AnnalsATS.202009-1175OC 33413026 PMC8456724
+
+[B23] Davis HE Assaf GS McCorkell L Wei H Low RJ Re’em Y .  Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  E Clin Med  ( 2021 )  38 : 101019 . doi:  10.1016/j.eclinm.2021.101019 PMC8280690 34308300
+
+[B24] Giszas B Trommer S Schüßler N Rodewald A Besteher B Bleidorn J .  Post-COVID-19 condition is not only a question of persistent symptoms: Structured screening including health-related quality of life reveals two separate clusters of post-COVID .  Infection  ( 2022 ). doi:  10.1007/s15010-022-01886-9 PMC9307219 35869353
+
+[B25] Badenoch JB Rengasamy ER Watson C Jansen K Chakraborty S Sundaram RD .  Persistent neuropsychiatric symptoms after COVID-19: A systematic review and meta-analysis .  Brain Commun  ( 2022 )  4 ( 1 ): fcab297 . doi:  10.1093/braincomms/fcab297 35169700 PMC8833580
+
+[B26] Premraj L Kannapadi NV Briggs J Seal SM Battaglini D Fanning J .  Mid and long-term neurological and neuropsychiatric manifestations of post-COVID-19 syndrome: A meta-analysis .  J Neurol Sci  ( 2022 )  434 : 120162 . doi:  10.1016/j.jns.2022.120162 35121209 PMC8798975
+
+[B27] Dressing A Bormann T Blazhenets G Schroeter N Walter LI Thurow J .  Neuropsychological profiles and cerebral glucose metabolism in neurocognitive long COVID-syndrome .  J Nucl Med  ( 2021 ). doi:  10.2967/jnumed.121.262677 PMC9258569 34649946
+
+[B28] Calabrese M Rinaldi F Grossi P Mattisi I Bernardi V Favaretto A .  Basal ganglia and frontal/parietal cortical atrophy is associated with fatigue in relapsing-remitting multiple sclerosis .  Multiple Sclerosis  ( 2010 )  16 ( 10 ): 1220–8 . doi:  10.1177/1352458510376405 20670981
+
+[B29] Colombo B Martinelli Boneschi F Rossi P Rovaris M Maderna L Filippi MM .  Mri and motor evoked potential findings in nondisabled multiple sclerosis patients with and without symptoms of fatigue .  J Neurol  ( 2000 )  247 ( 7 ): 506–9 . doi:  10.1007/s004150070148 10993490
+
+[B30] Gonzalez Campo C Salamone PC Rodríguez-Arriagada N Richter F Herrera E Bruno D .  Fatigue in multiple sclerosis is associated with multimodal interoceptive abnormalities .  Multiple Sclerosis  ( 2020 )  26 ( 14 ): 1845–53 . doi:  10.1177/1352458519888881 PMC7253315 31778101
+
+[B31] Rocca MA Parisi L Pagani E Copetti M Rodegher M Colombo B .  Regional but not global brain damage contributes to fatigue in multiple sclerosis .  Radiology  ( 2014 )  273 ( 2 ): 511–20 . doi:  10.1148/radiol.14140417 24927473
+
+[B32] Sander C Hildebrandt H Schlake H.-P. Eling P Hanken K .  Subjective cognitive fatigue and autonomic abnormalities in multiple sclerosis patients .  Front Neurol  ( 2017 )  8 : 475 . doi:  10.3389/fneur.2017.00475 28955298 PMC5601401
+
+[B33] Sepulcre J Masdeu JC Goñi J Arrondo G Vélez de Mendizábal N Bejarano B .  Fatigue in multiple sclerosis is associated with the disruption of frontal and parietal pathways .  Multiple Sclerosis  ( 2009 )  15 ( 3 ): 337–44 . doi:  10.1177/1352458508098373 18987107
+
+[B34] Gottschalk M Kümpfel T Flachenecker P Uhr M Trenkwalder C Holsboer F .  Fatigue and regulation of the hypothalamo-pituitary-adrenal axis in multiple sclerosis .  Arch Neurol  ( 2005 )  62 ( 2 ): 277–80 . doi:  10.1001/archneur.62.2.277 15710856
+
+[B35] Téllez N Comabella M Julià E Río J Tintoré M Brieva L .  Fatigue in progressive multiple sclerosis is associated with low levels of dehydroepiandrosterone .  Multiple Sclerosis  ( 2006 )  12 ( 4 ): 487–94 . doi:  10.1191/135248505ms1322oa 16900763
+
+[B36] Gilio L Buttari F Pavone L Iezzi E Galifi G Dolcetti E .  Fatigue in multiple sclerosis is associated with reduced expression of interleukin-10 and worse prospective disease activity .  Biomedicines  ( 2022 )  10 ( 9 ): 2058 . doi:  10.3390/biomedicines10092058 PMC9495727 36140159
+
+[B37] Heesen C Nawrath L Reich C Bauer N Schulz K.-H. Gold SM .  Fatigue in multiple sclerosis: An example of cytokine mediated sickness behaviour ?  J Neurol Neurosurg Psychiatry  ( 2006 )  77 ( 1 ): 34–9 . doi:  10.1136/jnnp.2005.065805 PMC2117393 16361589
+
+[B38] Palotai M Guttmann C .  Brain anatomical correlates of fatigue in multiple sclerosis .  Multiple Sclerosis  ( 2020 )  26 ( 7 ): 751–64 . doi:  10.1177/1352458519876032 31536461
+
+[B39] Chalah MA Ayache SS .  Is there a link between inflammation and fatigue in multiple sclerosis ?  J Inflammation Res  ( 2018 )  11 : 253–64 . doi:  10.2147/JIR.S167199 PMC5995280 29922081
+
+[B40] Jamal M Bangash HI Habiba M Lei Y Xie T Sun J .  Immune dysregulation and system pathology in COVID-19 .  Virulence  ( 2021 )  12 ( 1 ): 918–36 . doi:  10.1080/21505594.2021.1898790 PMC7993139 33757410
+
+[B41] Oronsky B Larson C Hammond TC Oronsky A Kesari S Lybeck M .  A review of persistent post-COVID syndrome (PPCS) .  Clin Rev Allergy Immunol  ( 2021 ). doi:  10.1007/s12016-021-08848-3 PMC7896544 33609255
+
+[B42] Ramakrishnan RK Kashour T Hamid Q Halwani R Tleyjeh IM .  Unraveling the mystery surrounding post-acute sequelae of COVID-19 .  Front Immunol  ( 2021 )  12 : 686029 . doi:  10.3389/fimmu.2021.686029 34276671 PMC8278217
+
+[B43] Rosenthal MD Moore FA .  Persistent inflammatory, immunosuppressed, catabolic syndrome (PICS): A new phenotype of multiple organ failure .  J Adv Nutr Hum Metab  ( 2015 )  1 ( 1 ). doi:  10.14800/janhm.784 PMC4467914 26086042
+
+[B44] Wong TL Weitzer DJ .  Long COVID and myalgic Encephalomyelitis/Chronic fatigue syndrome (ME/CFS)-a systemic review and comparison of clinical presentation and symptomatology .  Med (Kaunas Lithuania)  ( 2021 )  57 ( 5 ): 418 . doi:  10.3390/medicina57050418 PMC8145228 33925784
+
+[B45] Fluge Ø. Tronstad KJ Mella O .  Pathomechanisms and possible interventions in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) .  J Clin Invest  ( 2021 )  131 ( 14 ). doi:  10.1172/JCI150377 PMC8279575 34263741
+
+[B46] Pall ML .  Elevated, sustained peroxynitrite levels as the cause of chronic fatigue syndrome .  Med Hypotheses  ( 2000 )  54 ( 1 ): 115–25 . doi:  10.1054/mehy.1998.0825 10790736
+
+[B47] Shungu DC Weiduschat N Murrough JW Mao X Pillemer S Dyke JP .  Increased ventricular lactate in chronic fatigue syndrome. iii. relationships to cortical glutathione and clinical symptoms implicate oxidative stress in disorder pathophysiology .  NMR Biomed  ( 2012 )  25 ( 9 ): 1073–87 . doi:  10.1002/nbm.2772 PMC3896084 22281935
+
+[B48] Natelson BH .  Brain dysfunction as one cause of CFS symptoms including difficulty with attention and concentration .  Front Physiol  ( 2013 )  4 : 109 . doi:  10.3389/fphys.2013.00109 23730290 PMC3657628
+
+[B49] D’haeseleer M Hostenbach S Peeters I Sankari SE Nagels G de Keyser J .  Cerebral hypoperfusion: A new pathophysiologic concept in multiple sclerosis ?  J Cereb Blood Flow Metab  ( 2015 )  35 ( 9 ): 1406–10 . doi:  10.1038/jcbfm.2015.131 PMC4640326 26104292
+
+[B50] Boissoneault J Letzen J Robinson ME Staud R .  Cerebral blood flow and heart rate variability predict fatigue severity in patients with chronic fatigue syndrome .  Brain Imaging Behav  ( 2019 )  13 ( 3 ): 789–97 . doi:  10.1007/s11682-018-9897-x PMC6274602 29855991
+
+[B51] Staud R Boissoneault J Craggs JG Lai S Robinson ME .  Task related cerebral blood flow changes of patients with chronic fatigue syndrome: An arterial spin labeling study .  Fatigue: Biomed Health Behav  ( 2018 )  6 ( 2 ): 63 – 79 . doi:  10.1080/21641846.2018.1453919 PMC5914525 29707427
+
+[B52] Qin Y Wu J Chen T Li J Zhang G Wu D .  Long-term microstructure and cerebral blood flow changes in patients recovered from COVID-19 without neurological manifestations .  J Clin Invest  ( 2021 )  131 ( 8 ). doi:  10.1172/JCI147329 PMC8262559 33630760
+
+[B53] van Campen CL Rowe PC Visser FC .  Orthostatic symptoms and reductions in cerebral blood flow in long-haul COVID-19 patients: Similarities with myalgic Encephalomyelitis/Chronic fatigue syndrome .  Med (Kaunas Lithuania)  ( 2021 )  58 ( 1 ): 28 . doi:  10.3390/medicina58010028 PMC8778312 35056336
+
+[B54] Ayache SS Chalah MA .  Fatigue in multiple sclerosis - insights into evaluation and management .  Clin Neurophysiol  ( 2017 )  47 ( 2 ): 139–71 . doi:  10.1016/j.neucli.2017.02.004 28416274
+
+[B55] Hosp JA Dressing A Blazhenets G Bormann T Rau A Schwabenland M .  Cognitive impairment and altered cerebral glucose metabolism in the subacute stage of COVID-19 .  Brain: A J Neurol  ( 2021 )  144 ( 4 ): 1263–76 . doi:  10.1093/brain/awab009 PMC8083602 33822001
+
+[B56] Blazhenets G Schroeter N Bormann T Thurow J Wagner D Frings L .  Slow but evident recovery from neocortical dysfunction and cognitive impairment in a series of chronic COVID-19 patients .  J Nucl Med  ( 2021 )  62 ( 7 ): 910–5 . doi:  10.2967/jnumed.121.262128 PMC8882885 33789937
+
+[B57] Derache N Grassiot B Mézenge F Emmanuelle Dugué A Desgranges B Constans JM .  Fatigue is associated with metabolic and density alterations of cortical and deep gray matter in relapsing-Remitting-Multiple sclerosis patients at the earlier stage of the disease: A PET/MR study .  Multiple Sclerosis Related Disord  ( 2013 )  2 ( 4 ): 362–9 . doi:  10.1016/j.msard.2013.03.005 25877847
+
+[B58] Roelcke U Kappos L Lechner-Scott J Brunnschweiler H Huber S Ammann W .  Reduced glucose metabolism in the frontal cortex and basal ganglia of multiple sclerosis patients with fatigue: A 18F-fluorodeoxyglucose positron emission tomography study .  Neurology  ( 1997 )  48 ( 6 ): 1566–71 . doi:  10.1212/wnl.48.6.1566 9191767
+
+[B59] Linnhoff S Fiene M Heinze H.−J. Zaehle T .  Cognitive fatigue in multiple sclerosis: An objective approach to diagnosis and treatment by transcranial electrical stimulation .  Brain Sci  ( 2019 )  9 ( 5 ): 100 . doi:  10.3390/brainsci9050100 PMC6562441 31052593
+
+[B60] Genova HM Rajagopalan V Deluca J Das A Binder A Arjunan A .  Examination of cognitive fatigue in multiple sclerosis using functional magnetic resonance imaging and diffusion tensor imaging .  PloS One  ( 2013 )  8 ( 11 ): e78811 . doi:  10.1371/journal.pone.0078811 24223850 PMC3815348
+
+[B61] Flachenecker P Kümpfel T Kallmann B Gottschalk M Grauer O Rieckmann P .  Fatigue in multiple sclerosis: A comparison of different rating scales and correlation to clinical parameters .  Multiple Sclerosis  ( 2002 )  8 ( 6 ): 523–6 . doi:  10.1191/1352458502ms839oa 12474995
+
+[B62] Boksem MA Meijman TF Lorist MM .  Effects of mental fatigue on attention: An ERP study .  Brain Res Cogn Brain Res  ( 2005 )  25 ( 1 ): 107–16 . doi:  10.1016/j.cogbrainres.2005.04.011 15913965
+
+[B63] Fiene M Rufener KS Kuehne M Matzke M Heinze H.−J. Zaehle T .  Electrophysiological and behavioral effects of frontal transcranial direct current stimulation on cognitive fatigue in multiple sclerosis .  J Neurol  ( 2018 )  265 ( 3 ): 607–17 . doi:  10.1007/s00415-018-8754-6 29356975
+
+[B64] Pokryszko-Dragan A Zagrajek M Slotwinski K Bilinska M Gruszka E Podemski R .  Event-related potentials and cognitive performance in multiple sclerosis patients with fatigue .  Neurol Sci  ( 2016 )  37 ( 9 ): 1545–56 . doi:  10.1007/s10072-016-2622-x PMC4992503 27271940
+
+[B65] Aleksandrov AA Dmitrieva ES Stankevich LN Knyazeva VM Shestakova AN .  The development of muscle fatigue suppresses auditory sensory gating (P50) during sustained contraction .  Front Syst Neurosci  ( 2016 )  10 : 44 . doi:  10.3389/fnsys.2016.00044 27458348 PMC4937814
+
+[B66] Linnhoff S Wolter-Weging J Zaehle T .  Objective electrophysiological fatigability markers and their modulation through tDCS .  Clin Neurophysiol  ( 2021 )  132 ( 7 ): 1721–32 . doi:  10.1016/j.clinph.2021.02.391 33867262
+
+[B67] van der Linden D Massar SA Schellekens AF Ellenbroek BA Verkes R.−J. Disrupted sensorimotor gating due to mental fatigue: Preliminary evidence .  Int J Psychophysiol  ( 2006 )  62 ( 1 ): 168–74 . doi:  10.1016/j.ijpsycho.2006.04.001 16730824
+
+[B68] Clayton MS Yeung N Cohen Kadosh R .  The roles of cortical oscillations in sustained attention .  Trends Cogn Sci  ( 2015 )  19 ( 4 ): 188–95 . doi:  10.1016/j.tics.2015.02.004 25765608
+
+[B69] Wascher E Rasch B Sänger J Hoffmann S Schneider D Rinkenauer G .  Frontal theta activity reflects distinct aspects of mental fatigue .  Biol Psychol  ( 2014 )  96 : 57 – 65 . doi:  10.1016/j.biopsycho.2013.11.010 24309160
+
+[B70] Miller P Soundy A .  The pharmacological and non-pharmacological interventions for the management of fatigue related multiple sclerosis .  J Neurol Sci  ( 2017 )  381 : 41 – 54 . doi:  10.1016/j.jns.2017.08.012 28991714
+
+[B71] Harrison AM Safari R Mercer T Picariello F van der Linden ML White C .  Which exercise and behavioural interventions show most promise for treating fatigue in multiple sclerosis? a network meta-analysis .  Multiple Sclerosis  ( 2021 )  27 ( 11 ): 1657–78 . doi:  10.1177/1352458521996002 PMC8474304 33876986
+
+[B72] van den Akker LE Beckerman H Collette EH Eijssen IC Dekker J de Groot V .  Effectiveness of cognitive behavioral therapy for the treatment of fatigue in patients with multiple sclerosis: A systematic review and meta-analysis .  J Psychosom Res  ( 2016 )  90 : 33 – 42 . doi:  10.1016/j.jpsychores.2016.09.002 27772557
+
+[B73] Beenakker EA Oparina TI Hartgring A Teelken A Arutjunyan AV de Keyser J .  Cooling garment treatment in MS: Clinical improvement and decrease in leukocyte NO production .  Neurology  ( 2001 )  57 ( 5 ): 892–4 . doi:  10.1212/wnl.57.5.892 11552024
+
+[B74] Miller E Kostka J Włodarczyk T Dugué B .  Whole-body cryostimulation (cryotherapy) provides benefits for fatigue and functional status in multiple sclerosis patients. a case-control study .  Acta Neurol Scand  ( 2016 )  134 ( 6 ): 420–6 . doi:  10.1111/ane.12557 26778452
+
+[B75] Fertonani A Miniussi C .  Transcranial electrical stimulation: What we know and do not know about mechanisms .  Neuroscientist  ( 2017 )  23 ( 2 ): 109–23 . doi:  10.1177/1073858416631966 PMC5405830 26873962
+
+[B76] Yavari F Jamil A Mosayebi-Samani M Vidor LP Nitsche MA .  Basic and functional effects of transcranial electrical stimulation (tES)-an introduction .  Neurosci Biobehav Rev  ( 2018 )  85 : 81 – 92 . doi:  10.1016/j.neubiorev.2017.06.015 28688701
+
+[B77] Antal A Alekseichuk I Bikson M Brockmöller J Brunoni AR Chen R .  Low intensity transcranial electric stimulation: safety, ethical, legal regulatory and application guidelines .  Clin Neurophysiol  ( 2017 )  128 ( 9 ): 1774–809 . 10.1016/j.clinph.2017.06.001 PMC5985830 28709880
+
+[B78] Reed T Cohen Kadosh R .  Transcranial electrical stimulation (tES) mechanisms and its effects on cortical excitability and connectivity .  J Inherit Metab Dis  ( 2018 ). doi:  10.1007/s10545-018-0181-4 PMC6326965 30006770
+
+[B79] Baptista AF Baltar A Okano AH Moreira A Campos AC Fernandes AM .  Applications of non-invasive neuromodulation for the management of disorders related to COVID-19 .  Front Neurol  ( 2020 )  11 : 573718 . doi:  10.3389/fneur.2020.573718 33324324 PMC7724108
+
+[B80] Pilloni G Bikson M Badran BW George MS Kautz SA Okano AH .  Update on the use of transcranial electrical brain stimulation to manage acute and chronic COVID-19 symptoms .  Front Hum Neurosci  ( 2020 )  14 : 595567 . doi:  10.3389/fnhum.2020.595567 33281589 PMC7689057
+
+[B81] Kelly MJ Breathnach C Tracey KJ Donnelly SC .  Manipulation of the inflammatory reflex as a therapeutic strategy .  Cell Rep Med  ( 2022 )  3 ( 7 ): 100696 . doi:  10.1016/j.xcrm.2022.100696 35858588 PMC9381415
+
+[B82] Monte-Silva K Kuo M.−F. Hessenthaler S Fresnoza S Liebetanz D Paulus W .  Induction of late LTP-like plasticity in the human motor cortex by repeated non-invasive brain stimulation .  Brain Stimul  ( 2013 )  6 ( 3 ): 424–32 . doi:  10.1016/j.brs.2012.04.011 22695026
+
+[B83] Gómez L Vidal B Cabrera Y Hernández L Rondón Y .  Successful treatment of post-COVID symptoms with transcranial direct current stimulation .  Prim Care Companion CNS Disord  ( 2021 )  23 ( 6 ). doi:  10.4088/PCC.21cr03059 34861746
+
+[B84] Eilam-Stock T George A Lustberg M Wolintz R Krupp LB Charvet LE .  Telehealth transcranial direct current stimulation for recovery from post-acute sequelae of SARS-CoV-2 (PASC) .  Brain Stimul  ( 2021 )  14 ( 6 ): 1520–2 . doi:  10.1016/j.brs.2021.10.381 PMC8514329 34655835
+
+[B85] Bahr-Hosseini M Bikson M .  Neurovascular-modulation: A review of primary vascular responses to transcranial electrical stimulation as a mechanism of action .  Brain Stimul  ( 2021 )  14 ( 4 ): 837–47 . doi:  10.1016/j.brs.2021.04.015 33962079
+
+[B86] Nitsche MA Jaussi W Liebetanz D Lang N Tergau F Paulus W .  Consolidation of human motor cortical neuroplasticity by d-cycloserine .  Neuropsychopharmacology  ( 2004 )  29 ( 8 ): 1573–8 . doi:  10.1038/sj.npp.1300517 15199378
+
+[B87] Nitsche MA Paulus W .  Excitability changes induced in the human motor cortex by weak transcranial direct current stimulation .  J Physiol  ( 2000 )  527 Pt 3 : 633–9 . doi:  10.1111/j.1469-7793.2000.t01-1-00633.x PMC2270099 10990547
+
+[B88] Cohen Kadosh R Levy N O’Shea J Shea N Savulescu J .  The neuroethics of non-invasive brain stimulation .  Curr Biol  ( 2012 )  22 ( 4 ): R108–11 . doi:  10.1016/j.cub.2012.01.013 PMC4347660 22361141
+
+[B89] Mosayebi-Samani M Jamil A Salvador R Ruffini G Haueisen J Nitsche MA .  The impact of individual electrical fields and anatomical factors on the neurophysiological outcomes of tDCS: A TMS-MEP and MRI study .  Brain Stimul  ( 2021 )  14 ( 2 ): 316–26 . doi:  10.1016/j.brs.2021.01.016 33516860
+
+[B90] Bikson M Paulus W Esmaeilpour Z Kronberg G Nitsche MA .  Mechanisms of acute and after effects of transcranial direct current stimulation . In:  Knotkova H Nitsche MA Bikson M Woods AJ , editors.  Practical guide to transcranial direct current stimulation .  Springer International Publishing  ( 2019 ). p.  81 – 113 . doi:  10.1007/978-3-319-95948-1_3
+
+[B91] Ayache SS Palm U Chalah MA Al-Ani T Brignol A Abdellaoui M .  Prefrontal tDCS decreases pain in patients with multiple sclerosis .  Front Neurosci  ( 2016 )  10 : 147 . doi:  10.3389/fnins.2016.00147 27092048 PMC4824778
+
+[B92] Ayache SS Lefaucheur J.−P. Chalah MA .  Long term effects of prefrontal tDCS on multiple sclerosis fatigue: A case study .  Brain Stimul  ( 2017 )  10 ( 5 ): 1001–2 . doi:  10.1016/j.brs.2017.05.004 28551319
+
+[B93] Cancelli A Cottone C Giordani A Migliore S Lupoi D Porcaro C .  Personalized, bilateral whole-body somatosensory cortex stimulation to relieve fatigue in multiple sclerosis .  Multiple Sclerosis  ( 2018 )  24 ( 10 ): 1366–74 . doi:  10.1177/1352458517720528 28756744
+
+[B94] Chalah MA Grigorescu C Padberg F Kümpfel T Palm U Ayache SS .  Bifrontal transcranial direct current stimulation modulates fatigue in multiple sclerosis: A randomized sham-controlled study .  J Neural Transm  ( 2020 )  127 ( 6 ): 953–61 . doi:  10.1007/s00702-020-02166-2 32161992
+
+[B95] Chalah MA Lefaucheur J.−P. Ayache SS .  Long-term effects of tDCS on fatigue, mood and cognition in multiple sclerosis .  Clin Neurophysiol  ( 2017 )  128 ( 11 ): 2179–80 . doi:  10.1016/j.clinph.2017.08.004 28946132
+
+[B96] Chalah MA Riachi N Ahdab R Mhalla A Abdellaoui M Créange A .  Effects of left DLPFC versus right PPC tDCS on multiple sclerosis fatigue .  J Neurol Sci  ( 2017 )  372 : 131–7 . doi:  10.1016/j.jns.2016.11.015 28017199
+
+[B97] Charvet LE Dobbs B Shaw MT Bikson M Datta A Krupp LB .  Remotely supervised transcranial direct current stimulation for the treatment of fatigue in multiple sclerosis: Results from a randomized, sham-controlled trial .  Multiple Sclerosis  ( 2018 )  24 ( 13 ): 1760–9 . doi:  10.1177/1352458517732842 PMC5975187 28937310
+
+[B98] Ferrucci R Vergari M Cogiamanian F Bocci T Ciocca M Tomasini E .  Transcranial direct current stimulation (tDCS) for fatigue in multiple sclerosis .  NeuroRehabilitation  ( 2014 )  34 ( 1 ): 121–7 . doi:  10.3233/NRE-131019 24284464
+
+[B99] Hanken K Bosse M Möhrke K Eling P Kastrup A Antal A .  Counteracting fatigue in multiple sclerosis with right parietal anodal transcranial direct current stimulation .  Front Neurol  ( 2016 )  7 : 154 . doi:  10.3389/fneur.2016.00154 27708612 PMC5030283
+
+[B100] Saiote C Goldschmidt T Timäus C Steenwijk MD Opitz A Antal A .  Impact of transcranial direct current stimulation on fatigue in multiple sclerosis .  Restor Neurol Neurosci  ( 2014 )  32 ( 3 ): 423–36 . doi:  10.3233/RNN-130372 24531295
+
+[B101] Tecchio F Cancelli A Cottone C Zito G Pasqualetti P Ghazaryan A .  Multiple sclerosis fatigue relief by bilateral somatosensory cortex neuromodulation .  J Neurol  ( 2014 )  261 ( 8 ): 1552–8 . doi:  10.1007/s00415-014-7377-9 24854634
+
+[B102] Tecchio F Cancelli A Cottone C Ferrucci R Vergari M Zito G .  Brain plasticity effects of neuromodulation against multiple sclerosis fatigue .  Front Neurol  ( 2015 )  6 : 141 . doi:  10.3389/fneur.2015.00141 26191036 PMC4490242
+
+[B103] Tecchio F Cancelli A Pizzichino A L’Abbate T Gianni E Bertoli M .  Home treatment against fatigue in multiple sclerosis by a personalized, bilateral whole-body somatosensory cortex stimulation .  Multiple Sclerosis Related Disord  ( 2022 )  63 : 103813 . doi:  10.1016/j.msard.2022.103813 35597081
+
+[B104] Forogh B Rafiei M Arbabi A Motamed MR Madani SP Sajadi S .  Repeated sessions of transcranial direct current stimulation evaluation on fatigue and daytime sleepiness in parkinson’s disease .  Neurol Sci  ( 2017 )  38 ( 2 ): 249–54 . doi:  10.1007/s10072-016-2748-x 27796604
+
+[B105] Dobbs B Pawlak N Biagioni M Agarwal S Shaw MT Pilloni G .  Generalizing remotely supervised transcranial direct current stimulation (tDCS): Feasibility and benefit in parkinson’s disease .  J Neuroeng Rehabil  ( 2018 )  15 ( 1 ): 114 . doi:  10.1186/s12984-018-0457-9 30522497 PMC6284269
+
+[B106] Zaehle T .  Frontal transcranial direct current stimulation as a potential treatment of parkinson’s disease-related fatigue .  Brain Sci  ( 2021 )  11 ( 4 ): 467 . doi:  10.3390/brainsci11040467 PMC8068015 33917684
+
+[B107] McIntire LK McKinley RA Goodyear C Nelson J .  A comparison of the effects of transcranial direct current stimulation and caffeine on vigilance and cognitive performance during extended wakefulness .  Brain Stimul  ( 2014 )  7 ( 4 ): 499 – 507 . doi:  10.1016/j.brs.2014.04.008 25047826
+
+[B108] McIntire LK McKinley RA Nelson J Goodyear C .  Transcranial direct current stimulation versus caffeine as a fatigue countermeasure .  Brain Stimul  ( 2017 )  10 ( 6 ): 1070–8 . doi:  10.1016/j.brs.2017.08.005 28851554
+
+[B109] Nelson J McKinley RA Golob EJ Warm JS Parasuraman R .  Enhancing vigilance in operators with prefrontal cortex transcranial direct current stimulation (tDCS) .  NeuroImage  ( 2014 )  85 Pt 3 : 909–17 . doi:  10.1016/j.neuroimage.2012.11.061 23235272
+
+[B110] Karthikeyan R Smoot MR Mehta RK .  Anodal tDCS augments and preserves working memory beyond time-on-task deficits .  Sci Rep  ( 2021 )  11 ( 1 ): 19134 . doi:  10.1038/s41598-021-98636-y 34580390 PMC8476579
+
+[B111] Jamil A Batsikadze G Kuo H.−I. Meesen RL Dechent P Paulus W .  Current intensity- and polarity-specific online and aftereffects of transcranial direct current stimulation: An fMRI study .  Hum Brain Mapp  ( 2020 )  41 ( 6 ): 1644–66 . doi:  10.1002/hbm.24901 PMC7267945 31860160
+
+[B112] Workman CD Fietsam AC Boles Ponto LL Kamholz J Rudroff T .  Individual cerebral blood flow responses to transcranial direct current stimulation at various intensities .  Brain Sci  ( 2020 )  10 ( 11 ): 855 . doi:  10.3390/brainsci10110855 PMC7697831 33202753
+
+[B113] Sherwood MS Madaris AT Mullenger CR McKinley RA .  Repetitive transcranial electrical stimulation induces quantified changes in resting cerebral perfusion measured from arterial spin labeling .  Neural Plast  ( 2018 )  2018 : 5769861 . doi:  10.1155/2018/5769861 30254668 PMC6145313
+
+[B114] Sherwood MS McIntire LK Madaris AT Kim K Ranganath C McKinley RA .  Intensity-dependent changes in quantified resting cerebral perfusion with multiple sessions of transcranial DC stimulation .  Front Hum Neurosci  ( 2021 )  15 : 679977 . doi:  10.3389/fnhum.2021.679977 34456695 PMC8397582
+
+[B115] Reato D Rahman A Bikson M Parra LC .  Effects of weak transcranial alternating current stimulation on brain activity-a review of known mechanisms from animal studies .  Front Hum Neurosci  ( 2013 )  7 : 687 . doi:  10.3389/fnhum.2013.00687 24167483 PMC3805939
+
+[B116] Tavakoli AV Yun K .  Transcranial alternating current stimulation (tACS) mechanisms and protocols .  Front Cell Neurosci  ( 2017 )  11 : 214 . doi:  10.3389/fncel.2017.00214 28928634 PMC5591642
+
+[B117] Craig A Tran Y Wijesuriya N Nguyen H .  Regional brain wave activity changes associated with fatigue .  Psychophysiology  ( 2012 )  49 ( 4 ): 574–82 . doi:  10.1111/j.1469-8986.2011.01329.x 22324302
+
+[B118] Klimesch W .  Eeg alpha and theta oscillations reflect cognitive and memory performance: A review and analysis .  Brain Res Rev  ( 1999 )  29 ( 2-3 ): 169–95 . doi:  10.1016/s0165-0173(98)00056-3 10209231
+
+[B119] Shigihara Y Tanaka M Ishii A Kanai E Funakura M Watanabe Y .  Two types of mental fatigue affect spontaneous oscillatory brain activities in different ways .  Behav Brain Funct  ( 2013 )  9 : 2 . doi:  10.1186/1744-9081-9-2 23305089 PMC3562167
+
+[B120] Czura CJ Bikson M Charvet LE Chen JD Franke M Fudim M .  Neuromodulation strategies to reduce inflammation and improve lung complications in COVID-19 patients .  Front Neurol  ( 2022 )  13 : 897124 . doi:  10.3389/fneur.2022.897124 35911909 PMC9329660
+
+[B121] Borovikova LV Ivanova S Zhang M Yang H Botchkina GI Watkins LR .  Vagus nerve stimulation attenuates the systemic inflammatory response to endotoxin .  Nature  ( 2000 )  405 ( 6785 ): 458–62 . doi:  10.1038/35013070 10839541
+
+[B122] Yin J Zhao X Wang L Xie X Geng H Zhan X .  Sevoflurane-induced inflammation development: Involvement of cholinergic anti-inflammatory pathway .  Behav Pharmacol  ( 2019 )  30 ( 8 ): 730–7 . doi:  10.1097/FBP.0000000000000507 31625977
+
+[B123] Zhu Y.−J. Peng K Meng X.−W. Ji F.−H. Attenuation of neuroinflammation by dexmedetomidine is associated with activation of a cholinergic anti-inflammatory pathway in a rat tibial fracture model .  Brain Res  ( 2016 )  1644 : 1 – 8  doi:  10.1016/j.brainres.2016.04.074 27163720
+
+[B124] Genovese MC Gaylis NB Sikes D Kivitz A Horowitz DL Peterfy C .  Safety and efficacy of neurostimulation with a miniaturised vagus nerve stimulation device in patients with multidrug-refractory rheumatoid arthritis: a two-stage multicentre, randomised pilot study .  Lancet Rheumatol  ( 2020 )  2 ( 9 ): e527 – e538 . doi:  10.1016/S2665-9913(20)30172-7 38273617
+
+[B125] Koopman FA Chavan SS Miljko S Grazio S Sokolovic S Schuurman PR .  Vagus nerve stimulation inhibits cytokine production and attenuates disease severity in rheumatoid arthritis .  Proc Natl Acad Sci United States America  ( 2016 )  113 ( 29 ): 8284–9 . doi:  10.1073/pnas.1605635113 PMC4961187 27382171
+
+[B126] Sinniger V Pellissier S Fauvelle F Trocmé C Hoffmann D Vercueil L .  A 12-month pilot study outcomes of vagus nerve stimulation in crohn’s disease .  Neurogastroenterol Motil  ( 2020 )  32 ( 10 ): e13911 . doi:  10.1111/nmo.13911 32515156
+
+[B127] Salama M Akan A Mueller MR .  Transcutaneous stimulation of auricular branch of the vagus nerve attenuates the acute inflammatory response after lung lobectomy .  World J Surg  ( 2020 )  44 ( 9 ): 3167–74 . doi:  10.1007/s00268-020-05543-w 32358638
+
+[B128] Stavrakis S Humphrey MB Scherlag BJ Hu Y Jackman WM Nakagawa H .  Low-level transcutaneous electrical vagus nerve stimulation suppresses atrial fibrillation .  J Am Coll Cardiol  ( 2015 )  65 ( 9 ): 867–75 . doi:  10.1016/j.jacc.2014.12.026 PMC4352201 25744003
+
+[B129] Yuan H Silberstein SD .  Vagus nerve and vagus nerve stimulation, a comprehensive review: Part II .  Headache  ( 2016 )  56 ( 2 ): 259–66 . doi:  10.1111/head.12650 26381725
+
+[B130] Redgrave J Day D Leung H Laud PJ Ali A Lindert R .  Safety and tolerability of transcutaneous vagus nerve stimulation in humans; a systematic review .  Brain Stimul  ( 2018 )  11 ( 6 ): 1225–38 . doi:  10.1016/j.brs.2018.08.010 30217648

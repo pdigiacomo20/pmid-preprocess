@@ -1,0 +1,173 @@
+[B1-ijerph-21-00242] Soriano J.B. Murthy S. Marshall J.C. Relan P. Diaz J.V. A clinical case definition of post-COVID-19 condition by a Delphi consensus Lancet Infect. Dis. 2022 22 e102 e107 10.1016/S1473-3099(21)00703-9 34951953 PMC8691845
+
+[B2-ijerph-21-00242] Santé Publique France L’affection post-COVID-19 (appelée aussi COVID long) en France Résultats de L’enquête Affection Post-COVID 22 Mars–8 Avril 2022 Santé Publique France Saint-Maurice, France 2022
+
+[B3-ijerph-21-00242] Office for National Statistics Prevalence of Ongoing Symptoms Following Coronavirus (COVID-19) Infection in the UK 5 January 2023 Statistical Bulletin Office for National Statistics Newport, UK 2023
+
+[B4-ijerph-21-00242] National Center for Health Statistics U.S. Census Bureau Long COVID. Household Pulse Survey, 2022–2023 Available online:  https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm (accessed on 30 January 2023)
+
+[B5-ijerph-21-00242] Carod-Artal F.J. Post-COVID-19 syndrome: Epidemiology, diagnostic criteria and pathogenic mechanisms involved Rev. Neurol. 2021 72 384 396 10.33588/rn.7211.2021230 34042167
+
+[B6-ijerph-21-00242] Michelen M. Manoharan L. Elkheir N. Cheng V. Dagens A. Hastie C. O’Hara M. Suett J. Dahmash D. Bugaeva P. Characterising long COVID: A living systematic review BMJ Glob. Health 2021 6 e005427 10.1136/bmjgh-2021-005427 PMC8478580 34580069
+
+[B7-ijerph-21-00242] Swank Z. Senussi Y. Manickas-Hill Z. Yu X.G. Li J.Z. Alter G. Walt D.R. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae Clin. Infect. Dis. 2023 76 e487 e490 10.1093/cid/ciac722 36052466 PMC10169416
+
+[B8-ijerph-21-00242] Kenny G. Townsend L. Savinelli S. Mallon P.W. Long COVID: Clinical characteristics, proposed pathogenesis and potential therapeutic targets Front. Mol. Biosci. 2023 10 1157651 10.3389/fmolb.2023.1157651 37179568 PMC10171433
+
+[B9-ijerph-21-00242] Castanares-Zapatero D. Chalon P. Kohn L. Dauvrin M. Detollenaere J. Maertens de Noordhout C. Primus-de Jong C. Cleemput I. Van den Heede K. Pathophysiology and mechanism of long COVID: A comprehensive review Ann. Med. 2022 54 1473 1487 10.1080/07853890.2022.2076901 35594336 PMC9132392
+
+[B10-ijerph-21-00242] Iwasaki A. Putrino D. Why we need a deeper understanding of the pathophysiology of long COVID Lancet Infect. Dis. 2023 23 393 395 10.1016/S1473-3099(23)00053-1 36967698 PMC9928485
+
+[B11-ijerph-21-00242] Davis H.E. McCorkell L. Vogel J.M. Topol E.J. Long COVID: Major findings, mechanisms and recommendations Nat. Rev. Microbiol. 2023 21 133 146 10.1038/s41579-022-00846-2 36639608 PMC9839201
+
+[B12-ijerph-21-00242] Subramanian A. Nirantharakumar K. Hughes S. Myles P. Williams T. Gokhale K.M. Taverner T. Chandan J.S. Brown K. Simms-Williams N. Symptoms and risk factors for long COVID in non-hospitalized adults Nat. Med. 2022 28 1706 1714 10.1038/s41591-022-01909-w 35879616 PMC9388369
+
+[B13-ijerph-21-00242] Tran V.T. Porcher R. Pane I. Ravaud P. Course of post COVID-19 disease symptoms over time in the ComPaRe long COVID prospective e-cohort Nat. Commun. 2022 13 1812 10.1038/s41467-022-29513-z 35383197 PMC8983754
+
+[B14-ijerph-21-00242] Wang Q. Jiang H. Xie Y. Zhang T. Liu S. Wu S. Sun Q. Song S. Wang W. Deng X. Long-term clinical prognosis of human infections with avian influenza A(H7N9) viruses in China after hospitalization EClinicalMedicine 2020 20 100282 10.1016/j.eclinm.2020.100282 32300739 PMC7152818
+
+[B15-ijerph-21-00242] Chen J. Wu J. Hao S. Yang M. Lu X. Chen X. Li L. Long term outcomes in survivors of epidemic Influenza A (H7N9) virus infection Sci. Rep. 2017 7 17275 10.1038/s41598-017-17497-6 29222500 PMC5722861
+
+[B16-ijerph-21-00242] Ahmed H. Patel K. Greenwood D.C. Halpin S. Lewthwaite P. Salawu A. Eyre L. Breen A. O’Connor R. Jones A. Long-term clinical outcomes in survivors of severe acute respiratory syndrome and Middle East respiratory syndrome coronavirus outbreaks after hospitalisation or ICU admission: A systematic review and meta-analysis J. Rehabil. Med. 2020 52 jrm00063 10.2340/16501977-2694 32449782
+
+[B17-ijerph-21-00242] Lam M.H. Wing Y.K. Yu M.W. Leung C.M. Ma R.C. Kong A.P. So W.Y. Fong S.Y. Lam S.P. Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: Long-term follow-up Arch. Intern. Med. 2009 169 2142 2147 10.1001/archinternmed.2009.384 20008700
+
+[B18-ijerph-21-00242] Lau H.M. Ng G.Y. Jones A.Y. Lee E.W. Siu E.H. Hui D.S. A randomised controlled trial of the effectiveness of an exercise training program in patients recovering from severe acute respiratory syndrome Aust. J. Physiother. 2005 51 213 219 10.1016/S0004-9514(05)70002-7 16321128 PMC7130114
+
+[B19-ijerph-21-00242] Wise J. Long COVID: WHO calls on countries to offer patients more rehabilitation BMJ 2021 372 n405 10.1136/bmj.n405 33568362
+
+[B20-ijerph-21-00242] Van Herck M. Antons J. Vercoulen J.H. Goertz Y.M.J. Ebadi Z. Burtin C. Janssen D.J.A. Thong M.S.Y. Otker J. Coors A. Pulmonary Rehabilitation Reduces Subjective Fatigue in COPD: A Responder Analysis J. Clin. Med. 2019 8 1264 10.3390/jcm8081264 31434343 PMC6722504
+
+[B21-ijerph-21-00242] Ries A. California Pulmonary Rehabilitation Collaborative Group Effects of pulmonary rehabilitation on dyspnea, quality of life, and healthcare costs in California J. Cardiopulm. Rehabil. 2004 24 52 62 10.1097/00008483-200401000-00010 14758104
+
+[B22-ijerph-21-00242] Manal M.F.I. Tawfek N.R. Gamal L.M. Abdelbaky M.M. Effect of Rehabilitation Protocol on Dyspnea and Fatigue for Patients with Chronic Obstructive Pulmonary Disease Minia Sci. Nurs. J. 2018 4 104 114 10.21608/msnj.2018.187776
+
+[B23-ijerph-21-00242] Aiyegbusi O.L. Hughes S.E. Turner G. Rivera S.C. McMullan C. Chandan J.S. Haroon S. Price G. Davies E.H. Nirantharakumar K. Symptoms, complications and management of long COVID: A review J. R. Soc. Med. 2021 114 428 442 10.1177/01410768211032850 34265229 PMC8450986
+
+[B24-ijerph-21-00242] Gloeckl R. Leitl D. Jarosch I. Schneeberger T. Nell C. Stenzel N. Vogelmeier C.F. Kenn K. Koczulla A.R. Benefits of pulmonary rehabilitation in COVID-19: A prospective observational cohort study ERJ Open Res. 2021 7 00108 10.1183/23120541.00108-2021 34095290 PMC7957293
+
+[B25-ijerph-21-00242] Nopp S. Moik F. Klok F.A. Gattinger D. Petrovic M. Vonbank K. Koczulla A.R. Ay C. Zwick R.H. Outpatient Pulmonary Rehabilitation in Patients with Long COVID Improves Exercise Capacity, Functional Status, Dyspnea, Fatigue, and Quality of Life Respiration 2022 101 593 601 10.1159/000522118 35203084 PMC9059007
+
+[B26-ijerph-21-00242] Tamburlani M. Cuscito R. Servadio A. Galeoto G. Effectiveness of Respiratory Rehabilitation in COVID-19’s Post-Acute Phase: A Systematic Review Healthcare 2023 11 1071 10.3390/healthcare11081071 37107905 PMC10137696
+
+[B27-ijerph-21-00242] Vaes A.W. Goertz Y.M.J. Van Herck M. Machado F.V.C. Meys R. Delbressine J.M. Houben-Wilke S. Gaffron S. Maier D. Burtin C. Recovery from COVID-19: A sprint or marathon? 6-month follow-up data from online long COVID-19 support group members ERJ Open Res. 2021 7 00141 10.1183/23120541.00141-2021 34041295 PMC8012818
+
+[B28-ijerph-21-00242] Vink M. Vink-Niese F. Is It Useful to Question the Recovery Behaviour of Patients with ME/CFS or Long COVID? Healthcare 2022 10 392 10.3390/healthcare10020392 35207003 PMC8872229
+
+[B29-ijerph-21-00242] Spruit M.A. Singh S.J. Garvey C. ZuWallack R. Nici L. Rochester C. Hill K. Holland A.E. Lareau S.C. Man W.D. An official American Thoracic Society/European Respiratory Society statement: Key concepts and advances in pulmonary rehabilitation Am. J. Respir. Crit. Care Med. 2013 188 e13 e64 10.1164/rccm.201309-1634ST 24127811
+
+[B30-ijerph-21-00242] Bove A.M. Lynch A.D. DePaul S.M. Terhorst L. Irrgang J.J. Fitzgerald G.K. Test-Retest Reliability of Rating of Perceived Exertion and Agreement With 1-Repetition Maximum in Adults J. Orthop. Sports Phys. Ther. 2016 46 768 774 10.2519/jospt.2016.6498 27494056
+
+[B31-ijerph-21-00242] Hall G.L. Filipow N. Ruppel G. Okitika T. Thompson B. Kirkby J. Steenbruggen I. Cooper B.G. Stanojevic S. Official ERS technical standard: Global Lung Function Initiative reference values for static lung volumes in individuals of European ancestry Eur. Respir. J. 2021 57 2000289 10.1183/13993003.00289-2020 33707167
+
+[B32-ijerph-21-00242] Quanjer P.H. Stanojevic S. Cole T.J. Baur X. Hall G.L. Culver B.H. Enright P.L. Hankinson J.L. Ip M.S. Zheng J. Multi-ethnic reference values for spirometry for the 3-95-yr age range: The global lung function 2012 equations Eur. Respir. J. 2012 40 1324 1343 10.1183/09031936.00080312 22743675 PMC3786581
+
+[B33-ijerph-21-00242] Swanney M.P. Miller M.R. Adopting universal lung function reference equations Eur. Respir. J. 2013 42 901 903 10.1183/09031936.00123613 24081759
+
+[B34-ijerph-21-00242] Boutou A.K. Asimakos A. Kortianou E. Vogiatzis I. Tzouvelekis A. Long COVID-19 Pulmonary Sequelae and Management Considerations J. Pers. Med. 2021 11 838 10.3390/jpm11090838 34575615 PMC8469288
+
+[B35-ijerph-21-00242] Yorke J. Swigris J. Russell A.-M. Moosavi S.H. Kwong G.N.M. Longshaw M. Jones P.W. Dyspnea-12 is a valid and reliable measure of breathlessness in patients with interstitial lung disease Chest 2011 139 159 164 10.1378/chest.10-0693 20595454 PMC3035488
+
+[B36-ijerph-21-00242] Beaumont M. Couturaud F. Jego F. Pichon R. Le Ber C. Peran L. Roge C. Renault D. Narayan S. Reychler G. Validation of the French version of the London Chest Activity of Daily Living scale and the Dyspnea-12 questionnaire Int. J. Chron. Obstruct. Pulmon. Dis. 2018 13 1399 1405 10.2147/COPD.S145048 29750026 PMC5933336
+
+[B37-ijerph-21-00242] Mahler D.A. Wells C.K. Evaluation of Clinical Methods for Rating Dyspnea Chest 1988 93 580 586 10.1378/chest.93.3.580 3342669
+
+[B38-ijerph-21-00242] Gentile S. Delarozière J. Favre F. Sambuc R. San Marco J. Validation of the French ‘multidimensional fatigue inventory’(MFI 20) Eur. J. Cancer Care 2003 12 58 64 10.1046/j.1365-2354.2003.00295.x 12641557
+
+[B39-ijerph-21-00242] Smets E. Garssen B. Bonke B.d. De Haes J. The Multidimensional Fatigue Inventory (MFI) psychometric qualities of an instrument to assess fatigue J. Psychosom. Res. 1995 39 315 325 10.1016/0022-3999(94)00125-O 7636775
+
+[B40-ijerph-21-00242] Lépine J. Godchau M. Brun P. Lempérière T. Évaluation de l’anxiété et de la dépression chez des patients hospitalisés dans un service de médecine interne Ann Med Psychol 1985 143 175 189 4037594
+
+[B41-ijerph-21-00242] Lépine J.P. Godchau M. Brun P. Anxiety and depression in inpatients Lancet 1985 2 1425 1426 10.1016/S0140-6736(85)92589-9 2867417
+
+[B42-ijerph-21-00242] Zigmond A.S. Snaith R.P. The hospital anxiety and depression scale Acta Psychiatr. Scand. 1983 67 361 370 10.1111/j.1600-0447.1983.tb09716.x 6880820
+
+[B43-ijerph-21-00242] Weathers F.W. Litz B.T. Herman D.S. Huska J.A. Keane T.M. The PTSD Checklist (PCL): Reliability, validity, and diagnostic utility Proceedings of the Annual Convention of the International Society for Traumatic Stress Studies San Antonio, TX, USA 24–27 October 1993
+
+[B44-ijerph-21-00242] Yao S.-N. Cottraux J. Note I. Mey-Guillard D. Mollard E. Ventureyra V. Évaluation des états de stress post-traumatique: Validation d’une échelle, la PCLS L’Encéphale Rev. De Psychiatr. Clin. Biol. Et Thérapeutique 2003 29 232 238 12876547
+
+[B45-ijerph-21-00242] van Dixhoorn J. Duivenvoorden H.J. Efficacy of Nijmegen Questionnaire in recognition of the hyperventilation syndrome J. Psychosom. Res. 1985 29 199 206 10.1016/0022-3999(85)90042-X 4009520
+
+[B46-ijerph-21-00242] Nasreddine Z.S. Phillips N.A. Bédirian V. Charbonneau S. Whitehead V. Collin I. Cummings J.L. Chertkow H. The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment J. Am. Geriatr. Soc. 2005 53 695 699 10.1111/j.1532-5415.2005.53221.x 15817019
+
+[B47-ijerph-21-00242] Ware Jr J.E. Kosinski M. Keller S.D. A 12-Item Short-Form Health Survey: Construction of scales and preliminary tests of reliability and validity Med. Care 1996 34 220 233 10.1097/00005650-199603000-00003 8628042
+
+[B48-ijerph-21-00242] Bachasson D. Villiot-Danger E. Verges S. Hayot M. Perez T. Chambellan A. Wuyam B. [Maximal isometric voluntary quadriceps strength assessment in COPD] Rev. Mal. Respir. 2014 31 765 770 10.1016/j.rmr.2013.10.645 25391511
+
+[B49-ijerph-21-00242] Clement N.D. Weir D. Holland J. Gerrand C. Deehan D.J. Meaningful changes in the Short Form 12 physical and mental summary scores after total knee arthroplasty Knee 2019 26 861 868 10.1016/j.knee.2019.04.018 31109846
+
+[B50-ijerph-21-00242] Rouquette A. Blanchin M. Sébille V. Guillemin F. Côté S.M. Falissard B. Hardouin J.B. The minimal clinically important difference determined using item response theory models: An attempt to solve the issue of the association with baseline score J. Clin. Epidemiol. 2014 67 433 440 10.1016/j.jclinepi.2013.10.009 24447591
+
+[B51-ijerph-21-00242] Quinten C. Kenis C. Decoster L. Debruyne P.R. De Groof I. Focan C. Cornelis F. Verschaeve V. Bachmann C. Bron D. Determining clinically important differences in health-related quality of life in older patients with cancer undergoing chemotherapy or surgery Qual. Life Res. 2019 28 663 676 10.1007/s11136-018-2062-6 30511255
+
+[B52-ijerph-21-00242] Cheung Y.T. Foo Y.L. Shwe M. Tan Y.P. Fan G. Yong W.S. Madhukumar P. Ooi W.S. Chay W.Y. Dent R.A. Minimal clinically important difference (MCID) for the functional assessment of cancer therapy: Cognitive function (FACT-Cog) in breast cancer patients J. Clin. Epidemiol. 2014 67 811 820 10.1016/j.jclinepi.2013.12.011 24656406
+
+[B53-ijerph-21-00242] van Veen R. Wieske L. Lucke I. Adrichem M.E. Merkies I.S.J. van Schaik I.N. Eftimov F. Assessing deterioration using impairment and functional outcome measures in chronic inflammatory demyelinating polyneuropathy: A post-hoc analysis of the immunoglobulin overtreatment in CIDP trial J. Peripher. Nerv. Syst. 2022 27 144 158 10.1111/jns.12497 35507446 PMC9321849
+
+[B54-ijerph-21-00242] Raman S. Ding K. Chow E. Meyer R.M. van der Linden Y.M. Roos D. Hartsell W.F. Hoskin P. Wu J.S.Y. Nabid A. Minimal clinically important differences in the EORTC QLQ-C30 and brief pain inventory in patients undergoing re-irradiation for painful bone metastases Qual. Life Res. 2018 27 1089 1098 10.1007/s11136-017-1745-8 29188483
+
+[B55-ijerph-21-00242] Polkey M.I. Spruit M.A. Edwards L.D. Watkins M.L. Pinto-Plata V. Vestbo J. Calverley P.M. Tal-Singer R. Agusti A. Bakke P.S. Six-minute-walk test in chronic obstructive pulmonary disease: Minimal clinically important difference for death or hospitalization Am. J. Respir. Crit. Care Med. 2013 187 382 386 10.1164/rccm.201209-1596OC 23262518
+
+[B56-ijerph-21-00242] Kean C.O. Birmingham T.B. Garland S.J. Bryant D.M. Giffin J.R. Minimal Detectable Change in Quadriceps Strength and Voluntary Muscle Activation in Patients with Knee Osteoarthritis Arch. Phys. Med. Rehabil. 2010 91 1447 1451 10.1016/j.apmr.2010.06.002 20801266
+
+[B57-ijerph-21-00242] Elbers R.G. van Wegen E.E.H. Verhoef J. Kwakkel G. Reliability and structural validity of the Multidimensional Fatigue Inventory (MFI) in patients with idiopathic Parkinson’s disease Park. Relat. Disord. 2012 18 532 536 10.1016/j.parkreldis.2012.01.024 22361576
+
+[B58-ijerph-21-00242] Ekstrom M.P. Bornefalk H. Skold C.M. Janson C. Blomberg A. Bornefalk-Hermansson A. Igelstrom H. Sandberg J. Sundh J. Minimal Clinically Important Differences and Feasibility of Dyspnea-12 and the Multidimensional Dyspnea Profile in Cardiorespiratory Disease J. Pain Symptom Manag. 2020 60 968 975.E1 10.1016/j.jpainsymman.2020.05.028 32512047
+
+[B59-ijerph-21-00242] Oliveira A. Machado A. Marques A. Minimal Important and Detectable Differences of Respiratory Measures in Outpatients with AECOPD(†) Copd 2018 15 479 488 10.1080/15412555.2018.1537366 30512981
+
+[B60-ijerph-21-00242] Wang W. Chair S.Y. Thompson D.R. Twinn S.F. A psychometric evaluation of the Chinese version of the Hospital Anxiety and Depression Scale in patients with coronary heart disease J. Clin. Nurs. 2009 18 1908 1915 10.1111/j.1365-2702.2008.02736.x 19638050
+
+[B61-ijerph-21-00242] Rehabilitation Institute of Chicago Hospital Anxiety and Depression Scale Available online:  https://www.sralab.org/rehabilitation-measures/hospital-anxiety-and-depression-scale (accessed on 19 June 2023)
+
+[B62-ijerph-21-00242] Feeney J. Savva G.M. O’Regan C. King-Kallimanis B. Cronin H. Kenny R.A. Measurement Error, Reliability, and Minimum Detectable Change in the Mini-Mental State Examination, Montreal Cognitive Assessment, and Color Trails Test among Community Living Middle-Aged and Older Adults J. Alzheimer’s Dis. 2016 53 1107 1114 10.3233/JAD-160248 27258421
+
+[B63-ijerph-21-00242] Souto-Miranda S. Rocha V. Mendes M.A. Simao P. Martins V. Spruit M.A. Marques A. The presence of extra-pulmonary treatable traits increases the likelihood of responding to pulmonary rehabilitation Respir. Med. 2023 206 107086 10.1016/j.rmed.2022.107086 36516547
+
+[B64-ijerph-21-00242] Troosters T. Gosselink R. Decramer M. Six minute walking distance in healthy elderly subjects Eur. Respir. J. 1999 14 270 274 10.1034/j.1399-3003.1999.14b06.x 10515400
+
+[B65-ijerph-21-00242] Holland A.E. Nici L. The return of the minimum clinically important difference for 6-minute-walk distance in chronic obstructive pulmonary disease Am. J. Respir. Crit. Care Med. 2013 187 335 336 10.1164/rccm.201212-2191ED 23418323
+
+[B66-ijerph-21-00242] Alexandre F. Heraud N. Tremey E. Oliver N. Bourgouin D. Varray A. Specific motor cortex hypoexcitability and hypoactivation in COPD patients with peripheral muscle weakness BMC Pulm. Med. 2020 20 1 13 10.1186/s12890-019-1042-0 31900129 PMC6942311
+
+[B67-ijerph-21-00242] Vaidya T. Beaumont M. de Bisschop C. Bazerque L. Le Blanc C. Vincent A. Ouksel H. Chambellan A. Determining the minimally important difference in quadriceps strength in individuals with COPD using a fixed dynamometer Int. J. Chron. Obstruct. Pulmon. Dis. 2018 13 2685 2693 10.2147/COPD.S161342 30214186 PMC6124469
+
+[B68-ijerph-21-00242] Jones P.W. Brusselle G. Dal Negro R.W. Ferrer M. Kardos P. Levy M.L. Perez T. Soler-Cataluna J.J. van der Molen T. Adamek L. Health-related quality of life in patients by COPD severity within primary care in Europe Respir. Med. 2011 105 57 66 10.1016/j.rmed.2010.09.004 20932736
+
+[B69-ijerph-21-00242] Lopes J. Araújo H.A.G.D.O. Smaili S.M. Brazilian version of the Multidimensional Fatigue Inventory for Parkinson’s disease Fisioter. Mov. 2020 33 e003362 10.1590/1980-5918.033.ao61
+
+[B70-ijerph-21-00242] Goligher E.C. Pouchot J. Brant R. Kherani R.B. Aviña-Zubieta J.A. Lacaille D. Lehman A.J. Ensworth S. Kopec J. Esdaile J.M. Minimal clinically important difference for 7 measures of fatigue in patients with systemic lupus erythematosus J. Rheumatol. 2008 35 635 642 18322987
+
+[B71-ijerph-21-00242] Nordin A. Taft C. Lundgren-Nilsson A. Dencker A. Minimal important differences for fatigue patient reported outcome measures-a systematic review BMC Med. Res. Methodol. 2016 16 62 10.1186/s12874-016-0167-6 27387456 PMC4937582
+
+[B72-ijerph-21-00242] Global Initiative for Chronic Obstructive Lung Disease (GOLD) Global Strategy for Prevention, Diagnosis and Management of Chronic Obstructive Pulmonary Disease 2022 Report Global Initiative for Chronic Obstructive Lung Disease Deer Park, IL, USA 2022
+
+[B73-ijerph-21-00242] de Torres J.P. Pinto-Plata V. Ingenito E. Bagley P. Gray A. Berger R. Celli B. Power of Outcome Measurements to Detect Clinically Significant Changes in Pulmonary Rehabilitation of Patients With COPD Chest 2002 121 1092 1098 10.1378/chest.121.4.1092 11948037
+
+[B74-ijerph-21-00242] Bjelland I. Dahl A.A. Haug T.T. Neckelmann D. The validity of the Hospital Anxiety and Depression Scale: An updated literature review J. Psychosom. Res. 2002 52 69 77 10.1016/S0022-3999(01)00296-3 11832252
+
+[B75-ijerph-21-00242] Smid D.E. Franssen F.M. Houben-Wilke S. Vanfleteren L.E. Janssen D.J. Wouters E.F. Spruit M.A. Responsiveness and MCID Estimates for CAT, CCQ, and HADS in Patients with COPD Undergoing Pulmonary Rehabilitation: A Prospective Analysis J. Am. Med. Dir. Assoc. 2017 18 53 58 10.1016/j.jamda.2016.08.002 27624705
+
+[B76-ijerph-21-00242] Ventureyra V.A. Yao S.N. Cottraux J. Note I. De Mey-Guillard C. The validation of the Posttraumatic Stress Disorder Checklist Scale in posttraumatic stress disorder and nonclinical subjects Psychother. Psychosom. 2002 71 47 53 10.1159/000049343 11740168
+
+[B77-ijerph-21-00242] Stefanovics E.A. Rosenheck R.A. Jones K.M. Huang G. Krystal J.H. Minimal Clinically Important Differences (MCID) in Assessing Outcomes of Post-Traumatic Stress Disorder Psychiatr. Q. 2018 89 141 155 10.1007/s11126-017-9522-y 28634644
+
+[B78-ijerph-21-00242] Wong G.K.C. Mak J.S.Y. Wong A. Zheng V.Z.Y. Poon W.S. Abrigo J. Mok V.C.T. Minimum Clinically Important Difference of Montreal Cognitive Assessment in aneurysmal subarachnoid hemorrhage patients J. Clin. Neurosci. 2017 46 41 44 10.1016/j.jocn.2017.08.039 28887072
+
+[B79-ijerph-21-00242] Han Q. Zheng B. Daines L. Sheikh A. Long-Term Sequelae of COVID-19: A Systematic Review and Meta-Analysis of One-Year Follow-Up Studies on Post-COVID Symptoms Pathogens 2022 11 269 10.3390/pathogens11020269 35215212 PMC8875269
+
+[B80-ijerph-21-00242] Lopez-Leon S. Wegman-Ostrosky T. Perelman C. Sepulveda R. Rebolledo P.A. Cuapio A. Villapol S. More than 50 long-term effects of COVID-19: A systematic review and meta-analysis Sci. Rep. 2021 11 16144 10.1038/s41598-021-95565-8 34373540 PMC8352980
+
+[B81-ijerph-21-00242] Davis H.E. Assaf G.S. McCorkell L. Wei H. Low R.J. Re’em Y. Redfield S. Austin J.P. Akrami A. Characterizing long COVID in an international cohort: 7 months of symptoms and their impact EClinicalMedicine 2021 38 101019 10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[B82-ijerph-21-00242] Twomey R. DeMars J. Franklin K. Culos-Reed S.N. Weatherald J. Wrightson J.G. Chronic Fatigue and Postexertional Malaise in People Living with Long COVID: An Observational Study Phys. Ther. 2022 102 pzac005 10.1093/ptj/pzac005 35079817 PMC9383197
+
+[B83-ijerph-21-00242] Desachy M. Alexandre F. Varray A. Molinier V. Four E. Charbonnel L. Héraud N. High Prevalence of Non-Responders Based on Quadriceps Force after Pulmonary Rehabilitation in COPD J. Clin. Med. 2023 12 4353 10.3390/jcm12134353 37445388 PMC10342274
+
+[B84-ijerph-21-00242] Garrod R. Marshall J. Barley E. Jones P.W. Predictors of success and failure in pulmonary rehabilitation Eur. Respir. J. 2006 27 788 794 10.1183/09031936.06.00130605 16481381
+
+[B85-ijerph-21-00242] Scott A.S. Baltzan M.A. Fox J. Wolkove N. Success in pulmonary rehabilitation in patients with chronic obstructive pulmonary disease Can. Respir. J. 2010 17 219 223 10.1155/2010/203236 21037996 PMC2975502
+
+[B86-ijerph-21-00242] Spruit M.A. Augustin I.M.L. Vanfleteren L.E. Janssen D.J.A. Gaffron S. Pennings H.-J. Smeenk F. Pieters W. van den Bergh J.J. Michels A.-J. Differential response to pulmonary rehabilitation in COPD: Multidimensional profiling Eur. Respir. J. 2015 46 1625 1635 10.1183/13993003.00350-2015 26453626
+
+[B87-ijerph-21-00242] Hernandes N.A. Wouters E.F. Meijer K. Annegarn J. Pitta F. Spruit M.A. Reproducibility of 6-minute walking test in patients with COPD Eur. Respir. J. 2011 38 261 267 10.1183/09031936.00142010 21177838

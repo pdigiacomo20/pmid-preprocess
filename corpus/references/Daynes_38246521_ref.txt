@@ -1,0 +1,75 @@
+[ref1] Robertson DA Savva GM Kenny RA .  Frailty and cognitive impairment--a review of the evidence and causal mechanisms .  Ageing Res Rev . ( 2013 )  12 : 840 – 51 . doi:  10.1016/j.arr.2013.06.004 , PMID:  23831959
+
+[ref2] Melchiorre MG Socci M Quattrini S Lamura G D'Amen B .  Frail older people ageing in place in Italy: use of health services and relationship with general practitioner .  Int J Environ Res Public Health . ( 2022 )  19 : 9063 . doi:  10.3390/ijerph19159063 , PMID:  35897424 PMC9332283
+
+[ref3] Ehlenbach WJ Hough CL Crane PK Haneuse SJ Carson SS Curtis JR .  Association between acute care and critical illness hospitalization and cognitive function in older adults .  JAMA . ( 2010 )  303 : 763 – 70 . doi:  10.1001/jama.2010.167 , PMID:  20179286 PMC2943865
+
+[ref4] Jain S Gan S Nguyen OK Sudore RL Steinman MA Covinsky K .  Survival, function, and cognition after hospitalization in long-term acute care hospitals .  JAMA Netw Open . ( 2024 )  7 : e2413309 . doi:  10.1001/jamanetworkopen.2024.13309 , PMID:  38805226 PMC11134219
+
+[ref5] Khan HTA Addo KM Findlay H .  Public health challenges and responses to the growing ageing populations .  Public Health Chall . ( 2024 )  3 : e213 . doi:  10.1002/puh2.213 , PMID:  40496520 PMC12039680
+
+[ref6] Harris E .  Most COVID-19 deaths worldwide were among older people .  JAMA . ( 2023 )  329 : 704 . doi:  10.1001/jama.2023.1554 , PMID:  36790826
+
+[ref7] Ely EW Brown LM Fineberg HV .  National Academies of sciences, engineering, and medicine committee on examining the working definition for long Covid. Long Covid defined .  N Engl J Med . ( 2024 )  391 : 1746 – 53 . doi:  10.1056/NEJMsb2408466 , PMID:  39083764 PMC11687645
+
+[ref8] Al-Aly Z .  Prevention of long COVID: progress and challenges .  Lancet Infect Dis . ( 2023 )  23 : 776 – 7 . doi:  10.1016/S1473-3099(23)00287-6 , PMID:  37156258 PMC10162711
+
+[ref9] Cepparulo A Giuriato L .  The residential healthcare for the elderly in Italy: some considerations for post-COVID-19 policies .  Eur J Health Econ . ( 2022 )  23 : 671 – 85 . doi:  10.1007/s10198-021-01388-9 , PMID:  34705129 PMC8549427
+
+[ref10] Salminen M Laine J Vahlberg T Viikari P Wuorela M Viitanen M .  Factors associated with institutionalization among home-dwelling patients of urgent geriatric outpatient clinic: a 3-year follow-up study .  Eur Geriatr Med . ( 2020 )  11 : 745 – 51 . doi:  10.1007/s41999-020-00338-7 , PMID:  32500517 PMC7550301
+
+[ref11] Popolazione residente . ( n.d. ). Available online at:  https://demo.istat.it/app/?l=it&a=2024&i=POS . (Accessed April 17, 2025)
+
+[ref12] Ageing Europe - statistics on population developments - Statistics explained . ( n.d. ). Available online at:  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Ageing_Europe_-_statistics_on_population_developments . (Accessed April 17, 2025).
+
+[ref13] Odone A Delmonte D Scognamiglio T Signorelli C .  COVID-19 deaths in Lombardy, Italy: data in context published correction appears .  Lancet Public Health . ( 2020 )  5 : e310 . doi:  10.1016/S2468-2667(20)30099-2 , PMID:  32339478 PMC7182509
+
+[ref14] Robusto F Lepore V D'Ettorre A Lucisano G De Berardis G Bisceglia L .  The drug derived complexity index (DDCI) predicts mortality, unplanned hospitalization and hospital readmissions at the population level .  PLoS One . ( 2016 )  11 : e0149203 . doi:  10.1371/journal.pone.0149203 , PMID:  26895073 PMC4760682
+
+[ref15] Dotti C Casale G Zacchi V Lovaglio P Fazzone U .  La Classificazione SOSIA degli anziani ospiti delle residenze sanitario-assistenziali lombarde (SOSIA classification of the frail elderly in nursing homes of region of Lombardy) .  Ann Ig . ( 2006 )  18 : 439 – 51 . PMID:  17089959
+
+[ref16] Parmelee PA Thuras PD Katz IR Lawton MP .  Validation of the cumulative illness rating scale in a geriatric residential population .  J Am Geriatr Soc . ( 1995 )  43 : 130 – 7 . doi:  10.1111/j.1532-5415.1995.tb06377.x , PMID:  7836636
+
+[ref17] Shah S Vanclay F Cooper B .  Improving the sensitivity of the Barthel index for stroke rehabilitation .  J Clin Epidemiol . ( 1989 )  42 : 703 – 9 . doi:  10.1016/0895-4356(89)90065-6 , PMID:  2760661
+
+[ref18] Gottfries CG Bråne G Steen G .  A new rating scale for dementia syndromes .  Gerontology . ( 1982 )  28 : 20 – 31 . doi:  10.1159/000212588 , PMID:  7166236
+
+[ref19] Sedute e delibere della Giunta regionale . ( 2025 ). Available online at:  https://www.regione.lombardia.it/wps/portal/istituzionale/HP/istituzione/Giunta/sedute-delibere-giunta-regionale  (Accessed April 17, 2025)
+
+[ref20] Skou ST Mair FS Fortin M Guthrie B Nunes BP Miranda JJ .  Multimorbidity .  Nat Rev Dis Primers . ( 2022 )  8 : 48 . doi:  10.1038/s41572-022-00376-4 , PMID:  35835758 PMC7613517
+
+[ref21] Ma L Willey J .  The interplay between inflammation and thrombosis in COVID-19: mechanisms, therapeutic strategies, and challenges .  Thromb Update . ( 2022 )  8 : 100117 . doi:  10.1016/j.tru.2022.100117 , PMID:  38620713 PMC9270234
+
+[ref22] Rees EM Nightingale ES Jafari Y Waterlow NR Clifford S Pearson B .  COVID-19 length of hospital stay: a systematic review and data synthesis .  BMC Med . ( 2020 )  18 : 270 . doi:  10.1186/s12916-020-01726-3 , PMID:  32878619 PMC7467845
+
+[ref23] Moga TD Nistor-Cseppento CD Bungau SG Tit DM Sabau AM Behl T .  The effects of the 'catabolic crisis' on patients' prolonged immobility after COVID-19 infection .  Medicina (Kaunas) . ( 2022 )  58 : 828 . doi:  10.3390/medicina58060828 , PMID:  35744091 PMC9231342
+
+[ref24] Gao S Qian X Huang S Deng W Li Z Hu Y .  Association between macronutrients intake distribution and bone mineral density .  Clin Nutr . ( 2022 )  41 : 1689 – 96 . doi:  10.1016/j.clnu.2022.05.019 , PMID:  35777108
+
+[ref25] Attaway A Welch N Dasarathy D Amaya-Hughley J Bellar A Biehl M .  Acute skeletal muscle loss in SARS-CoV-2 infection contributes to poor clinical outcomes in COVID-19 patients .  J Cachexia Sarcopenia Muscle . ( 2022 )  13 : 2436 – 46 . doi:  10.1002/jcsm.13052 , PMID:  35851995 PMC9350025
+
+[ref26] Sianes-Gallén M Pujol-García AM Rus García M Partera Luque C López Postigo M Call Mañosa S .  Pressure injuries during the SARS-CoV-2 pandemic: a retrospective, case-control study .  J Tissue Viability . ( 2021 )  30 : 478 – 83 . doi:  10.1016/j.jtv.2021.07.011 , PMID:  34389188 PMC8328527
+
+[ref27] Dąbrowska P Bartoszewicz M Bartoszewicz K Kosel J Stróż S Ładny JR .  Catheter-associated urinary tract infections in critically ill patients with COVID-19: a retrospective cohort study .  Ther Adv Infect Dis . ( 2024 )  11 : 20499361241278218 . doi:  10.1177/20499361241278218 , PMID:  39372130 PMC11452867
+
+[ref28] Burgess R .  COVID-19 mental-health responses neglect social realities .  Nature . ( 2020 ). doi:  10.1038/d41586-020-01313-9 , PMID:  32366975
+
+[ref29] Panagea E Messinis L Petri MC Liampas I Anyfantis E Nasios G .  Neurocognitive impairment in long COVID: a systematic review .  Arch Clin Neuropsychol . ( 2025 )  40 : 125 – 49 . doi:  10.1093/arclin/acae042 , PMID:  38850628 PMC11754669
+
+[ref30] Hussien H Nastasa A Apetrii M Nistor I Petrovic M Covic A .  Different aspects of frailty and COVID-19: points to consider in the current pandemic and future ones .  BMC Geriatr . ( 2021 )  21 : 389 . doi:  10.1186/s12877-021-02316-5 , PMID:  34176479 PMC8236311
+
+[ref31] Greenhalgh T Sivan M Perlowski A Nikolich JŽ .  Long COVID: a clinical update .  Lancet . ( 2024 )  404 : 707 – 24 . doi:  10.1016/S0140-6736(24)01136-X , PMID:  39096925
+
+[ref32] Kuut TA Müller F Csorba I Braamse A Aldenkamp A Appelman B .  Efficacy of cognitive-behavioral therapy targeting severe fatigue following coronavirus disease 2019: results of a randomized controlled trial .  Clin Infect Dis . ( 2023 )  77 : 687 – 95 . doi:  10.1093/cid/ciad257 , PMID:  37155736 PMC10495128
+
+[ref33] Daynes E Mills G Hull JH Bishop NC Bakali M Burtin C .  Pulmonary rehabilitation for people with persistent symptoms after COVID-19 .  Chest . ( 2024 )  166 : 461 – 71 . doi:  10.1016/j.chest.2024.01.029 , PMID:  38246521
+
+[ref34] Tam-Tham H Cepoiu-Martin M Ronksley PE Maxwell CJ Hemmelgarn BR .  Dementia case management and risk of long-term care placement: a systematic review and meta-analysis .  Int J Geriatr Psychiatry . ( 2013 )  28 : 889 – 902 . doi:  10.1002/gps.3906 , PMID:  23188735
+
+[ref35] Zuccaro V Colaneri M Asperges E Valsecchi P Sambo M Maiocchi L .  Mortality due to COVID-19 during the pandemic: a comparison of first, secondo and third SMAtteo COvid19 REgistry (SMACORE) .  Heliyon . ( 2022 )  8 : e08895 . doi:  10.1016/j.heliyon.2022.e08895 , PMID:  35132388 PMC8810275
+
+[ref36] Winkelmann J Webb E Williams GA Hernández-Quevedo C Maier CB Panteli D .  European countries' responses in ensuring sufficient physical infrastructure and workforce capacity during the first COVID-19 wave .  Health Policy . ( 2022 )  126 : 362 – 72 . doi:  10.1016/j.healthpol.2021.06.015 , PMID:  34311982 PMC9187509
+
+[ref37] Tenforde MW Link-Gelles R .  Reduction in COVID-19-related mortality over time but disparities across population subgroups .  Lancet Public Health . ( 2023 )  8 : e327 – 8 . doi:  10.1016/S2468-2667(23)00078-6 , PMID:  37120257 PMC10188114
+
+[ref38] Prampart S Le Gentil S Bureau ML Macchi C Leroux C Chapelet G .  Functional decline, long term symptoms and course of frailty at 3-months follow-up in COVID-19 older survivors, a prospective observational cohort study .  BMC Geriatr . ( 2022 )  22 : 542 . doi:  10.1186/s12877-022-03197-y , PMID:  35768781 PMC9244035

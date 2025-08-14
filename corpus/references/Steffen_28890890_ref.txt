@@ -1,0 +1,53 @@
+[B1] Gorman JM Sloan RP Heart rate variability in depressive and anxiety disorders .  Am Heart J  ( 2000 )  140 : S77 – 83 . 10.1067/mhj.2000.109981 11011352
+
+[B2] Thayer JF Yamamoto SS Brosschot JF .  The relationship of autonomic imbalance, heart rate variability and cardiovascular disease risk factors .  Int J Cardiol  ( 2010 )  141 : 122 – 31 . 10.1016/j.ijcard.2009.09.543 19910061
+
+[B3] Lehrer PM How does heart variability biofeedback work? Resonance, the baroreflex, and other mechanism .  Biofeedback  ( 2013 )  41 : 26 – 31 . 10.5298/1081-5937-41.1.02
+
+[B4] Gevirtz R The promise of heart rate variability biofeedback: evidence-based applications .  Biofeedback  ( 2013 )  41 ( 3 ): 110 – 20 . 10.5298/1081-5937-41.3.01
+
+[B5] Lehrer PM Gevirtz R .  Heart rate variability biofeedback: how and why does it work? Front Psychol  ( 2014 )  5 : 756 . 10.3389/fpsyg.2014.00756 25101026 PMC4104929
+
+[B6] Shaffer F McCraty R Zerr CL A healthy heart is not a metronome: an integrative review of the heart’s anatomy and heart rate variability .  Front Psychol  ( 2014 )  5 : 1040 10.3389/fpsyg.2014.01040 25324790 PMC4179748
+
+[B7] Kemp AH Quintana DS Felmingham KL Matthews S Jelinek HF .  Depression, comorbid anxiety disorders, and heart rate variability in physically healthy, unmedicated patients: implications for cardiovascular risk .  PLoS One  ( 2012 )  7 ( 2 ): e30777 . 10.1371/journal.pone.0030777 22355326 PMC3280258
+
+[B8] Del Pozo JM Gevirtz RN Scher B Guarneri E Biofeedback treatment increases heart rate variability in patients with known coronary artery disease .  Am Heart J  ( 2004 )  147 : G1 – 6 . 10.1016/j.ahj.2003.08.013 14999213
+
+[B9] Lehrer PM Woolfolk RL Sime WE Principles and Practice of Stress Management .  New York :  Guilford Press  ( 2007 ).
+
+[B10] Karavidas MK Lehrer PM Vaschillo E Vaschillo B Marin H Buyske S Preliminary results of an open label study of heart rate variability biofeedback for the treatment of major depression .  Appl Psychophysiol Biofeedback  ( 2007 )  32 : 19 – 30 . 10.1007/s10484-006-9029-z 17333315
+
+[B11] Lehrer PM Vaschillo E Vaschillo B Lu SE Eckberg DL Edelberg R Heart rate variability biofeedback increases baroreflex gain and peak expiratory flow .  Psychosom Med  ( 2003 )  65 : 796 – 805 . 10.1097/01.PSY.0000089200.81962.19 14508023
+
+[B12] Wells R Outhrad T Heathers JAJ Quintana DS Kemo AH Matter over mind: a randomised-controlled trial of single-session biofeedback training on performance anxiety and heart rate variability in musicians .  PLOS ONE  ( 2012 )  7 ( 10 ): e46597 10.1371/journal.pone.0046597 23056361 PMC3464298
+
+[B13] Schwartz M Andrasik F Biofeedback: A Practitioner’s Guide .  3rd ed New York, NY :  Guilford Press  ( 2003 ).
+
+[B14] Paul M Garg K .  The effect of heart rate variability biofeedback on performance psychology of basketball players .  Appl Psychophysiol Biofeedback  ( 2012 )  37 : 131 – 44 . 10.1007/s10484-012-9185-2 22402913
+
+[B15] Yasuma F Hayano J .  Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm? Chest  ( 2004 )  125 : 638 – 90 . 10.1378/chest.125.2.683 14769752
+
+[B16] Berntson GG Bigger JT Eckberg DL Grossman P Kaufmann PG Malik M Heart rate variability: origins, methods, and interpretive caveats .  Psychophysiology  ( 1997 )  34 : 623 – 48 . 10.1111/j.1469-8986.1997.tb02140.x 9401419
+
+[B17] Hayano J Yasuma F Okada A Mukai S Fujinami T .  Respiratory sinus arrhythmia: a phenomenon improving pulmonary gas exchange and circulatory efficiency .  Circulation  ( 1996 )  94 : 842 – 7 . 10.1161/01.CIR.94.4.842 8772709
+
+[B18] Vaschillo E Lehrer P Rishe N Konstantinov M .  Heart rate variability biofeedback as a method for assessing baroreflex function: a preliminary study of resonance in the cardiovascular system .  Appl Psychophysiol Biofeedback  ( 2002 )  27 : 1 – 27 . 10.1023/A:1014587304314 12001882
+
+[B19] Draghici AE Taylor JA .  The physiological basis and measurement of heart rate variability in humans .  J Physiol Anthropol  ( 2016 )  35 : 22 . 10.1186/s40101-016-0113-7 27680542 PMC5039876
+
+[B20] Diener E Wirtz D Tov W Kim-Prieto C Choi D Oishi S New measures of well-being: short scales to assess flourishing and positive and negative feelings .  Soc Indic Res  ( 2010 )  97 : 143 – 56 . 10.1007/s11205-009-9493-y
+
+[B21] Wardenaar KJ van Veen T Giltay EJ de Beurs E Penninx BW Zitman FG Development and validation of a 30-item short adaptation of the Mood and Anxiety Symptoms Questionnaire (MASQ) .  Psychiatry Res  ( 2010 )  179 : 101 – 6 . 20472297 10.1016/j.psychres.2009.03.005
+
+[B22] Tombaugh TN .  A comprehensive review of the Paced Auditory Serial Addition Test (PASAT) .  Arch Clin Neuropsychol  ( 2006 )  21 : 53 – 76 . 10.1016/j.acn.2005.07.006 16290063
+
+[B23] Lin IM Tai LY Fan SY .  Breathing at a rate of 5.5 breaths per minute with equal inhalation-to-exhalation ratio increases heart rate variability .  Int J Psychophysiol  ( 2014 )  91 : 206 – 11 . 10.1016/j.ijpsycho.2013.12.006 24380741
+
+[B24] Mason H Vandoni M deBarbieri G Codrons E Ugargol V Bernardi L .  Cardiovascular and respiratory effect of yogic slow breathing in the yoga beginner: what is the best approach? Evid Based Complement Alternat Med  ( 2013 )  2013 : 743504 . 10.1155/2013/743504 23710236 PMC3655580
+
+[B25] Zautra AJ Fasman R Davis MC Craig AD .  The effects of slow breathing on affective responses to pain stimuli: an experimental study .  Pain  ( 2010 )  149 : 12 – 8 . 10.1016/j.pain.2009.10.001 20079569
+
+[B26] Vaschillo EG Bates ME Vaschillo B Lehrer P Udo T Mun EY Heart rate variability response to alcohol, placebo, and emotional picture cue challenges: effects of 0.1-Hz stimulation .  Psychophysiology  ( 2008 )  45 : 847 – 58 . 10.1007/s10484-006-9009-3 18513359 PMC2964051
+
+[B27] Vaschillo EG Vaschillo B Buckman JF Pandina RJ Bates ME .  Measurement of vascular tone and stroke volume baroreflex gain .  Psychophysiology  ( 2012 )  49 : 193 – 7 . 10.1111/j.1469-8986.2011.01305.x 22092290 PMC3366428

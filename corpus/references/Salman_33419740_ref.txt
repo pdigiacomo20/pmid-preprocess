@@ -1,0 +1,75 @@
+[bibr1-10519815251329231] Marks KM Gulick RM .  COVID-19 .  Ann Intern Med 2023 ;  176 :  ITC145 – ITC160 . 10.7326/AITC202310170 37812774
+
+[bibr2-10519815251329231] Yang J Li X He T ,  et al. Impact of physical activity on COVID-19 .  Int J Environ Res Public Health 2022 ;  19 :  1 – 2 . 10.3390/ijerph192114108 PMC9657212 36360985
+
+[bibr3-10519815251329231] Ghafuri L Hamzehzadeh Alamdari A Roustaei S ,  et al. Predicting severity of novel coronavirus (COVID-19) pneumonia based upon admission clinical, laboratory, and imaging findings .  Tanaffos 2021 ;  20 :  232 – 239 . 35382076 PMC8978039
+
+[bibr4-10519815251329231] Maltezou HC Pavli A Tsakris A .  Post-COVID syndrome: an insight on its pathogenesis .  Vaccines 2021 ;  9 :  497 . 34066007 10.3390/vaccines9050497 PMC8151752
+
+[bibr5-10519815251329231] Soriano JB Waterer G Penalvo JL , et al. Nefer, Sinuhe and clinical research assessing post COVID-19 condition .  Eur Respir J 2021 ;  57 :  2004423 . 33380509 10.1183/13993003.04423-2020 PMC7778876
+
+[bibr6-10519815251329231] Pavli A Theodoridou M Maltezou HC .  Post-COVID syndrome: incidence, clinical Spectrum, and challenges for primary healthcare professionals .  Arch Med Res 2021 ;  52 :  575 – 581 . 33962805 10.1016/j.arcmed.2021.03.010 PMC8093949
+
+[bibr7-10519815251329231] Schwendinger F Looser VN Gerber M , et al. Autonomic dysfunction and exercise intolerance in post-COVID-19 - an as yet underestimated organ system? Int J Clin Health Psychol 2024 ;  24 :  100429 . 38348143 10.1016/j.ijchp.2023.100429 PMC10859561
+
+[bibr8-10519815251329231] De Korwin JD Chiche L Banovic I ,  et al. Le syndrome de fatigue chronique : une nouvelle maladie ? La Revue de Médecine Interne 2016 ;  37 :  811 – 819 . 27260787 10.1016/j.revmed.2016.05.003
+
+[bibr9-10519815251329231] Wong TL Weitzer DJ .  Long COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)-A Systemic Review and Comparison of Clinical Presentation and Symptomatology .  Medicina (Kaunas) 2021 ;  57 :  418 . 33925784 10.3390/medicina57050418 PMC8145228
+
+[bibr10-10519815251329231] Salmon Céron D Davido B Tubiana R ,  et al. Les formes prolongées de la COVID-19 ou COVID long : formes cliniques et prise en charge .  Médecine et Maladies Infectieuses Formation 2022 ;  1 :  24 – 33 .
+
+[bibr11-10519815251329231] Wostyn P .  COVID-19 and chronic fatigue syndrome: is the worst yet to come? Med Hypotheses 2021 ;  146 :  110469 . 33401106 10.1016/j.mehy.2020.110469 PMC7836544
+
+[bibr12-10519815251329231] Salman D Vishnubala D Le Feuvre P ,  et al. Returning to physical activity after COVID-19 .  BMJ 2021 ;  372 :  m4721 . 10.1136/bmj.m4721 33419740
+
+[bibr13-10519815251329231] Pinto AJ Bergouignan A Dempsey PC ,  et al. Physiology of sedentary behavior .  Physiol Rev 2023 ;  103 :  2561 – 2622 . 37326297 10.1152/physrev.00022.2022 PMC10625842
+
+[bibr14-10519815251329231] Dhuli K Naureen Z Medori MC ,  et al. Physical activity for health .  J Prev Med Hyg 2022 ;  63 :  E150 – E159 . 10.15167/2421-4248/jpmh2022.63.2S3.2756 PMC9710390 36479484
+
+[bibr15-10519815251329231] Karapetov A Lysenko I Kazumova A ,  et al. The role of physical activity and sports in the prevention and treatment of chronic diseases: modern scientific data and practical recommendations .  J Complement Med Res 2023 ;  14 :  66 .
+
+[bibr16-10519815251329231] Chouchou F Augustini M Caderby T ,  et al. The importance of sleep and physical activity on well-being during COVID-19 lockdown: Reunion Island as a case study .  Sleep Med 2021 ;  77 :  297 – 301 . 33020037 10.1016/j.sleep.2020.09.014 PMC7505872
+
+[bibr17-10519815251329231] Zupo R Castellana F Sardone R ,  et al. Preliminary trajectories in dietary behaviors during the COVID-19 pandemic: a public health call to action to face obesity .  Int J Environ Res Public Health 2020 ;  17: 7073 . 10.3390/ijerph17197073 PMC7579065 32992623
+
+[bibr18-10519815251329231] Sultana R .  COVID-19: the protective role of physical activity and the aggravating role of sedentary lifestyle .  Kinésithérapie, La Revue 2022 ;  22 :  1 – 2 .
+
+[bibr19-10519815251329231] Organization WH .  Support for rehabilitation: self-management after COVID-19-related illness, second edition 2021,  https://iris.who.int/handle/10665/344472 .
+
+[bibr20-10519815251329231] Sultana R .  COVID-19 : le rôle protecteur de l’activité physique et aggravant de la sédentarité .  Kinésithérapie, la Revue 2022 ;  22 : 1– 2 .
+
+[bibr21-10519815251329231] Jimeno-Almazán A Pallarés JG Buendía-Romero Á ,  et al. Post-COVID-19 syndrome and the potential benefits of exercise .  Int J Environ Res Public Health 2021 ;  18 :  5329 . 34067776 10.3390/ijerph18105329 PMC8156194
+
+[bibr22-10519815251329231] Oliveira MR Sudati IP Konzen VM ,  et al. COVID-19 and the impact on the physical activity level of elderly people: a systematic review .  Exp Gerontol 2022 ;  159 :  111675 . 34954282 10.1016/j.exger.2021.111675 PMC8695515
+
+[bibr23-10519815251329231] Rossi L Behme N Breuer C .  Physical activity of children and adolescents during the COVID-19 pandemic-a scoping review .  Int J Environ Res Public Health 2021 ;  18 :  11440 . 34769956 10.3390/ijerph182111440 PMC8583307
+
+[bibr24-10519815251329231] Martínez-de-Quel Ó Suárez-Iglesias D López-Flores M , et al. Physical activity, dietary habits and sleep quality before and during COVID-19 lockdown: a longitudinal study .  Appetite 2021 ;  158 :  105019 . 33161046 10.1016/j.appet.2020.105019 PMC8580211
+
+[bibr25-10519815251329231] Cotler J Holtzman C Dudun C , et al. A brief questionnaire to assess post-exertional malaise .  Diagnostics (Basel) 2018 ;  8 :  66 . 30208578 10.3390/diagnostics8030066 PMC6165517
+
+[bibr26-10519815251329231] Charles M Thivel D Verney J ,  et al. Reliability and validity of the ONAPS physical activity questionnaire in assessing physical activity and sedentary behavior in French adults .  Int J Environ Res Public Health 2021 ;  18 :  5643 . 34070452 10.3390/ijerph18115643 PMC8197457
+
+[bibr27-10519815251329231] Campos MC Nery T Starke AC ,  et al. Post-viral fatigue in COVID-19: a review of symptom assessment methods, mental, cognitive, and physical impairment .  Neurosci Biobehav Rev 2022 ;  142 :  104902 . 36202253 10.1016/j.neubiorev.2022.104902 PMC9528075
+
+[bibr28-10519815251329231] Townsend L Dyer AH Jones K ,  et al. Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection .  PLoS One 2020 ;  15 :  e0240784 . 10.1371/journal.pone.0240784 PMC7652254 33166287
+
+[bibr29-10519815251329231] Biswas A Harbin S Irvin E ,  et al. Sex and gender differences in occupational hazard exposures: a scoping review of the recent literature .  Curr Environ Health Rep 2021 ;  8 :  267 – 280 . 34839446 10.1007/s40572-021-00330-8 PMC8627292
+
+[bibr30-10519815251329231] Sudre CH Murray B Varsavsky T ,  et al. Attributes and predictors of long COVID .  Nat Med 2021 ;  27 :  626 – 631 . 33692530 10.1038/s41591-021-01292-y PMC7611399
+
+[bibr31-10519815251329231] Meyer J McDowell C Lansing J ,  et al. Changes in physical activity and sedentary behavior in response to COVID-19 and their associations with mental health in 3052 US adults .  Int J Environ Res Public Health 2020 ;  17 :  6469 . 32899495 10.3390/ijerph17186469 PMC7559240
+
+[bibr32-10519815251329231] Sallis R Young DR Tartof SY ,  et al. Physical inactivity is associated with a higher risk for severe COVID-19 outcomes: a study in 48 440 adult patients .  Br J Sports Med 2021 ;  55 :  1099 – 1105 . 33849909 10.1136/bjsports-2021-104080
+
+[bibr33-10519815251329231] Bick A Blandin A Mertens K .  Work from home before and after the COVID-19 outbreak .  Am Econ J Macroecon 2023 ;  15 :  1 – 39 .
+
+[bibr34-10519815251329231] Cusack M .  Individual, social, and environmental factors associated with active transportation commuting during the COVID-19 pandemic .  J Transp Health 2021 ;  22 :  101089 . 34513591 10.1016/j.jth.2021.101089 PMC8423621
+
+[bibr35-10519815251329231] Li X Farrukh M Lee C ,  et al. COVID-19 impacts on mobility, environment, and health of active transportation users .  Cities 2022 ;  131 :  103886 . 35935595 10.1016/j.cities.2022.103886 PMC9345890
+
+[bibr36-10519815251329231] Quesada JA López-Pineda A Gil-Guillén VF ,  et al. Incubation period of COVID-19: a systematic review and meta-analysis .  Rev Clin Esp (Barc) 2021 ;  221 :  109 – 117 . 10.1016/j.rceng.2020.08.002 PMC7698828 33998486
+
+[bibr37-10519815251329231] Ráthonyi G Kósa K Bács Z ,  et al. Changes in workers’ physical activity and sedentary behavior during the COVID-19 pandemic .  Sustainability 2021 ;  13 :  9524 .
+
+[bibr38-10519815251329231] Chandrasekaran B Ganesan TB .  Sedentarism and chronic disease risk in COVID 19 lockdown – a scoping review .  Scott Med J 2021 ;  66 :  3 – 10 . 32718266 10.1177/0036933020946336 PMC8685753

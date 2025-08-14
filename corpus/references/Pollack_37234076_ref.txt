@@ -1,0 +1,289 @@
+[B1] Soriano JB Murthy S Marshall JC Relan P Diaz JV .  A clinical case definition of post-COVID-19 condition by a delphi consensus .  Lancet Infect Dis . ( 2022 )  22 : e102 – 7 .  10.1016/S1473-3099(21)00703-9 34951953 PMC8691845
+
+[B2] Davis HE Assaf GS McCorkell L Wei H Low RJ Re’em Y Characterizing long COVID in an international cohort: 7 months of symptoms and their impact .  EClinicalMedicine . ( 2021 )  38 : 101019 .  10.1016/j.eclinm.2021.101019 34308300 PMC8280690
+
+[B3] Davis HE McCorkell L Vogel JM Topol EJ .  Long COVID: major findings, mechanisms and recommendations .  Nat Rev Microbiol . ( 2023 )  21 : 133 – 46 .  10.1038/s41579-022-00846-2 36639608 PMC9839201
+
+[B4] Campen CM Rowe PC Visser FC .  Orthostatic symptoms and reductions in cerebral blood flow in long-haul COVID-19 patients: similarities with myalgic encephalomyelitis/chronic fatigue syndrome .  Medicina (Mex) . ( 2022 )  58 : 28 .  10.3390/medicina58010028 PMC8778312 35056336
+
+[B5] Choutka J Jansari V Hornig M Iwasaki A .  Unexplained post-acute infection syndromes .  Nat Med . ( 2022 )  28 : 911 – 23 .  10.1038/s41591-022-01810-6 35585196
+
+[B6] Proal AD VanElzakker MB .  Long COVID or post-acute sequelae of COVID-19 (PASC): an overview of biological factors that may contribute to persistent symptoms .  Front Microbiol . ( 2021 )  12 : 698169 .  Available at: https://www.frontiersin.org/articles/10.3389/fmicb.2021.698169 (Accessed November 18, 2022) .  10.3389/fmicb.2021.698169 34248921 PMC8260991
+
+[B7] Pretorius E Vlok M Venter C Bezuidenhout JA Laubscher GJ Steenkamp J Persistent clotting protein pathology in long COVID/post-acute sequelae of COVID-19 (PASC) is accompanied by increased levels of antiplasmin .  Cardiovasc Diabetol . ( 2021 )  20 : 172 .  10.1186/s12933-021-01359-7 34425843 PMC8381139
+
+[B8] Sigfrid L Drake TM Pauley E Jesudason EC Olliaro P Lim WS Long COVID in adults discharged from UK hospitals after COVID-19: a prospective, multicentre cohort study using the ISARIC WHO clinical characterisation protocol .  Lancet Reg Health—Eur . ( 2021 )  8 : 100186 .  10.1016/j.lanepe.2021.100186 34386785 PMC8343377
+
+[B9] Long COVID—Household Pulse Survey—COVID-19 . ( 2022 ).  Available at: https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm (Accessed December 2, 2022) .
+
+[B10] Stewart S Newson L Briggs TA Grammatopoulos D Young L Gill P .  Long COVID risk—a signal to address sex hormones and women's Health .  Lancet Reg Health Eur . ( 2021 )  11 : 100242 .  10.1016/j.lanepe.2021.100242 34746909 PMC8561426
+
+[B11] Low PA Sandroni P Joyner M Shen W-K .  Postural tachycardia syndrome (POTS) .  J Cardiovasc Electrophysiol . ( 2009 )  20 : 352 – 8 .  10.1111/j.1540-8167.2008.01407.x 19207771 PMC3904426
+
+[B12] Jason LA Richman JA Rademaker AW Jordan KM Plioplys AV Taylor RR A community-based study of chronic fatigue syndrome .  Arch Intern Med . ( 1999 )  159 : 2129 – 37 .  10.1001/archinte.159.18.2129 10527290
+
+[B13] Demmler JC Atkinson MD Reinhold EJ Choy E Lyons RA Brophy ST .  Diagnosed prevalence of ehlers-danlos syndrome and hypermobility spectrum disorder in Wales, UK: a national electronic cohort study and case–control comparison .  BMJ Open . ( 2019 )  9 : e031365 .  10.1136/bmjopen-2019-031365 31685485 PMC6858200
+
+[B14] Harlow SD Campbell OMR .  Epidemiology of menstrual disorders in developing countries: a systematic review .  BJOG Int J Obstet Gynaecol . ( 2004 )  111 : 6 – 16 .  10.1111/j.1471-0528.2004.00012.x 14687045
+
+[B15] Mirin AA .  Gender disparity in the funding of diseases by the U.S. National institutes of health .  J Womens Health . ( 2021 )  30 : 956 – 63 .  10.1089/jwh.2020.8682 PMC8290307 33232627
+
+[B16] Weisman CS Cassard SD .  Health consequences of exclusion or underrepresentation of women in clinical studies (I) .  Washington (DC) :  National Academies Press (US)  ( 1999 .  Available at: https://www.ncbi.nlm.nih.gov/books/NBK236583/ (Accessed December 12, 2022) .
+
+[B17] Newson L Lewis R O’Hara M .  Long COVID and menopause—the important role of hormones in long COVID must be considered .  Maturitas . ( 2021 )  152 : 74 .  10.1016/j.maturitas.2021.08.026
+
+[B18] Medina-Perucha L López-Jiménez T Holst AS Jacques-Aviñó C Munrós-Feliu J Martínez-Bueno C Self-reported menstrual alterations during the COVID-19 syndemic in Spain: a cross-sectional study .  Int J Womens Health . ( 2022 )  14 : 529 – 44 .  10.2147/IJWH.S354655 35444473 PMC9013667
+
+[B19] Khan SM Shilen A Heslin KM Ishimwe P Allen AM Jacobs ET SARS-CoV-2 infection and subsequent changes in the menstrual cycle among participants in the Arizona CoVHORT study .  Am J Obstet Gynecol . ( 2022 )  226 : 270 – 3 .  10.1016/j.ajog.2021.09.016 34555320 PMC8452349
+
+[B20] Alvergne A Kountourides G Argentieri MA Agyen L Rogers N Knight D A retrospective case-control study on menstrual cycle changes following COVID-19 vaccination and disease .  iScience . ( 2023 )  26 : 106401 .  10.1016/j.isci.2023.106401 36987520 PMC10015085
+
+[B21] Lee KMN Junkins EJ Luo C Fatima UA Cox ML Clancy KBH .  Investigating trends in those who experience menstrual bleeding changes after SARS-CoV-2 vaccination .  Sci Adv . ( 2022 )  8 : eabm7201 .  10.1126/sciadv.abm7201 35857495 PMC9286513
+
+[B22] Madaan S Talwar D Jaiswal A Kumar S Acharya N Acharya S Post-COVID-19 menstrual abnormalities and infertility: repercussions of the pandemic .  J Educ Health Promot . ( 2022 )  11 : 170 .  10.4103/jehp.jehp_1200_21 35847136 PMC9277727
+
+[B23] Wilkins J Al-Inizi S .  Premature ovarian insufficiency secondary to COVID-19 infection: an original case report .  Int J Gynecol Obstet . ( 2021 )  154 : 179 – 80 .  10.1002/ijgo.13719 PMC9087667 33896002
+
+[B24] Puca E Puca E .  Premature ovarian failure related to SARS-CoV-2 infection .  J Med Cases . ( 2022 )  13 : 155 – 8 .  10.14740/jmc3791 35464328 PMC8993449
+
+[B25] Revelli A Piane LD Casano S Molinari E Massobrio M Rinaudo P .  Follicular fluid content and oocyte quality: from single biochemical markers to metabolomics .  Reprod Biol Endocrinol . ( 2009 )  7 : 40 .  10.1186/1477-7827-7-40 19413899 PMC2685803
+
+[B26] Herrero Y Pascuali N Velázquez C Oubiña G Hauk V de Zúñiga I SARS-CoV-2 infection negatively affects ovarian function in ART patients .  Biochim Biophys Acta —Mol Basis Dis . ( 2022 )  1868 : 166295 .  10.1016/j.bbadis.2021.166295 34718118 PMC8550892
+
+[B27] Shuster LT Rhodes DJ Gostout BS Grossardt BR Rocca WA .  Premature menopause or early menopause: long-term health consequences .  Maturitas . ( 2010 )  65 : 161 – 6 .  10.1016/j.maturitas.2009.08.003 19733988 PMC2815011
+
+[B28] Luborsky JL Meyer P Sowers MF Gold EB Santoro N .  Premature menopause in a multi-ethnic population study of the menopause transition* .  Hum Reprod . ( 2003 )  18 : 199 – 206 .  10.1093/humrep/deg005 12525467
+
+[B29] Vásconez-González J Fernandez-Naranjo R Izquierdo-Condoy JS Delgado-Moreira K Cordovez S Tello-De-la-Torre A Comparative analysis of long-term self-reported COVID-19 symptoms among pregnant women .  J Infect Public Health . ( 2023 )  16 : 430 – 40 .  10.1016/j.jiph.2023.01.012 36736066 PMC9851727
+
+[B30] Afshar Y Gaw SL Flaherman VJ Chambers BD Krakow D Berghella V Clinical presentation of coronavirus disease 2019 (COVID-19) in pregnant and recently pregnant people .  Obstet Gynecol . ( 2020 )  136 : 1117 – 25 .  10.1097/AOG.0000000000004178 33027186 PMC7673633
+
+[B31] Santos CAD Fonseca Filho GG Alves MM Macedo EYL Pontes MdA Paula AP Maternal and neonatal outcomes associated with mild COVID-19 infection in an obstetric cohort in Brazil .  Am J Trop Med Hyg . ( 2022 )  107 : 1060 – 5 .  10.4269/ajtmh.22-0421 36252801 PMC9709018
+
+[B32] Vernon SD Funk S Bateman L Stoddard GJ Hammer S Sullivan K Orthostatic challenge causes distinctive symptomatic, hemodynamic and cognitive responses in long COVID and myalgic encephalomyelitis/chronic fatigue syndrome .  Front Med . ( 2022 )  9 : 917019 .  10.3389/fmed.2022.917019 PMC9285104 35847821
+
+[B33] Kedor C Freitag H Meyer-Arndt L Wittke K Hanitsch LG Zoller T A prospective observational study of post-COVID-19 chronic fatigue syndrome following the first pandemic wave in Germany and biomarkers associated with symptom severity .  Nat Commun . ( 2022 )  13 : 5104 .  10.1038/s41467-022-32507-6 36042189 PMC9426365
+
+[B34] Mancini DM Brunjes DL Lala A Trivieri MG Contreras JP Natelson BH .  Use of cardiopulmonary stress testing for patients with unexplained dyspnea post–coronavirus disease .  JACC Heart Fail . ( 2021 )  9 : 927 – 37 .  10.1016/j.jchf.2021.10.002 34857177 PMC8629098
+
+[B35] Shaw BH Stiles LE Bourne K Green EA Shibao CA Okamoto LE The face of postural tachycardia syndrome—insights from a large cross-sectional online community-based survey .  J Intern Med . ( 2019 )  286 : 438 – 48 .  10.1111/joim.12895 30861229 PMC6790699
+
+[B36] Carruthers BM van de Sande MI De Meirleir KL Klimas NG Broderick G Mitchell T Myalgic encephalomyelitis: international consensus criteria .  J Intern Med . ( 2011 )  270 : 327 – 38 .  10.1111/j.1365-2796.2011.02428.x 21777306 PMC3427890
+
+[B37] Chu L Valencia IJ Garvert DW Montoya JG .  Onset patterns and course of myalgic encephalomyelitis/chronic fatigue syndrome .  Front Pediatr . ( 2019 )  7 : 12 .  10.3389/fped.2019.00012 30805319 PMC6370741
+
+[B38] Thomas N Gurvich C Huang K Gooley PR Armstrong CW .  The underlying sex differences in neuroendocrine adaptations relevant to myalgic encephalomyelitis chronic fatigue syndrome .  Front Neuroendocrinol . ( 2022 )  66 : 100995 .  10.1016/j.yfrne.2022.100995 35421511
+
+[B39] Harlow BL Signorello LB Hall JE Dailey C Komaroff AL .  Reproductive correlates of chronic fatigue syndrome .  Am J Med . ( 1998 )  105 : 94S – 9S .  10.1016/s0002-9343(98)00173-9 9790489
+
+[B40] Boneva RS Maloney EM Lin J-M Jones JF Wieser F Nater UM Gynecological history in chronic fatigue syndrome: a population-based case-control study | journal of Women's health .  J Womens Health . ( 2011 )  20 : 21 – 8 .  10.1089/jwh.2009.1900 PMC3017420 21091051
+
+[B41] Boneva RS Lin J-MS Unger ER .  Early menopause and other gynecologic risk indicators for chronic fatigue syndrome in women .  Menopause . ( 2015 )  22 : 826 – 34 .  10.1097/GME.0000000000000411 25647777 PMC5745581
+
+[B42] Boneva RS Lin J-MS Wieser F Nater UM Ditzen B Taylor RN Endometriosis as a comorbid condition in chronic fatigue syndrome (CFS): secondary analysis of data from a CFS case-control study .  Front Pediatr . ( 2019 )  7 : 195 .  10.3389/fped.2019.00195 31179251 PMC6537603
+
+[B43] Clark K Del Fante P Beilby J .  Myalgic Encephalopathy/Chronic Fatigue Syndrome Longitudinal Outcomes Pilot Study Report. (2006) http://sacfs.asn.au/download/me_cfs_pilot_study_report.pdf
+
+[B44] Gimeno Pi I Guitard Sein-Echaluce ML Rosselló Aubach L Torres Puig-Gros J Fernández Solà J .  Stressful events in the onset of chronic fatigue syndrome .  Rev Esp Salud Publica . ( 2016 )  90 : e1 – 7 . 27535808
+
+[B45] Hira R Baker JR Siddiqui T Ranada SI Soroush A Karalasingham K Objective hemodynamic cardiovascular autonomic abnormalities in post-acute sequelae of COVID-19 .  Can J Cardiol . ( 2022 )  0 .  10.1016/j.cjca.2022.12.002 . (In press) PMC9733966 36509178
+
+[B46] Federowski A .  Postural orthostatic tachycardia syndrome: clinical presentation, aetiology and management .  J Intern Med . ( 2018 )  285 : 352 – 66 .  10.1111/joim.12852 30372565
+
+[B47] Fu Q VanGundy TB Shibata S Auchus RJ Williams GH Levine BD .  Menstrual cycle affects renal-adrenal and hemodynamic responses during prolonged standing in the postural orthostatic tachycardia syndrome .  Hypertension . ( 2010 )  56 : 82 – 90 .  10.1161/HYPERTENSIONAHA.110.151787 20479333 PMC2894615
+
+[B48] Peggs KJ Nguyen H Enayat D Keller NR Al-Hendy A Raj SR .  Gynecologic disorders and menstrual cycle lightheadedness in postural tachycardia syndrome .  Int J Gynaecol Obstet Off Organ Int Fed Gynaecol Obstet . ( 2012 )  118 : 242 – 6 .  10.1016/j.ijgo.2012.04.014 PMC3413773 22721633
+
+[B49] Knuttinen M-G Zurcher KS Khurana N Patel I Foxx-Orenstein A Harris LA Imaging findings of pelvic venous insufficiency in patients with postural orthostatic tachycardia syndrome .  Phlebology . ( 2021 )  36 : 32 – 7 .  10.1177/0268355520947610 32757696
+
+[B50] Bourne KM Nerenberg KA Stiles LE Shibao CA Okamoto LE Garland EM Symptoms of postural orthostatic tachycardia syndrome in pregnancy: a cross-sectional, community-based survey .  BJOG Int J Obstet Gynaecol . ( 2023 ).  10.1111/1471-0528.17437 . (In press) PMC10363219 36908200
+
+[B51] Blitshteyn S Poya H Bett GCL .  Pregnancy in postural tachycardia syndrome: clinical course and maternal and fetal outcomes .  J Matern Fetal Neonatal Med . ( 2012 )  25 : 1631 – 4 .  10.3109/14767058.2011.648671 22185354
+
+[B52] Kanjwal K Karabin B Kanjwal Y Grubb BP .  Outcomes of pregnancy in patients with preexisting postural tachycardia syndrome .  Pacing Clin Electrophysiol . ( 2009 )  32 : 1000 – 3 .  10.1111/j.1540-8159.2009.02430.x 19659618
+
+[B53] Zhang H Zang C Xu Z Zhang Y Xu J Bian J Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes .  Nat Med . ( 2023 )  29 : 226 – 35 .  10.1038/s41591-022-02116-3 36456834 PMC9873564
+
+[B54] CDC .  New ICD-10CM code for the 2019 Novel Coronavirus (COVID-19), December 3, 2020. (2021) https://www.cdc.gov/nchs/data/icd/Announcement-New-ICD-code-for-coronavirus-19-508.pdf
+
+[B55] Gavrilova N Soprun L Lukashenko M Ryabkova V Fedotkina TV Churilov LP New clinical phenotype of the post-COVID syndrome: fibromyalgia and joint hypermobility condition .  Pathophysiology . ( 2022 )  29 : 24 – 9 .  10.3390/pathophysiology29010003 35366287 PMC8954589
+
+[B56] Gensemer C Burks R Kautz S Judge DP Lavallee M Norris RA .  Hypermobile ehlers-danlos syndromes: complex phenotypes, challenging diagnoses, and poorly understood causes .  Dev Dyn Off Publ Am Assoc Anat . ( 2021 )  250 : 318 – 44 .  10.1002/dvdy.220 PMC7785693 32629534
+
+[B57] Miller AJ Stiles LE Sheehan T Bascom R Levy HP Francomano CA Prevalence of hypermobile ehlers-danlos syndrome in postural orthostatic tachycardia syndrome .  Auton Neurosci . ( 2020 )  224 : 102637 .  10.1016/j.autneu.2020.102637. 31954224 PMC7282488
+
+[B58] Bragée B Michos A Drum B Fahlgren M Szulkin R Bertilson BC .  Signs of intracranial hypertension, hypermobility, and craniocervical obstructions in patients with myalgic encephalomyelitis/chronic fatigue syndrome .  Front Neurol . ( 2020 )  11 : 828 .  Available at: https://www.frontiersin.org/articles/10.3389/fneur.2020.00828 (Accessed November 29, 2022) .  10.3389/fneur.2020.00828 32982905 PMC7485557
+
+[B59] Eccles JA Thompson B Themelis K Amato ML Stocks R Pound A Beyond bones: the relevance of variants of connective tissue (hypermobility) to fibromyalgia, ME/CFS and controversies surrounding diagnostic classification: an observational study .  Clin Med . ( 2021 )  21 : 53 – 8 .  10.7861/clinmed.2020-0743 PMC7850199 33479068
+
+[B60] Monaco A Choi D Uzun S Maitland A Riley B .  Association of mast-cell-related conditions with hypermobile syndromes: a review of the literature .  Immunol Res . ( 2022 )  70 : 419 – 31 .  10.1007/s12026-022-09280-1 35449490 PMC9022617
+
+[B61] Fajardo I Pejler G .  Human mast cell β-tryptase is a gelatinase 1 .  J Immunol . ( 2003 )  171 : 1493 – 9 .  10.4049/jimmunol.171.3.1493 12874242
+
+[B62] Weinstock LB Brook JB Walters AS Goris A Afrin LB Molderings GJ .  Mast cell activation symptoms are prevalent in long-COVID .  Int J Infect Dis . ( 2021 )  112 : 217 – 26 .  10.1016/j.ijid.2021.09.043 34563706 PMC8459548
+
+[B63] Brock I Chopra P Maitland A Francomano C .  Ep305—frequency and co-occurrence of comorbidities in the ehlers-danlos syndromes .  Mol Genet Metab . ( 2021 )  132 : S194 .  10.1016/S1096-7192(21)00387-5
+
+[B64] Joseph P Arevalo C Oliveira RKF Faria-Urbina M Felsenstein D Oaklander AL Insights from invasive cardiopulmonary exercise testing of patients with myalgic encephalomyelitis/chronic fatigue syndrome .  CHEST . ( 2021 )  160 : 642 – 51 .  10.1016/j.chest.2021.01.082 33577778 PMC8727854
+
+[B65] Kohno R Cannom DS Olshansky B Xi SC Krishnappa D Adkisson WO Mast cell activation disorder and postural orthostatic tachycardia syndrome: a clinical association .  J Am Heart Assoc . ( 2021 )  10 : e021002 .  10.1161/JAHA.121.021002 34398691 PMC8649306
+
+[B66] Hernandez AMC Dietrich JE .  Gynecologic management of pediatric and adolescent patients with ehlers-danlos syndrome .  J Pediatr Adolesc Gynecol . ( 2020 )  33 : 291 – 5 .  10.1016/j.jpag.2019.12.011 31883462
+
+[B67] Hugon-Rodin J Lebègue G Becourt S Hamonet C Gompel A .  Gynecologic symptoms and the influence on reproductive life in 386 women with hypermobility type ehlers-danlos syndrome: a cohort study .  Orphanet J Rare Dis . ( 2016 )  11 : 124 .  10.1186/s13023-016-0511-2 27619482 PMC5020453
+
+[B68] Hurst BS Lang MB Kullstam SM Usadi RS Matthews ML Marshburn PB .  Reproductive challenges in women with ehlers-danlos syndrome: survey results from over 1350 respondents from the ehlers-danlos national foundation .  Fertil Steril . ( 2012 )  98 : S112 .  10.1016/j.fertnstert.2012.07.411
+
+[B69] Glayzer JE McFarlin BL Castori M Suarez ML Meinel MC Kobak WH High rate of dyspareunia and probable vulvodynia in ehlers-danlos syndromes and hypermobility spectrum disorders: an online survey .  Am J Med Genet C Semin Med Genet . ( 2021 )  187 : 599 – 608 .  10.1002/ajmg.c.31939 34747110 PMC8665058
+
+[B70] Spiegel E Nicholls-Dempsey L Czuzoj-Shulman N Abenhaim HA .  Pregnancy outcomes in women with ehlers-danlos syndrome .  J Matern Fetal Neonatal Med . ( 2020 )  35 : 1683 – 9 .  10.1080/14767058.2020.1767574 32654548
+
+[B71] Underhill LA Barbarita C Collis S Tucker R Lechner BE .  Association of maternal versus fetal ehlers-danlos syndrome Status with poor pregnancy outcomes .  Reprod Sci . ( 2022 )  29 : 3459 – 64 .  10.1007/s43032-022-00992-1 35676499 PMC9734202
+
+[B72] Subramanian A Nirantharakumar K Hughes S Myles P Williams T Gokhale KM Symptoms and risk factors for long COVID in non-hospitalized adults .  Nat Med . ( 2022 )  28 : 1706 – 14 .  10.1038/s41591-022-01909-w 35879616 PMC9388369
+
+[B73] WHO .  International Classification of Diseases, 11th Revision (ICD-11). (2018) .
+
+[B74] Taylor HS Kotlyar AM Flores VA .  Endometriosis is a chronic systemic disease: clinical challenges and novel innovations .  Lancet . ( 2021 )  397 : 839 – 52 .  10.1016/S0140-6736(21)00389-5 33640070
+
+[B75] Zondervan KT Becker CM Missmer SA .  Endometriosis .  N Engl J Med . ( 2020 )  382 : 1244 – 56 .  10.1056/NEJMra1810764 32212520
+
+[B76] Laufer MR Sanfilippo J Rose G .  Adolescent endometriosis: diagnosis and treatment approaches .  J Pediatr Adolesc Gynecol . ( 2003 )  16 : S3 – 11 .  10.1016/s1083-3188(03)00066-4 12742180
+
+[B77] Secosan C Balulescu L Brasoveanu S Balint O Pirtea P Dorin G Endometriosis in menopause-renewed attention on a controversial disease .  Diagn Basel Switz . ( 2020 )  10 : 134 .  10.3390/diagnostics10030134 PMC7151055 32121424
+
+[B78] González RS Vnencak-Jones CL Shi C Fadare O .  Endomyometriosis (“uterus-like mass”) in an XY male: case report with molecular confirmation and literature review .  Int J Surg Pathol . ( 2014 )  22 : 421 – 6 .  10.1177/1066896913501385 24651910
+
+[B79] Fukunaga M .  Paratesticular endometriosis in a man with a prolonged hormonal therapy for prostatic carcinoma .  Pathol Res Pract . ( 2012 )  208 : 59 – 61 .  10.1016/j.prp.2011.10.007 . 22104297
+
+[B80] Jabr FI Mani V .  An unusual cause of abdominal pain in a male patient: endometriosis .  Avicenna J Med . ( 2014 )  4 : 99 – 101 .  10.4103/2231-0770.140660 25298953 PMC4183904
+
+[B81] Breintoft K Pinnerup R Henriksen TB Rytter D Uldbjerg N Forman A Endometriosis and risk of adverse pregnancy outcome: a systematic review and meta-analysis .  J Clin Med . ( 2021 )  10 : 667 .  10.3390/jcm10040667 33572322 PMC7916165
+
+[B82] Farland LV Prescott J Sasamoto N Tobias DK Gaskins AJ Stuart JJ Endometriosis and risk of adverse pregnancy outcomes .  Obstet Gynecol . ( 2019 )  134 : 527 – 36 .  10.1097/AOG.0000000000003410 31403584 PMC6922084
+
+[B83] Dunselman GAJ Vermeulen N Becker C Calhaz-Jorge C D’Hooghe T De Bie B ESHRE Guideline: management of women with endometriosis † .  Hum Reprod . ( 2014 )  29 : 400 – 12 .  10.1093/humrep/det457 24435778
+
+[B84] Hudelist G Fritzer N Thomas A Niehues C Oppelt P Haas D Diagnostic delay for endometriosis in Austria and Germany: causes and possible consequences .  Hum Reprod Oxf Engl . ( 2012 )  27 : 3412 – 6 .  10.1093/humrep/des316 22990516
+
+[B85] Moradi M Parker M Sneddon A Lopez V Ellwood D .  Impact of endometriosis on women's lives: a qualitative study .  BMC Womens Health . ( 2014 )  14 : 123 .  10.1186/1472-6874-14-123 25280500 PMC4287196
+
+[B86] Nnoaham KE Hummelshoj L Webster P d’Hooghe T de Cicco Nardone F de Cicco Nardone C Impact of endometriosis on quality of life and work productivity: a multicenter study across ten countries .  Fertil Steril . ( 2011 )  96 : 366 – 373.e8 .  10.1016/j.fertnstert.2011.05.090 21718982 PMC3679489
+
+[B87] Pino I Belloni GM Barbera V Solima E Radice D Angioni S “Better late than never but never late is better”, especially in young women. A multicenter Italian study on diagnostic delay for symptomatic endometriosis .  Eur J Contracept Reprod . ( 2022 )  28 : 1 – 7 .  10.1080/13625187.2022.2128644 36287190
+
+[B88] Sinaii N Cleary SD Ballweg ML Nieman LK Stratton P .  High rates of autoimmune and endocrine disorders, fibromyalgia, chronic fatigue syndrome and atopic diseases among women with endometriosis: a survey analysis .  Hum Reprod Oxf Engl . ( 2002 )  17 : 2715 – 24 .  10.1093/humrep/17.10.2715 12351553
+
+[B89] Thiruchelvam U Wingfield M O’Farrelly C .  Natural killer cells: key players in endometriosis .  Am J Reprod Immunol . ( 2015 )  74 : 291 – 301 .  10.1111/aji.12408 26104509
+
+[B90] Hogg C Horne AW Greaves E .  Endometriosis-associated macrophages: origin, phenotype, and function .  Front Endocrinol . ( 2020 )  11 : 7 .  10.3389/fendo.2020.00007 PMC6989423 32038499
+
+[B91] Petrelluzzi KFS Garcia MC Petta CA Grassi-Kassisse DM Spadari-Bratfisch RC .  Salivary cortisol concentrations, stress and quality of life in women with endometriosis and chronic pelvic pain .  Stress Amst Neth . ( 2008 )  11 : 390 – 7 .  10.1080/10253890701840610 18800310
+
+[B92] Scutiero G Iannone P Bernardi G Bonaccorsi G Spadaro S Volta CA Oxidative stress and endometriosis: a systematic review of the literature .  Oxid Med Cell Longev . ( 2017 )  2017 : 7265238 .  10.1155/2017/7265238 . 29057034 PMC5625949
+
+[B93] Kirchhoff D Kaulfuss S Fuhrmann U Maurer M Zollner TM .  Mast cells in endometriosis: guilty or innocent bystanders? Expert Opin Ther Targets . ( 2012 )  16 : 237 – 41 .  10.1517/14728222.2012.661415 22332753
+
+[B94] Roerink ME Roerink SHPP Skoluda N van der Schaaf ME Hermus ARMM van der Meer JWM Hair and salivary cortisol in a cohort of women with chronic fatigue syndrome .  Horm Behav . ( 2018 )  103 : 1 – 6 .  10.1016/j.yhbeh.2018.05.016 29807037
+
+[B95] Eaton-Fitch N du Preez S Cabanas H Staines D Marshall-Gradisnik S .  A systematic review of natural killer cells profile and cytotoxic function in myalgic encephalomyelitis/chronic fatigue syndrome .  Syst Rev . ( 2019 )  8 : 279 .  10.1186/s13643-019-1202-6 31727160 PMC6857215
+
+[B96] Gottschalk G Peterson D Knox K Maynard M Whelan RJ Roy A .  Elevated ATG13 in serum of patients with ME/CFS stimulates oxidative stress response in microglial cells via activation of receptor for advanced glycation end products (RAGE) .  Mol Cell Neurosci . ( 2022 )  120 : 103731 .  10.1016/j.mcn.2022.103731 35487443
+
+[B97] Sasso EM Muraki K Eaton-Fitch N Smith P Lesslar OL Deed G Transient receptor potential melastatin 3 dysfunction in post COVID-19 condition and myalgic encephalomyelitis/chronic fatigue syndrome patients .  Mol Med Camb Mass . ( 2022 )  28 : 98 .  10.1186/s10020-022-00528-y 35986236 PMC9388968
+
+[B98] Klein J Wood J Jaycox J Lu P Dhodapkar RM Gehlhausen JR Distinguishing features of long COVID identified through immune profiling .  MedRxiv Prepr Serv Health Sci . ( 2022 )  2022.08.09:22278592 .  10.1101/2022.08.09.22278592 PMC10620090 37748514
+
+[B99] Villaume WA .  Marginal BH4 deficiencies, iNOS, and self-perpetuating oxidative stress in post-acute sequelae of COVID-19 .  Med Hypotheses . ( 2022 )  163 : 110842 .  10.1016/j.mehy.2022.110842 35431403 PMC9006446
+
+[B100] Sourial S Tempest N Hapangama DK .  Theories on the pathogenesis of endometriosis .  Int J Reprod Med . ( 2014 )  2014 : 179515 .  10.1155/2014/179515 25763392 PMC4334056
+
+[B101] Cousins FL McKinnon BD Mortlock S Fitzgerald HC Zhang C Montgomery GW New concepts on the etiology of endometriosis .  J Obstet Gynaecol Res . ( 2023 )  49 : 1090 – 105 .  10.1111/jog.15549 36746607 PMC10946875
+
+[B102] Khan KN Fujishita A Hiraki K Kitajima M Nakashima M Fushiki S Bacterial contamination hypothesis: a new concept in endometriosis .  Reprod Med Biol . ( 2018 )  17 : 125 – 33 .  10.1002/rmb2.12083 29692669 PMC5902457
+
+[B103] Khan KN Kitajima M Hiraki K Yamaguchi N Katamine S Matsuyama T Escherichia coli contamination of menstrual blood and effect of bacterial endotoxin on endometriosis .  Fertil Steril . ( 2010 )  94 : 2860 – 2863.e1–3 .  10.1016/j.fertnstert.2010.04.053 20627244
+
+[B104] Yuan W Wu Y Chai X Wu X .  The colonized microbiota composition in the peritoneal fluid in women with endometriosis .  Arch Gynecol Obstet . ( 2022 )  305 : 1573 – 80 .  10.1007/s00404-021-06338-7 34988659
+
+[B105] Noh EJ Kim DJ Lee JY Park JH Kim J-S Han JW Ureaplasma urealyticum infection contributes to the development of pelvic endometriosis through toll-like receptor 2 .  Front Immunol . ( 2019 )  10 : 2373 .  10.3389/fimmu.2019.02373 31636643 PMC6788432
+
+[B106] Proal AD Lindseth IA Marshall TG .  Microbe-microbe and host-microbe interactions drive microbiome dysbiosis and inflammatory processes .  Discov Med . ( 2017 )  23 : 51 – 60 . 28245427
+
+[B107] Proal A Marshall T .  Myalgic encephalomyelitis/chronic fatigue syndrome in the era of the human microbiome: persistent pathogens drive chronic symptoms by interfering with host metabolism, gene expression, and immunity .  Front Pediatr . ( 2018 )  6 : 373 .  10.3389/fped.2018.00373 30564562 PMC6288442
+
+[B108] Proal AD Albert PJ Marshall TG .  The human microbiome and autoimmunity .  Curr Opin Rheumatol . ( 2013 )  25 : 234 – 40 .  10.1097/BOR.0b013e32835cedbf 23370376
+
+[B109] Natarajan A Zlitni S Brooks EF Vance SE Dahlen A Hedlin H Gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA suggest prolonged gastrointestinal infection .  Med . ( 2022 )  3 : 371 – 387.e9 .  10.1016/j.medj.2022.04.001 35434682 PMC9005383
+
+[B110] Zollner A Koch R Jukic A Pfister A Meyer M Rössler A Postacute COVID-19 is characterized by gut viral antigen persistence in inflammatory bowel diseases .  Gastroenterology . ( 2022 )  163 : 495 – 506.e8 .  10.1053/j.gastro.2022.04.037 35508284 PMC9057012
+
+[B111] Liu Q Mak JWY Su Q Yeoh YK Lui GC-Y Ng SSS Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome .  Gut . ( 2022 )  71 : 544 – 52 .  10.1136/gutjnl-2021-325989 35082169
+
+[B112] Haran JP Bradley E Zeamer AL Cincotta L Salive M-C Dutta P Inflammation-type dysbiosis of the oral microbiome associates with the duration of COVID-19 symptoms and long COVID .  JCI Insight . ( 2021 )  6 : e152346 .  10.1172/jci.insight.152346 34403368 PMC8564890
+
+[B113] Mirin AA Dimmock ME Jason LA .  Research update: the relation between ME/CFS disease burden and research funding in the USA .  Work . ( 2020 )  66 : 277 – 82 .  10.3233/WOR-203173 32568148
+
+[B114] Pretorius E Venter C Laubscher G Kotze M Moremi K Oladejo S Combined triple treatment of fibrin amyloid microclots and platelet pathology in individuals with long COVID/ post-acute sequelae of COVID-19 (PASC) can resolve their persistent symptoms . ( 2021 ).  10.21203/rs.3.rs-1205453/v1
+
+[B115] Nunes JM Kruger A Proal A Kell DB Pretorius E .  The occurrence of hyperactivated platelets and fibrinaloid microclots in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) .  Pharmaceuticals . ( 2022 )  15 : 931 .  10.3390/ph15080931 36015078 PMC9413879
+
+[B116] Swanepoel AC Visagie A de Lange Z Emmerson O Nielsen VG Pretorius E .  The clinical relevance of altered fibrinogen packaging in the presence of 17β-estradiol and progesterone .  Thromb Res . ( 2016 )  146 : 23 – 34 .  10.1016/j.thromres.2016.08.022 27566845
+
+[B117] Jing Y Run-Qian L Hao-Ran W Hao-Ran C Ya-Bin L Yang G Potential influence of COVID-19/ACE2 on the female reproductive system .  Mol Hum Reprod . ( 2020 )  26 : 367 – 73 .  10.1093/molehr/gaaa030 32365180 PMC7239105
+
+[B118] Buonsenso D Piazza M Boner AL Bellanti JA .  Long COVID: a proposed hypothesis-driven model of viral persistence for the pathophysiology of the syndrome .  Allergy Asthma Proc . ( 2022 )  43 : 187 – 93 .  10.2500/aap.2022.43.220018 35524358 PMC9106095
+
+[B119] Shultz SJ Sander TC Kirk SE Perrin DH .  Sex differences in knee joint laxity change across the female menstrual cycle .  J Sports Med Phys Fitness . ( 2005 )  45 : 594 – 603 . 16446695 PMC1890029
+
+[B120] Jeziorska M Salamonsen LA Woolley DE .  Mast cell and eosinophil distribution and activation in human endometrium throughout the menstrual cycle .  Biol Reprod . ( 1995 )  53 : 312 – 20 .  10.1095/biolreprod53.2.312 7492683
+
+[B121] Sugamata M Ihara T Uchiide I .  Increase of activated mast cells in human endometriosis .  Am J Reprod Immunol . ( 2005 )  53 : 120 – 5 .  10.1111/j.1600-0897.2005.00254.x 15727565
+
+[B122] Binda MM Donnez J Dolmans M-M .  Targeting mast cells: a new way to treat endometriosis .  Expert Opin Ther Targets . ( 2017 )  21 : 67 – 75 .  10.1080/14728222.2017.1260548 27841046
+
+[B123] Szewczyk G Pyzlak M Klimkiewicz J Smiertka W Miedzińska-Maciejewska M Szukiewicz D .  Mast cells and histamine: do they influence placental vascular network and development in preeclampsia? Mediators Inflamm . ( 2012 )  2012 : 307189 .  10.1155/2012/307189 22778495 PMC3388381
+
+[B124] Leonardi M Hicks C El-Assaad F El-Omar E Condous G .  Endometriosis and the microbiome: a systematic review .  BJOG Int J Obstet Gynaecol . ( 2020 )  127 : 239 – 49 .  10.1111/1471-0528.15916 31454452
+
+[B125] Ata B Yildiz S Turkgeldi E Brocal VP Dinleyici EC Moya A The endobiota study: comparison of vaginal, cervical and gut Microbiota between women with stage 3/4 endometriosis and healthy controls .  Sci Rep . ( 2019 )  9 : 2204 .  10.1038/s41598-019-39700-6 30778155 PMC6379373
+
+[B126] Vasundhara D Raju VN Hemalatha R Nagpal R Kumar M .  Vaginal & gut microbiota diversity in pregnant women with bacterial vaginosis & effect of oral probiotics: an exploratory study .  Indian J Med Res . ( 2021 )  153 : 492 – 502 .  10.4103/ijmr.IJMR_350_19 34380796 PMC8354056
+
+[B127] Byrne EH Farcasanu M Bloom SM Xulu N Xu J Hykes BL Antigen presenting cells link the female genital tract microbiome to mucosal inflammation, with hormonal contraception as an additional modulator of inflammatory signatures .  Front Cell Infect Microbiol . ( 2021 )  11 : 733619 .  10.3389/fcimb.2021.733619 34604114 PMC8482842
+
+[B128] Perrotta AR Borrelli GM Martins CO Kallas EG Sanabani SS Griffith LG The vaginal microbiome as a tool to predict rASRM stage of disease in endometriosis: a pilot study .  Reprod Sci . ( 2020 )  27 : 1064 – 73 .  10.1007/s43032-019-00113-5 32046455 PMC7539818
+
+[B129] Power ML Quaglieri C Schulkin J .  Reproductive microbiomes: a new thread in the microbial network .  Reprod Sci Thousand Oaks Calif . ( 2017 )  24 : 1482 – 92 .  10.1177/1933719117698577 28322134
+
+[B130] Hsieh T-C Edwards NC Bhattacharyya SK Nitschelm KD Burnett AL .  The epidemic of COVID-19-related erectile dysfunction: a scoping review and health care perspective .  Sex Med Rev . ( 2022 )  10 : 286 – 310 .  10.1016/j.sxmr.2021.09.002 34732316 PMC8450276
+
+[B131] Saini G Aneja R .  Cancer as a prospective sequela of long COVID-19 .  Bioessays . ( 2021 )  43 : 2000331 .  10.1002/bies.202000331 33914346 PMC8206711
+
+[B132] Mecha EO Njagi JN Makunja RN Omwandho COA Saunders PTK Horne AW .  Endometriosis among African women .  Reprod Fertil . ( 2022 )  3 : C40 – 3 .  10.1530/RAF-22-0040
+
+[B133] Bayliss K Riste L Fisher L Wearden A Peters S Lovell K Diagnosis and management of chronic fatigue syndrome/myalgic encephalitis in black and minority ethnic people: a qualitative study .  Prim Health Care Res Dev . ( 2014 )  15 : 143 – 55 .  10.1017/S1463423613000145 23702254
+
+[B134] Varma T Jones CP Oladele C Miller J .  Diversity in clinical research: public health and social justice imperatives .  J Med Ethics . ( 2022 )  49 : 200 – 3 .  10.1136/medethics-2021-108068 35428737
+
+[B135] Plesons M Patkar A Babb J Balapitiya A Carson F Caruso BA The state of adolescent menstrual health in low- and middle-income countries and suggestions for future action and research .  Reprod Health . ( 2021 )  18 : 31 .  10.1186/s12978-021-01082-2 33557877 PMC7869499
+
+[B136] Patterson EJ Becker A Baluran DA .  Gendered racism on the body: an intersectional approach to maternal mortality in the United States .  Popul Res Policy Rev . ( 2022 )  51 : 1261 – 94 .  10.1007/s11113-021-09691-2
+
+[B137] National Academies of Sciences E, Division H and M, Practice B on PH and PH, States C on C-BS to PHE in the U ,  Baciu A Negussie Y Geller A Weinstein JN. The state of health disparities in the United States .  Washington (DC) :  National Academies Press (US)  ( 2017 .  Available at: https://www.ncbi.nlm.nih.gov/books/NBK425844/ (Accessed December 2, 2022) .
+
+[B138] Zhang L Losin EAR Ashar YK Koban L Wager TD .  Gender biases in estimation of Others’ pain .  J Pain . ( 2021 )  22 : 1048 – 59 .  10.1016/j.jpain.2021.03.001 33684539 PMC8827218
+
+[B139] Chen EH Shofer FS Dean AJ Hollander JE Baxt WG Robey JL Gender disparity in analgesic treatment of emergency department patients with acute abdominal pain .  Acad Emerg Med . ( 2008 )  15 : 414 – 8 .  10.1111/j.1553-2712.2008.00100.x 18439195
+
+[B140] As-Sanie S Black R Giudice LC Gray Valbrun T Gupta J Jones B Assessing research gaps and unmet needs in endometriosis .  Am J Obstet Gynecol . ( 2019 )  221 : 86 – 94 .  10.1016/j.ajog.2019.02.033 30790565
+
+[B141] Sims OT Gupta J Missmer SA Aninye IO .  Stigma and endometriosis: a brief overview and recommendations to improve psychosocial well-being and diagnostic delay .  Int J Environ Res Public Health . ( 2021 )  18 : 8210 .  10.3390/ijerph18158210 34360501 PMC8346066
+
+[B142] Avnoon N .  Time for women-centred gynaecology .  Nat Rev Urol . ( 2022 )  19 : 689 – 90 .  10.1038/s41585-022-00656-4 36085514
+
+[B143] Au L Capotescu C Eyal G Finestone G .  Long COVID and medical gaslighting: dismissal, delayed diagnosis, and deferred treatment .  Ssm Qual Res Health . ( 2022 )  2 : 100167 .  10.1016/j.ssmqr.2022.100167 36092770 PMC9448633
+
+[B144] Agarwal SK Chapron C Giudice LC Laufer MR Leyland N Missmer SA Clinical diagnosis of endometriosis: a call to action .  Am J Obstet Gynecol . ( 2019 )  220 : 354.e1 – 354.e12 .  10.1016/j.ajog.2018.12.039 30625295
+
+[B145] Nacul L Authier FJ Scheibenbogen C Lorusso L Helland IB Martin JA European Network on myalgic encephalomyelitis/chronic fatigue syndrome (EUROMENE): expert consensus on the diagnosis, service provision, and care of people with ME/CFS in Europe .  Med Kaunas Lith . ( 2021 )  57 : 510 .  10.3390/medicina57050510 PMC8161074 34069603

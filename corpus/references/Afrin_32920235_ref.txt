@@ -1,0 +1,135 @@
+[bib0005] Abraham S.N. St John A.L. Mast cell-orchestrated immunity to pathogens Nat Rev Immunol 10 2010 440 452 20498670 10.1038/nri2782 PMC4469150
+
+[bib0010] Afrin L.B. Molderings G.J. A concise, practical guide to diagnostic assessment for mast cell activation disease World J Hematol 3 1 2014 1 17 10.5315/wjh.v3.i1.1 available at https://www.wjgnet.com/2218-6204/journal/v3/i1/index.htm PMC3069946 21418662
+
+[bib0015] Afrin L.B. Pöhlau D. Raithel M. Mast cell activation disease: an underappreciated cause of neurologic and psychiatric symptoms and diseases Brain Behav Immun 50 2015 314 321 10.1016/j.bbi.2015.07.002 26162709
+
+[bib0020] Afrin L.B. Butterfield J.H. Raithel M. Molderings G.J. Often seen, rarely recognized: mast cell activation disease–a guide to diagnosis and therapeutic options Ann Med 48 3 2016 190 201 10.3109/07853890.2016.1161231 27012973
+
+[bib0025] Afrin L.B. Mast cell activation disease and the modern epidemic of chronic inflammatory disease Transl Res 174 2016 33 59 10.1016/j.trsl.2016.01.003 26850903
+
+[bib0030] Afrin L.B. Cichocki F. Hoeschen A. Mast cell regulatory gene variants are common in mast cell activation syndrome Blood 128 22 2016 4878 10.1182/blood.V128.22.4878.4878
+
+[bib0035] Afrin L.B. Self S. Menk J. Lazarchick J. Characterization of mast cell activation syndrome Am J Med Sci 353 3 2017 207 215 10.1016/j.amjms.2016.12.013 28262205 PMC5341697
+
+[bib0040] Afrin L.B. Ackerley M.B. Bluestein L.S. Diagnosis of mast cell activation syndrome: a global “consensus-2” Diagnosis (Berl) 2020 10.1515/dx-2020-0005 /j/dx.ahead-of-print/dx-2020-0005/dx-2020-0005.xml [published online ahead of print, 22 April 2020] 32324159
+
+[bib0045] Akin C. Metcalfe D.D. The biology of Kit in disease and the application of pharmacogenetics J Allergy Clin Immunol 114 1 2004 13 20 10.1016/j.jaci.2004.04.046 15241338
+
+[bib0050] Almerie M.Q. Kerrigan D.D. The association between obesity and poor outcome after COVID-19 indicates a potential therapeutic role for Montelukast Med Hypotheses 143 2020 109883 10.1016/j.mehy.2020.109883 [published online ahead of print, 27 May 2020] 32492562 PMC7255216
+
+[bib0055] Altmüller J. Haenisch B. Kawalia A. Mutational profiling in the peripheral blood leukocytes of patients with systemic mast cell activation syndrome using next-generation sequencing Immunogenetics 69 6 2017 359 369 10.1007/s00251-017-0981-y 28386644
+
+[bib0060] Bhatraju P.K. Ghassemieh B.J. Nichols M. Covid-19 in critically Ill patients in the Seattle region–case series N Engl J Med 382 21 2020 2012 2022 10.1056/NEJMoa2004500 32227758 PMC7143164
+
+[bib0065] Bulut C. Kato Y. Epidemiology of COVID-19 Turk J Med Sci 50 SI-1 2020 563 570 10.3906/sag-2004-172 32299206 PMC7195982
+
+[bib0070] Chen T. Wu D. Chen H. Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study BMJ 368 2020 m1091 10.1136/bmj.m1091 [published correction appears in BMJ. 2020;368:m1295] 32217556 PMC7190011
+
+[bib0075] Colunga Biancatelli R.M.L. Berrill M. Catravas J.D. Marik P.E. Quercetin and vitamin C: an experimental, synergistic therapy for the prevention and treatment of SARS-CoV-2 related disease (COVID-19) Front Immunol 11 2020 1451 10.3389/fimmu.2020.01451 32636851 PMC7318306
+
+[bib0080] Criado P.R. Pagliari C. Criado R.F.J. Marques G.F. Belda W. Jr. What the physicians should know about mast cells, dendritic cells, urticaria, and omalizumab during COVID-19 or asymptomatic infections due to SARS-CoV-2? Dermatol Ther 2020 e14068 10.1111/dth.14068 [published online ahead of print, 25 July 2020] 32713127
+
+[bib0085] Fominskiy E.V. Scandroglio A.M. Monti G. Prevalence, characteristics, risk factors, and outcomes of invasively ventilated COVID-19 patients with acute kidney injury and renal replacement therapy Blood Purif 2020 1 8 10.1159/000508657 [published online ahead of print, 13 July 2020] PMC7445373 32659757
+
+[bib0090] Grasselli G. Zangrillo A. Zanella A. Baseline characteristics and outcomes of 1591 patients infected with SARS-CoV-2 admitted to ICUs of the Lombardy Region, Italy JAMA 323 16 2020 1574 1581 10.1001/jama.2020.5394 [published online ahead of print, 06 April 2020] 32250385 PMC7136855
+
+[bib0095] Freedberg D.E. Conigliaro J. Wang T.C. Famotidine use is associated with improved clinical outcomes in hospitalized COVID-19 patients: a propensity score matched retrospective cohort study Gastroenterology 2020 10.1053/j.gastro.2020.05.053 S0016-5085(20)34706-5 [published online ahead of print, 22 May 2020] PMC7242191 32446698
+
+[bib0100] George P.M. Wells A.U. Jenkins R.G. Pulmonary fibrosis and COVID-19: the potential role for antifibrotic therapy Lancet Respir Med 2020 10.1016/S2213-2600(20)30225-3 [published online ahead of print, 15 May 2020] PMC7228727 32422178
+
+[bib0105] Gigante A. Aquili A. Farinelli L. Sodium chromo-glycate and palmitoylethanolamide: a possible strategy to treat mast cell-induced lung inflammation in COVID-19 Med Hypotheses 143 2020 109856 10.1016/j.mehy.2020.109856 [published online ahead of print, 19 May 2020] 32460208 PMC7236677
+
+[bib0110] Goker Bagca B. Biray Avci C. The potential of JAK/STAT pathway inhibition by ruxolitinib in the treatment of COVID-19 Cytokine Growth Factor Rev 2020 10.1016/j.cytogfr.2020.06.013 S1359-6101(20)30158-1 [published online ahead of print, 20 June 2020] PMC7305753 32636055
+
+[bib0115] Gómez-Pastora J. Weigand M. Kim J. Hyperferritinemia in critically ill COVID-19 patients–is ferritin the product of inflammation or a pathogenic mediator? Clin Chim Acta 509 2020 249 251 10.1016/j.cca.2020.06.033 [published online ahead of print, 21 June 2020] 32579952 PMC7306200
+
+[bib0120] Haenisch B. Nöthen M.M. Molderings G.J. Systemic mast cell activation disease: the role of molecular genetic alterations in pathogenesis, heritability and diagnostics Immunology 137 3 2012 197 205 10.1111/j.1365-2567.2012.03627.x 22957768 PMC3482677
+
+[bib0125] Haenisch B. Fröhlich H. Herms S. Molderings G.J. Evidence for contribution of epigenetic mechanisms in the pathogenesis of systemic mast cell activation disease Immunogenetics 66 5 2014 287 297 10.1007/s00251-014-0768-3 24622794
+
+[bib0130] Hays P. Clinical sequelae of the novel coronavirus: does COVID-19 infection predispose patients to cancer? Future Oncol 16 20 2020 1463 1474 10.2217/fon-2020-0300 32456461 PMC7255429
+
+[bib0135] Hermans M. van Lennep J.R. van Daele P. Mast cells in cardiovascular disease: from bench to bedside Int J Mol Sci 20 2019 3395 10.3390/ijms20143395 PMC6678575 31295950
+
+[bib0140] Ibelgaufts H. “Mast Cells” in COPE: Cytokines and Cells Online Pathfinder Encyclopaedia 2020 Available at: http://www.cells-talk.com/index.php/page/copelibrary?key=mast%20cells [Accessed 2 August 2020]
+
+[bib0145] Kempuraj D. Selvakumar G.P. Ahmed M.E. COVID-19, mast cells, cytokine storm, psychological stress, and neuroinflammation Neuroscientist 2020 10.1177/1073858420941476 [published online ahead of print, 18 July 2020] 32684080
+
+[bib0150] Kılınc E. Kılınc Y.B. Mast cell stabilizers as a supportive therapy can contribute to alleviate fatal inflammatory responses and severity of pulmonary complications in COVID-19 infection Anadolu Kliniği Tıp Bilimleri Dergisi 2020 111 119
+
+[bib0155] Kritas S.K. Ronconi G. Caraffa A. Gallenga C.E. Ross R. Conti P. Mast cells contribute to coronavirus-induced inflammation: new anti-inflammatory strategy J Biol Regul Homeost Agents 34 1 2020 10.23812/20-Editorial-Kritas [published online ahead of print, 04 February 2020] 32013309
+
+[bib0160] Krystel-Whittemore M. Dileepan K.N. Wood J.G. The mast cell: a multi-functional mast cell Front Immunol 6 2016 620 26779180 10.3389/fimmu.2015.00620 PMC4701915
+
+[bib0165] Leask A. COVID-19: is fibrosis the killer? J Cell Commun Signal 14 2 2020 255 10.1007/s12079-020-00569-0 32406037 PMC7220615
+
+[bib0170] Lechowicz K. Drożdżal S. Machaj F. COVID-19: the potential treatment of pulmonary fibrosis associated with SARS-CoV-2 infection J Clin Med 9 6 2020 1917 10.3390/jcm9061917 PMC7356800 32575380
+
+[bib0175] Luo W. Li Y.X. Jiang L.J. Chen Q. Wang T. Ye D.W. Targeting JAK-STAT signaling to control cytokine release syndrome in COVID-19 Trends Pharmacol Sci 41 8 2020 531 543 10.1016/j.tips.2020.06.007 32580895 PMC7298494
+
+[bib0180] Mangalmurti N. Hunter C.A. Cytokine storms: understanding COVID-19 Immunity 2020 10.1016/j.immunol.2020.06.017 PMC7321048 32610079
+
+[bib0185] Mehta P. McAuley D.F. Brown M. COVID-19: consider cytokine storm syndromes and immunosuppression Lancet 395 10229 2020 1033 1034 10.1016/S0140-6736(20)30628-0 32192578 PMC7270045
+
+[bib0190] Meyer L. Verbist K.C. Albeituni S. JAK/STAT pathway inhibition sensitizes CD8 T cells to dexamethasone-induced apoptosis in hyperinflammation Blood 2020 10.1182/blood.2020006075 [published online ahead of print, 12 June 2020] PMC7414590 32530039
+
+[bib0195] Molderings G.J. Kolck U.W. Scheurlen C. Brüss M. Homann J. Von Kügelgen I. Multiple novel alterations in Kit tyrosine kinase in patients with gastrointestinally pronounced systemic mast cell activation disorder Scand J Gastroenterol 42 9 2007 1045 1053 10.1080/00365520701245744 17710669
+
+[bib0200] Molderings G.J. Meis K. Kolck U.W. Homann J. Frieling T. Comparative analysis of mutation of tyrosine kinase kit in mast cells from patients with systemic mast cell activation syndrome and healthy subjects Immunogenetics 62 11-12 2010 721 727 10.1007/s00251-010-0474-8 20838788
+
+[bib0205] Molderings G.J. Haenisch B. Bogdanow M. Fimmers R. Nöthen M.M. Familial occurrence of systemic mast cell activation disease PLoS One 8 9 2013 e76241 10.1371/journal.pone.0076241 PMC3787002 24098785
+
+[bib0210] Molderings G.J. The genetic basis of mast cell activation disease–looking through a glass darkly Crit Rev Oncol Hematol 93 2 2015 75 89 10.1016/j.critrevonc.2014.09.001 25305106
+
+[bib0215] Molderings G.J. Transgenerational transmission of systemic mast cell activation disease-genetic and epigenetic features Transl Res 174 2016 86 97 10.1016/j.trsl.2016.01.001 26880691
+
+[bib0220] Mukai K. Tsai M. Saito H. Mast cells as sources of cytokines, chemokines and growth factors Immunol Rev 282 2018 121 150 29431212 10.1111/imr.12634 PMC5813811
+
+[bib0225] https://clinicaltrials.gov/ct2/show/NCT04377789 Onal H. Effect of Quercetin on Prophylaxis and Treatment of COVID-19. 2020. Available at: [Accessed 2 August 2020].
+
+[bib0230] Rabec C. Gonzalez-Bermejo J. Respiratory Support, Chronic Care Group GAVO 2 of the French Society of Respiratory Diseases SPLF GAVO 2 collaborators Respiratory support in patients with COVID-19 (outside intensive care unit). A position paper of the Respiratory Support and Chronic Care Group of the French Society of Respiratory Diseases [published online ahead of print, 2020 May 27] Respir Med Res 78 2020 100768 10.1016/j.resmer.2020.100768 32707480 PMC7255256
+
+[bib0235] Ramos L. Peña G. Cai B. Deitch E.A. Ulloa L. Mast cell stabilization improves survival by preventing apoptosis in sepsis J Immunol 185 1 2010 709 716 20519642 10.4049/jimmunol.1000273 PMC3083453
+
+[bib0240] RECOVERY Collaborative Group Horby P. Lim W.S. Dexamethasone in hospitalized patients with Covid-19-preliminary report N Engl J Med. 2020 10.1056/NEJMoa2021436 [published online ahead of print, 17 July 2020] PMC7383595 32678530
+
+[bib0245] Romero-Sánchez C.M. Díaz-Maroto I. Fernández-Díaz E. Neurologic manifestations in hospitalized patients with COVID-19: the ALBACOVID registry Neurology 2020 10.1212/WNL.0000000000009937 [published online ahead of print, 01 June 2020] PMC7668545 32482845
+
+[bib0250] Ruan Q. Yang K. Wang W. Jiang L. Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China Intensive Care Med 46 5 2020 846 848 10.1007/s00134-020-05991-x [Supplemented by: Ruan Q., Yang K., Wang W., Jiang L., Song J. Correction to: Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020;46(6):1294–1297. DOI: 10.1007/s00134-020-06028-z.] 32125452 PMC7080116
+
+[bib0255] Ruscitti P. Berardicurti O. Di Benedetto P. Severe COVID-19, another piece in the Puzzle of the hyperferritinemic syndrome. An immunomodulatory perspective to alleviate the storm Front Immunol 11 2020 1130 10.3389/fimmu.2020.01130 32574264 PMC7270352
+
+[bib0260] Scala S. Pacelli R. Fighting the host reaction SARS-CoV-2 in critically ill patients: the possible contribution of off-label drugs Front Immunol 11 2020 1201 10.3389/fimmu.2020.01201 32574268 PMC7267058
+
+[bib0265] Seif F. Aazami H. Khoshmirsafa M. JAK inhibition as a new treatment strategy for patients with COVID-19 Int Arch Allergy Immunol 181 6 2020 467 475 10.1159/000508247 32392562 PMC7270061
+
+[bib0270] Sepay N. Sepay N. Al Hoque A. Mondal R. Halder U.C. Muddassir M. In silico fight against novel coronavirus by finding chromone derivatives as inhibitor of coronavirus main proteases enzyme Struct Chem 2020 1 10 10.1007/s11224-020-01537-5 [published online ahead of print, 13 May 2020] PMC7220622 32412544
+
+[bib0275] Sestili P. Stocchi V. Repositioning chromones for early anti-inflammatory treatment of COVID-19 Front Pharmacol 11 2020 854 10.3389/fphar.2020.00854 32581809 PMC7289983
+
+[bib0280] Shi S. Qin M. Shen B. Association of cardiac injury with mortality in hospitalized patients with COVID-19 in Wuhan, China JAMA Cardiol 5 7 2020 802 810 10.1001/jamacardio.2020.0950 [published online ahead of print, 25 Mar 2020] 32211816 PMC7097841
+
+[bib0285] https://clinicaltrials.gov/ct2/show/NCT04365985 Sims M. Study of Immunomodulation Using Naltrexone and Ketamine for COVID-19 (SINK COVID-19). 2020. Available at [Accessed 2 August 2020].
+
+[bib0290] Spagnolo P. Balestro E. Aliberti S. Pulmonary fibrosis secondary to COVID-19: a call to arms? Lancet Respir Med 2020 10.1016/S2213-2600(20)30222-8 [published online ahead of print, 15 May 2020] PMC7228737 32422177
+
+[bib0295] Spinelli F.R. Conti F. Gadina M. HiJAKing SARS-CoV-2? The potential role of JAK inhibitors in the management of COVID-19 Sci Immunol 5 47 2020 eabc5367 10.1126/sciimmunol.abc5367 32385052
+
+[bib0300] St John A.L. Rathore A.P. Yap H. Immune surveillance by mast cells during dengue infection promotes natural killer (NK) and NKT-cell recruitment and viral clearance Proc Natl Acad Sci U S A 108 2011 9190 9195 21576486 10.1073/pnas.1105079108 PMC3107258
+
+[bib0305] Sun X. Wang T. Cai D. Cytokine storm intervention in the early stages of COVID-19 pneumonia Cytokine Growth Factor Rev 2020 S1359 S6101 10.1016/j.cytogfr.2020.04.002 PMC7182527 32360420
+
+[bib0310] Theoharides T.C. COVID-19, pulmonary mast cells, cytokine storms, and beneficial actions of luteolin Biofactors 46 3 2020 306 308 10.1002/biof.1633 32339387 PMC7267424
+
+[bib0315] Troyer E. Kohn J.N. Hong S. Are we facing a crashing wave of neuropsychiatric sequelae of COVID-19? Neuropsychiatric symptoms and potential immunologic mechanisms Brain Behav Immun 87 2020 34 39 10.1016/j.bbi.2020.04.027 32298803 PMC7152874
+
+[bib0320] Valent P. Akin C. Bonadonna P. Risk and management of patients with mastocytosis and MCAS in the SARS-CoV-2 (COVID-19) pandemic: expert opinions J Allergy Clin Immunol 2020 10.1016/j.jaci.2020.06.009 S0091-6749(20)30839-3 [published online ahead of print, 2020 Jun 16] PMC7297685 32561389
+
+[bib0325] Viecca M. Radovanovic D. Forleo G.B. Santus P. Enhanced platelet inhibition treatment improves hypoxemia in patients with severe Covid-19 and hypercoagulability. A case control, proof of concept study Pharmacol Res 158 2020 104950 10.1016/j.phrs.2020.104950 32450344 PMC7244436
+
+[bib0330] Wang Y. Wang Y. Chen Y. Qin Q. Unique epidemiological and clinical features of the emerging 2019 novel coronavirus pneumonia (COVID-19) implicate special control measures J Med Virol 92 6 2020 568 576 10.1002/jmv.25748 32134116 PMC7228347
+
+[bib0335] Zhou F. Yu T. Du R. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study Lancet 395 10229 2020 1054 1062 10.1016/S0140-6736(20)30566-3 [published correction appears in Lancet. 2020;395(10229):1038] 32171076 PMC7270627
+
+[bib0340] Zhou Z. Ren L. Zhang L. Heightened innate immune responses in the respiratory tract of COVID-19 patients Cell Host Microbe 27 6 2020 10.1016/j.chom.2020.04.017 883–890.e2. PMC7196896 32407669

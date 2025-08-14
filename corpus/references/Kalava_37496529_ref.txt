@@ -1,0 +1,21 @@
+[REF1] Stellate ganglion block for anosmia and dysgeusia due to long COVID Cureus Chauhan G Upadhyay A Khanduja S Emerick T 0 14 2022 10.7759/cureus.27779 PMC9450932 36106285
+
+[REF2] Postinfectious olfactory loss: a retrospective study on 791 patients Laryngoscope Cavazzana A Larsson M Münch M Hähner A Hummel T 10 15 128 2018 28556265 10.1002/lary.26606
+
+[REF3] Prevalence of anosmia and ageusia symptoms among long-term effects of COVID-19 Oral Dis Moraschini V Reis D Sacco R Calasans-Maia MD 2533 2537 28 Suppl 2 2022 34002923 10.1111/odi.13919 PMC8242542
+
+[REF4] A review of stellate ganglion block as an adjunctive treatment modality Cureus Kirkpatrick K Khan MH Deng Y Shah KB 0 15 2023 10.7759/cureus.35174 PMC10029323 36949968
+
+[REF5] Stellate ganglion block reduces symptoms of long COVID: a case series J Neuroimmunol Liu LD Duricka DL 577784 362 2022 34922127 10.1016/j.jneuroim.2021.577784 PMC8653406
+
+[REF6] Prevalence and recovery from olfactory and gustatory dysfunctions in COVID-19 infection: a prospective multicenter study Am J Rhinol Allergy Chary E Carsuzaa F Trijolet JP 686 693 34 2020 32527141 10.1177/1945892420930954 PMC7418272
+
+[REF7] Management of post-infectious anosmia and hyposmia: a systematic review Ann Otol Rhinol Laryngol Nag AK Saltagi AK Saltagi MZ 806 817 132 2023 35959948 10.1177/00034894221118186
+
+[REF8] Dysautonomia: an overlooked neurological manifestation in a critically ill COVID-19 patient Am J Med Sci Eshak N Abdelnabi M Ball S Elgwairi E Creed K Test V Nugent K 427 429 360 2020 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7366085/ 32739039 10.1016/j.amjms.2020.07.022 PMC7366085
+
+[REF9] Reflex control of immunity Nat Rev Immunol Tracey KJ 418 428 9 2009 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4535331/ 19461672 10.1038/nri2566 PMC4535331
+
+[REF10] COVID‐19 is getting on our nerves: sympathetic neural activity and haemodynamics in young adults recovering from SARS‐CoV‐2 J Physiol Stute NL Stickford JL Province VM Augenreich MA Ratchford SM Stickford AS 4269 4285 599 2021 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8447023/ 34174086 10.1113/JP281888 PMC8447023
+
+[REF11] Olfactory training for postviral olfactory dysfunction: systematic review and meta-analysis Otolaryngol Head Neck Surg Kattar N Do TM Unis GD Migneron MR Thomas AJ McCoul ED 244 254 164 2021 32660334 10.1177/0194599820943550

@@ -1,0 +1,27 @@
+[r1] Italian National Institute of Health (ISS). EpiCentro. Monitoraggio delle varianti del virus SARS-CoV-2 di interesse in sanità pubblica in Italia – Indagini rapide. [Monitoring of the SARS-CoV-2 variants of interest for public health in Italy – rapid investigations]. Italian. Rome: ISS. [Accessed: 1 Feb 2023]. Available from:  https://www.epicentro.iss.it/coronavirus/sars-cov-2-monitoraggio-varianti-indagini-rapide
+
+[r2] Italian Government, Presidency of the Council of Ministers. Report vaccini anti COVID19. [COVID-19 vaccination report]. Rome: Italian Government; 2020. Italian. Available from:  https://www.governo.it/it/dipartimenti/commissario-straordinario-lemergenza-covid-19/15974
+
+[r3] Italian National Institute of Health (ISS). COVID-19 integrated surveillance: key national data. Rome: ISS. [Accessed: 1 Feb 2023]. Available from:  https://www.epicentro.iss.it/en/coronavirus/sars-cov-2-integrated-surveillance-data
+
+[r4] European Centre for Disease Prevention and Control (ECDC). Case definition for coronavirus disease 2019 (COVID-19), as of 3 December 2020. Stockholm: ECDC. [Accessed: 1 Feb 2023]. Available from:  https://www.ecdc.europa.eu/en/covid-19/surveillance/case-definition
+
+[r5] World Health Organization (WHO). International guidelines for certification and classification (coding) of COVID-19 as cause of death. Geneva: WHO; 2020. Available from:  https://www.who.int/publications/m/item/international-guidelines-for-certification-and-classification-(coding)-of-covid-19-as-cause-of-death
+
+[r6] European Medicines Agency (EMA). Adapted vaccine targeting BA.4 and BA.5 Omicron variants and original SARS-CoV-2 recommended for approval. Amsterdam: EMA; 2022. Available from:  https://www.aifa.gov.it/documents/20142/1621464/2022.09.13_com-EMA_raccomandazione_vaccino_adattato_Comirnaty_B4-5_EN.pdf
+
+[r7] Robert Koch Institute (RKI). STIKO: 24. Aktualisierung der COVID-19-Impfempfehlung. [STIKO: 24th update of the COVID-19 vaccination recmmendations]. Epid Bull. 2022;50. German. Available from:  https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2022/Ausgaben/50_22.pdf?__blob=publicationFile
+
+[r8] Vaccination Info Service. Le vaccin contre La Covid-19. [The COVID-19 vaccine]. Paris: Santé publique France. [Accessed: 1 Feb 2023]. French. Available from:  https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Covid-19
+
+[r9] Sistema Nacional de Salud. Consejo Interterritorial. Actualización de las recomendaciones de vacunación frente a COVID-19 para el otoño-invierno en España. [Update on the recommendations of vaccination against COVID-19 for autumn-winter in Spain]. Madrid: Ministerio de Sanidad. [Accessed: 1 Feb 2023]. Spanish. Available from:  https://www.sanidad.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/covid19/docs/Recomendaciones_vacunacion_Otono_Invierno_Covid.pdf
+
+[r10] Italian Medicines Agency (AIFA). Modifica della determina n. DG/153/2022 dell'11 aprile 2022 di inserimento dell'indicazione «seconda dose booster» dei medicinali «Comirnaty» e «Spikevax» nell'elenco dei medicinali ai sensi della legge 23 dicembre 1996, n. 648. (Determina n. DG/301/2022). (22A04093) (GU Serie Generale n.161 del 12-07-2022). [Amendment of resolution no. DG/153/2022 of 11 April 2022 on the inclusion of the indication ”second booster dose” of the medicines ”Comirnaty” and ”Spikevax” in the list of medicines pursuant to the law of 23 December 1996, n. 648. (Decision no. DG/301/2022). (22A04093) (GU General Series n.161 of 12-07-2022)]. Official Gazette of the Italian Republic. 2022;163(161):14. Italian. Available from:  https://www.gazzettaufficiale.it/eli/gu/2022/07/12/161/sg/pdf
+
+[r11] Bobrovitz N Ware H Ma X Li Z Hosseini R Cao C Protective effectiveness of previous SARS-CoV-2 infection and hybrid immunity against the omicron variant and severe disease: a systematic review and meta-regression. Lancet Infect Dis .  2023 ; S1473-3099(22)00801-5 .  10.1016/S1473-3099(22)00801-5 36681084 PMC10014083
+
+[r12] Malato J Ribeiro RM Fernandes E Leite PP Casaca P Antunes C Stability of hybrid versus vaccine immunity against BA.5 infection over 8 months. Lancet Infect Dis .  2023 ; 23 ( 2 ): 148 - 50 .  10.1016/S1473-3099(22)00833-7 36620968 PMC9815828
+
+[r13] Hansen CH Friis NU Bager P Stegger M Fonager J Fomsgaard A Risk of reinfection, vaccine protection, and severity of infection with the BA.5 omicron subvariant: a nation-wide population-based study in Denmark. Lancet Infect Dis .  2023 ; 23 ( 2 ): 167 - 76 .  10.1016/S1473-3099(22)00595-3 36270311 PMC9578720
+
+[r14] Italian Ministry of Health. Avvio della somministrazione di dosi “booster” nell’ambito della campagna di vaccinazione anti SARS-CoV-2/COVID-19. [Start of the administration of booster doses as part of the anti-SARS-CoV-2/COVID-19 vaccination campaign]. Rome: Ministero della Salute; 2021. Italian. Available from:  https://www.trovanorme.salute.gov.it/norme/renderNormsanPdf?anno=2021&codLeg=82953&parte=1%20&serie=null

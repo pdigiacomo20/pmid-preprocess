@@ -1,0 +1,358 @@
+[R1] Camina-Tato M Fernandez M Morcillo-Suarez C Navarro A Julia E Edo MC Genetic association of CASP8 polymorphisms with primary progressive multiple sclerosis J Neuroimmunol 2010 222 1-2 70 5 10.1016/j.jneuroim.2010.03.003 20363033
+
+[R2] Hasan KM Walimuni IS Abid H Datta S Wolinsky JS Narayana PA Human brain atlas-based multimodal MRI analysis of volumetry, diffusimetry, relaxometry and lesion distribution in multiple sclerosis patients and healthy adult controls: Implications for understanding the pathogenesis of multiple sclerosis and consolidation of quantitative MRI results in MS J Neurol Sci 2012 313 1-2 99 109 10.1016/j.jns.2011.09.015 21978603 PMC3254796
+
+[R3] Franklin RJ Ffrench-Constant C Remyelination in the CNS: From biology to therapy Nat Rev Neurosci 2008 9 11 839 55 10.1038/nrn2480 18931697
+
+[R4] Fancy SP Kotter MR Harrington EP Huang JK Zhao C Rowitch DH Overcoming remyelination failure in multiple sclerosis and other myelin disorders Exp Neurol 2010 225 1 18 23 10.1016/j.expneurol.2009.12.020 20044992
+
+[R5] Franklin RJ Kotter MR The biology of CNS remyelination: The key to therapeutic advances J Neurol 2008 255 Suppl 1 19 25 10.1007/s00415-008-1004-6 18317673
+
+[R6] Fancy SP Zhao C Franklin RJ Increased expression of Nkx2.2 and Olig2 identifies reactive oligodendrocyte progenitor cells responding to demyelination in the adult CNS Mol Cell Neurosci 2004 27 3 247 54 10.1016/j.mcn.2004.06.015 15519240
+
+[R7] Gensert JM Goldman JE Endogenous progenitors remyelinate demyelinated axons in the adult CNS Neuron 1997 19 1 197 203 10.1016/S0896-6273(00)80359-1 9247275
+
+[R8] Nazm Bojnordi M Ghasemi HH Akbari E Remyelination after lysophosphatidyl choline-induced demyelination is stimulated by bone marrow stromal cell-derived oligoprogenitor cell transplantation Cells Tissues Organs 2014 200 5 300 6 10.1159/000437350 26372950
+
+[R9] Bjartmar C Trapp BD Axonal and neuronal degeneration in multiple sclerosis: Mechanisms and functional consequences Curr Opin Neurol 2001 14 3 271 8 10.1097/00019052-200106000-00003 11371748
+
+[R10] Nazm Bojnordi M Movahedin M Tiraihi T Javan M Ghasemi Hamidabadi H Oligoprogenitor cells derived from spermatogonia stem cells improve remyelination in demyelination model Mol Biotechnol 2014 56 5 387 93 10.1007/s12033-013-9722-0 24282061
+
+[R11] Pourabdolhossein F, Hamidabadi HG, Bojnordi MN, Mojaverrostami S. Stem cell therapy: A promising therapeutic approach for multiple sclerosis. In: Zagon IS, McLaughlin PJ, editors. Multiple sclerosis: Perspectives in treatment and pathogenesis. Brisbane (AU): Codon Publications; 2017. P. 85-108.
+ 29261262
+
+[R12] Herberts CA Kwa MS Hermsen HP Risk factors in the development of stem cell therapy J Transl Med 2011 9 1 29 10.1186/1479-5876-9-29 21418664 PMC3070641
+
+[R13] Sanganalmath SK Bolli R Cell therapy for heart failure: A comprehensive overview of experimental and clinical studies, current challenges, and future directions Circ Res 2013 113 6 810 34 10.1161/CIRCRESAHA.113.300219 23989721 PMC3892665
+
+[R14] Kasarełło K Cudnoch-Jędrzejewska A Członkowski A Mirowska-Guzel D Mechanism of action of three newly registered drugs for multiple sclerosis treatment Pharmacol Rep 2017 69 4 702 8 10.1016/j.pharep.2017.02.017 28550802
+
+[R15] Katsavos S Anagnostouli M Biomarkers in multiple sclerosis: An up-to-date overview Mult Scler Int 2013 2013 340508 10.1155/2013/340508 23401777 PMC3564381
+
+[R16] Salvetti M Landsman D Schwarz-Lam P Comi G Thompson AJ Fox RJ Progressive MS: From pathophysiology to drug discovery Mult Scler 2015 21 11 1376 84 10.1177/1352458515603802 26362902
+
+[R17] de Jong HJI Kingwell E Shirani A Cohen Tervaert JW Hupperts R Zhao Y Evaluating the safety of β-interferons in MS: A series of nested case-control studies Neurology 2017 88 24 2310 20 10.1212/WNL.0000000000004037 28500224 PMC5567323
+
+[R18] Kim S Chang L Weinstock-Guttman B Gandhi S Jakimovski D Carl E Complementary and alternative medicine usage by multiple sclerosis patients: Results from a prospective clinical study J Altern Complement Med 2018 24 6 596 602 10.1089/acm.2017.0268 29498537 PMC6006417
+
+[R19] Dayapoglu N Tan M Use of complementary and alternative medicine among people with multiple sclerosis in eastern turkey Neurology Asia 2016 21 1 63 71
+
+[R20] Mikaili P Mojaverrostami S Moloudizargari M Aghajanshakeri S Pharmacological and therapeutic effects of mentha longifolia L. And its main constituent, menthol Anc Sci Life 2013 33 2 131 8 10.4103/0257-7941.139059 25284948 PMC4171855
+
+[R21] Agyare C Spiegler V Asase A Scholz M Hempel G Hensel A An ethnopharmacological survey of medicinal plants traditionally used for cancer treatment in the Ashanti region, ghana J Ethnopharmacol 2018 212 137 52 10.1016/j.jep.2017.10.019 29066406
+
+[R22] Dehghan-Shahreza F Beladi-Mousavi SS Rafieian-Kopaei M Medicinal plants and diabetic kidney disease; an updated review on the recent findings Immunopathol Persa 2016 2 1 e04
+
+[R23] Mohajeri M Sadeghizadeh M Najafi F Javan M Polymerized nano-curcumin attenuates neurological symptoms in eae model of multiple sclerosis through down regulation of inflammatory and oxidative processes and enhancing neuroprotection and myelin repair Neuropharmacology 2015 99 156 67 10.1016/j.neuropharm.2015.07.013 26211978
+
+[R24] Piao Y Liang X Chinese medicine in diabetic peripheral neuropathy: Experimental research on nerve repair and regeneration Evid Based Complement Alternat Med 2012 2012 191632 10.1155/2012/191632 22927874 PMC3426291
+
+[R25] Kaplan M Mutlu EA Benson M Fields JZ Banan A Keshavarzian A Use of herbal preparations in the treatment of oxidant-mediated inflammatory disorders Complement Ther Med 2007 15 3 207 16 10.1016/j.ctim.2006.06.005 17709066
+
+[R26] Olsen SA A review of complementary and alternative medicine (CAM) by people with multiple sclerosis Occup Ther Int 2009 16 1 57 70 10.1002/oti.266 19222053
+
+[R27] Miller RE An investigation into the management of the spasticity experienced by some patients with multiple sclerosis using acupuncture based on traditional chinese medicine Complement Ther Med 1996 4 1 58 62 10.1016/S0965-2299(96)80058-6
+
+[R28] Song L Zhou QH Wang HL Liao FJ Hua L Zhang HF Chinese herbal medicine adjunct therapy in patients with acute relapse of multiple sclerosis: A systematic review and meta-analysis Complement Ther Med 2017 31 71 81 10.1016/j.ctim.2017.02.004 28434474
+
+[R29] Claflin SB van der Mei IAF Taylor BV Complementary and alternative treatments of multiple sclerosis: A review of the evidence from 2001 to 2016 J Neurol Neurosurg Psychiatry 2018 89 1 34 41 10.1136/jnnp-2016-314490 28768821
+
+[R30] Beaubrun G Gray GE A review of herbal medicines for psychiatric disorders Psychiatr Serv 2000 51 9 1130 4 10.1176/appi.ps.51.9.1130 10970915
+
+[R31] Wesnes KA Ward T McGinty A Petrini O The memory enhancing effects of a ginkgo biloba/panax ginseng combination in healthy middle-aged volunteers Psychopharmacology (Berl) 2000 152 4 353 61 10.1007/s002130000533 11140327
+
+[R32] Le Bars PL Katz MM Berman N Itil TM Freedman AM Schatzberg AF A placebo-controlled, double-blind, randomized trial of an extract of ginkgo biloba for dementia JAMA 1997 278 16 1327 32 10.1001/jama.1997.03550160047037 9343463
+
+[R33] Venkatesan R Ji E Kim SY Phytochemicals that regulate neurodegenerative disease by targeting neurotrophins: A comprehensive review Biomed Res Int 2015 2015 814068 10.1155/2015/814068 26075266 PMC4446472
+
+[R34] Johnson SK Diamond BJ Rausch S Kaufman M Shiflett SC Graves L The effect of Ginkgo biloba on functional measures in multiple sclerosis: A pilot randomized controlled trial Explore (NY) 2006 2 1 19 24 10.1016/j.explore.2005.10.007 16781604
+
+[R35] Braquet P Esanu A Buisine E Hosford D Broquet C Koltai M Recent progress in ginkgolide research Med Res Rev 1991 11 3 295 355 10.1002/med.2610110303 1647474
+
+[R36] Yadav V Bever C Jr Bowen J Bowling A Weinstock-Guttman B Cameron M Summary of evidence-based guideline: Complementary and alternative medicine in multiple sclerosis: report of the guideline development subcommittee of the American Academy Of Neurology Neurology 2014 82 12 1083 92 10.1212/WNL.0000000000000250 24663230 PMC3962995
+
+[R37] Lovera J Bagert B Smoot K Morris CD Frank R Bogardus K Ginkgo biloba for the improvement of cognitive performance in multiple sclerosis: A randomized, placebo-controlled trial Mult Scler 2007 13 3 376 85 10.1177/1352458506071213 17439907
+
+[R38] Haniadka R Rajeev AG Palatty PL Arora R Baliga MS Zingiber officinale (ginger) as an anti-emetic in cancer chemotherapy: A review J Altern Complement Med 2012 18 5 440 4 10.1089/acm.2010.0737 22540971
+
+[R39] Palatty PL Haniadka R Valder B Arora R Baliga MS Ginger in the prevention of nausea and vomiting: A review Crit Rev Food Sci Nutr 2013 53 7 659 69 10.1080/10408398.2011.553751 23638927
+
+[R40] Surh YJ Anti-tumor promoting potential of selected spice ingredients with antioxidative and anti-inflammatory activities: A short review Food Chem Toxicol 2002 40 8 1091 7 10.1016/S0278-6915(02)00037-6 12067569
+
+[R41] Eguchi A Murakami A Ohigashi H Novel bioassay system for evaluating anti-oxidative activities of food items: Use of basolateral media from differentiated Caco-2 cells Free Radic Res 2005 39 12 1367 75 10.1080/10715760500045624 16298867
+
+[R42] Haniadka R Saldanha E Sunita V Palatty PL Fayad R Baliga MS A review of the gastroprotective effects of ginger (Zingiber officinale Roscoe) Food Funct 2013 4 6 845 55 10.1039/c3fo30337c 23612703
+
+[R43] Jafarzadeh A Mohammadi-Kordkhayli M Ahangar-Parvin R Azizi V Khoramdel-Azad H Shamsizadeh A Ginger extracts influence the expression of IL-27 and IL-33 in the central nervous system in experimental autoimmune encephalomyelitis and ameliorates the clinical symptoms of disease J Neuroimmunol 2014 276 1-2 80 8 10.1016/j.jneuroim.2014.08.614 25175065
+
+[R44] Ha SK Moon E Ju MS Kim DH Ryu JH Oh MS 6-Shogaol, a ginger product, modulates neuroinflammation: A new approach to neuroprotection Neuropharmacology 2012 63 2 211 23 10.1016/j.neuropharm.2012.03.016 22465818
+
+[R45] Ali BH Blunden G Tanira MO Nemmar A Some phytochemical, pharmacological and toxicological properties of ginger (Zingiber officinale Roscoe): A review of recent research Food Chem Toxicol 2008 46 2 409 20 10.1016/j.fct.2007.09.085 17950516
+
+[R46] Ho SC Chang KS Lin CC Anti-neuroinflammatory capacity of fresh ginger is attributed mainly to 10-gingerol Food Chem 2013 141 3 3183 91 10.1016/j.foodchem.2013.06.010 23871076
+
+[R47] Amirghofran Z Herbal medicines for immunosuppression Iran J Allergy Asthma Immunol 2012 11 2 111 9 22761185
+
+[R48] Srimal R Dhawan B Pharmacology of diferuloyl methane (curcumin), a non-steroidal anti-inflammatory agent J Pharm Pharmacol 1973 25 6 447 52 10.1111/j.2042-7158.1973.tb09131.x 4146582
+
+[R49] Huang HC Jan TR Yeh SF Inhibitory effect of curcumin, an anti-inflammatory agent, on vascular smooth muscle cell proliferation Eur J Pharmacol 1992 221 2-3 381 4 10.1016/0014-2999(92)90727-L 1426014
+
+[R50] Aggarwal BB Kumar A Bharti AC Anticancer potential of curcumin: Preclinical and clinical studies Anticancer res 2003 23 1A 363 98 12680238
+
+[R51] Naidu KA Thippeswamy NB Inhibition of human low density lipoprotein oxidation by active principles from spices Mol Cell Biochem 2002 229 1-2 19 23 11936843 10.1023/a:1017930708099
+
+[R52] Xie L Li XK Takahara S Curcumin has bright prospects for the treatment of multiple sclerosis Int Immunopharmacol 2011 11 3 323 30 10.1016/j.intimp.2010.08.013 20828641
+
+[R53] Xie L Li XK Funeshima-Fuji N Kimura H Matsumoto Y Isaka Y Amelioration of experimental autoimmune encephalomyelitis by curcumin treatment through inhibition of IL-17 production Int Immunopharmacol 2009 9 5 575 81 10.1016/j.intimp.2009.01.025 19539560
+
+[R54] Natarajan C Bright JJ Curcumin Inhibits Experimental Allergic Encephalomyelitis by Blocking IL-12 Signaling Through Janus Kinase-STAT Pathway in T Lymphocytes J Immunol 2002 168 12 6506 13 10.4049/jimmunol.168.12.6506 12055272
+
+[R55] Chainani-Wu N Safety and anti-inflammatory activity of curcumin: A component of tumeric (Curcuma longa) J Altern Complement Med 2003 9 1 161 8 10.1089/107555303321223035 12676044
+
+[R56] Henderson L Yue QY Bergquist C Gerden B Arlett P St John's wort (Hypericum perforatum): Drug interactions and clinical outcomes Br J Clin Pharmacol 2002 54 4 349 56 10.1046/j.1365-2125.2002.01683.x 12392581 PMC1874438
+
+[R57] Dost T Ozkayran H Gokalp F Yenisey C Birincioglu M The effect of Hypericum perforatum (St. John’s Wort) on experimental colitis in rat Dig Dis Sci 2009 54 6 1214 21 10.1007/s10620-008-0477-6 18754092
+
+[R58] Schempp CM Kirkin V Simon-Haarhaus B Kersten A Kiss J Termeer CC Inhibition of tumour cell growth by hyperforin, a novel anticancer drug from St. John's wort that acts by induction of apoptosis Oncogene 2002 21 8 1242 50 10.1038/sj.onc.1205190 11850844
+
+[R59] Lu YH Du CB Liu JW Hong W Wei DZ Neuroprotective effects of Hypericum perforatum on trauma induced by hydrogen peroxide in PC12 cells Am J Chin Med 2004 32 3 397 405 10.1142/S0192415X04002053 15344423
+
+[R60] Werneke U Horn O Taylor DM How effective is St. John's wort? The evidence revisited J Clin Psychiatry 2004 65 5 611 7 10.4088/jcp.v65n0504 15163246
+
+[R61] Bowling AC Complementary and alternative medicine in multiple sclerosis Continuum (Minneap Minn) 2010 16 5 Multiple Sclerosis 78 89 10.1212/01.CON.0000389935.84660.a5 22810599
+
+[R62] DerMarderosian A Beutler JA The Review of Natural Products 2002 St Louis, MO Facts and Comparisons
+
+[R63] Suzuki O Katsumata Y Oya M Bladt S Wagner H Inhibition of monoamine oxidase by hypercin Planta Med 1984 50 3 272 4 10.1055/s-2007-969700 6484033
+
+[R64] Chavez ML Chavez PI Saint John's wort Hosp Pharm 1997 32 1621 32
+
+[R65] Cervo L Rozio M Ekalle-Soppo CB Guiso G Morazzoni P Caccia S Role of hyperforin in the antidepressant-like activity of hypericum perforatum extracts Psychopharmacology (Berl) 2002 164 4 423 8 10.1007/s00213-002-1229-5 12457273
+
+[R66] Zanoli P Role of hyperforin in the pharmacological activities of St. John's wort CNS Drug Rev 2004 10 3 203 18 10.1111/j.1527-3458.2004.tb00022.x 15492771 PMC6741737
+
+[R67] Linde K Ramirez G Mulrow CD Pauls A Weidenhammer W Melchart D St John's wort for depression--an overview and meta-analysis of randomised clinical trials BMJ 1996 313 7052 253 8 10.1136/bmj.313.7052.253 8704532 PMC2351679
+
+[R68] LaFrance WC Jr Lauterbach EC Coffey CE Salloway SP Kaufer DI Reeve A The use of herbal alternative medicines in neuropsychiatry. A report of the ANPA committee on research J Neuropsychiatry Clin Neurosci 2000 12 2 177 92 10.1176/jnp.12.2.177 11001596
+
+[R69] Naziroglu M Kutluhan S Övey İS Aykur M Yurekli VA Modulation of oxidative stress, apoptosis, and calcium entry in leukocytes of patients with multiple sclerosis by hypericum perforatum Nutr Neurosci 2014 17 5 214 21 10.1179/1476830513Y.0000000083 24075078
+
+[R70] Brown DJ Herbal prescriptions for better health: Your everyday guide to prevention, treatment, and care 1996 Rocklin, CA Prima Publishing
+
+[R71] Hsu PP Natural medicines comprehensive database J Med Libr Assoc 2002 90 1 114
+
+[R72] Fleming WE Pollak CP Sleep disorders in multiple sclerosis Semin Neurol 2005 25 1 64 8 10.1055/s-2005-867075 15798938
+
+[R73] Barton DL Atherton PJ Bauer BA Moore DF Jr Mattar BI LaVasseur BI The use of Valeriana officinalis (Valerian) in improving sleep in patients who are undergoing treatment for cancer: a phase III randomized, placebo-controlled, double-blind study (NCCTG Trial, N01C5) J Support Oncol 2011 9 1 24 31 10.1016/j.suponc.2010.12.008 21399726 PMC3052692
+
+[R74] Willey LB Mady SP Cobaugh DJ Wax PM Valerian overdose: A case report Vet Hum Toxicol 1995 37 4 364 5 8540231
+
+[R75] Dugoua JJ Seely D Perri D Mills E Koren G Safety and efficacy of cranberry (vaccinium macrocarpon) during pregnancy and lactation Can J Clin Pharmacol 2008 15 1 e80 6 18204103
+
+[R76] Lynch DM Cranberry for prevention of urinary tract infections Am Fam Physician 2004 70 11 2175 7 15606066
+
+[R77] Betts CD D'Mellow MT Fowler CJ Urinary symptoms and the neurological features of bladder dysfunction in multiple sclerosis J Neurol Neurosurg Psychiatry 1993 56 3 245 50 10.1136/jnnp.56.3.245 8459239 PMC1014855
+
+[R78] Guay DR Cranberry and urinary tract infections Drugs 2009 69 7 775 807 10.2165/00003495-200969070-00002 19441868
+
+[R79] Liu Y Black MA Caron L Camesano TA Role of cranberry juice on molecular-scale surface characteristics and adhesion behavior of escherichia coli Biotechnol Bioeng 2006 93 2 297 305 10.1002/bit.20675 16142789
+
+[R80] Schultz A Efficacy of cranberry juice and ascorbic acid in acidifying the urine in multiple sclerosis subjects J Community Health Nurs 1984 1 3 159 69 10.1207/s15327655jchn0103_5 6569071
+
+[R81] Gallien P Amarenco G Benoit N Bonniaud V Donzé C Kerdraon J Cranberry versus placebo in the prevention of urinary infections in multiple sclerosis: A multicenter, randomized, placebo-controlled, double-blind trial Mult Scler 2014 20 9 1252 9 10.1177/1352458513517592 24402038
+
+[R82] Khare CP Encyclopedia of indian medicinal plants 2004 New York Springes-Verlag
+
+[R83] El-Dakhakhny M Studies on the Egyptian Nigella sativa L. IV. Some pharmacological properties of the seeds' active principle in comparison to its dihydro compound and its polymer Arzneimittelforschung 1965 15 10 1227 9 4380349
+
+[R84] Salem ML Immunomodulatory and therapeutic properties of the Nigella sativa L. Seed Int Immunopharmacol 2005 5 13-14 1749 70 10.1016/j.intimp.2005.06.008 16275613
+
+[R85] Fahmy HM Noor NA Mohammed FF Elsayed AA Radwan NM Nigella sativa as an anti-inflammatory and promising remyelinating agent in the cortex and hippocampus of experimental autoimmune encephalomyelitis-induced rats J Basic Appl Zool 2014 67 5 182 95 10.1016/j.jobaz.2014.08.005
+
+[R86] Ghosheh OA Houdi AA Crooks PA High performance liquid chromatographic analysis of the pharmacologically active quinones and related compounds in the oil of the black seed (Nigella sativa L.) J Pharm Biomed Anal 1999 19 5 757 62 10.1016/S0731-7085(98)00300-8 10698539
+
+[R87] Noor NA Fahmy HM Mohammed FF Elsayed AA Radwan NM Nigella sativa amliorates inflammation and demyelination in the experimental autoimmune encephalomyelitis-induced Wistar rats Int J Clin Exp Pathol 2015 8 6 6269 86 26261504 PMC4525838
+
+[R88] Mansour M Tornhamre S Inhibition of 5-lipoxygenase and leukotriene C4 synthase in human blood cells by thymoquinone J Enzyme Inhib Med Chem 2004 19 5 431 6 10.1080/14756360400002072 15648658
+
+[R89] Houghton PJ Zarka R de las Heras B Hoult JR Fixed oil of Nigella sativa and derived thymoquinone inhibit eicosanoid generation in leukocytes and membrane lipid peroxidation Planta Med 1995 61 1 33 6 10.1055/s-2006-957994 7700988
+
+[R90] El-Dakhakhny M Madi NJ Lembert N Ammon HP Nigella sativa oil, nigellone and derived thymoquinone inhibit synthesis of 5-lipoxygenase products in polymorphonuclear leukocytes from rats J Ethnopharmacol 2002 81 2 161 4 10.1016/S0378-8741(02)00051-X 12065147
+
+[R91] Williamson EM Synergy and other interactions in phytomedicines Phytomedicine 2001 8 5 401 9 10.1078/0944-7113-00060 11695885
+
+[R92] Wheatley D Stress-induced insomnia treated with kava and valerian: Singly and in combination Hum Psychopharmacol 2001 16 4 353 6 10.1002/hup.299 12404572
+
+[R93] Jussofie A Schmiz A Hiemke C Kavapyrone enriched extract fromPiper methysticum as modulator of the GABA binding site in different regions of rat brain Psychopharmacology 1994 116 4 469 74 10.1007/BF02247480 7701051
+
+[R94] Davies LP Drew CA Duffield P Johnston GA Jamieson DD Kava pyrones and resin: Studies on GABA A , GABA B  and benzodiazepine binding sites in rodent brain Pharmacol Toxicol 1992 71 2 120 6 10.1111/j.1600-0773.1992.tb00530.x 1332016
+
+[R95] 95 Bowling AC. Complementary and alternative medicine and multiple sclerosis. Demos Medical Publishing; 2006.
+
+[R96] Volz HP Kieser M Kava-kava extract WS 1490 versus placebo in anxiety disorders--A randomized placebo-controlled 25-week outpatient trial Pharmacopsychiatry 1997 30 1 1 5 10.1055/s-2007-979474 9065962
+
+[R97] Rios JL Recio MC Giner RM Manez S An update review of saffron and its active constituents Phytother Res 1998 10 3 189 93
+
+[R98] Hosseinzadeh H Younesi HM Petal and stigma extracts of crocus sativus L. Have antinociceptive and anti-inflammatory effects in mice BMC Pharmacol 2002 2 7 10.1186/1472-6882-4-12 11914135 PMC101384
+
+[R99] Khazdair MR Boskabady MH Hosseini M Rezaee R Tsatsakis AM The effects of crocus sativus (saffron) and its constituents on nervous system: A review Avicenna J Phytomed 2015 5 5 376 91 26468457 PMC4599112
+
+[R100] Abdullaev Jafarova F Caballero-Ortega H Riveron-Negrete L Pereda-Miranda R Rivera-Luna R Manuel Hernandez J In vitro evaluation of the chemopreventive potential of saffron Rev Invest Clin 2002 54 5 430 6 12587418
+
+[R101] Akhondzadeh S Fallah-Pour H Afkham K Jamshidi AH Khalighi-Cigaroudi F Comparison of Crocus sativus L. and imipramine in the treatment of mild to moderate depression: a pilot double-blind randomized trial [ISRCTN45683816] BMC Complement Altern Med 2004 4 1 12 10.1186/1472-6882-4-12 15341662 PMC517724
+
+[R102] Ghazavi A Mosayebi G Salehi H Abtahi H Effect of Ethanol Extract of Saffron (Crocus sativus L.) on the Inhibition of Experimental Autoimmune Encephalomyelitis in C57bl/6 Mice Pak J Biol Sci 2009 12 9 690 5 10.3923/pjbs.2009.690.695 19634472
+
+[R103] Ghaffari S Hatami H Dehghan G The effect of ethanolic extract of saffron (Crocus sativus L.) on oxidative stress markers in the hippocampus of experimental models of MS Med J Tabriz Univ Med Sci Health Serv 2015 37 1 40 9
+
+[R104] Christensen T Association of human endogenous retroviruses with multiple sclerosis and possible interactions with herpes viruses Rev Med Virol 2005 15 3 179 211 10.1002/rmv.465 15782388
+
+[R105] Antony JM Van Marle G Opii W Butterfield DA Mallet F Yong VW Human endogenous retrovirus glycoprotein-mediated induction of redox reactants causes oligodendrocyte death and demyelination Nat Neurosci 2004 7 10 1088 95 10.1038/nn1319 15452578
+
+[R106] Barnett MH Prineas JW Relapsing and remitting multiple sclerosis: Pathology of the newly forming lesion Ann Neurol 2004 55 4 458 68 10.1002/ana.20016 15048884
+
+[R107] Schmidt M Betti G Hensel A Saffron in phytotherapy: Pharmacology and clinical uses Wien Med Wochenschr 2007 157 13-14 315 9 10.1007/s10354-007-0428-4 17704979
+
+[R108] Baker JT Borris RP Carté B Cordell GA Soejarto DD Cragg GM Natural product drug discovery and development: New perspectives on international collaboration J Nat Prod 1995 58 9 1325 57 10.1021/np50123a003 7494142
+
+[R109] Choi KT Botanical characteristics, pharmacological effects and medicinal components of Korean Panax ginseng C A Meyer Acta Pharmacol Sin 2008 29 9 1109 18 10.1111/j.1745-7254.2008.00869.x 18718180
+
+[R110] Kim MH Lee YC Choi SY Cho CW Rho J Lee KW The changes of ginsenoside patterns in red ginseng processed by organic Acid impregnation pretreatment J Ginseng Res 2011 35 4 497 503 10.5142/jgr.2011.35.4.497 23717097 PMC3659558
+
+[R111] Yuan CS Wang CZ Wicks SM Qi LW Chemical and pharmacological studies of saponins with a focus on american ginseng J Ginseng Res 2010 34 3 160 7 10.5142/jgr.2010.34.3.160 21359120 PMC3043615
+
+[R112] Cho IH Effects of panax ginseng in neurodegenerative diseases J Ginseng Res 2012 36 4 342 53 10.5142/jgr.2012.36.4.342 23717136 PMC3659610
+
+[R113] Hwang I Ahn G Park E Ha D Song JY Jee Y An acidic polysaccharide of panax ginseng ameliorates experimental autoimmune encephalomyelitis and induces regulatory T cells Immunol Lett 2011 138 2 169 78 10.1016/j.imlet.2011.04.005 21524666
+
+[R114] Etemadifar M Sayahi F Abtahi SH Shemshaki H Dorooshi GA Goodarzi M Ginseng in the treatment of fatigue in multiple sclerosis: A randomized, placebo-controlled, double-blind pilot study Int J Neurosci 2013 123 7 480 6 10.3109/00207454.2013.764499 23301896
+
+[R115] Siegel RK Ginseng abuse syndrome. Problems with the panacea JAMA 1979 241 15 1614 5 10.1001/jama.1979.03290410046024 430716
+
+[R116] Mertens M Buettner A Kirchhoff E The volatile constituents of frankincense - a review Flavour Fragrance J 2009 24 6 279 300 10.1002/ffj.1942
+
+[R117] Tadesse W Desalegn G Alia R Natural gum and resin bearing species of Ethiopia and their potential applications Invest Agrar Sist Recur For 2007 16 3 211 21 10.5424/srf/2007163-01010
+
+[R118] Mahmoudi A Hosseini-Sharifabad A Monsef-Esfahani HR Yazdinejad AR Khanavi M Roghani A Evaluation of systemic administration of Boswellia papyrifera extracts on spatial memory retention in male rats J Nat Med 2011 65 3-4 519 25 10.1007/s11418-011-0533-y 21479965
+
+[R119] Banno N Akihisa T Yasukawa K Tokuda H Tabata K Nakamura Y Anti-inflammatory activities of the triterpene acids from the resin of Boswellia carteri J Ethnopharmacol 2006 107 2 249 53 10.1016/j.jep.2006.03.006 16621377
+
+[R120] Ammon HP Modulation of the immune system by Boswellia serrata extracts and boswellic acids Phytomedicine 2010 17 11 862 7 10.1016/j.phymed.2010.03.003 20696559
+
+[R121] Omura Y Horiuchi N Jones MK Lu DP Shimotsuura Y Duvvi H Temporary anti-cancer & anti-pain effects of mechanical stimulation of any one of 3 front teeth (1st incisor, 2nd incisor, & canine) of right & left side of upper & lower jaws and their possible mechanism, & relatively long term disappearance of pain & cancer parameters by one optimal dose of DHEA, Astragalus, Boswellia Serrata, often with press needle stimulation of True ST. 36 Acupunct Electrother Res 2009 34 3-4 175 203 10.3727/036012909803860997 20344885
+
+[R122] Langdon DW Cognition in multiple sclerosis Curr Opin Neurol 2011 24 3 244 9 10.1097/WCO.0b013e328346a43b 21519256
+
+[R123] Langdon DW Amato MP Boringa J Brochet B Foley F Fredrikson S Recommendations for a brief international cognitive assessment for multiple sclerosis (BICAMS) Mult Scler 2012 18 6 891 8 10.1177/1352458511431076 22190573 PMC3546642
+
+[R124] Sedighi B Pardakhty A Kamali H Shafiee K Hasani BN Effect of Boswellia papyrifera on cognitive impairment in multiple sclerosis Iran J Neurol 2014 13 3 149 53 25422734 PMC4240932
+
+[R125] Chiou A Karathanos VT Mylona A Salta FN Preventi F Andrikopoulos NK Currants (Vitis vinifera L.) content of simple phenolics and antioxidant activity Food Chem 2007 102 2 516 22 10.1016/j.foodchem.2006.06.009
+
+[R126] Frémont L Biological effects of resveratrol Life Sci 2000 66 8 663 73 10.1016/S0024-3205(99)00410-5 10680575
+
+[R127] Das S Das DK Anti-inflammatory responses of resveratrol Inflamm Allergy Drug Targets 2007 6 3 168 73 10.2174/187152807781696464 17897053
+
+[R128] de la Lastra CA Villegas I Resveratrol as an antioxidant and pro-oxidant agent: Mechanisms and clinical implications Biochem Soc Trans 2007 35 Pt 5 1156 60 10.1042/BST0351156 17956300
+
+[R129] Sato F Martinez NE Shahid M Rose JW Carlson NG Tsunoda I Resveratrol exacerbates both autoimmune and viral models of multiple sclerosis Am J Pathol 2013 183 5 1390 6 10.1016/j.ajpath.2013.07.006 24091251 PMC3814682
+
+[R130] Fonseca-Kelly Z Nassrallah M Uribe J Khan RS Dine K Dutt M Resveratrol neuroprotection in a chronic mouse model of multiple sclerosis Front Neurol 2012 3 84 10.3389/fneur.2012.00084 22654783 PMC3359579
+
+[R131] Shindler KS Ventura E Dutt M Elliott P Fitzgerald DC Rostami A Oral resveratrol reduces neuronal damage in a model of multiple sclerosis J Neuroophthalmol 2010 30 4 328 39 10.1097/WNO.0b013e3181f7f833 21107122 PMC3312784
+
+[R132] Bi XL Yang JY Dong YX Wang JM Cui YH Ikeshima T Resveratrol inhibits nitric oxide and TNF-α production by lipopolysaccharide-activated microglia Int Immunopharmacol 2005 5 1 185 93 10.1016/j.intimp.2004.08.008 15589480
+
+[R133] Meng XL Yang JY Chen GL Wang LH Zhang LJ Wang S Effects of resveratrol and its derivatives on lipopolysaccharide-induced microglial activation and their structure-activity relationships Chem Biol Interact 2008 174 1 51 9 10.1016/j.cbi.2008.04.015 18513711
+
+[R134] Choi DK Koppula S Suk K Inhibitors of microglial neurotoxicity: Focus on natural products Molecules 2011 16 2 1021 43 10.3390/molecules16021021 21350391 PMC6259841
+
+[R135] Patel KR Scott E Brown VA Gescher AJ Steward WP Brown K Clinical trials of resveratrol Ann N Y Acad Sci 2011 1215 1 161 9 10.1111/j.1749-6632.2010.05853.x 21261655
+
+[R136] Ahn EK Jeon HJ Lim EJ Jung HJ Park EH Anti-inflammatory and anti-angiogenic activities of Gastrodia elata blume J Ethnopharmacol 2007 110 3 476 82 10.1016/j.jep.2006.10.006 17129693
+
+[R137] Tsai CF Huang CL Lin YL Lee YC Yang YC Huang NK The neuroprotective effects of an extract of Gastrodia elata J Ethnopharmacol 2011 138 1 119 25 10.1016/j.jep.2011.08.064 21925258
+
+[R138] Yu SJ Kim JR Lee CK Han JE Lee JH Kim HS Gastrodia elata blume and an active component, p-hydroxybenzyl alcohol reduce focal ischemic brain injury through antioxidant related gene expressions Biol Pharm Bull 2005 28 6 1016 20 10.1248/bpb.28.1016 15930737
+
+[R139] Van Kampen J Robertson H Hagg T Drobitch R Neuroprotective actions of the ginseng extract G115 in two rodent models of Parkinson's disease Exp Neurol 2003 184 1 521 9 10.1016/j.expneurol.2003.08.002 14637121
+
+[R140] Manavalan A Ramachandran U Sundaramurthi H Mishra M Sze SK Hu JM Gastrodia elata Blume (tianma) mobilizes neuro-protective capacities Int J Biochem Mol Biol 2012 3 2 219 41 22773961 PMC3388733
+
+[R141] Kim BW Koppula S Kim JW Lim HW Hwang JW Kim IS Modulation of LPS-stimulated neuroinflammation in BV-2 microglia by Gastrodia elata: 4-hydroxybenzyl alcohol is the bioactive candidate J Ethnopharmacol 2012 139 2 549 57 10.1016/j.jep.2011.11.048 22155394
+
+[R142] Jung JW Yoon BH Oh HR Ahn JH Kim SY Park SY Anxiolytic-like effects of Gastrodia elata and its phenolic constituents in mice Biol Pharm Bull 2006 29 2 261 5 10.1248/bpb.29.261 16462028
+
+[R143] Hsieh CL Chen CL Tang NY Chuang CM Hsieh CT Chiang SY Gastrodia elata BL mediates the suppression of nNOS and microglia activation to protect against neuronal damage in kainic acid-treated rats Am J Chin Med 2005 33 4 599 611 10.1142/S0192415X0500320X 16173534
+
+[R144] Wu HQ Xie L Jin XN Ge Q Jin H Liu GQ The effect of vanillin on the fully amygdala-kindled seizures in the rat Yao Xue Xue Bao 1989 24 7 482 6 2618688
+
+[R145] Lee JY Jang YW Kang HS Moon H Sim SS Kim CJ Anti-inflammatory action of phenolic compounds from Gastrodia elata root Arch Pharm Res 2006 29 10 849 58 10.1007/BF02973905 17121179
+
+[R146] Gramza-Michalowska A Regula J Use of tea extracts (Camelia sinensis) in jelly candies as polyphenols sources in human diet Asia Pac J Clin Nutr 2007 16 Suppl 1 43 6 17392075
+
+[R147] Graham HN Green tea composition, consumption, and polyphenol chemistry Prev Med 1992 21 3 334 50 10.1016/0091-7435(92)90041-F 1614995
+
+[R148] Chacko SM Thambi PT Kuttan R Nishigaki I Beneficial effects of green tea: A literature review Chin Med 2010 5 13 10.1186/1749-8546-5-13 20370896 PMC2855614
+
+[R149] Yang F de Villiers WJ McClain CJ Varilek GW Green tea polyphenols block endotoxin-induced tumor necrosis factor-production and lethality in a murine model J Nutr 1998 128 12 2334 40 10.1093/jn/128.12.2334 9868178
+
+[R150] Koh SH Lee SM Kim HY Lee KY Lee YJ Kim HT The effect of epigallocatechin gallate on suppressing disease progression of ALS model mice Neurosci Lett 2006 395 2 103 7 10.1016/j.neulet.2005.10.056 16356650
+
+[R151] Neyestani TR Gharavi A Kalayi A Selective effects of tea extract and its phenolic compounds on human peripheral blood mononuclear cell cytokine secretions Int J Food Sci Nutr 2009 60 Suppl 1 79 88 10.1080/09637480802158184 18686109
+
+[R152] Mandel SA Avramovich-Tirosh Y Reznichenko L Zheng H Weinreb O Amit T Multifunctional activities of green tea catechins in neuroprotection. Modulation of cell survival genes, iron-dependent oxidative stress and PKC signaling pathway Neurosignals 2005 14 1-2 46 60 10.1159/000085385 15956814
+
+[R153] Li R Huang YG Fang D Le WD (-)-Epigallocatechin gallate inhibits lipopolysaccharide-induced microglial activation and protects against inflammation-mediated dopaminergic neuronal injury J Neurosci Res 2004 78 5 723 31 10.1002/jnr.20315 15478178
+
+[R154] Molinari M Watt KD Kruszyna T Nelson R Walsh M Huang WY Acute liver failure induced by green tea extracts: Case report and review of the literature Liver Transpl 2006 12 12 1892 5 10.1002/lt.21021 17133573
+
+[R155] Mähler A Steiniger J Bock M Klug L Parreidt N Lorenz M Metabolic response to epigallocatechin-3-gallate in relapsing-remitting multiple sclerosis: A randomized clinical trial Am J Clin Nutr 2015 101 3 487 95 10.3945/ajcn.113.075309 25733633
+
+[R156] Balch SA McKenney CB Auld DL Evaluation of gamma-linolenic acid composition of evening primrose (Oenothera) species native to Texas HortScience 2003 38 4 595 8
+
+[R157] Horrobin DF Nutritional and medical importance of gamma-linolenic acid Prog Lipid Res 1992 31 2 163 94 10.1016/0163-7827(92)90008-7 1334266
+
+[R158] Rezapour-Firouzi S Arefhosseini SR Mehdi F Mehrangiz EM Baradaran B Sadeghihokmabad E Immunomodulatory and therapeutic effects of Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention in multiple sclerosis patients Complement Ther Med 2013 21 5 473 80 10.1016/j.ctim.2013.06.006 24050582
+
+[R159] Horrobin DF Multiple sclerosis: The rational basis for treatment with colchicine and evening primrose oil Med Hypotheses 1979 5 3 365 78 10.1016/0306-9877(79)90018-5 313499
+
+[R160] Harbige LS Sharief MK Polyunsaturated fatty acids in the pathogenesis and treatment of multiple sclerosis Br J Nutr 2007 98 S1 S46 53 10.1017/S0007114507833010 17922959
+
+[R161] Ahmadi A Habibi G Farrokhnia M MS14, an iranian herbal-marine compound for the treatment of multiple sclerosis Chin J Integr Med 2010 16 3 270 1 10.1007/s11655-010-0270-1 20694784
+
+[R162] Naseri M Ahmadi A Gharegozli K Nabavi M Faghihzadeh S Ashtarian N A double blind, placebo-controlled, crossover study on the effect of MS14, an herbal-marine drug, on quality of life in patients with multiple sclerosis J Med Plant Res 2009 3 4 271 5
+
+[R163] Tafreshi AP Ahmadi A Ghaffarpur M Mostafavi H Rezaeizadeh H Minaie B An Iranian herbal-marine medicine, MS14, ameliorates experimental allergic encephalomyelitis Phytother Res 2008 22 8 1083 6 10.1002/ptr.2459 18570265
+
+[R164] Ebrahimi-Kalan A Soleimani Rad J Kafami L Mohammadnejad D Habibi Roudkenar M Khaki AA MS14 down-regulates lipocalin2 expression in spinal cord tissue in an animal model of multiple sclerosis in female C57BL/6 Iran Biomed J 2014 18 4 196 202 25326017 10.6091/ibj.1375.2014 PMC4225058
+
+[R165] Ebrahimi Kalan A Soleimani Rad J Kafami L Mohamadnezhad D Khaki AA Mohammadi Roushandeh A MS14, a marine herbal medicine, an immunosuppressive drug in experimental autoimmune encephalomyelitis Iran Red Crescent Med J 2014 16 7 e16956 10.5812/ircmj.16956 25237574 PMC4166093
+
+[R166] Kuddus M Ginawi IAM Al-Hazimi A Cannabis sativa: An ancient wild edible plant of India Emir J Food Agric 2013 25 10 736 45 10.9755/ejfa.v25i10.16400
+
+[R167] Saito VM Rezende RM Teixeira AL Cannabinoid modulation of neuroinflammatory disorders Curr Neuropharmacol 2012 10 2 159 66 10.2174/157015912800604515 23204985 PMC3386505
+
+[R168] Zajicek J Fox P Sanders H Wright D Vickery J Nunn A Cannabinoids for treatment of spasticity and other symptoms related to multiple sclerosis (CAMS study): Multicentre randomised placebo-controlled trial Lancet 2003 362 9395 1517 26 10.1016/S0140-6736(03)14738-1 14615106
+
+[R169] Pertwee RG Cannabinoids and multiple sclerosis Pharmacol Ther 2002 95 2 165 74 10.1016/S0163-7258(02)00255-3 12182963
+
+[R170] Borgelt LM Franson KL Nussbaum AM Wang GS The pharmacologic and clinical effects of medical cannabis Pharmacotherapy 2013 33 2 195 209 10.1002/phar.1187 23386598
+
+[R171] Zajicek JP Apostu VI Role of cannabinoids in multiple sclerosis CNS Drugs 2011 25 3 187 201 10.2165/11539000-000000000-00000 21323391
+
+[R172] Zajicek JP Sanders HP Wright DE Vickery PJ Ingram WM Reilly SM Cannabinoids in multiple sclerosis (CAMS) study: Safety and efficacy data for 12 months follow up J Neurol Neurosurg Psychiatry 2005 76 12 1664 9 10.1136/jnnp.2005.070136 16291891 PMC1739436
+
+[R173] 173 Zajicek J, Reif M, Schnelle M. Cannabis extract in the treatment of muscle stiffness and other symptoms in multiple sclerosis-Results of the MUSEC study. 25th Congress of the European Committee for Treatment and Research in Multiple Sclerosis. 2009.
+
+[R174] Wade DT Makela P Robson P House H Bateman C Do cannabis-based medicinal extracts have general or specific effects on symptoms in multiple sclerosis? A double-blind, randomized, placebo-controlled study on 160 patients Mult Scler 2004 10 4 434 41 10.1191/1352458504ms1082oa 15327042
+
+[R175] Grotenhermen F Müller-Vahl K The therapeutic potential of cannabis and cannabinoids Dtsch Arztebl Int 2012 109 29-30 495 501 10.3238/arztebl.2012.0495 23008748 PMC3442177
+
+[R176] Wirguin I Mechoulam R Breuer A Schezen E Weidenfeld J Brenner T Suppression of experimetal autoimmune encephalomyelitis by cannabinoids Immunopharmacology 1994 28 3 209 14 10.1016/0162-3109(94)90056-6 7852052
+
+[R177] Kmietowicz Z Cannabis based drug is licensed for spasticity in patients with MS BMJ 2010 340 c3363 10.1136/bmj.c3363 20570870
+
+[R178] Greenberg HS Werness SA Pugh JE Andrus RO Anderson DJ Domino EF Short-term effects of smoking marijuana on balance in patients with multiple sclerosis and normal volunteers Clin Pharmacol Ther 1994 55 3 324 8 10.1038/clpt.1994.33 8143398
+
+[R179] Brady CM DasGupta R Dalton C Wiseman OJ Berkley KJ Fowler CJ An open-label pilot study of cannabis-based extracts for bladder dysfunction in advanced multiple sclerosis Mult Scler 2004 10 4 425 33 10.1191/1352458504ms1063oa 15327041

@@ -1,0 +1,373 @@
+[bib1] John Hopkins University & Medicine John Hopkins Coronavirus Resource Centre – COVID-19 Dashboard https://coronavirus.jhu.edu/map.html
+
+[bib2] Office for National Statistics Coronavirus (COVID-19) latest insights: hospitals https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/hospitals March 28, 2023
+
+[bib3] Huang YZ Kuan CC Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis Eur Rev Med Pharmacol Sci 26 2022 1770 1776 35302230 10.26355/eurrev_202203_28248
+
+[bib4] National Institute of Health and Care Excellence COVID-19 rapid guideline: managing COVID-19. NICE Guideline (NG191) https://www.nice.org.uk/guidance/NG191 March 23, 2021 34181371
+
+[bib5] Peiris JS Yuen KY Osterhaus AD Stöhr K The severe acute respiratory syndrome N Engl J Med 349 2003 2431 2441 14681510 10.1056/NEJMra032498
+
+[bib6] Huntley CC Patel K Bil Bushra S-E-S Pulmonary function test and computed tomography features during follow-up after SARS, MERS and COVID-19: a systematic review and meta-analysis ERJ Open Res 8 2022 00056 02022 35642193 10.1183/23120541.00056-2022 PMC9035766
+
+[bib7] World Health Organisation Post COVID-19 condition (long COVID) https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition Dec 7, 2022
+
+[bib8] Office for National Statistics Self-reported long COVID after infection with the omicron variant in the UK: 18 July 2022 https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/selfreportedlongcovidafterinfectionwiththeomicronvariant/18july2022 Jul 18, 2022
+
+[bib9] The PHOSP-COVID Collaborative Group Clinical characteristics with inflammation profiling of long COVID and association with 1-year recovery following hospitalisation in the UK: a prospective observational study Lancet Respir Med 10 2022 761 775 35472304 10.1016/S2213-2600(22)00127-8 PMC9034855
+
+[bib10] Whitaker M Elliott J Chadeau-Hyam M Persistent COVID-19 symptoms in a community study of 606,434 people in England Nat Commun 13 2022 1957 10.1038/s41467-022-29521-z PMC9005552 35413949
+
+[bib11] Subramanian A Nirantharakumar K Hughes S Symptoms and risk factors for long COVID in non-hospitalized adults Nat Med 28 2022 1706 1714 35879616 10.1038/s41591-022-01909-w PMC9388369
+
+[bib12] Dryden M Mudara C Vika C Post-COVID-19 condition 3 months after hospitalisation with SARS-CoV-2 in South Africa: a prospective cohort study Lancet Glob Health 10 2022 e1247 e1256 35961348 10.1016/S2214-109X(22)00286-8 PMC9363040
+
+[bib13] Mahmud R Rahman MM Rassel MA Post-COVID-19 syndrome among symptomatic COVID-19 patients: a prospective cohort study in a tertiary care center of Bangladesh PLoS One 16 2021 e0249644 10.1371/journal.pone.0249644 PMC8031743 33831043
+
+[bib14] Williamson EJ Walker AJ Bhaskaran K Factors associated with COVID-19-related death using OpenSAFELY Nature 584 2020 430 436 32640463 10.1038/s41586-020-2521-4 PMC7611074
+
+[bib15] Drake TM Docherty AB Harrison EM Outcome of hospitalization for COVID-19 in patients with interstitial lung disease. An international multicenter study Am J Respir Crit Care Med 202 2020 1656 1665 33007173 10.1164/rccm.202007-2794OC PMC7737581
+
+[bib16] Phetsouphanh C Darley DR Wilson DB Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection Nat Immunol 23 2022 210 216 35027728 10.1038/s41590-021-01113-x
+
+[bib17] Castanares-Zapatero D Chalon P Kohn L Pathophysiology and mechanism of long COVID: a comprehensive review Ann Med 54 2022 1473 1487 35594336 10.1080/07853890.2022.2076901 PMC9132392
+
+[bib18] Kachroo P Stewart ID Kelly RS Metabolomic profiling reveals extensive adrenal suppression due to inhaled corticosteroid therapy in asthma Nat Med 28 2022 814 822 35314841 10.1038/s41591-022-01714-5 PMC9350737
+
+[bib19] Davis HE McCorkell L Vogel JM Topol EJ Long COVID: major findings, mechanisms and recommendations Nat Rev Microbiol 21 2023 133 146 36639608 10.1038/s41579-022-00846-2 PMC9839201
+
+[bib20] Klein S Cortese M Winter SL SARS-CoV-2 structure and replication characterized by in situ cryo-electron tomography Nat Commun 11 2020 5885 10.1038/s41467-020-19619-7 PMC7676268 33208793
+
+[bib21] Su Y Yuan D Chen DG Multiple early factors anticipate post-acute COVID-19 sequelae Cell 185 2022 881 95.e20 35216672 10.1016/j.cell.2022.01.014 PMC8786632
+
+[bib22] Wulf Hanson S Abbafati C Aerts JG Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021 JAMA 328 2022 1604 1615 36215063 10.1001/jama.2022.18931 PMC9552043
+
+[bib23] O'Mahoney LL Routen A Gillies C The prevalence and long-term health effects of long covid among hospitalised and non-hospitalised populations: a systematic review and meta-analysis EClinicalMedicine 55 2022 101762 10.1016/j.eclinm.2022.101762 PMC9714474 36474804
+
+[bib24] Evans RA McAuley H Harrison EM Physical, cognitive, and mental health impacts of COVID-19 after hospitalisation (PHOSP-COVID): a UK multicentre, prospective cohort study Lancet Respir Med 9 2021 1275 1287 34627560 10.1016/S2213-2600(21)00383-0 PMC8497028
+
+[bib25] Florencio LL Fernández-de-Las-Peñas C Long COVID: systemic inflammation and obesity as therapeutic targets Lancet Respir Med 10 2022 726 727 35472305 10.1016/S2213-2600(22)00159-X PMC9034853
+
+[bib26] Docherty AB Harrison EM Green CA Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study BMJ 369 2020 m1985 10.1136/bmj.m1985 PMC7243036 32444460
+
+[bib27] Huang L Li X Gu X Health outcomes in people 2 years after surviving hospitalisation with COVID-19: a longitudinal cohort study Lancet Respir Med 10 2022 863 876 35568052 10.1016/S2213-2600(22)00126-6 PMC9094732
+
+[bib28] Ranieri VM Rubenfeld GD Thompson BT Acute respiratory distress syndrome: the Berlin Definition JAMA 307 2012 2526 2533 22797452 10.1001/jama.2012.5669
+
+[bib29] Chiumello D Taccone P Berto V Long-term outcomes in survivors of acute respiratory distress syndrome ventilated in supine or prone position Intensive Care Med 38 2012 221 229 22187085 10.1007/s00134-011-2445-4
+
+[bib30] Parry SM Nalamalapu SR Nunna K Six-minute walk distance after critical illness: a systematic review and meta-analysis J Intensive Care Med 36 2021 343 351 31690160 10.1177/0885066619885838 PMC7442114
+
+[bib31] Davydow DS Desai SV Needham DM Bienvenu OJ Psychiatric morbidity in survivors of the acute respiratory distress syndrome: a systematic review Psychosom Med 70 2008 512 519 18434495 10.1097/PSY.0b013e31816aa0dd PMC10885706
+
+[bib32] Davidson TA Caldwell ES Curtis JR Hudson LD Steinberg KP Reduced quality of life in survivors of acute respiratory distress syndrome compared with critically ill control patients JAMA 281 1999 354 360 9929089 10.1001/jama.281.4.354
+
+[bib33] Kamdar BB Suri R Suchyta MR Return to work after critical illness: a systematic review and meta-analysis Thorax 75 2020 17 27 31704795 10.1136/thoraxjnl-2019-213803 PMC7418481
+
+[bib34] Cameron JI Chu LM Matte A One-year outcomes in caregivers of critically ill patients N Engl J Med 374 2016 1831 1841 27168433 10.1056/NEJMoa1511160
+
+[bib35] Stewart I Jacob J George PM Residual lung abnormalities following COVID-19 hospitalization: interim analysis of the UKILD post-COVID study Am J Respir Crit Care Med 207 2022 693 703 10.1164/rccm.202203-0564OC PMC10037479 36457159
+
+[bib36] Burgel P-R Goss C COVID-19 outcomes in people with cystic fibrosis Curr Opin Pulm Med 27 2021 538 543 34620788 10.1097/MCP.0000000000000823 PMC8575136
+
+[bib37] Liu S Cao Y Du T Zhi Y Prevalence of comorbid asthma and related outcomes in COVID-19: a systematic review and meta-analysis J Allergy Clin Immunol Pract 9 2021 693 701 33309934 10.1016/j.jaip.2020.11.054 PMC7725230
+
+[bib38] Ng CK Chan JW Kwan TL Six month radiological and physiological outcomes in severe acute respiratory syndrome (SARS) survivors Thorax 59 2004 889 891 15454656 10.1136/thx.2004.023762 PMC1746851
+
+[bib39] Das KM Lee EY Al Jawder SE Acute Middle East respiratory syndrome coronavirus: temporal lung changes observed on the chest radiographs of 55 patients AJR Am J Roentgenol 205 2015 W267 W274 26102309 10.2214/AJR.15.14445
+
+[bib40] Orme J Jr Romney JS Hopkins RO Pulmonary function and health-related quality of life in survivors of acute respiratory distress syndrome Am J Respir Crit Care Med 167 2003 690 694 12493646 10.1164/rccm.200206-542OC
+
+[bib41] Mehta P Rosas IO Singer M Understanding post-COVID-19 interstitial lung disease (ILD): a new fibroinflammatory disease entity Intensive Care Med 48 2022 1803 1806 36074167 10.1007/s00134-022-06877-w PMC9453725
+
+[bib42] Shao H Qin Z Geng B Impaired lung regeneration after SARS-CoV-2 infection Cell Prolif 53 2020 e12927 10.1111/cpr.12927 PMC7645888 33078459
+
+[bib43] Schurink B Roos E Radonic T Viral presence and immunopathology in patients with lethal COVID-19: a prospective autopsy cohort study Lancet Microbe 1 2020 e290 e299 33015653 10.1016/S2666-5247(20)30144-0 PMC7518879
+
+[bib44] Filbin MR Mehta A Schneider AM Longitudinal proteomic analysis of severe COVID-19 reveals survival-associated signatures, tissue-specific cell death, and cell-cell interactions Cell Rep Med 2 2021 100287 10.1016/j.xcrm.2021.100287 PMC8091031 33969320
+
+[bib45] Peiris S Mesa H Aysola A Pathological findings in organs and tissues of patients with COVID-19: A systematic review PLoS One 16 2021 e0250708 10.1371/journal.pone.0250708 PMC8081217 33909679
+
+[bib46] Leisman DE Mehta A Thompson BT Alveolar, endothelial, and organ injury marker dynamics in severe COVID-19 Am J Respir Crit Care Med 205 2022 507 519 34878969 10.1164/rccm.202106-1514OC PMC8906476
+
+[bib47] Chua RL Lukassen S Trump S COVID-19 severity correlates with airway epithelium-immune cell interactions identified by single-cell analysis Nat Biotechnol 38 2020 970 979 32591762 10.1038/s41587-020-0602-4
+
+[bib48] Coward WR Saini G Jenkins G The pathogenesis of idiopathic pulmonary fibrosis Ther Adv Respir Dis 4 2010 367 388 20952439 10.1177/1753465810379801
+
+[bib49] Allen RJ Guillen-Guio B Croot E Genetic overlap between idiopathic pulmonary fibrosis and COVID-19 Eur Respir J 60 2022 2103132 10.1183/13993003.03132-2021 PMC9130756 35595312
+
+[bib50] Allen RJ Stockwell A Oldham JM Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis Thorax 77 2022 829 833 35688625 10.1136/thoraxjnl-2021-218577 PMC9329250
+
+[bib51] Tatler AL Jenkins G TGF-β activation and lung fibrosis Proc Am Thorac Soc 9 2012 130 136 22802287 10.1513/pats.201201-003AW
+
+[bib52] Morganstein T Haidar Z Trivlidis J Involvement of the ACE2/Ang-(1-7)/MasR axis in pulmonary fibrosis: implications for COVID-19 Int J Mol Sci 22 2021 12955 10.3390/ijms222312955 PMC8657555 34884756
+
+[bib53] Melms JC Biermann J Huang H A molecular single-cell lung atlas of lethal COVID-19 Nature 595 2021 114 119 33915568 10.1038/s41586-021-03569-1 PMC8814825
+
+[bib54] Cheon IS Li C Son YM Immune signatures underlying post-acute COVID-19 lung sequelae Sci Immunol 6 2021 eabk1741 10.1126/sciimmunol.abk1741 PMC8763087 34591653
+
+[bib55] George PM Reed A Desai SR A persistent neutrophil-associated immune signature characterizes post-COVID-19 pulmonary sequelae Sci Transl Med 14 2022 eabo5795 10.1126/scitranslmed.abo5795 36383686
+
+[bib56] Pandolfi L Bozzini S Frangipane V Neutrophil extracellular traps induce the epithelial-mesenchymal transition: implications in post-COVID-19 fibrosis Front Immunol 12 2021 663303 10.3389/fimmu.2021.663303 PMC8236949 34194429
+
+[bib57] Jo HE Glaspole I Grainge C Baseline characteristics of idiopathic pulmonary fibrosis: analysis from the Australian Idiopathic Pulmonary Fibrosis Registry Eur Respir J 49 2017 1601592 10.1183/13993003.01592-2016 28232409
+
+[bib58] García-Sancho Figueroa MC Carrillo G Pérez-Padilla R Risk factors for idiopathic pulmonary fibrosis in a Mexican population. A case-control study Respir Med 104 2010 305 309 19782552 10.1016/j.rmed.2009.08.013
+
+[bib59] Raghu G Amatto VC Behr J Stowasser S Comorbidities in idiopathic pulmonary fibrosis patients: a systematic literature review Eur Respir J 46 2015 1113 1130 26424523 10.1183/13993003.02316-2014
+
+[bib60] Khan FA Stewart I Saini G Robinson KA Jenkins RG A systematic review of blood biomarkers with individual participant data meta-analysis of matrix metalloproteinase-7 in idiopathic pulmonary fibrosis Eur Respir J 59 2021 2101612 10.1183/13993003.01612-2021 PMC9202487 34588192
+
+[bib61] Chun HJ Coutavas E Pine AB Immunofibrotic drivers of impaired lung function in postacute sequelae of SARS-CoV-2 infection JCI Insight 6 2021 e148476 10.1172/jci.insight.148476 PMC8410030 34111030
+
+[bib62] Naqvi SF Lakhani DA Sohail AH Patients with idiopathic pulmonary fibrosis have poor clinical outcomes with COVID-19 disease: a propensity matched multicentre research network analysis BMJ Open Respir Res 8 2021 e000969 10.1136/bmjresp-2021-000969 PMC8354761 34376400
+
+[bib63] Vadász I Husain-Syed F Dorfmüller P Severe organising pneumonia following COVID-19 Thorax 76 2021 201 204 33177230 10.1136/thoraxjnl-2020-216088
+
+[bib64] Myall KJ Mukherjee B Castanheira AM Persistent post-COVID-19 interstitial lung disease. An observational study of corticosteroid treatment Ann Am Thorac Soc 18 2021 799 806 33433263 10.1513/AnnalsATS.202008-1002OC PMC8086530
+
+[bib65] Luger AK Sonnweber T Gruber L Chest CT of lung injury 1 year after COVID-19 pneumonia: The CovILD study Radiology 304 2022 462 470 35348379 10.1148/radiol.211670 PMC8988857
+
+[bib66] Aul DR Gates DJ Draper DA Complications after discharge with COVID-19 infection and risk factors associated with development of post-COVID pulmonary fibrosis Respir Med 188 2021 106602 10.1016/j.rmed.2021.106602 PMC8425673 34536697
+
+[bib67] Valenzuela C Waterer G Raghu G Interstitial lung disease before and after COVID-19: a double threat? Eur Respir J 58 2021 2101956 10.1183/13993003.01956-2021 PMC8637181 34857587
+
+[bib68] Li X Shen C Wang L Pulmonary fibrosis and its related factors in discharged patients with new coronavirus pneumonia: a cohort study Respir Res 22 2021 203 34243776 10.1186/s12931-021-01798-6 PMC8267229
+
+[bib69] Huang C Huang L Wang Y 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study Lancet 397 2021 220 232 33428867 10.1016/S0140-6736(20)32656-8 PMC7833295
+
+[bib70] Wild JM Porter JC Molyneaux PL Understanding the burden of interstitial lung disease post-COVID-19: the UK Interstitial Lung Disease-Long COVID Study (UKILD-Long COVID) BMJ Open Respir Res 8 2021 e001049 10.1136/bmjresp-2021-001049 PMC8461362 34556492
+
+[bib71] Meduri GU Golden E Freire AX Methylprednisolone infusion in early severe ARDS: results of a randomized controlled trial Chest 131 2007 954 963 17426195 10.1378/chest.06-2100
+
+[bib72] Bradley B Branley HM Egan JJ Interstitial lung disease guideline: the British Thoracic Society in collaboration with the Thoracic Society of Australia and New Zealand and the Irish Thoracic Society Thorax 63 suppl 5 2008 v1 58 18757459 10.1136/thx.2008.101691
+
+[bib73] Horby P Lim WS Emberson JR Dexamethasone in hospitalized patients with Covid-19 N Engl J Med 384 2021 693 704 32678530 10.1056/NEJMoa2021436 PMC7383595
+
+[bib74] Edalatifard M Akhtari M Salehi M Intravenous methylprednisolone pulse as a treatment for hospitalised severe COVID-19 patients: results from a randomised controlled clinical trial Eur Respir J 56 2020 2002808 10.1183/13993003.02808-2020 PMC7758541 32943404
+
+[bib75] Sinha S Rosin NL Arora R Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19 Nat Med 28 2022 201 211 34782790 10.1038/s41591-021-01576-3 PMC8799469
+
+[bib76] Fraser E Denney L Blirando K Type-1 IFN primed monocytes in pathogenesis of idiopathic pulmonary fibrosis bioRxiv 2020 published online Jan 17. 10.1101/2020.01.16.908749 (preprint).
+
+[bib77] Dhooria S Chaudhary S Sehgal IS High-dose  versus  low-dose prednisolone in symptomatic patients with post-COVID-19 diffuse parenchymal lung abnormalities: an open-label, randomised trial (the COLDSTER trial) Eur Respir J 59 2022 2102930 10.1183/13993003.02930-2021 PMC8850687 34887325
+
+[bib78] De Sadeleer LJ Hermans F De Dycker E Impact of BAL lymphocytosis and presence of honeycombing on corticosteroid treatment effect in fibrotic hypersensitivity pneumonitis: a retrospective cohort study Eur Respir J 55 2020 1901983 10.1183/13993003.01983-2019 31949120
+
+[bib79] Vacchi C Sebastiani M Cassone G Therapeutic options for the treatment of interstitial lung disease related to connective tissue diseases. A narrative review J Clin Med 9 2020 407 32028635 10.3390/jcm9020407 PMC7073957
+
+[bib80] Yamagata A Arita M Tachibana H Impact of bronchoalveolar lavage lymphocytosis on the effects of anti-inflammatory therapy in idiopathic non-specific interstitial pneumonia, idiopathic pleuroparenchymal fibroelastosis, and unclassifiable idiopathic interstitial pneumonia Respir Res 22 2021 115 33879137 10.1186/s12931-021-01726-8 PMC8059166
+
+[bib81] Gelarden I Nguyen J Gao J Comprehensive evaluation of bronchoalveolar lavage from patients with severe COVID-19 and correlation with clinical outcomes Hum Pathol 113 2021 92 103 33905777 10.1016/j.humpath.2021.04.010 PMC8159767
+
+[bib82] Arabi YM Mandourah Y Al-Hameed F Corticosteroid therapy for critically ill patients with Middle East respiratory syndrome Am J Respir Crit Care Med 197 2018 757 767 29161116 10.1164/rccm.201706-1172OC
+
+[bib83] Lee N Allen Chan KC Hui DS Effects of early corticosteroid treatment on plasma SARS-associated coronavirus RNA concentrations in adult patients J Clin Virol 31 2004 304 309 15494274 10.1016/j.jcv.2004.07.006 PMC7108318
+
+[bib84] RECOVERY Collaborative Group Tocilizumab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial Lancet 397 2021 1637 1645 33933206 10.1016/S0140-6736(21)00676-0 PMC8084355
+
+[bib85] Gordon AC Mouncey PR Al-Beidh F Interleukin-6 receptor antagonists in critically ill patients with Covid-19 N Engl J Med 384 2021 1491 1502 33631065 10.1056/NEJMoa2100433 PMC7953461
+
+[bib86] Khan FA Stewart I Fabbri L Systematic review and meta-analysis of anakinra, sarilumab, siltuximab and tocilizumab for COVID-19 Thorax 76 2021 907 919 33579777 10.1136/thoraxjnl-2020-215266
+
+[bib87] Marconi VC Ramanan AV de Bono S Efficacy and safety of baricitinib for the treatment of hospitalised adults with COVID-19 (COV-BARRIER): a randomised, double-blind, parallel-group, placebo-controlled phase 3 trial Lancet Respir Med 9 2021 1407 1418 34480861 10.1016/S2213-2600(21)00331-3 PMC8409066
+
+[bib88] Kalil AC Patterson TF Mehta AK Baricitinib plus remdesivir for hospitalized adults with Covid-19 N Engl J Med 384 2021 795 807 33306283 10.1056/NEJMoa2031994 PMC7745180
+
+[bib89] Milara J Hernandez G Ballester B The JAK2 pathway is activated in idiopathic pulmonary fibrosis Respir Res 19 2018 24 29409529 10.1186/s12931-018-0728-9 PMC5801676
+
+[bib90] Le TT Karmouty-Quintana H Melicoff E Blockade of IL-6 trans signaling attenuates pulmonary fibrosis J Immunol 193 2014 3755 3768 25172494 10.4049/jimmunol.1302470 PMC4169999
+
+[bib91] Karam BS Morris RS Bramante CT mTOR inhibition in COVID-19: a commentary and review of efficacy in RNA viruses J Med Virol 93 2021 1843 1846 33314219 10.1002/jmv.26728 PMC8159020
+
+[bib92] Vincent JL Levi M Hunt BJ Prevention and management of thrombosis in hospitalised patients with COVID-19 pneumonia Lancet Respir Med 10 2022 214 220 34838161 10.1016/S2213-2600(21)00455-0 PMC8616572
+
+[bib93] Conway EM Mackman N Warren RQ Understanding COVID-19-associated coagulopathy Nat Rev Immunol 22 2022 639 649 35931818 10.1038/s41577-022-00762-9 PMC9362465
+
+[bib94] Aktaa S Wu J Nadarajah R Incidence and mortality due to thromboembolic events during the COVID-19 pandemic: multi-sourced population-based health records cohort study Thromb Res 202 2021 17 23 33711754 10.1016/j.thromres.2021.03.006 PMC7938753
+
+[bib95] Piroth L Cottenet J Mariet AS Comparison of the characteristics, morbidity, and mortality of COVID-19 and seasonal influenza: a nationwide, population-based retrospective cohort study Lancet Respir Med 9 2021 251 259 33341155 10.1016/S2213-2600(20)30527-0 PMC7832247
+
+[bib96] COVID-ICU Group on behalf of the REVA Network and the COVID-ICU Investigators Clinical characteristics and day-90 outcomes of 4244 critically ill adults with COVID-19: a prospective cohort study Intensive Care Med 47 2021 60 73 33211135 10.1007/s00134-020-06294-x PMC7674575
+
+[bib97] Weir-McCall JR Galea G Mun Mak S Vascular thrombosis in severe COVID-19 requiring extracorporeal membrane oxygenation: a multicenter study Crit Care Med 50 2022 624 632 34582412 10.1097/CCM.0000000000005322 PMC8923278
+
+[bib98] Miró Ò Llorens P Jiménez S Frequency of five cardiovascular/hemostatic entities as primary manifestations of SARS-CoV-2 infection: results of the UMC-19-S 2 Int J Cardiol 330 2021 268 272 33529670 10.1016/j.ijcard.2021.01.051 PMC7846881
+
+[bib99] Zuin M Engelen MM Barco S Incidence of venous thromboembolic events in COVID-19 patients after hospital discharge: a systematic review and meta-analysis Thromb Res 209 2022 94 98 34896917 10.1016/j.thromres.2021.11.029 PMC8648604
+
+[bib100] Ho FK Man KKC Toshner M Thromboembolic risk in hospitalized and nonhospitalized COVID-19 patients: a self-controlled case series analysis of a nationwide cohort Mayo Clin Proc 96 2021 2587 2597 34607634 10.1016/j.mayocp.2021.07.002 PMC8282478
+
+[bib101] Grillet F Behr J Calame P Aubry S Delabrousse E Acute pulmonary embolism associated with COVID-19 pneumonia detected with pulmonary CT angiography Radiology 296 2020 E186 E188 32324103 10.1148/radiol.2020201544 PMC7233384
+
+[bib102] Benito N Filella D Mateo J Pulmonary thrombosis or embolism in a large cohort of hospitalized patients with Covid-19 Front Med (Lausanne) 7 2020 557 32984388 10.3389/fmed.2020.00557 PMC7477312
+
+[bib103] Whyte MB Barker R Kelly PA Three-month follow-up of pulmonary embolism in patients with COVID-19 Thromb Res 201 2021 113 115 33662797 10.1016/j.thromres.2021.02.023 PMC7908844
+
+[bib104] Newman J Boubriak I Jenkins D Rising COVID-19 related acute pulmonary emboli but falling national chronic thromboembolic pulmonary hypertension referrals from a large national dataset ERJ Open Res 7 2021 00431 02021 10.1183/23120541.00431-2021 PMC8419584 34646880
+
+[bib105] Pepke-Zaba J Delcroix M Lang I Chronic thromboembolic pulmonary hypertension (CTEPH): results from an international prospective registry Circulation 124 2011 1973 1981 21969018 10.1161/CIRCULATIONAHA.110.015008
+
+[bib106] Desborough MJR Doyle AJ Griffiths A Retter A Breen KA Hunt BJ Image-proven thromboembolism in patients with severe COVID-19 in a tertiary critical care unit in the United Kingdom Thromb Res 193 2020 1 4 32485437 10.1016/j.thromres.2020.05.049 PMC7256551
+
+[bib107] van Dam LF Kroft LJM van der Wal LI Clinical and computed tomography characteristics of COVID-19 associated acute pulmonary embolism: a different phenotype of thrombotic disease? Thromb Res 193 2020 86 89 32531548 10.1016/j.thromres.2020.06.010 PMC7274953
+
+[bib108] Gul MH Htun ZM de Jesus Perez V Predictors and outcomes of acute pulmonary embolism in COVID-19; insights from US National COVID cohort collaborative Respir Res 24 2023 59 36810085 10.1186/s12931-023-02369-7 PMC9942071
+
+[bib109] Konstantinides SV Barco S Rosenkranz S Late outcomes after acute pulmonary embolism: rationale and design of FOCUS, a prospective observational multicenter cohort study J Thromb Thrombolysis 42 2016 600 609 27577542 10.1007/s11239-016-1415-7 PMC5040729
+
+[bib110] Valerio L Mavromanoli AC Barco S Chronic thromboembolic pulmonary hypertension and impairment after pulmonary embolism: the FOCUS study Eur Heart J 43 2022 3387 3398 35484821 10.1093/eurheartj/ehac206 PMC9492241
+
+[bib111] Borczuk AC Salvatore SP Seshan SV COVID-19 pulmonary pathology: a multi-institutional autopsy cohort from Italy and New York City Mod Pathol 33 2020 2156 2168 32879413 10.1038/s41379-020-00661-1 PMC7463226
+
+[bib112] Carsana L Sonzogni A Nasr A Pulmonary post-mortem findings in a series of COVID-19 cases from northern Italy: a two-centre descriptive study Lancet Infect Dis 20 2020 1135 1140 32526193 10.1016/S1473-3099(20)30434-5 PMC7279758
+
+[bib113] Prieto-Pérez L Fortes J Soto C Histiocytic hyperplasia with hemophagocytosis and acute alveolar damage in COVID-19 infection Mod Pathol 33 2020 2139 2146 32620916 10.1038/s41379-020-0613-1 PMC7333227
+
+[bib114] Grist JT Collier GJ Walters H Lung abnormalities detected with hyperpolarized  129 Xe MRI in patients with long COVID Radiology 305 2022 709 717 35608443 10.1148/radiol.220069 PMC9134268
+
+[bib115] Patel BV Arachchillage DJ Ridge CA Pulmonary angiopathy in severe COVID-19: physiologic, imaging, and hematologic observations Am J Respir Crit Care Med 202 2020 690 699 32667207 10.1164/rccm.202004-1412OC PMC7462405
+
+[bib116] Pretorius E Vlok M Venter C Persistent clotting protein pathology in Long COVID/Post-Acute Sequelae of COVID-19 (PASC) is accompanied by increased levels of antiplasmin Cardiovasc Diabetol 20 2021 172 34425843 10.1186/s12933-021-01359-7 PMC8381139
+
+[bib117] Toshner MR Gamble C Baillie JK Apixaban following discharge in hospitalised adults with COVID-19: Preliminary results from a multicentre, open-label, randomised controlled platform clinical trial medRxiv 2022 published online Dec 7. 10.1101/2022.12.07.22283175 (preprint).
+
+[bib118] Bloom CI Drake TM Docherty AB Risk of adverse outcomes in patients with underlying respiratory conditions admitted to hospital with COVID-19: a national, multicentre prospective cohort study using the ISARIC WHO Clinical Characterisation Protocol UK Lancet Respir Med 9 2021 699 711 33676593 10.1016/S2213-2600(21)00013-8 PMC8241313
+
+[bib119] Ayoubkhani D Khunti K Nafilyan V Post-covid syndrome in individuals admitted to hospital with covid-19: retrospective cohort study BMJ 372 2021 n693 33789877 10.1136/bmj.n693 PMC8010267
+
+[bib120] Bhaskaran K Rentsch CT Hickman G Overall and cause-specific hospitalisation and death after COVID-19 hospitalisation in England: a cohort study using linked primary care, secondary care, and death registration data in the OpenSAFELY platform PLoS Med 19 2022 e1003871 10.1371/journal.pmed.1003871 PMC8789178 35077449
+
+[bib121] Philip KEJ Buttery S Williams P Impact of COVID-19 on people with asthma: a mixed methods analysis from a UK wide survey BMJ Open Respir Res 9 2022 e001056 10.1136/bmjresp-2021-001056 PMC8762134 35027428
+
+[bib122] Morin L Savale L Pham T Four-month clinical status of a cohort of patients after hospitalization for COVID-19 JAMA 325 2021 1525 1534 33729425 10.1001/jama.2021.3331 PMC7970386
+
+[bib123] Cortés-Telles A López-Romero S Figueroa-Hurtado E Pulmonary function and functional capacity in COVID-19 survivors with persistent dyspnoea Respir Physiol Neurobiol 288 2021 103644 10.1016/j.resp.2021.103644 PMC7910142 33647535
+
+[bib124] Froidure A Mahsouli A Liistro G Integrative respiratory follow-up of severe COVID-19 reveals common functional and lung imaging sequelae Respir Med 181 2021 106383 10.1016/j.rmed.2021.106383 PMC8019490 33839588
+
+[bib125] Wu X Liu X Zhou Y 3-month, 6-month, 9-month, and 12-month respiratory outcomes in patients following COVID-19-related hospitalisation: a prospective study Lancet Respir Med 9 2021 747 754 33964245 10.1016/S2213-2600(21)00174-0 PMC8099316
+
+[bib126] Siddiqui S Brightling CE Pathological disease in the lung periphery after acute COVID-19 Lancet Respir Med 9 2021 1089 1090 34506762 10.1016/S2213-2600(21)00378-7 PMC8423429
+
+[bib127] Cassar MP Tunnicliffe EM Petousi N Symptom persistence despite improvement in cardiopulmonary health — insights from longitudinal CMR, CPET and lung function testing post-COVID-19 EClinicalMedicine 41 2021 101159 10.1016/j.eclinm.2021.101159 PMC8527025 34693230
+
+[bib128] Chen J Wu J Hao S Long term outcomes in survivors of epidemic Influenza A (H7N9) virus infection Sci Rep 7 2017 17275 10.1038/s41598-017-17497-6 PMC5722861 29222500
+
+[bib129] Bezzerri V Gentili V Api M SARS-CoV-2 viral entry and replication is impaired in cystic fibrosis airways due to ACE2 downregulation Nat Commun 14 2023 132 36627352 10.1038/s41467-023-35862-0 PMC9830623
+
+[bib130] Medino P Alicandro G Rosazza C Impact of COVID-19 on lung disease in people with cystic fibrosis: a 6-month follow-up study on respiratory outcomes Biomedicines 10 2022 2771 10.3390/biomedicines10112771 PMC9687883 36359291
+
+[bib131] Jaudszus A Pavlova M Rasche M Baier M Moeser A Lorenz M One year monitoring of SARS-CoV-2 prevalence in a German cohort of patients with cystic fibrosis BMC Pulm Med 22 2022 101 35331203 10.1186/s12890-022-01900-8 PMC8943512
+
+[bib132] Kortebein P Ferrando A Lombeida J Wolfe R Evans WJ Effect of 10 days of bed rest on skeletal muscle in healthy older adults JAMA 297 2007 1772 1774 10.1001/jama.297.16.1772-b 17456818
+
+[bib133] Manganotti P Buoite Stella A Ajcevic M Peripheral nerve adaptations to 10 days of horizontal bed rest in healthy young adult males Am J Physiol Regul Integr Comp Physiol 321 2021 R495 R503 34318712 10.1152/ajpregu.00146.2021
+
+[bib134] Narici M Vito G Franchi M Impact of sedentarism due to the COVID-19 home confinement on neuromuscular, cardiovascular and metabolic health: physiological and pathophysiological implications and recommendations for physical and nutritional countermeasures Eur J Sport Sci 21 2021 614 635 32394816 10.1080/17461391.2020.1761076
+
+[bib135] Puthucheary ZA Rawal J McPhail M Acute skeletal muscle wasting in critical illness JAMA 310 2013 1591 1600 24108501 10.1001/jama.2013.278481
+
+[bib136] McAuley HJC Harvey-Dunstan TC Craner M Longitudinal changes to quadriceps thickness demonstrate acute sarcopenia following admission to hospital for an exacerbation of chronic respiratory disease Thorax 76 2021 726 728 33443216 10.1136/thoraxjnl-2020-215949
+
+[bib137] Skjørten I Ankerstjerne OAW Trebinjac D Cardiopulmonary exercise capacity and limitations 3 months after COVID-19 hospitalisation Eur Respir J 58 2021 2100996 10.1183/13993003.00996-2021 PMC8247555 34210791
+
+[bib138] Mohr A Dannerbeck L Lange TJ Cardiopulmonary exercise pattern in patients with persistent dyspnoea after recovery from COVID-19 Multidiscip Respir Med 16 2021 732 33623700 10.4081/mrm.2021.732 PMC7893311
+
+[bib139] Rodríguez-Mañas L Féart C Mann G Searching for an operational definition of frailty: a Delphi method based consensus statement: the frailty operative definition-consensus conference project J Gerontol A Biol Sci Med Sci 68 2013 62 67 22511289 10.1093/gerona/gls119 PMC3598366
+
+[bib140] Müller I Mancinetti M Renner A Frailty assessment for COVID-19 follow-up: a prospective cohort study BMJ Open Respir Res 9 2022 e001227 10.1136/bmjresp-2022-001227 PMC9035838 35459694
+
+[bib141] Milne KM Kwan JM Guler S Frailty is common and strongly associated with dyspnoea severity in fibrotic interstitial lung disease Respirology 22 2017 728 734 27860036 10.1111/resp.12944
+
+[bib142] Stuck AE Siu AL Wieland GD Adams J Rubenstein LZ Comprehensive geriatric assessment: a meta-analysis of controlled trials Lancet 342 1993 1032 1036 8105269 10.1016/0140-6736(93)92884-v
+
+[bib143] McAuley HJC Evans RA Bolton CE Prevalence of physical frailty, including risk factors, up to 1 year after hospitalisation for COVID-19 in the UK: a multicentre, longitudinal cohort study EClinicalMedicine 57 2023 101896 10.1016/j.eclinm.2023.101896 PMC10005893 36936404
+
+[bib144] Vandentorren S Smaïli S Chatignoux E The effect of social deprivation on the dynamic of SARS-CoV-2 infection in France: a population-based analysis Lancet Public Health 7 2022 e240 e249 35176246 10.1016/S2468-2667(22)00007-X PMC8843336
+
+[bib145] Spathis A Booth S Moffat C The Breathing, Thinking, Functioning clinical model: a proposal to facilitate evidence-based breathlessness management in chronic respiratory disease NPJ Prim Care Respir Med 27 2017 27 28432286 10.1038/s41533-017-0024-z PMC5435098
+
+[bib146] Yorke J Moosavi SH Shuldham C Jones PW Quantification of dyspnoea using descriptors: development and initial testing of the Dyspnoea-12 Thorax 65 2010 21 26 19996336 10.1136/thx.2009.118521 PMC2795166
+
+[bib147] Banzett RB O'Donnell CR Guilfoyle TE Multidimensional Dyspnea Profile: an instrument for clinical and laboratory research Eur Respir J 45 2015 1681 1691 25792641 10.1183/09031936.00038914 PMC4450151
+
+[bib148] Grist JT Collier GJ Walters H Lung abnormalities detected with hyperpolarized  129 Xe MRI in patients with long COVID Radiology 305 2022 709 717 35608443 10.1148/radiol.220069 PMC9134268
+
+[bib149] Hameed S Khan AF Khan S Electrodiagnostic findings in COVID-19 patients: a single center experience Clin Neurophysiol 132 2021 3019 3024 34717222 10.1016/j.clinph.2021.10.001 PMC8513511
+
+[bib150] Stockley JA Alhuthail EA Coney AM Lung function and breathing patterns in hospitalised COVID-19 survivors: a review of post-COVID-19 Clinics Respir Res 22 2021 255 34579722 10.1186/s12931-021-01834-5 PMC8474952
+
+[bib151] Heightman M Prashar J Hillman TE Post-COVID-19 assessment in a specialist clinical service: a 12-month, single-centre, prospective study in 1325 individuals BMJ Open Respir Res 8 2021 e001041 10.1136/bmjresp-2021-001041 PMC8587466 34764200
+
+[bib152] Grammatopoulou EP Skordilis EK Georgoudis G Hyperventilation in asthma: a validation study of the Nijmegen Questionnaire—NQ J Asthma 51 2014 839 846 24823322 10.3109/02770903.2014.922190
+
+[bib153] Todd S Walsted ES Grillo L Livingston R Menzies-Gow A Hull JH Novel assessment tool to detect breathing pattern disorder in patients with refractory asthma Respirology 23 2018 284 290 28905471 10.1111/resp.13173
+
+[bib154] Hylton H Long A Francis C Real-world use of the Breathing Pattern Assessment Tool in assessment of breathlessness post-COVID-19 Clin Med (Lond) 22 2022 376 379 35760447 10.7861/clinmed.2021-0759 PMC9345218
+
+[bib155] Ionescu MF Mani-Babu S Degani-Costa LH Cardiopulmonary exercise testing in the assessment of dysfunctional breathing Front Physiol 11 2021 620955 10.3389/fphys.2020.620955 PMC7873943 33584339
+
+[bib156] Frésard I Genecand L Altarelli M Dysfunctional breathing diagnosed by cardiopulmonary exercise testing in ‘long COVID’ patients with persistent dyspnoea BMJ Open Respir Res 9 2022 e001126 10.1136/bmjresp-2021-001126 PMC8968537 35354589
+
+[bib157] Durstenfeld MS Sun K Tahir P Use of cardiopulmonary exercise testing to evaluate long COVID-19 symptoms in adults: a systematic review and meta-analysis JAMA Netw Open 5 2022 e2236057 10.1001/jamanetworkopen.2022.36057 PMC9557896 36223120
+
+[bib158] Tan T Brett SJ Stokes T Rehabilitation after critical illness: summary of NICE guidance BMJ 338 2009 b822 19321554 10.1136/bmj.b822
+
+[bib159] The Faculty of Intensive Care Medicine FICM position statement and provisional guidance: recovery and rehabilitation for patients following the pandemic https://www.cc3n.org.uk/uploads/9/8/4/2/98425184/ficm_rehab_provisional_guidance.pdf May 2020
+
+[bib160] Connolly B Milton-Cole R Adams C Recovery, rehabilitation and follow-up services following critical illness: an updated UK national cross-sectional survey and progress report BMJ Open 11 2021 e052214 10.1136/bmjopen-2021-052214 PMC8491421 34607869
+
+[bib161] Brown SM Bose S Banner-Goodspeed V Approaches to addressing post-intensive care syndrome among intensive care unit survivors. A narrative review Ann Am Thorac Soc 16 2019 947 956 31162935 10.1513/AnnalsATS.201812-913FR
+
+[bib162] Schofield-Robinson OJ Lewis SR Smith AF McPeake J Alderson P Follow-up services for improving long-term outcomes in intensive care unit (ICU) survivors Cochrane Database Syst Rev 11 2018 CD012701 10.1002/14651858.CD012701.pub2 PMC6517170 30388297
+
+[bib163] Connolly B Salisbury L O'Neill B Exercise rehabilitation following intensive care unit discharge for recovery from critical illness Cochrane Database Syst Rev 2015 2015 CD008632 10.1002/14651858.CD008632.pub2 PMC6517154 26098746
+
+[bib164] Turner-Stokes L Corner EJ Siegert RJ The post-ICU presentation screen (PICUPS) and rehabilitation prescription (RP) for intensive care survivors part I: development and preliminary clinimetric evaluation J Intensive Care Soc 23 2022 253 263 36033253 10.1177/1751143720988715 PMC9411778
+
+[bib165] McCarthy B Casey D Devane D Murphy K Murphy E Lacasse Y Pulmonary rehabilitation for chronic obstructive pulmonary disease Cochrane Database Syst Rev 2015 2015 CD003793 10.1002/14651858.CD003793.pub3 PMC10008021 25705944
+
+[bib166] Dowman L Hill CJ May A Holland AE Pulmonary rehabilitation for interstitial lung disease Cochrane Database Syst Rev 2 2021 CD006322 10.1002/14651858.CD006322.pub4 PMC8094410 34559419
+
+[bib167] Grünig E MacKenzie A Peacock AJ Standardized exercise training is feasible, safe, and effective in pulmonary arterial and chronic thromboembolic pulmonary hypertension: results from a large European multicentre randomized controlled trial Eur Heart J 42 2021 2284 2295 33232470 10.1093/eurheartj/ehaa696
+
+[bib168] Maddocks M Kon SS Canavan JL Physical frailty and pulmonary rehabilitation in COPD: a prospective cohort study Thorax 71 2016 988 995 27293209 10.1136/thoraxjnl-2016-208460 PMC5099190
+
+[bib169] Carlucci A Paneroni M Carotenuto M Prevalence of exercise-induced oxygen desaturation after recovery from SARS-CoV-2 pneumonia and use of lung ultrasound to predict need for pulmonary rehabilitation Pulmonology 2021 published online Jun 4. 10.1016/j.pulmoe.2021.05.008 PMC8175480 34247995
+
+[bib170] González J Benítez ID Carmona P Pulmonary function and radiologic features in survivors of critical COVID-19: a 3-month prospective cohort Chest 160 2021 187 198 33676998 10.1016/j.chest.2021.02.062 PMC7930807
+
+[bib171] Jacobs SS Krishnan JA Lederer DJ Home oxygen therapy for adults with chronic lung disease. An official American Thoracic Society clinical practice guideline Am J Respir Crit Care Med 202 2020 e121 e141 33185464 10.1164/rccm.202009-3608ST PMC7667898
+
+[bib172] Greenhalgh T Knight M A'Court C Buxton M Husain L Management of post-acute covid-19 in primary care BMJ 370 2020 m3026 10.1136/bmj.m3026 32784198
+
+[bib173] Spruit MA Holland AE Singh SJ Tonia T Wilson KC Troosters T COVID-19: Interim guidance on rehabilitation in the hospital and post-hospital phase from a European Respiratory Society and American Thoracic Society-coordinated international task force Eur Respir J 56 2020 2002197 10.1183/13993003.02197-2020 PMC7427118 32817258
+
+[bib174] Singh SJBC Nolan C Harvey-Dunstan T Connolly B Man W Walker P Delivering rehabilitation to patients surviving COVID-19 using an adapted pulmonary rehabilitation approach – BTS guidance https://www.brit-thoracic.org.uk/document-library/quality-improvement/covid-19/pulmonary-rehabilitation-for-covid-19-patients/ Sept 16, 2020
+
+[bib175] Zheng B Daines L Han Q Prevalence, risk factors and treatments for post-COVID-19 breathlessness: a systematic review and meta-analysis Eur Respir Rev 31 2022 220071 10.1183/16000617.0071-2022 PMC9724798 36323418
+
+[bib176] Houchen-Wolloff L Poinasamy K Holmes K Joint patient and clinician priority setting to identify 10 key research questions regarding the long-term sequelae of COVID-19 Thorax 77 2022 717 720 35354642 10.1136/thoraxjnl-2021-218582 PMC9209667
+
+[bib177] Gloeckl R Leitl D Jarosch I Benefits of pulmonary rehabilitation in COVID-19: a prospective observational cohort study ERJ Open Res 7 2021 00108 02021 34095290 10.1183/23120541.00108-2021 PMC7957293
+
+[bib178] Li J Xia W Zhan C A telerehabilitation programme in post-discharge COVID-19 patients (TERECO): a randomised controlled trial Thorax 77 2022 697 706 34312316 10.1136/thoraxjnl-2021-217382 PMC8318721
+
+[bib179] Daynes E Gerlis C Chaplin E Gardiner N Singh SJ Early experiences of rehabilitation for individuals post-COVID to improve fatigue, breathlessness exercise capacity and cognition — a cohort study Chron Respir Dis 18 2021 14799731211015691 10.1177/14799731211015691 PMC8114752 33957805
+
+[bib180] Reinert G Müller D Wagner P Pulmonary rehabilitation in SARS-CoV-2: a systematic review and meta-analysis of post-acute patients Diagnostics (Basel) 12 2022 3032 10.3390/diagnostics12123032 PMC9776761 36553039
+
+[bib181] Philip KEJ Owles H McVey S An online breathing and wellbeing programme (ENO Breathe) for people with persistent symptoms following COVID-19: a parallel-group, single-blind, randomised controlled trial Lancet Respir Med 10 2022 851 862 35489367 10.1016/S2213-2600(22)00125-4 PMC9045747
+
+[bib182] McNarry MA Berg RMG Shelley J Inspiratory muscle training enhances recovery post-COVID-19: a randomised controlled trial Eur Respir J 60 2022 2103101 10.1183/13993003.03101-2021 PMC8900538 35236727
+
+[bib183] Holland AE Hill CJ Jones AY McDonald CF Breathing exercises for chronic obstructive pulmonary disease Cochrane Database Syst Rev 10 2012 CD008250 10.1002/14651858.CD008250.pub2 PMC11371308 23076942
+
+[bib184] Santino TA Chaves GS Freitas DA Fregonezi GA Mendonça KM Breathing exercises for adults with asthma Cochrane Database Syst Rev 3 2020 CD001277 10.1002/14651858.CD001277.pub4 PMC7096190 32212422
+
+[bib185] Bruton A Lee A Yardley L Physiotherapy breathing retraining for asthma: a randomised controlled trial Lancet Respir Med 6 2018 19 28 29248433 10.1016/S2213-2600(17)30474-5 PMC5757422
+
+[bib186] Jones M Harvey A Marston L O'Connell NE Breathing exercises for dysfunctional breathing/hyperventilation syndrome in adults Cochrane Database Syst Rev 5 2013 CD009041 10.1002/14651858.CD009041.pub2 PMC11379427 23728685
+
+[bib187] World Health Organization COVID-19 clinical management: living guidance, 25 January 2021 https://apps.who.int/iris/handle/10665/338882 Jan 25, 2021

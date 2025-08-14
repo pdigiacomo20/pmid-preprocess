@@ -1,0 +1,167 @@
+[B1-biomedicines-11-02213] Klaser K. Thompson E.J. Nguyen L.H. Sudre C.H. Antonelli M. Murray B. Canas L.S. Molteni E. Graham M.S. Kerfoot E. Anxiety and depression symptoms after COVID-19 infection: Results from the COVID Symptom Study app J. Neurol. Neurosurg. Psychiatry 2021 92 1254 1258 10.1136/jnnp-2021-327565 34583944 PMC8599635
+
+[B2-biomedicines-11-02213] Fiore E. Corbellini C. Acucella L. Gargano S. Sánchez Romero E.A. Cotella D. Villafañe J.H. Dolor musculoesquelético en supervivientes del COVID-19 tras la hospitalización: Una breve revision (Musculoskeletal pain related to COVID-19 survivors after hospitalization: A short review) Retos 2022 44 789 795 10.47197/retos.v44i0.90361
+
+[B3-biomedicines-11-02213] El-Maradny Y.A. Rubio-Casillas A. Uversky V.N. Redwan E.M. Intrinsic factors behind long-COVID: I. Prevalence of the extracellular vesicles J. Cell. Biochem. 2023 124 656 673 10.1002/jcb.30415 37126363
+
+[B4-biomedicines-11-02213] Jimeno-Almazán A. Pallarés J.G. Buendía-Romero Á. Martínez-Cava A. Franco-López F. Martínez B.J.S.-A. Bernal-Morel E. Courel-Ibáñez J. Post-COVID-19 Syndrome and the Potential Benefits of Exercise Int. J. Environ. Res. Public Health 2021 18 5329 10.3390/ijerph18105329 34067776 PMC8156194
+
+[B5-biomedicines-11-02213] Fernández-de-Las-Peñas C. Palacios-Ceña D. Gómez-Mayordomo V. Palacios-Ceña M. Rodríguez-Jiménez J. de-la-Llave-Rincón A.I. Velasco-Arribas M. Fuensalida-Novo S. Ambite-Quesada S. Guijarro C. Fatigue and Dyspnoea as Main Persistent Post-COVID-19 Symptoms in Previously Hospitalized Patients: Related Functional Limitations and Disability Respiration 2022 101 132 141 10.1159/000518854 34569550 PMC8678253
+
+[B6-biomedicines-11-02213] Scurati R. Papini N. Giussani P. Alberti G. Tringali C. The Challenge of Long COVID-19 Management: From Disease Molecular Hallmarks to the Proposal of Exercise as Therapy Int. J. Mol. Sci. 2022 23 12311 10.3390/ijms232012311 36293160 PMC9603679
+
+[B7-biomedicines-11-02213] Cheng S.W.M. McKeough Z.J. McNamara R.J. Alison J.A. Pulmonary Rehabilitation Using Minimal Equipment for People with Chronic Obstructive Pulmonary Disease: A Systematic Review and Meta-Analysis Phys. Ther. 2023 103 pzad013 10.1093/ptj/pzad013 37140475 PMC10158642
+
+[B8-biomedicines-11-02213] Sanchez-Ramirez D.C. Normand K. Zhaoyun Y. Torres-Castro R. Long-Term Impact of COVID-19: A Systematic Review of the Literature and Meta-Analysis Biomedicines 2021 9 900 10.3390/biomedicines9080900 34440104 PMC8389585
+
+[B9-biomedicines-11-02213] Corbellini C. Villafane J. Gugliotta E. Tavella S. Zampese S. Pessina P. Monti R. Carnuccio C. Romero E.A.S. Meroni R. Late Breaking Abstract—Pulmonary Rehabilitation in Post—COVID Subjects with Moderate Lung Restriction, A Case Series Eur. Respir. J. 2021 58 (Suppl. 65) PA2003
+
+[B10-biomedicines-11-02213] Sánchez Romero E.A. Alonso Pérez J.L. Vinuesa Suárez I. Corbellini C. Villafañe J.H. Spanish experience on the efficacy of airways clearance techniques in SARS-CoV-2 (COVID-19) at intensive care unit: An editorial and case report SAGE Open Med. Case Rep. 2022 10 2050313X221112507 10.1177/2050313X221112507 PMC9297451 35875169
+
+[B11-biomedicines-11-02213] Nicolás Cuenca-Zaldivar J. Acevedo Á.M. Fernández-Carnero J. Sánchez-Romero E.A. Villafañe J.H. Barragán Carballar C. Effects of a Multicomponent Exercise Program on Improving Frailty in Post-COVID-19 Older Adults after Intensive Care Units:A Single-Group Retrospective Cohort Study Biology 2022 11 1084 10.3390/biology11071084 36101461 PMC9313031
+
+[B12-biomedicines-11-02213] Martínez Rolando L. Villafañe J.H. Cercadillo García S. Sanz Argüello A. Villanueva Rosa M. Sánchez Romero E.A. Multicomponent Exercise Program to Improve the Immediate Sequelae of COVID-19: A Prospective Study with a Brief Report of 2-Year Follow-Up Int. J. Environ. Res. Public Health 2022 19 12396 10.3390/ijerph191912396 36231696 PMC9566039
+
+[B13-biomedicines-11-02213] Sánchez Romero E.A. Fernández Carnero J. Alonso Pérez J.L. Martínez Rolando L. Villafañe J.H. Addressing post-COVID-19musculoskeletal symptoms through telemedicine: A study protocol F1000Research 2022 11 898 10.12688/f1000research.122843.1 PMC10958150 38524251
+
+[B14-biomedicines-11-02213] Ahmed I. Mustafaoglu R. Yeldan I. Yasaci Z. Erhan B. Effect of Pulmonary Rehabilitation Approaches on Dyspnea, Exercise Capacity, Fatigue, Lung Functions, and Quality of Life in Patients with COVID-19: A Systematic Review and Meta-analysis Arch. Phys. Med. Rehabil. 2022 103 2051 2062 10.1016/j.apmr.2022.06.007 35908659 PMC9334878
+
+[B15-biomedicines-11-02213] Reinert G. Müller D. Wagner P. Martínez-Pozas O. Cuenca-Záldivar J.N. Fernández-Carnero J. Sánchez Romero E.A. Corbellini C. Pulmonary Rehabilitation in SARS-CoV-2: A Systematic Review and Meta-Analysis of Post-Acute Patients Diagnostics 2022 12 3032 10.3390/diagnostics12123032 36553039 PMC9776761
+
+[B16-biomedicines-11-02213] Al-Mhanna S.B. Mohamed M. Noor N.M. Afolabi H.A. Irekeola A.A. Bello K.E. Aldhahi M.I. Ghazali W.S.W. Effectiveness of Pulmonary Rehabilitation among COVID-19 Patients: A Systematic Review and Meta-Analysis Healthcare 2022 10 2130 10.3390/healthcare10112130 36360471 PMC9691193
+
+[B17-biomedicines-11-02213] Fugazzaro S. Contri A. Esseroukh O. Kaleci S. Croci S. Massari M. Facciolongo N.C. Besutti G. Iori M. Salvarani C. Rehabilitation Interventions for Post-Acute COVID-19 Syndrome: A Systematic Review Int. J. Environ. Res. Public Health 2022 19 5185 10.3390/ijerph19095185 35564579 PMC9104923
+
+[B18-biomedicines-11-02213] Da Silva Vieira A.G. Pinto A.C.P.N. Garcia B.M.S.P. Eid R.A.C. Mól C.G. Nawa R.K. Telerehabilitation improves physical function and reduces dyspnoea in people with COVID-19 and post-COVID-19 conditions: A systematic review J. Physiother. 2022 68 90 98 10.1016/j.jphys.2022.03.011 35414491 PMC8994568
+
+[B19-biomedicines-11-02213] Page M.J. McKenzie J.E. Bossuyt P.M. Boutron I. Hoffmann T.C. Mulrow C.D. Shamseer L. Tetzlaff J.M. Akl E.A. Brennan S.E. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews BMJ 2021 372 n71 10.1136/bmj.n71 33782057 PMC8005924
+
+[B20-biomedicines-11-02213] Shea B.J. Reeves B.C. Wells G. Thuku M. Hamel C. Moran J. Moher D. Tugwell P. Welch V. Kristjansson E. AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both BMJ 2017 358 j4008 10.1136/bmj.j4008 28935701 PMC5833365
+
+[B21-biomedicines-11-02213] Spruit M.A. Pulmonary rehabilitation Eur. Respir. Rev. 2014 23 55 63 10.1183/09059180.00008013 24591662 PMC9487255
+
+[B22-biomedicines-11-02213] Barton C.J. Webster K.E. Menz H.B. Evaluation of the scope and quality of systematic reviews on nonpharmacological conservative treatment for patellofemoral pain syndrome J. Orthop. Sports Phys. Ther. 2008 38 529 541 10.2519/jospt.2008.2861 18758046
+
+[B23-biomedicines-11-02213] Sterne J.A.C. Savović J. Page M.J. Elbers R.G. Blencowe N.S. Boutron I. Cates C.J. Cheng H.Y. Corbett M.S. Eldridge S.M. RoB 2: A revised tool for assessing risk of bias in randomised trials BMJ 2019 366 l4898 10.1136/bmj.l4898 31462531
+
+[B24-biomedicines-11-02213] Sterne J.A.C. Hernán M.A. Reeves B.C. Savović J. Berkman N.D. Viswanathan M. Henry D. Altman D.G. Ansari M.T. Boutron I. ROBINS-I: A tool for assessing risk of bias in non-randomised studies of interventions BMJ 2016 355 i4919 10.1136/bmj.i4919 27733354 PMC5062054
+
+[B25-biomedicines-11-02213] Viechtbauer W. Conducting meta-analyses in R with the metafor package J. Stat. Softw. 2010 36 1 48 10.18637/jss.v036.i03
+
+[B26-biomedicines-11-02213] Balduzzi S. Rücker G. Schwarzer G. How to perform a meta-analysis with R: A practical tutorial Evid Based Ment Health 2019 22 153 160 10.1136/ebmental-2019-300117 31563865 PMC10231495
+
+[B27-biomedicines-11-02213] Luo D. Wan X. Liu J. Tong T. Optimally estimating the sample mean from the sample size, median, mid-range, and/or mid-quartile range Stat. Methods Med Res. 2018 27 1785 1805 10.1177/0962280216669183 27683581
+
+[B28-biomedicines-11-02213] Shi J. Luo D. Weng H. Zeng X. Lin L. Chu H. Tong T. Optimally estimating the sample standard deviation from the five-number summary Res. Synth. Methods 2020 11 641 654 10.1002/jrsm.1429 32562361
+
+[B29-biomedicines-11-02213] Higgins J.P.T. Thomas J. Chandler J. Cumpston M. Li T. Page M.J. Welch V.A. Cochrane handbook for systematic reviews of interventions Cochrane Handbook for Systematic Reviews of Interventions John Wiley & Sons Chichester, UK 2019 1 694 10.1002/14651858.ED000142 PMC10284251 31643080
+
+[B30-biomedicines-11-02213] Rosenthal R. Meta-analytic procedures for social research Meta-Analytic Procedures for Social Research SAGE Publications, Inc. Thousand Oaks, CA, USA 1991 10.4135/9781412984997
+
+[B31-biomedicines-11-02213] Berlim M.T. McGirr A. Dos Santos N.R. Tremblay S. Martins R. Efficacy of theta burst stimulation (TBS) for major depression: An exploratory meta-analysis of randomized and sham-controlled trials J. Psychiatr. Res. 2017 90 102 109 10.1016/j.jpsychires.2017.02.015 28254709
+
+[B32-biomedicines-11-02213] Kallapiran K. Koo S. Kirubakaran R. Hancock K. Review: Effectiveness of mindfulness in improving mental health symptoms of children and adolescents: A meta-analysis Child Adolesc. Ment. Health 2015 20 182 194 10.1111/camh.12113 32680348
+
+[B33-biomedicines-11-02213] McGirr A. Berlim M.T. Bond D.J. Neufeld N.H. Chan P.Y. Yatham L.N. Lam R.W. A systematic review and meta-analysis of randomized controlled trials of adjunctive ketamine in electroconvulsive therapy: Efficacy and tolerability J. Psychiatr. Res. 2015 62 23 30 10.1016/j.jpsychires.2015.01.003 25684151
+
+[B34-biomedicines-11-02213] Yagiz G. Akaras E. Kubis H.-P. Owen J.A. The Effects of Resistance Training on Architecture and Volume of the Upper Extremity Muscles: A Systematic Review of Randomised Controlled Trials and Meta-Analyses Appl. Sci. 2022 12 1593 10.3390/app12031593
+
+[B35-biomedicines-11-02213] Papadopoulos V.P. Apergis N. Filippou D.K. Nocturia in CPAP-Treated Obstructive Sleep Apnea Patients: A Systematic Review and Meta-Analysis SN Compr. Clin. Med. 2020 2 2799 2807 10.1007/s42399-020-00584-7
+
+[B36-biomedicines-11-02213] Jimeno-Almazán A. Buendía-Romero Á. Martínez-Cava A. Franco-López F. Sánchez-Alcaraz B.J. Courel-Ibáñez J. Pallarés J.G. Effects of a concurrent training, respiratory muscle exercise, and self-management recommendations on recovery from post-COVID-19 conditions: The RECOVE trial J. Appl. Physiol. 2023 134 95 104 10.1152/japplphysiol.00489.2022 36476156 PMC9829459
+
+[B37-biomedicines-11-02213] Baujat B. Mahé C. Pignon J.P. Hill C. A graphical method for exploring heterogeneity in meta-analyses: Application to a meta-analysis of 65 trials Stat. Med. 2002 21 2641 2652 10.1002/sim.1221 12228882
+
+[B38-biomedicines-11-02213] Shi L. Lin L. Omboni S. The trim-and-fill method for publication bias: Practical guidelines and recommendations based on a large database of meta-analyses Medicine 2019 98 e15987 10.1097/MD.0000000000015987 31169736 PMC6571372
+
+[B39-biomedicines-11-02213] Abodonya A.M. Abdelbasset W.K. Awad E.A. Elalfy I.E. Salem H.A. Elsayed S.H. Inspiratory muscle training for recovered COVID-19 patients after weaning from mechanical ventilation: A pilot control clinical study Medicine 2021 100 E25339 10.1097/MD.0000000000025339 33787632 PMC8021337
+
+[B40-biomedicines-11-02213] Bargahi M. Soltani S. Rastgoo N. Aryanejad F. Nemati R. Ghaebi M. Bajelan A. Esmaielzade S. Effect of Balloon-Blowing on Dyspnea and Oxygenation in Noncritical Adult Covid19 Patients: A Pilot Study medRxiv 2021 preprint 10.1101/2021.07.27.21260398
+
+[B41-biomedicines-11-02213] Fereydounnia S. Shadmehr A. Tahmasbi M.A. Salehi M.R.S. The Comparison of the Effectiveness of Respiratory Physiotherapy Plus Myofascial Release Therapy Versus Respiratory Physiotherapy Alone on Cardiorespiratory Parameters in Patients With COVID-19 Int. J. Ther. Massage Bodywork Res. Educ. Pr. 2022 15 4 14 10.3822/ijtmb.v14i4.691 PMC8887853 35280243
+
+[B42-biomedicines-11-02213] Gonzalez-Gerez J.J. Saavedra-Hernandez M. Anarte-Lazo E. Bernal-Utrera C. Perez-Ale M. Rodriguez-Blanco C. Short-Term Effects of a Respiratory Telerehabilitation Program in Confined COVID-19 Patients in the Acute Phase: A Pilot Study Int. J. Environ. Res. Public Health 2021 18 7511 10.3390/ijerph18147511 34299962 PMC8306449
+
+[B43-biomedicines-11-02213] Hayden M.C. Limbach M. Schuler M. Merkl S. Schwarzl G. Jakab K. Nowak D. Schultz K. Effectiveness of a Three-Week Inpatient Pulmonary Rehabilitation Program for Patients after COVID-19: A Prospective Observational Study Int. J. Environ. Res. Public Health 2021 18 9001 10.3390/ijerph18179001 34501596 PMC8430843
+
+[B44-biomedicines-11-02213] Hockele L.F. Sachet Affonso J.V. Rossi D. Eibel B. Pulmonary and Functional Rehabilitation Improves Functional Capacity, Pulmonary Function and Respiratory Muscle Strength in Post COVID-19 Patients: Pilot Clinical Trial Int. J. Environ. Res. Public Health 2022 19 14899 10.3390/ijerph192214899 36429613 PMC9691070
+
+[B45-biomedicines-11-02213] Li J. Xia W. Zhan C. Liu S. Yin Z. Wang J. Chong Y. Zheng C. Fang X. Cheng W. A telerehabilitation programme in post-discharge COVID-19 patients (TERECO): A randomised controlled trial Thorax 2022 77 697 706 10.1136/thoraxjnl-2021-217382 34312316 PMC8318721
+
+[B46-biomedicines-11-02213] Liu K. Zhang W. Yang Y. Zhang J. Li Y. Chen Y. Respiratory rehabilitation in elderly patients with COVID-19: A randomized controlled study Complement. Ther. Clin. Pract. 2020 39 101166 10.1016/j.ctcp.2020.101166 32379637 PMC7118596
+
+[B47-biomedicines-11-02213] Llurda-Almuzara L. Rodríguez-Sanz J. López-De-Celis C. Aiguadé-Aiguadé R. Arán-Jové R. Labata-Lezaun N. Fernández-De-Las-Peñas C. Bosch J. Pérez-Bellmunt A. Effects of Adding an Online Exercise Program on Physical Function in Individuals Hospitalized by COVID-19: A Randomized Controlled Trial Int. J. Environ. Res. Public Health 2022 19 16619 10.3390/ijerph192416619 36554510 PMC9778879
+
+[B48-biomedicines-11-02213] Lobanov A.A. Grishechkina I.A. Andronov S.V. Barashkov G.N. Popov A.I. Fesyun A.D. Ivanova E.P. Maccarone M.C. Masiero S. Can aquatic exercises contribute to the improvement of the gait stereotype function in patients with Long COVID outcomes? Eur. J. Transl. Myol. 2022 32 10.4081/ejtm.2022.10698 PMC9580543 35833897
+
+[B49-biomedicines-11-02213] Martin I. Braem F. Baudet L. Poncin W. Fizaine S. Aboubakar F. Froidure A. Pilette C. Liistro G. De Greef J. Follow-up of functional exercise capacity in patients with COVID-19: It is improved by telerehabilitation Respir. Med. 2021 183 106438 10.1016/j.rmed.2021.106438 33964817 PMC8084600
+
+[B50-biomedicines-11-02213] Nagy E.N. Elimy D.A. Ali A.Y. Ezzelregal H.G. Elsayed M.M. Influence of Manual Diaphragm Release Technique Combined with Inspiratory Muscle Training on Selected Persistent Symptoms in Men with Post-Covid-19 Syndrome: A Randomized Controlled Trial J. Rehabil. Med. 2022 54 jrm00330 10.2340/jrm.v54.3972 36121338 PMC9608026
+
+[B51-biomedicines-11-02213] Nambi G. Abdelbasset W.K. Alrawaili S.M. Elsayed S.H. Verma A. Vellaiyan A. Eid M.M. Aldhafian O.R. Nwihadh N.B. Saleh A.K. Comparative effectiveness study of low versus high-intensity aerobic training with resistance training in community-dwelling older men with post-COVID 19 sarcopenia: A randomized controlled trial Clin. Rehabil. 2022 36 59 68 10.1177/02692155211036956 34344230
+
+[B52-biomedicines-11-02213] Pehlivan E. Palalı İ. Atan S.G. Turan D. Çınarka H. Çetinkaya E. The effectiveness of POST-DISCHARGE telerehabilitation practices in COVID-19 patients: Tele-COVID study-randomized controlled trial Ann. Thorac. Med. 2022 17 110 117 10.4103/atm.atm_543_21 35651892 PMC9150661
+
+[B53-biomedicines-11-02213] Puchner B. Sahanic S. Kirchmair R. Pizzini A. Sonnweber B. Wöll E. Mühlbacher A. Garimorth K. Dareb B. Ehling R. Beneficial effects of multi-disciplinary rehabilitation in postacute COVID-19: An observational cohort study Eur. J. Phys. Rehabilitation Med. 2021 57 189 198 10.23736/S1973-9087.21.06549-7 33448756
+
+[B54-biomedicines-11-02213] Rodriguez-Blanco C. Gonzalez-Gerez J.J. Bernal-Utrera C. Anarte-Lazo E. Perez-Ale M. Saavedra-Hernandez M. Short-Term Effects of a Conditioning Telerehabilitation Program in Confined Patients Affected by COVID-19 in the Acute Phase. A Pilot Randomized Controlled Trial Medicina 2021 57 684 10.3390/medicina57070684 34356965 PMC8305888
+
+[B55-biomedicines-11-02213] Rutkowski S. Bogacz K. Rutkowska A. Szczegielniak J. Casaburi R. Inpatient post-COVID-19 rehabilitation program featuring virtual reality—Preliminary results of randomized controlled trial Front. Public Health 2023 11 1121554 10.3389/fpubh.2023.1121554 36815161 PMC9939639
+
+[B56-biomedicines-11-02213] Do Amaral V.T. Viana A.A. Heubel A.D. Linares S.N. Martinelli B. Witzler P.H.C. de Souza Zanini G. Mendes R.G. Ciolac E.G. Published ahead of Print Cardiovascular, Respiratory, and Functional Effects of Home-based Exercise Training after COVID-19 Hospitalization Med. Sci. Sports Exerc. 2022 54 1795 1803 10.1249/MSS.0000000000002977 35714077
+
+[B57-biomedicines-11-02213] Albu S. Zozaya N.R. Murillo N. García-Molina A. Chacón C.A.F. Kumru H. Multidisciplinary outpatient rehabilitation of physical and neurological sequelae and persistent symptoms of covid-19: A prospective, observational cohort study Disabil. Rehabil. 2021 44 6833 6840 10.1080/09638288.2021.1977398 34559592
+
+[B58-biomedicines-11-02213] Cahalan R.M. Meade C. Mockler S. SingStrong-A singing and breathing retraining intervention for respiratory and other common symptoms of long COVID: A pilot study Can. J. Respir. Ther. 2022 58 20 27 10.29390/cjrt-2021-074 35359819 PMC8906430
+
+[B59-biomedicines-11-02213] Calvo-Paniagua J. Díaz-Arribas M.J. Valera-Calero J.A. Gallardo-Vidal M.I. Fernández-De-Las-Peñas C. López-De-Uralde-Villanueva I. del Corral T. Plaza-Manzano G. A tele-health primary care rehabilitation program improves self-perceived exertion in COVID-19 survivors experiencing Post-COVID fatigue and dyspnea: A quasi-experimental study PLoS ONE 2022 17 e0271802 10.1371/journal.pone.0271802 35926004 PMC9352012
+
+[B60-biomedicines-11-02213] Compagno S. Palermi S. Pescatore V. Brugin E. Sarto M. Marin R. Calzavara V. Nizzetto M. Scevola M. Aloi A. Physical and psychological reconditioning in long COVID syndrome: Results of an out-of-hospital exercise and psychological-based rehabilitation program IJC Heart Vasc. 2022 41 101080 10.1016/j.ijcha.2022.101080 PMC9286763 35854691
+
+[B61-biomedicines-11-02213] Daynes E. Gerlis C. Chaplin E. Gardiner N. Singh S.J. Early experiences of rehabilitation for individuals post-COVID to improve fatigue, breathlessness exercise capacity and cognition—A cohort study Chronic Respir. Dis. 2021 18 10.1177/14799731211015691 PMC8114752 33957805
+
+[B62-biomedicines-11-02213] Del Corral T. Fabero-Garrido R. Plaza-Manzano G. Fernández-de-Las-Peñas C. Navarro-Santana M. López-de-Uralde-Villanueva I. Home-based respiratory muscle training on quality of life and exercise tolerance in long-term post-COVID-19: Randomized controlled trial Ann. Phys. Rehabil. Med. 2022 66 101709 10.1016/j.rehab.2022.101709 36191860 PMC9708524
+
+[B63-biomedicines-11-02213] Estebanez-Pérez M.J. Pastora-Bernal J.M. Martín-Valero R. The Effectiveness of a Four-Week Digital Physiotherapy Intervention to Improve Functional Capacity and Adherence to Intervention in Patients with Long COVID-19 Int. J. Environ. Res. Public Health 2022 19 9566 10.3390/ijerph19159566 35954922 PMC9367987
+
+[B64-biomedicines-11-02213] Groenveld T. Achttien R. Smits M. de Vries M. van Heerde R. Staal B. van Goor H. COVID Rehab Group Feasibility of Virtual Reality Exercises at Home for Post–COVID-19 Condition: Cohort Study JMIR Rehabilitation Assist. Technol. 2022 9 e36836 10.2196/36836 PMC9380776 35858254
+
+[B65-biomedicines-11-02213] Hasenoehrl T. Palma S. Huber D.F.-X. Kastl S. Steiner M. Jordakieva G. Crevenna R. Post-COVID: Effects of physical exercise on functional status and work ability in health care personnel Disabil. Rehabil. 2022 10.1080/09638288.2022.2111467 35980383
+
+[B66-biomedicines-11-02213] Jimeno-Almazán A. Franco-López F. Buendía-Romero Á. Martínez-Cava A. Sánchez-Agar J.A. Martínez B.J.S. Courel-Ibáñez J. Pallarés J.G. Rehabilitation for post-COVID-19 condition through a supervised exercise intervention: A randomized controlled trial Scand. J. Med. Sci. Sports 2022 32 1791 1801 10.1111/sms.14240 36111386 PMC9538729
+
+[B67-biomedicines-11-02213] Lloyd-Evans P.H.I. Baldwin M.M. Daynes E. Hong A. Mills G. Goddard A.C.N. Chaplin E. Gardiner N. Singh S.J. Early experiences of the Your COVID Recovery ®  digital programme for individuals with long COVID BMJ Open Respir. Res. 2022 9 e001237 10.1136/bmjresp-2022-001237 PMC9527747 36171050
+
+[B68-biomedicines-11-02213] McNarry M.A. Berg R.M. Shelley J. Hudson J. Saynor Z.L. Duckers J. Lewis K. Davies G.A. Mackintosh K.A. Inspiratory muscle training enhances recovery post-COVID-19: A randomised controlled trial Eur. Respir. J. 2022 60 2103101 10.1183/13993003.03101-2021 35236727 PMC8900538
+
+[B69-biomedicines-11-02213] Nopp S. Moik F. Klok F.A. Gattinger D. Petrovic M. Vonbank K. Koczulla A.R. Ay C. Zwick R.H. Outpatient Pulmonary Rehabilitation in Patients with Long COVID Improves Exercise Capacity, Functional Status, Dyspnea, Fatigue, and Quality of Life Respiration 2022 101 593 601 10.1159/000522118 35203084 PMC9059007
+
+[B70-biomedicines-11-02213] Okan F. Okan S. Duran Yücesoy F. Evaluating the Efficiency of Breathing Exercises via Telemedicine in Post-Covid-19 Patients: Randomized Controlled Study Clin. Nurs. Res. 2022 31 771 781 10.1177/10547738221097241 35485738
+
+[B71-biomedicines-11-02213] Philip K.E.J. Owles H. McVey S. Pagnuco T. Bruce K. Brunjes H. Banya W. Mollica J. Lound A. Zumpe S. An online breathing and wellbeing programme (ENO Breathe) for people with persistent symptoms following COVID-19: A parallel-group, single-blind, randomised controlled trial Lancet Respir. Med. 2022 10 851 862 10.1016/S2213-2600(22)00125-4 35489367 PMC9045747
+
+[B72-biomedicines-11-02213] Chen H. Shi H. Liu X. Sun T. Wu J. Liu Z. Effect of Pulmonary Rehabilitation for Patients with Post-COVID-19: A Systematic Review and Meta-Analysis Front. Med. 2022 9 837420 10.3389/fmed.2022.837420 PMC8899076 35265644
+
+[B73-biomedicines-11-02213] Rahmati M. Shamsi M.M. Woo W. Koyanagi A. Lee S.W. Yon D.K. Shin J.I. Smith L. Effects of physical rehabilitation interventions in COVID-19 patients following discharge from hospital: A systematic review J. Integr. Med. 2023 21 149 158 10.1016/j.joim.2023.01.003 36717302 PMC9851951
+
+[B74-biomedicines-11-02213] Cosco T.D. Doyle F. Ward M. McGee H. Latent structure of the Hospital Anxiety and Depression Scale: A 10-year systematic review J. Psychosom. Res. 2012 72 180 184 10.1016/j.jpsychores.2011.06.008 22325696
+
+[B75-biomedicines-11-02213] Coyne J.C. van Sonderen E. No further research needed: Abandoning the Hospital and Anxiety Depression Scale (HADS) J. Psychosom. Res. 2012 72 173 174 10.1016/j.jpsychores.2011.12.003 22325694
+
+[B76-biomedicines-11-02213] Menges D. Ballouz T. Anagnostopoulos A. Aschmann H.E. Domenghino A. Fehr J.S. Puhan M.A. Burden of post-COVID-19 syndrome and implications for healthcare service planning: A population-based cohort study PLoS ONE 2021 16 e0254523 10.1371/journal.pone.0254523 34252157 PMC8274847
+
+[B77-biomedicines-11-02213] Premraj L. Kannapadi N.V. Briggs J. Seal S.M. Battaglini D. Fanning J. Suen J. Robba C. Fraser J. Cho S.-M. Mid and long-term neurological and neuropsychiatric manifestations of post-COVID-19 syndrome: A meta-analysis J. Neurol. Sci. 2022 434 120162 10.1016/j.jns.2022.120162 35121209 PMC8798975
+
+[B78-biomedicines-11-02213] Johnston S.A. Roskowski C. He Z. Kong L. Chen W. Effects of team sports on anxiety, depression, perceived stress, and sleep quality in college students J. Am. Coll. Health 2020 69 791 797 10.1080/07448481.2019.1707836 32149577
+
+[B79-biomedicines-11-02213] Petruzzello S.J. Landers D.M. Hatfield B.D. Kubitz K.A. Salazar W. A Meta-Analysis on the Anxiety-Reducing Effects of Acute and Chronic Exercise: Outcomes and Mechanisms Sports Med. 1991 11 143 182 10.2165/00007256-199111030-00002 1828608
+
+[B80-biomedicines-11-02213] Dale L.P. Vanderloo L. Moore S. Faulkner G. Physical activity and depression, anxiety, and self-esteem in children and youth: An umbrella systematic review Ment. Health Phys. Act. 2019 16 66 79 10.1016/j.mhpa.2018.12.001
+
+[B81-biomedicines-11-02213] Wolf S. Seiffer B. Zeibig J.-M. Welkerling J. Brokmeier L. Atrott B. Ehring T. Schuch F.B. Is Physical Activity Associated with Less Depression and Anxiety During the COVID-19 Pandemic? A Rapid Systematic Review Sports Med. 2021 51 1771 1783 10.1007/s40279-021-01468-z 33886101 PMC8060908
+
+[B82-biomedicines-11-02213] Cénat J.M. Blais-Rochette C. Kokou-Kpolou C.K. Noorishad P.-G. Mukunzi J.N. McIntee S.-E. Dalexis R.D. Goulet M.-A. Labelle P.R. Prevalence of symptoms of depression, anxiety, insomnia, posttraumatic stress disorder, and psychological distress among populations affected by the COVID-19 pandemic: A systematic review and meta-analysis Psychiatry Res. 2021 295 113599 10.1016/j.psychres.2020.113599 33285346 PMC7689353
+
+[B83-biomedicines-11-02213] Liu Z. Qiao D. Xu Y. Zhao W. Yang Y. Wen D. Li X. Nie X. Dong Y. Tang S. The Efficacy of Computerized Cognitive Behavioral Therapy for Depressive and Anxiety Symptoms in Patients with COVID-19: Randomized Controlled Trial J. Med. Internet Res. 2021 23 e26883 10.2196/26883 33900931 PMC8128049
+
+[B84-biomedicines-11-02213] Pedersini P. Corbellini C. Villafañe J.H. Italian Physical Therapists’ Response to the Novel COVID-19 Emergency Phys. Ther. 2020 100 1049 1051 10.1093/ptj/pzaa060 32280973 PMC7184495

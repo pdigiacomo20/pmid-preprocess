@@ -1,0 +1,109 @@
+[R1] Johns Hopkins University & Medicine .  COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopins University & Medicine .  https://coronavirus.jhu.edu/map.html . Accessed September 21, 2022 .
+
+[R2] Mao L ,  Jin H ,  Wang M ,  Neurologic manifestations of hospitalized patients with Coronavirus disease 2019 in Wuhan, China .  JAMA Neurol 2020 ; 77 : 683 – 690 . 32275288 10.1001/jamaneurol.2020.1127 PMC7149362
+
+[R3] Romero-Sánchez CM ,  Díaz-Maroto I ,  Fernández-Díaz E ,  Neurologic manifestations in hospitalized patients with COVID-19 .  Neurology 2020 ; 95 : e1060 – e1070 . 32482845 10.1212/WNL.0000000000009937 PMC7668545
+
+[R4] Liotta EM ,  Batra A ,  Clark JR ,  Frequent neurologic manifestations and encephalopathy-associated morbidity in Covid-19 patients .  Ann Clin Transl Neurol 2020 ; 7 : 2221 – 2230 . 33016619 10.1002/acn3.51210 PMC7664279
+
+[R5] Frontera J ,  Mainali S ,  Fink EL ,  Global consortium study of neurological dysfunction in COVID-19 (GCS-NeuroCOVID): study design and rationale .  Neurocrit Care 2020 ; 33 : 25 – 34 . 32445105 10.1007/s12028-020-00995-3 PMC7243953
+
+[R6] Frontera JA ,  Sabadia S ,  Lalchan R ,  A prospective study of neurologic disorders in hospitalized patients with COVID-19 in New York City .  Neurology 2021 ; 96 : e575 – e586 . 33020166 10.1212/WNL.0000000000010979 PMC7905791
+
+[R7] Frontera JA ,  Yang D ,  Lewis A ,  A prospective study of long-term outcomes among hospitalized COVID-19 patients with and without neurological complications .  J Neurol Sci 2021 ; 426 : 117486 . 34000678 10.1016/j.jns.2021.117486 PMC8113108
+
+[R8] Bergquist SH ,  Partin C ,  Roberts DL ,  Non-hospitalized adults with COVID-19 differ noticeably from hospitalized adults in their demographic, clinical, and social characteristics .  SN Compr Clin Med 2020 ; 2 : 1349 – 1357 . 32838186 10.1007/s42399-020-00453-3 PMC7426161
+
+[R9] Wu Z ,  McGoogan JM .  Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention .  JAMA 2020 ; 323 : 1239 – 1242 . 32091533 10.1001/jama.2020.2648
+
+[R10] Sudre CH ,  Murray B ,  Varsavsky T ,  Attributes and predictors of long COVID .  Nat Med 2021 ; 27 : 626 – 631 . 33692530 10.1038/s41591-021-01292-y PMC7611399
+
+[R11] Ladds E ,  Rushforth A ,  Wieringa S ,  Persistent symptoms after Covid-19: qualitative study of 114 “long Covid” patients and draft quality principles for services .  BMC Health Serv Res 2020 ; 20 : 1144 . 33342437 10.1186/s12913-020-06001-y PMC7750006
+
+[R12] Lancet T .  Facing up to long COVID .  Lancet 2020 ; 396 : 1861 . 33308453 10.1016/S0140-6736(20)32662-3 PMC7834723
+
+[R13] NIH announces research opportunities to study “Long COVID” .  National Institutes of Health https://www.ninr.nih.gov/newsandinformation/newsandnotes/pasc-initiative 2021 .  Accessed September 21, 2022 .
+
+[R14] Becker JH ,  Lin JJ ,  Doernberg M ,  Assessment of cognitive function in patients after COVID-19 infection .  JAMA Netw Open 2021 ; 4 : e2130645 . 34677597 10.1001/jamanetworkopen.2021.30645 PMC8536953
+
+[R15] Graham EL ,  Clark JR ,  Orban ZS ,  Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 "long haulers" .  Ann Clin Transl Neurol 2021 ; 8 : 1073 – 1085 . 33755344 10.1002/acn3.51350 PMC8108421
+
+[R16] Ali ST ,  Kang AK ,  Patel TR ,  Evolution of neurologic symptoms in non-hospitalized COVID-19 "long haulers" .  Ann Clin Transl Neurol 2022 ; 9 : 950 – 961 . 35607826 10.1002/acn3.51570 PMC9268866
+
+[R17] Clinic adresses neurological effects of COVID-19 . Available at:  https://www.nm.org/healthbeat/covid-19/advances-in-care/clinic-addresses-neurological-effects-of-covid-19 .
+
+[R18] Long COVID or Post-COVID Conditions .  Centers for Disease Control and Prevention . Available at:  https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html .
+
+[R19] WHO COVID-19 Case definition .  2020 . Available at:  https://apps.who.int/iris/handle/10665/337834 .
+
+[R20] NIH announces research opportunities to study "Long COVID" . Available at:  https://www.ninr.nih.gov/newsandinformation/newsandnotes/pasc-initiative .
+
+[R21] Lai JS ,  Wagner LI ,  Jacobsen PB ,  Cella D .  Self-reported cognitive concerns and abilities: two sides of one coin? Psychooncology 2014 ; 23 : 1133 – 1141 . 24700645 10.1002/pon.3522 PMC4185008
+
+[R22] Lai JS ,  Cella D ,  Choi S ,  How item banks and their application can influence measurement practice in rehabilitation medicine: a PROMIS fatigue item bank example .  Arch Phys Med Rehabil 2011 ; 92 : S20 – S27 . 21958919 10.1016/j.apmr.2010.08.033 PMC3696589
+
+[R23] Gershon RC ,  Wagster MV ,  Hendrie HC ,  NIH toolbox for assessment of neurological and behavioral function .  Neurology 2013 ; 80 : S2 – S6 . 23479538 10.1212/WNL.0b013e3182872e5f PMC3662335
+
+[R24] Weintraub S ,  Dikmen SS ,  Heaton RK ,  Cognition assessment using the NIH toolbox .  Neurology 2013 ; 80 : S54 – S64 . 23479546 10.1212/WNL.0b013e3182872ded PMC3662346
+
+[R25] Heaton RK ,  Akshoomoff N ,  Tulsky D ,  Reliability and validity of composite scores from the NIH toolbox cognition battery in adults .  J Int Neuropsychol Soc 2014 ; 20 : 588 – 598 . 24960398 10.1017/S1355617714000241 PMC4103963
+
+[R26] Gershon RC ,  Cella D ,  Fox NA ,  Assessment of neurological and behavioural function: the NIH toolbox .  Lancet Neurol 2010 ; 9 : 138 – 139 . 20129161 10.1016/S1474-4422(09)70335-7
+
+[R27] Groff D ,  Sun A ,  Ssentongo AE ,  Short-term and long-term rates of Postacute sequelae of SARS-CoV-2 infection: a systematic review .  JAMA Netw Open 2021 ; 4 : e2128568 . 34643720 10.1001/jamanetworkopen.2021.28568 PMC8515212
+
+[R28] Taquet M ,  Dercon Q ,  Luciano S ,  Incidence, co-occurrence, and evolution of long-COVID features: a 6-month retrospective cohort study of 273,618 survivors of COVID-19 .  PLoS Med 2021 ; 18 : e1003773 . 34582441 10.1371/journal.pmed.1003773 PMC8478214
+
+[R29] Heightman M ,  Prashar J ,  Hillman TE ,  Post-COVID-19 assessment in a specialist clinical service: a 12-month, single-centre, prospective study in 1325 individuals .  BMJ Open Respir Res 2021 ; 8 : e001041 . 10.1136/bmjresp-2021-001041 PMC8587466 34764200
+
+[R30] Peghin M ,  Palese A ,  Venturini M ,  Post-COVID-19 symptoms 6 months after acute infection among hospitalized and non-hospitalized patients .  Clin Microbiol Infect 2021 ; 27 : 1507 – 1513 . 34111579 10.1016/j.cmi.2021.05.033 PMC8180450
+
+[R31] Perez-Gonzalez A ,  Araujo-Ameijeiras A ,  Fernandez-Villar A ,  Long COVID in hospitalized and non-hospitalized patients in a large cohort in Northwest Spain, a prospective cohort study .  Sci Rep 2022 ; 12 : 3369 . 35233035 10.1038/s41598-022-07414-x PMC8888560
+
+[R32] Graham EL ,  Koralnik IJ ,  Liotta EM .  Therapeutic approaches to the neurologic manifestations of COVID-19 .  Neurotherapeutics 2022 ; 19 : 1435 – 1466 . 35861926 10.1007/s13311-022-01267-y PMC9302225
+
+[R33] Frontera JA ,  Yang D ,  Medicherla C ,  Trajectories of neurologic recovery 12 months after hospitalization for COVID-19: a prospective longitudinal study .  Neurology 2022 ; 99 : e33 – e45 . 35314503 10.1212/WNL.0000000000200356 PMC9259089
+
+[R34] Wu Y ,  Guo C ,  Tang L ,  Prolonged presence of SARS-CoV-2 viral RNA in faecal samples .  Lancet Gastroenterol Hepatol 2020 ; 5 : 434 – 435 . 32199469 10.1016/S2468-1253(20)30083-2 PMC7158584
+
+[R35] Gupta S ,  Parker J ,  Smits S ,  Persistent viral shedding of SARS-CoV-2 in faeces—a rapid review .  Colorectal Dis 2020 ; 22 : 611 – 620 . 32418307 10.1111/codi.15138 PMC7276890
+
+[R36] Natarajan A ,  Zlitni S ,  Brooks EF ,  Gastrointestinal symptoms and fecal shedding of SARS-CoV-2 RNA suggest prolonged gastrointestinal infection .  Medicine 2022 ; 3 : 371 – 387 e379 . 10.1016/j.medj.2022.04.001 PMC9005383 35434682
+
+[R37] Swank Z ,  Senussi Y ,  Manickas-Hill Z ,  Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae .  Clin Infect Dis 2023 ; 8 : e487 – e490 . 10.1093/cid/ciac722 PMC10169416 36052466
+
+[R38] Duquette P ,  Pleines J ,  Girard M ,  The increased susceptibility of women to multiple sclerosis .  Can J Neurol Sci 1992 ; 19 : 466 – 471 . 1423044
+
+[R39] Myasoedova E ,  Crowson CS ,  Kremers HM ,  Is the incidence of rheumatoid arthritis rising?: results from Olmsted County, Minnesota, 1955-2007 .  Arthritis Rheum 2010 ; 62 : 1576 – 1582 . 20191579 10.1002/art.27425 PMC2929692
+
+[R40] Chakravarty EF ,  Bush TM ,  Manzi S ,  Prevalence of adult systemic lupus erythematosus in California and Pennsylvania in 2000: estimates obtained using hospitalization data .  Arthritis Rheum 2007 ; 56 : 2092 – 2094 . 17530651 10.1002/art.22641 PMC2530907
+
+[R41] Wang S ,  Quan L ,  Chavarro JE ,  Associations of depression, anxiety, worry, perceived stress, and loneliness prior to infection with risk of post-COVID-19 conditions .  JAMA Psychiatry 2022 ; 79 : 1081 . 36069885 10.1001/jamapsychiatry.2022.2640 PMC9453634
+
+[R42] Greenacre ZA .  The importance of selection bias in internet surveys .  Open J Stat 2016 ; 6 : 397 – 404 .
+
+[R43] Henderson M ,  Page L .  Appraising the evidence: what is selection bias? Evid Based Ment Health 2007 ; 10 : 67 – 68 . 17652553 10.1136/ebmh.10.3.67
+
+[R44] Schaurer I ,  Weiss B .  Investigating selection bias of online surveys on coronavirus-related behavioral outcomes .  Surv Res Methods 2020 ; 14 : 103 – 108 .
+
+[R45] Carlozzi NE ,  Tulsky DS ,  Wolf TJ ,  Construct validity of the NIH toolbox cognition battery in individuals with stroke .  Rehabil Psychol 2017 ; 62 : 443 – 454 . 29265865 10.1037/rep0000195 PMC6296373
+
+[R46] NIH Toolbox: Measure Development and Research . Available at:  https://www.healthmeasures.net/explore-measurement-systems/nih-toolbox/measure-development-and-research .
+
+[R47] NIH Toolbox Publications per year . Available at:  https://www.healthmeasures.net/explore-measurement-systems/nih-toolbox/measure-development-and-research/publications-by-year/197-nih-toolbox-publications-by-year .
+
+[R48] Rothman KJ .  No adjustments are needed for multiple comparisons .  Epidemiology 1990 ; 1 : 43 – 46 . 2081237
+
+[R49] Perneger TV .  What’s wrong with Bonferroni adjustments .  BMJ 1998 ; 316 : 1236 – 1238 . 9553006 10.1136/bmj.316.7139.1236 PMC1112991
+
+[R50] Science & Tech Spotlight: Long COVID .  2022 .
+
+[R51] Avitzur O .  American Academy of Neurology ,  2022  President’s column. Available at:  https://www.aan.com/AAN-Resources/Details/about-the-aan/board-of-directors/presidents-column/july-2022/ . Accessed September 21, 2022 .
+
+[R52] SARS CoV-2 Viral Persistence Study (PASC)-Study of Long COVID-1 (PASC) .  ClinicalTrials.gov  #  NCT05595369 . Available at:  https://clinicaltrials.gov/ct2/show/NCT05595369 .
+
+[R53] Visvabharathy L ,  Hanson B ,  Orban Z ,  Neuro-COVID longhaulers exhibit broad dysfunction in T cell memory generation and responses to vaccination .  medRxiv 2022 .
+
+[R54] Hanson BA ,  Visvabharathy L ,  Ali ST ,  Plasma biomarkers of neuropathogenesis in hospitalized patients with COVID-19 and those with Postacute sequelae of SARS-CoV-2 infection .  Neurology 2022 ; 9 : e1151 . 10.1212/NXI.0000000000001151 PMC8901169 35256481
+
+[R55] Visvabharathy L ,  Orban ZS ,  Koralnik IJ .  Case report: treatment of long COVID with a SARS-CoV-2 antiviral and IL-6 blockade in a patient with rheumatoid arthritis and SARS-CoV-2 antigen persistence .  Front Med 2022 ; 9 : 1003103 . 10.3389/fmed.2022.1003103 PMC9537824 36213654

@@ -1,0 +1,47 @@
+[bib1] Our World in Data SARS-CoV-2 sequences by variant https://ourworldindata.org/grapher/covid-variants-bar?time=2022-09-26&country=USA~GBR~ISR Sept 26, 2022
+
+[bib2] Chalkias S Harper C Vrbicky K A bivalent omicron-containing booster vaccine against COVID-19 N Engl J Med 387 2022 1279 1291 36112399 10.1056/NEJMoa2208343 PMC9511634
+
+[bib3] Moreira ED Jr Kitchin N Xu X Safety and efficacy of a third dose of BNT162b2 COVID-19 vaccine N Engl J Med 386 2022 1910 1921 35320659 10.1056/NEJMoa2200674 PMC9006787
+
+[bib4] Doron S Gandhi M New boosters are here! Who should receive them and when? Lancet Infect Dis 22 2022 1668 1669 36354037 10.1016/S1473-3099(22)00688-0 PMC9612842
+
+[bib5] Magen O Waxman JG Makov-Assif M Fourth dose of BNT162b2 mRNA COVID-19 vaccine in a nationwide setting N Engl J Med 386 2022 1603 1614 35417631 10.1056/NEJMoa2201688 PMC9020581
+
+[bib6] Arbel R Sergienko R Friger M Effectiveness of a second BNT162b2 booster vaccine against hospitalization and death from COVID-19 in adults aged over 60 years Nat Med 28 2022 1486 1490 35468276 10.1038/s41591-022-01832-0
+
+[bib7] Thompson MG Natarajan K Irving SA Effectiveness of a third dose of mRNA vaccines against COVID-19-associated emergency department and urgent care encounters and hospitalizations among adults during periods of delta and omicron variant predominance––VISION Network, 10 states, August 2021–January 2022 MMWR Morb Mortal Wkly Rep 71 2022 139 145 35085224 10.15585/mmwr.mm7104e3 PMC9351525
+
+[bib8] Collie S Nayager J Bamford L Bekker LG Zylstra M Gray G Effectiveness and durability of the BNT162b2 vaccine against omicron sublineages in South Africa N Engl J Med 387 2022 1332 1333 36103455 10.1056/NEJMc2210093 PMC9511610
+
+[bib9] Canetti M Barda N Gilboa M Six-month follow-up after a fourth BNT162b2 vaccine dose N Engl J Med 387 2022 2092 2094 36351266 10.1056/NEJMc2211283 PMC9730934
+
+[bib10] US Food and Drug Administration Coronavirus (COVID-19) update: FDA authorizes Moderna, Pfizer-BioNTechBivalent COVID-19 vaccines for use as a booster dose. FDA press release https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-pfizer-biontech-bivalent-covid-19-vaccines-use August 31, 2022
+
+[bib11] Winokur P Gayed J Fitz-Patrick D Bivalent omicron BA.1-adapted BNT162b2 booster in adults older than 55 years N Engl J Med 388 2023 214 227 36652353 10.1056/NEJMoa2213082 PMC9933930
+
+[bib12] Agrawal U Bedston S McCowan C Severe COVID-19 outcomes after full vaccination of primary schedule and initial boosters: pooled analysis of national prospective cohort studies of 30 million individuals in England, Northern Ireland, Scotland, and Wales Lancet 400 2022 1305 1320 36244382 10.1016/S0140-6736(22)01656-7 PMC9560746
+
+[bib13] Israel Ministry of Health 65+ and at-risk populations don't wait for the wave: get vaccinated and maintain your health https://www.gov.il/he/departments/news/09112022-01?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxZphwP0cu_RetaNwxImL3QjyiE4-RxV6eV_I275BSmYDC1RXGiZR1hoCeNkQAvD_BwE (in Hebrew).
+
+[bib14] Irving SA Sundaram ME Prioritisation of COVID-19 boosters in the omicron era Lancet 400 2022 1282 1283 36244366 10.1016/S0140-6736(22)01971-7 PMC9560778
+
+[bib15] Arbel R Hammerman A Sergienko R BNT162b2 vaccine booster and mortality due to COVID-19 N Engl J Med 385 2021 2413 2420 34879190 10.1056/NEJMoa2115624 PMC8728797
+
+[bib16] Suissa S Ernst P Avoiding immortal time bias in observational studies Eur Respir J 55 2020 2000138 10.1183/13993003.00138-2020 32198272
+
+[bib17] Suissa S Calculation of number needed to treat N Engl J Med 361 2009 424 425 19625726 10.1056/NEJMc0903274
+
+[bib18] Link-Gelles R Ciesla AA Fleming-Dutra KE Effectiveness of bivalent mRNA vaccines in preventing symptomatic SARS-CoV-2 infection––increasing community access to testing program, United States, September–November 2022 MMWR Morb Mortal Wkly Rep 71 2022 1526 1530 36454688 10.15585/mmwr.mm7148e1 PMC9721148
+
+[bib19] Arbel R Sergienko R Hammerman A BNT162b2 vaccine booster and COVID-19 mortality. Reply. [Reply] N Engl J Med 386 2022 1000 1001 10.1056/NEJMc2120044 35139268
+
+[bib20] Surie D DeCuir J Zhu Y Early estimates of bivalent mRNA vaccine effectiveness in preventing COVID-19-associated hospitalization among immunocompetent adults aged ≥65 years - IVY Network, 18 States, September 8–November 30, 2022 MMWR Morb Mortal Wkly Rep 71 2022 1625 1630 36580424 10.15585/mmwr.mm715152e2 PMC9812444
+
+[bib21] Tenforde MW Weber ZA Natarajan K Early estimates of bivalent mRNA vaccine effectiveness in preventing COVID-19–associated emergency department or urgent care encounters and hospitalizations among immunocompetent adults—VISION Network, nine states, September–November 2022 MMWR Morb Mortal Wkly Rep 71 2022 1616 1624 36580430 10.15585/mmwr.mm715152e1 PMC9812442
+
+[bib22] Lin DY Xu Y Gu Y Effectiveness of bivalent boosters against severe omicron infection N Engl J Med 388 2023 764 766 36734847 10.1056/NEJMc2215471 PMC9933929
+
+[bib23] Wang H Paulson KR Pease SA Estimating excess mortality due to the COVID-19 pandemic: a systematic analysis of COVID-19-related mortality, 2020–21 Lancet 399 2022 1513 1536 35279232 10.1016/S0140-6736(21)02796-3 PMC8912932
+
+[bib24] Hause AM Marquez P Zhang B Safety monitoring of bivalent COVID-19 mRNA vaccine booster doses among persons aged ≥12 years––United States, August 31–October 23, 2022 MMWR Morb Mortal Wkly Rep 71 2022 1401 1406 36327162 10.15585/mmwr.mm7144a3 PMC9639436

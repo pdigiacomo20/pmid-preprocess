@@ -1,0 +1,191 @@
+[B1-bioengineering-09-00072] WHO Coronavirus (COVID-19) Dashboard Available online:  https://covid19.who.int (accessed on 22 November 2021)
+
+[B2-bioengineering-09-00072] Jackson J.K. Weiss M.A. Schwarzenberg A.B. Nelson R.M. Sutter K.M. Sutherland M.D. Global Economic Effects of COVID-19 2021 Available online:  https://fas.org/sgp/crs/row/R46270.pdf (accessed on 22 November 2021)
+
+[B3-bioengineering-09-00072] Singh A.S. Takhellambam M.C. Singh A.S. Takhellambam M.C. COVID-19 pandemic wave: A global struggle and ways to control Arch. Community Med. Public Health 2020 6 179 185
+
+[B4-bioengineering-09-00072] Pandey K.R. Subedee A. Khanal B. Koirala B. COVID-19 control strategies and intervention effects in resource limited settings: A modeling study PLoS ONE 2021 16 e0252570 10.1371/journal.pone.0252570 34077483 PMC8172066
+
+[B5-bioengineering-09-00072] Farsalinos K. Poulas K. Kouretas D. Vantarakis A. Leotsinidis M. Kouvelas D. Docea A.O. Kostoff R. Gerotziafas G.T. Antoniou M.N. Improved strategies to counter the COVID-19 pandemic: Lockdowns vs. primary and community healthcare Toxicol. Rep. 2021 8 1 9 10.1016/j.toxrep.2020.12.001 33294384 PMC7713637
+
+[B6-bioengineering-09-00072] Information on COVID-19 Treatment, Prevention and Research. COVID-19 Treatment Guidelines Available online:  https://www.covid19treatmentguidelines.nih.gov/ (accessed on 28 December 2021)
+
+[B7-bioengineering-09-00072] NICE Overview|COVID-19 Rapid Guideline: Managing COVID-19|Guidance|NICE Available online:  https://www.nice.org.uk/guidance/ng191 (accessed on 28 December 2021)
+
+[B8-bioengineering-09-00072] COVID-19 Clinical Management: Living guidance Available online:  https://www.who.int/publications-detail-redirect/WHO-2019-nCoV-clinical-2021-1 (accessed on 28 December 2021)
+
+[B9-bioengineering-09-00072] Ministry of Health of the Russian Federation Temporary Guidelines for Prevention, Diagnosis, and Treatment of Coronavirus Disease (COVID-19). Version 14 2022 Available online:  Chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fxn--80aesfpebagmfblc0a.xn--p1ai%2Fai%2Fdoc%2F1213%2Fattach%2Fvmr_COVID-19_V14_27-12-2021.pdf&clen=4411121&chunk=true (accessed on 28 December 2021)
+
+[B10-bioengineering-09-00072] Coronavirus (COVID-19) Vaccinations—Statistics and Research—Our World in Data Available online:  https://ourworldindata.org/covid-vaccinations?country=RUS (accessed on 28 December 2021)
+
+[B11-bioengineering-09-00072] COVID-19 Vaccine Tracker|European Centre for Disease Prevention and Control Available online:  https://vaccinetracker.ecdc.europa.eu/public/extensions/COVID-19/vaccine-tracker.html#uptake-tab (accessed on 28 December 2021)
+
+[B12-bioengineering-09-00072] Statista COVID-19 Vaccination Rate in Russia 2021 Available online:  https://www.statista.com/statistics/1239299/covid-19-vaccination-rate-in-russia/ (accessed on 28 December 2021)
+
+[B13-bioengineering-09-00072] Russian Federation: WHO Coronavirus Disease (COVID-19) Dashboard with Vaccination Data Available online:  https://covid19.who.int/region/euro/country/ru (accessed on 28 December 2021)
+
+[B14-bioengineering-09-00072] The United Kingdom: WHO Coronavirus Disease (COVID-19) Dashboard with Vaccination Data Available online:  https://covid19.who.int/region/euro/country/gb (accessed on 28 December 2021)
+
+[B15-bioengineering-09-00072] COVID-19 Vaccine Tracker and Landscape Available online:  https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines (accessed on 28 December 2021)
+
+[B16-bioengineering-09-00072] Vaccines—COVID19 Vaccine Tracker Available online:  https://covid19.trackvaccines.org/vaccines/approved/#vaccine-list (accessed on 28 December 2021)
+
+[B17-bioengineering-09-00072] Limbach K.J. Paoletti E. Non-replicating expression vectors: Applications in vaccine development and gene therapy Epidemiol. Infect. 1996 116 241 256 10.1017/S0950268800052547 8666067 PMC2271436
+
+[B18-bioengineering-09-00072] Robert-Guroff M. Replicating and non-replicating viral vectors for vaccine development Curr. Opin. Biotechnol. 2007 18 546 556 10.1016/j.copbio.2007.10.010 18063357 PMC2245896
+
+[B19-bioengineering-09-00072] Dicks M.D.J. Spencer A.J. Edwards N.J. Wadell G. Bojang K. Gilbert S.C. Hill A.V.S. Cottingham M.G. A Novel Chimpanzee Adenovirus Vector with Low Human Seroprevalence: Improved Systems for Vector Derivation and Comparative Immunogenicity. Kremer EJ, editor PLoS ONE 2012 7 e40385 10.1371/journal.pone.0040385 22808149 PMC3396660
+
+[B20-bioengineering-09-00072] Folegatti P.M. Ewer K.J. Aley P.K. Angus B. Becker S. Belij-Rammerstorfer S. Bellamy D. Bibi S. Bittaye M. Clutterbuck E.A. Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: A preliminary report of a phase 1/2, single-blind, randomised controlled trial Lancet 2020 396 467 478 10.1016/S0140-6736(20)31604-4 32702298 PMC7445431
+
+[B21-bioengineering-09-00072] Bos R. Rutten L. van der Lubbe J.E.M. Bakkers M.J.G. Hardenberg G. Wegmann F. Zuijdgeest D. de Wilde A.H. Koornneef A. Verwilligen A. Ad26 vector-based COVID-19 vaccine encoding a prefusion-stabilized SARS-CoV-2 Spike immunogen induces potent humoral and cellular immune responses npj Vaccines 2020 5 1 11 10.1038/s41541-020-00243-x 33083026 PMC7522255
+
+[B22-bioengineering-09-00072] Custers J. Kim D. Leyssen M. Gurwith M. Tomaka F. Robertson J. Heijnen E. Condit R. Shukarev G. Heerwegh D. Vaccines based on replication incompetent Ad26 viral vectors: Standardized template with key considerations for a risk/benefit assessment Vaccine 2021 39 3081 3101 10.1016/j.vaccine.2020.09.018 33676782 PMC7532807
+
+[B23-bioengineering-09-00072] Logunov D.Y. Dolzhikova I.V. Shcheblyakov D.V. Tukhvatulin A.I. Zubkova O.V. Dzharullaeva A.S. Kovyrshina A.V. Lubenets N.L. Grousova D.M. Erokhova A.S. Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: An interim analysis of a randomised controlled phase 3 trial in Russia Lancet 2021 397 671 681 10.1016/S0140-6736(21)00234-8 33545094 PMC7852454
+
+[B24-bioengineering-09-00072] Nogrady B. Mounting evidence suggests Sputnik COVID vaccine is safe and effective Nature 2021 595 339 340 10.1038/d41586-021-01813-2 34230663
+
+[B25-bioengineering-09-00072] Wu S. Huang J. Zhang Z. Wu J. Zhang J. Hu H. Zhu T. Zhang J. Luo L. Fan P. Safety, tolerability, and immunogenicity of an aerosolised adenovirus type-5 vector-based COVID-19 vaccine (Ad5-nCoV) in adults: Preliminary report of an open-label and randomised phase 1 clinical trial Lancet Infect. Dis. 2021 Available online:  https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00396-0/fulltext (accessed on 23 September 2021) 10.1016/S1473-3099(21)00396-0 PMC8313090 34324836
+
+[B26-bioengineering-09-00072] Henao-Restrepo A.M. Camacho A. Longini I.M. Watson C.H. Edmunds W.J. Egger M. Carroll M.W. Dean N.E. Diatta I. Doumbia M. Efficacy and effectiveness of an rVSV-vectored vaccine in preventing Ebola virus disease: Final results from the Guinea ring vaccination, open-label, cluster-randomised trial (Ebola Ça Suffit!) Lancet 2017 389 505 518 10.1016/S0140-6736(16)32621-6 28017403 PMC5364328
+
+[B27-bioengineering-09-00072] Steffensen M.A. Jensen B.A.H. Holst P.J. Bassi M.R. Christensen J.P. Thomsen A.R. Pre-Existing Vector Immunity Does Not Prevent Replication Deficient Adenovirus from Inducing Efficient CD8 T-Cell Memory and Recall Responses PLoS ONE 2012 7 e34884 10.1371/journal.pone.0034884 22514686 PMC3326056
+
+[B28-bioengineering-09-00072] Tatsis N. Ertl H.C.J. Adenoviruses as vaccine vectors Mol. Ther. 2004 10 616 629 10.1016/j.ymthe.2004.07.013 15451446 PMC7106330
+
+[B29-bioengineering-09-00072] O’Riordan C.R. Lachapelle A. Delgado C. Parkes V. Wadsworth S.C. Smith A.E. Francis G.E. PEGylation of Adenovirus with Retention of Infectivity and Protection from Neutralizing Antibody in Vitro and in Vivo Hum. Gene Ther. 1999 10 1349 1358 10.1089/10430349950018021 10365665
+
+[B30-bioengineering-09-00072] 156 PEGylated Adenoviral Vaccines Mol. Ther. 2008 16 S59 S60 10.1016/S1525-0016(16)39559-4
+
+[B31-bioengineering-09-00072] Leggiero E. Astone D. Cerullo V. Lombardo B. Mazzaccara C. Labruna G. Sacchetti L. Salvatore F. Croyle M. Pastore L. PEGylated helper-dependent adenoviral vector expressing human Apo A-I for gene therapy in LDLR-deficient mice Gene Ther. 2013 20 1124 1130 10.1038/gt.2013.38 23883962
+
+[B32-bioengineering-09-00072] Sailaja G. HogenEsch H. North A. Hays J. Mittal S.K. Encapsulation of recombinant adenovirus into alginate microspheres circumvents vector-specific immune response Gene Ther. 2002 9 1722 1729 10.1038/sj.gt.3301858 12457287 PMC1459421
+
+[B33-bioengineering-09-00072] Pardi N. Hogan M.J. Porter F.W. Weissman D. mRNA vaccines—A new era in vaccinology Nat. Rev. Drug Discov. 2018 17 261 279 10.1038/nrd.2017.243 29326426 PMC5906799
+
+[B34-bioengineering-09-00072] Bloom K. van den Berg F. Arbuthnot P. Self-amplifying RNA vaccines for infectious diseases Gene Ther. 2021 28 117 129 10.1038/s41434-020-00204-y 33093657 PMC7580817
+
+[B35-bioengineering-09-00072] Mallapaty S. India’s DNA COVID vaccine is a world first—More are coming Nature 2021 597 161 162 10.1038/d41586-021-02385-x 34475553
+
+[B36-bioengineering-09-00072] Vogel A.B. Lambert L. Kinnear E. Busse D. Erbar S. Reuter K.C. Wicke L. Perkovic M. Beissert T. Haas H. Self-Amplifying RNA Vaccines Give Equivalent Protection against Influenza to mRNA Vaccines but at Much Lower Doses Mol. Ther. 2018 26 446 455 10.1016/j.ymthe.2017.11.017 29275847 PMC5835025
+
+[B37-bioengineering-09-00072] Corbett K.S. Edwards D.K. Leist S.R. Abiona O.M. Boyoglu-Barnum S. Gillespie R.A. Himansu S. Schäfer A. Ziwawo C.T. DiPiazza A.T. SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness Nature 2020 586 567 571 10.1038/s41586-020-2622-0 32756549 PMC7581537
+
+[B38-bioengineering-09-00072] Sahin U. Muik A. Derhovanessian E. Vogler I. Kranz L.M. Vormehr M. Baum A. Pascal K. Quandt J. Maurus D. Concurrent Human Antibody and T  H  1 Type T-Cell Responses Elicited by a COVID-19 RNA Vaccine. Infectious Diseases (except HIV/AIDS); 2020 July Available online:  http://medrxiv.org/lookup/doi/10.1101/2020.07.17.20140533 (accessed on 24 September 2021)
+
+[B39-bioengineering-09-00072] Crommelin D.J.A. Anchordoquy T.J. Volkin D.B. Jiskoot W. Mastrobattista E. Addressing the Cold Reality of mRNA Vaccine Stability J. Pharm. Sci. 2021 110 997 1001 10.1016/j.xphs.2020.12.006 33321139 PMC7834447
+
+[B40-bioengineering-09-00072] Kyriakidis N.C. López-Cortés A. González E.V. Grimaldos A.B. Prado E.O. SARS-CoV-2 vaccines strategies: A comprehensive review of phase 3 candidates NPJ Vaccines 2021 6 28 10.1038/s41541-021-00292-w 33619260 PMC7900244
+
+[B41-bioengineering-09-00072] Kisby T. Yilmazer A. Kostarelos K. Reasons for success and lessons learnt from nanoscale vaccines against COVID-19 Nat. Nanotechnol. 2021 16 843 850 10.1038/s41565-021-00946-9 34381200
+
+[B42-bioengineering-09-00072] Federal Budgetary Research Institution State Research Center of Virology and Biotechnology “Vector.” Simple, Blind, Placebo-Controlled, Randomized Study of the Safety, Reactogenicity and Immunogenicity of Vaccine Based on Peptide Antigens for the Prevention of COVID-19 (EpiVacCorona), In Volunteers Aged 18–60 Years (I–II Phase). 2021. Report No.:  NCT04527575 Available online:  https://clinicaltrials.gov/ct2/show/NCT04527575 (accessed on 22 September 2021)
+
+[B43-bioengineering-09-00072] Reuters Volunteers Break Rank to Raise Doubts in Trial of Russia’s Second COVID-19 Vaccine 2021 Available online:  https://www.reuters.com/article/us-health-coronavirus-russia-vaccine-let-idUSKBN2BI2RJ (accessed on 22 September 2021)
+
+[B44-bioengineering-09-00072] Liang Z. Zhu H. Wang X. Jing B. Li Z. Xia X. Sun H. Yang Y. Zhang W. Shi L. Adjuvants for Coronavirus Vaccines Front. Immunol. 2020 11 2896 10.3389/fimmu.2020.589833 PMC7677582 33240278
+
+[B45-bioengineering-09-00072] Creech C.B. Walker S.C. Samuels R.J. SARS-CoV-2 Vaccines JAMA 2021 325 1318 1320 10.1001/jama.2021.3199 33635317
+
+[B46-bioengineering-09-00072] Poland G.A. Ovsyannikova I.G. Kennedy R.B. SARS-CoV-2 immunity: Review and applications to phase 3 vaccine candidates Lancet 2020 396 1595 1606 10.1016/S0140-6736(20)32137-1 33065034 PMC7553736
+
+[B47-bioengineering-09-00072] Gao Q. Bao L. Mao H. Wang L. Xu K. Yang M. Li Y. Zhu L. Wang N. Lv Z. Development of an inactivated vaccine candidate for SARS-CoV-2 Science 2020 369 77 81 10.1126/science.abc1932 32376603 PMC7202686
+
+[B48-bioengineering-09-00072] Dai X. Xiong Y. Li N. Jian C. Vaccine Types Vaccines—The History and Future IntechOpen London, UK 2019 Available online:  https://www.intechopen.com/chapters/65813 (accessed on 24 September 2021)
+
+[B49-bioengineering-09-00072] Lim W.W. Mak L. Leung G.M. Cowling B.J. Peiris M. Comparative immunogenicity of mRNA and inactivated vaccines against COVID-19 Lancet Microbe 2021 2 e423 10.1016/S2666-5247(21)00177-4 34308395 PMC8282488
+
+[B50-bioengineering-09-00072] Cohn L. Delamarre L. Dendritic Cell-Targeted Vaccines Front. Immunol. 2014 5 255 10.3389/fimmu.2014.00255 24910635 PMC4039009
+
+[B51-bioengineering-09-00072] Goyvaerts C. Breckpot K. Pros and Cons of Antigen-Presenting Cell Targeted Tumor Vaccines J. Immunol. Res. 2015 2015 e785634 10.1155/2015/785634 PMC4637118 26583156
+
+[B52-bioengineering-09-00072] Ashraf M.U. Kim Y. Kumar S. Seo D. Ashraf M. Bae Y.-S. COVID-19 Vaccines (Revisited) and Oral-Mucosal Vector System as a Potential Vaccine Platform Vaccines 2021 9 171 10.3390/vaccines9020171 33670630 PMC7922043
+
+[B53-bioengineering-09-00072] European Medicines Agency Clinical Evaluation of New Vaccines Available online:  https://www.ema.europa.eu/en/clinical-evaluation-new-vaccines (accessed on 24 September 2021)
+
+[B54-bioengineering-09-00072] World Health Organization Guidelines on Clinical Evaluation of Vaccines: Regulatory Expectations 2016 Available online:  https://www.who.int/biologicals/expert_committee/Clinical_changes_IK_final.pdf (accessed on 21 September 2021)
+
+[B55-bioengineering-09-00072] Polack F.P. Thomas S.J. Kitchin N. Absalon J. Gurtman A. Lockhart S. Perez J.L. Marc G.P. Moreira E.D. Zerbini C. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine N. Engl. J. Med. 2020 383 2603 2615 10.1056/NEJMoa2034577 33301246 PMC7745181
+
+[B56-bioengineering-09-00072] Connors M. Graham B.S. Lane H.C. Fauci A.S. SARS-CoV-2 Vaccines: Much Accomplished, Much to Learn Ann. Intern. Med. 2021 174 687 690 10.7326/M21-0111 33460347 PMC7839932
+
+[B57-bioengineering-09-00072] El Sahly H.M. Baden L.R. Essink B. Doblecki-Lewis S. Martin J.M. Anderson E.J. Campbell T.B. Clark J. Jackson L.A. Fichtenbaum C.J. Efficacy of the mRNA-1273 SARS-CoV-2 Vaccine at Completion of Blinded Phase N. Engl. J. Med. 2021 385 1774 1785 10.1056/NEJMoa2113017 34551225 PMC8482810
+
+[B58-bioengineering-09-00072] Sadoff J. Gray G. Vandebosch A. Cárdenas V. Shukarev G. Grinsztejn B. Goepfert P.A. Truyers C. Fennema H. Spiessens B. Safety and Efficacy of Single-Dose Ad26.COV2.S Vaccine against COVID-19 N. Engl. J. Med. 2021 384 2187 2201 10.1056/NEJMoa2101544 33882225 PMC8220996
+
+[B59-bioengineering-09-00072] Voysey M. Clemens S.A.C. Madhi S.A. Weckx L.Y. Folegatti P.M. Aley P.K. Angus B. Baillie V.L. Barnabas S.L. Bhorat Q.E. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: An interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK Lancet 2021 397 99 111 10.1016/S0140-6736(20)32661-1 33306989 PMC7723445
+
+[B60-bioengineering-09-00072] Evidence Assessment: Sinopharm/BBIBP COVID-19 Vaccine 2021 Available online:  https://cdn.who.int/media/docs/default-source/immunization/sage/2021/april/2_sage29apr2021_critical-evidence_sinopharm.pdf (accessed on 26 September 2021)
+
+[B61-bioengineering-09-00072] Tanriover M.D. Doğanay H.L. Akova M. Güner H.R. Azap A. Akhan S. Köse ṣ. Erdinç F.ṣ. Akalın E.H. Tabak Ö.F. Efficacy and safety of an inactivated whole-virion SARS-CoV-2 vaccine (CoronaVac): Interim results of a double-blind, randomised, placebo-controlled, phase 3 trial in Turkey Lancet 2021 398 213 222 10.1016/S0140-6736(21)01429-X 34246358 PMC8266301
+
+[B62-bioengineering-09-00072] Khoury D.S. Cromer D. Reynaldi A. Schlub T.E. Wheatley A.K. Juno J.A. Subbarao K. Kent S. Triccas J.A. Davenport M.P. Neutralizing antibody levels are highly predictive of immune protection from symptomatic SARS-CoV-2 infection Nat. Med. 2021 27 1205 1211 10.1038/s41591-021-01377-8 34002089
+
+[B63-bioengineering-09-00072] He Q. Mao Q. Zhang J. Bian L. Gao F. Wang J. Xu M. Liang Z. COVID-19 Vaccines: Current Understanding on Immunogenicity, Safety, and Further Considerations Front. Immunol. 2021 12 669339 10.3389/fimmu.2021.669339 33912196 PMC8071852
+
+[B64-bioengineering-09-00072] Interim Clinical Considerations for Use of COVID-19 Vaccines|CDC 2021 Available online:  https://www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html (accessed on 24 September 2021)
+
+[B65-bioengineering-09-00072] COVID-19 Vaccines Advice Available online:  https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/advice (accessed on 28 December 2021)
+
+[B66-bioengineering-09-00072] Australian Government Department of Health Health AGD of COVID-19 Vaccination—ATAGI Clinical Guidance on COVID-19 Vaccine in Australia in 2021 2021 Available online:  https://www.health.gov.au/resources/publications/covid-19-vaccination-atagi-clinical-guidance-on-covid-19-vaccine-in-australia-in-2021 (accessed on 24 September 2021)
+
+[B67-bioengineering-09-00072] Temporary Guidelines for Prevention, Diagnosis, and Treatment of Coronavirus Disease (COVID-19). Version 13 Available online:  https://static-0.minzdrav.gov.ru/system/attachments/attaches/000/058/211/original/BMP-13.pdf (accessed on 14 October 2021)
+
+[B68-bioengineering-09-00072] Wallace M. The Advisory Committee on Immunization Practices’ Interim Recommendation for Use of Pfizer-BioNTech COVID-19 Vaccine in Adolescents Aged 12–15 Years—United States, May 2021 MMWR Morb. Mortal Wkly. Rep. 2021 70 749 752 34014913 10.15585/mmwr.mm7020e1 PMC8136423
+
+[B69-bioengineering-09-00072] Racine-Brzostek S.E. Yee J. Sukhu A. Qiu Y. Rand S. Barone P. Hao Y. Yang H.S. Meng Q.H. Apple F.S. More rapid, robust and sustainable antibody responses to mRNA COVID-19 vaccine in convalescent COVID-19 individuals JCI Insight 2021 6 e151477 10.1172/jci.insight.151477 34499052 PMC8564891
+
+[B70-bioengineering-09-00072] Jamiruddin R. Haq A. Khondoker M.U. Ali T. Ahmed F. Khandker S.S. Jawad I. Hossain R. Ahmed S. Rahman S.R. Antibody response to the first dose of AZD1222 vaccine in COVID-19 convalescent and uninfected individuals in Bangladesh Expert Rev. Vaccines 2021 20 1561 1660 10.1080/14760584.2021.1977630 34503369 PMC8442763
+
+[B71-bioengineering-09-00072] Chodick G. Tene L. Rotem R.S. Patalon T. Gazit S. Ben-Tov A. Weil C. Goldshtein I. Twig G. Cohen D. The effectiveness of the TWO-DOSE BNT162b2 vaccine: Analysis of real-world data Clin. Infect. Dis. 2021 ciab438 10.1093/cid/ciab438 PMC8240867 33999127
+
+[B72-bioengineering-09-00072] Roifman C.M. Vong L. COVID-19 vaccination for patients with primary immunodeficiency LymphoSign J. 2021 8 37 45 10.14785/lymphosign-2021-0020
+
+[B73-bioengineering-09-00072] National Advisory Committee on Immunization (NACI) Summary of Updated NACI COVID-19 Vaccine Statement of May 3, 2021 Available online:  https://www.canada.ca/content/dam/phac-aspc/documents/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/summary-updated-statement-may-3-2021/NACI-summary-janssen-en.pdf (accessed on 8 October 2021)
+
+[B74-bioengineering-09-00072] Williams T.C. Burgers W.A. SARS-CoV-2 evolution and vaccines: Cause for concern? Lancet Respir. Med. 2021 9 333 335 10.1016/S2213-2600(21)00075-8 33524316 PMC8009632
+
+[B75-bioengineering-09-00072] Egeren D.V. Novokhodko A. Stoddard M. Tran U. Zetter B. Rogers M. Pentelute B.L. Carlson J.M. Hixon M. Joseph-McCarthy D. Risk of rapid evolutionary escape from biomedical interventions targeting SARS-CoV-2 spike protein PLoS ONE 2021 16 e0250780 10.1371/journal.pone.0250780 33909660 PMC8081162
+
+[B76-bioengineering-09-00072] Mohammadi M. Shayestehpour M. Mirzaei H. The impact of spike mutated variants of SARS-CoV2 [Alpha, Beta, Gamma, Delta, and Lambda] on the efficacy of subunit recombinant vaccines Braz. J. Infect. Dis. 2021 25 101606 10.1016/j.bjid.2021.101606 34428473 PMC8367756
+
+[B77-bioengineering-09-00072] Altmann D.M. Boyton R.J. Beale R. Immunity to SARS-CoV-2 variants of concern Science 2021 371 1103 1104 10.1126/science.abg7404 33707254
+
+[B78-bioengineering-09-00072] Wang P. Nair M.S. Liu L. Iketani S. Luo Y. Guo Y. Wang M. Yu J. Zhang B. Kwong P.D. Antibody resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7 Nature 2021 593 130 135 10.1038/s41586-021-03398-2 33684923
+
+[B79-bioengineering-09-00072] WHO Omicron Update Available online:  https://www.who.int/news/item/28-11-2021-update-on-omicron (accessed on 28 November 2021)
+
+[B80-bioengineering-09-00072] Weisblum Y. Schmidt F. Zhang F. DaSilva J. Poston D. Lorenzi J.C. Muecksch F. Rutkowska M. Hoffmann H.-H. Michailidis E. Escape from Neutralizing Antibodies by SARS-CoV-2 Spike Protein Variants eLife 2020 9 e61312 10.7554/eLife.61312 33112236 PMC7723407
+
+[B81-bioengineering-09-00072] Lopez Bernal J. Andrews N. Gower C. Gallagher E. Simmons R. Thelwall S. Stowe J. Tessier E. Groves N. Dabrera G. Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant N. Engl. J. Med. 2021 385 585 594 10.1056/NEJMoa2108891 34289274 PMC8314739
+
+[B82-bioengineering-09-00072] Li X.-N. Huang Y. Wang W. Jing Q.-L. Zhang C.-H. Qin P.-Z. Guan W.-J. Gan L. Li Y.-L. Liu W.-H. Effectiveness of inactivated SARS-CoV-2 vaccines against the Delta variant infection in Guangzhou: A test-negative case–control real-world study Emerg. Microbes Infect. 2021 10 1751 1759 10.1080/22221751.2021.1969291 34396940 PMC8425710
+
+[B83-bioengineering-09-00072] Ikegame S. Siddiquey M.N.A. Hung C.-T. Haas G. Brambilla L. Oguntuyo K.Y. Kowdle S. Chiu H.-P. Stevens C.S. Vilardo A.E. Neutralizing activity of Sputnik V vaccine sera against SARS-CoV-2 variants Nat. Commun. 2021 12 4598 10.1038/s41467-021-24909-9 34312390 PMC8313705
+
+[B84-bioengineering-09-00072] Barchuk A. Cherkashin M. Bulina A. Berezina N. Rakova T. Kuplevatskaya D. Stanevich O. Skougarevskiy D. Okhotin A. Vaccine Effectiveness against Referral to Hospital and Severe Lung Injury Associated with COVID-19: A Population-Based Case-Control Study in St. Petersburg, Russia Epidemiology 2021 Available online:  http://medrxiv.org/lookup/doi/10.1101/2021.08.18.21262065 (accessed on 11 October 2021)
+
+[B85-bioengineering-09-00072] Callaway E. Mallapaty S. Novavax offers first evidence that COVID vaccines protect people against variants Nature 2021 590 17 10.1038/d41586-021-00268-9 33510489
+
+[B86-bioengineering-09-00072] Matta S. Rajpal S. Chopra K.K. Arora V.K. Covid-19 vaccines and new mutant strains impacting the pandemic Indian J. Tuberc. 2021 68 171 173 10.1016/j.ijtb.2021.03.010 33845947 PMC8035083
+
+[B87-bioengineering-09-00072] CDC COVID-19 Vaccination. Centers for Disease Control and Prevention 2020 Available online:  https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html (accessed on 24 September 2021)
+
+[B88-bioengineering-09-00072] Pfizer/BioNTech’s COVID-19 Vaccine Not to Require a Booster in 6–12 Months Available online:  https://www.clinicaltrialsarena.com/comment/pfizer-biontechs-covid-19-vaccine-not-expected-to-require-a-booster-in-6-12-months-variant-of-concern-specific-shot-preferred/ (accessed on 24 September 2021)
+
+[B89-bioengineering-09-00072] GOV.UK COVID-19 Vaccination: A Guide to Booster Vaccination Available online:  https://www.gov.uk/government/publications/covid-19-vaccination-booster-dose-resources/covid-19-vaccination-a-guide-to-booster-vaccination (accessed on 24 September 2021)
+
+[B90-bioengineering-09-00072] European Medicines Agency PINHO AC. ECDC and EMA Highlight Considerations for Additional Booster Doses of COVID-19 Vaccines 2021 Available online:  https://www.ema.europa.eu/en/news/ecdc-ema-highlight-considerations-additional-booster-doses-covid-19-vaccines (accessed on 27 September 2021)
+
+[B91-bioengineering-09-00072] Jecker N.S. Are COVID-19 Boosters Ethical, with Half the World Waiting for a First Shot? A Bioethicist Weighs in The Conversation Available online:  http://theconversation.com/are-covid-19-boosters-ethical-with-half-the-world-waiting-for-a-first-shot-a-bioethicist-weighs-in-167606 (accessed on 27 September 2021)
+
+[B92-bioengineering-09-00072] Our World in Data COVID-19 Data Explorer Available online:  https://ourworldindata.org/coronavirus-data-explorer (accessed on 28 December 2021)
+
+[B93-bioengineering-09-00072] Daily COVID-19 Vaccine Doses Administered per 100 People. Our World in Data Available online:  https://ourworldindata.org/grapher/daily-covid-vaccination-doses-per-capita (accessed on 28 December 2021)
+
+[B94-bioengineering-09-00072] Ritchie H. Mathieu E. Rodés-Guirao L. Appel C. Giattino C. Ortiz-Ospina E. Roser M. Hasell J. Coronavirus Pandemic (COVID-19). Our World in Data. 2020 March Available online:  https://ourworldindata.org/covid-vaccinations (accessed on 28 December 2021)
+
+[B95-bioengineering-09-00072] Borobia A.M. Carcas A.J. Pérez Olmeda M.T. Castaño L. Jesús Bertrán M. García-Pérez J. Campins M. Portolés A. Gonzalez-Perez M. Morales M.T.G. Reactogenicity and Immunogenicity of BNT162b2 in Subjects Having Received a First Dose of ChAdOx1s: Initial Results of a Randomised, Adaptive, Phase 2 Trial (CombiVacS) Social Science Research Network Rochester, NY, USA 2021 Report No.: ID 3854768 Available online:  https://papers.ssrn.com/abstract=3854768 (accessed on 24 September 2021)
+
+[B96-bioengineering-09-00072] Reuters Factbox: Countries Weigh “Mix and Match” COVID-19 Vaccines. Reuters 16 August 2021 Available online:  https://www.reuters.com/world/middle-east/countries-weigh-mix-match-covid-19-vaccines-2021-05-24/ (accessed on 24 September 2021)

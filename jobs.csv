@@ -1,3 +1,630 @@
 job_id,status,total_refs,completed_refs,failed_refs,created_at,updated_at,references_text
 41523c63-708a-4073-baf3-e862e12b33c3,completed,2,1,1,2025-08-10T21:42:06.234281,2025-08-10T21:42:23.965987,"24 Pfrommer L, Diexer S, Klee B, et al. Post-COVID Recovery is More Likely after an Infection with the SARS-CoV-2 Omicron Variant: A Population-Based Cohort Study.
 25 Hampshire A, Azor A, Atchison C, et al. Cognition and Memory after Covid-19 in a Large Community Sample. N Engl J Med. 2024;390(9):806-818."
+c58378cd-fe9d-4a27-94f1-698f370b4e51,failed,0,0,0,2025-08-14T08:38:05.037092,2025-08-14T08:38:32.206402,"50 United States Department of Health and Human Services and the United States Department of
+Justice, Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section
+1557, https://archive.ada.gov/long_covid_joint_guidance.pdf, Accessed May 12, 2024.
+51 Centers for Disease Control and Prevention. Myalgic Encephalomyelitis/Chronic Fatigue
+Syndrome: Strategies to Prevent Worsening of Symptoms; 2024; accessed August 1, 2024 via
+
+https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-
+and-preventing-worsening-of-symptoms.html?CDC_AAref_Val=https://www.cdc.gov/me-
+cfs/healthcare-providers/clinical-care-patients-mecfs/treating-most-disruptive-symptoms.html
+
+52 Afrin LB, Weinstock LB, Molderings GJ. Covid-19 hyperinflammation and post-Covid-19 illness
+may be rooted in mast cell activation syndrome. Int J Infect Dis. 2020;100:327-332.
+doi:10.1016/j.ijid.2020.09.016
+53 Pollack B, von Saltza E, McCorkell L, et al. Female reproductive health impacts of Long COVID
+and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature
+review. Front Rehabil Sci. 2023;4:1122673. Published 2023 Apr 28.
+doi:10.3389/fresc.2023.1122673
+54 Silva J, Takahashi T, Wood J, et al. Sex differences in symptomatology and immune profiles of
+Long COVID. Preprint. medRxiv. 2024;2024.02.29.24303568. Published 2024 Mar 4.
+doi:10.1101/2024.02.29.24303568
+55 Patoulias D, Stavropoulos K, Imprialos K, et al. Inflammatory Markers in Cardiovascular Disease;
+Lessons Learned and Future Perspectives. Curr Vasc Pharmacol. 2021;19(3):323-342.
+doi:10.2174/1570161118666200318104434
+56 Xuereb RA, Borg M, Vella K, et al. Long COVID Syndrome: A Case-Control Study. Am J Med.
+Published online May 9, 2023. doi:10.1016/j.amjmed.2023.04.022.
+57 Homerton University Hospital: NHS Foundation Trust. Post COVID-19 Patient information pack:
+Helping you to recover and manage your symptoms following COVID-19; 2021. accessed
+7/21/21 via https://www.hackneycitizen.co.uk/wp-content/uploads/Post-COVID-19-
+information-pack-5.pdf
+58 Parkinson MD, Stout R, Dysinger W. Lifestyle Medicine: Prevention, Treatment, and Reversal of
+Disease. Med Clin North Am. 2023 Nov;107(6):1109-1120. doi: 10.1016/j.mcna.2023.06.007.
+Epub 2023 Jul 16. PMID: 37806726.
+59 Storz MA. Lifestyle Adjustments in Long-COVID Management: Potential Benefits of Plant-Based
+Diets. Curr Nutr Rep. 2021;10(4):352-363. doi:10.1007/s13668-021-00369-x
+60 O’Kelly B, Vidal L, McHugh T, Woo J, Avramovic G, Lambert JS. Safety and efficacy of low dose
+naltrexone in a long covid cohort; An interventional pre-post study. Brain Behav Immun Health
+(2022) 24:100485. doi: 10.1016/j.bbih.2022.100485
+61 Polo O PP, Tuominen E. Low-dose naltrexone in the treatment of myalgic
+encephalomyelitis/chronic fatigue syndrome (ME/CFS). In: Fatigue: Biomedicine, health &
+behavior (2019) (Informa UK Limited: Taylor & Francis Group; ). doi:
+10.1080/21641846.2019.1692770
+62 Naik H, Cooke E, Boulter T, et al. Low-dose naltrexone for post-COVID fatigue syndrome: a study
+protocol for a double-blind, randomised trial in British Columbia. BMJ Open.
+2024;14(5):e085272. Published 2024 May 13. doi:10.1136/bmjopen-2024-085272
+63 Arbel R, Peretz A, Sergienko R, et al. Effectiveness of a bivalent mRNA vaccine booster dose to
+prevent severe COVID-19 outcomes: a retrospective cohort study. Lancet Infect Dis.
+2023;23(8):914-921. doi:10.1016/S1473-3099(23)00122-6
+64 Fabiani M, Mateo-Urdiales A, Sacco C, et al. Protection against severe COVID-19 after second
+booster dose of adapted bivalent (original/Omicron BA.4-5) mRNA vaccine in persons ≥ 60
+years, by time since infection, Italy, 12 September to 11 December 2022. Euro Surveill.
+2023;28(8):2300105. doi:10.2807/1560-7917.ES.2023.28.8.2300105"
+152f386a-c10c-4a87-8c36-05c4fb538599,failed,0,0,0,2025-08-14T08:38:05.877131,2025-08-14T08:38:33.948808,"50 United States Department of Health and Human Services and the United States Department of
+Justice, Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section
+1557, https://archive.ada.gov/long_covid_joint_guidance.pdf, Accessed May 12, 2024.
+51 Centers for Disease Control and Prevention. Myalgic Encephalomyelitis/Chronic Fatigue
+Syndrome: Strategies to Prevent Worsening of Symptoms; 2024; accessed August 1, 2024 via
+
+https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-
+and-preventing-worsening-of-symptoms.html?CDC_AAref_Val=https://www.cdc.gov/me-
+cfs/healthcare-providers/clinical-care-patients-mecfs/treating-most-disruptive-symptoms.html
+
+52 Afrin LB, Weinstock LB, Molderings GJ. Covid-19 hyperinflammation and post-Covid-19 illness
+may be rooted in mast cell activation syndrome. Int J Infect Dis. 2020;100:327-332.
+doi:10.1016/j.ijid.2020.09.016
+53 Pollack B, von Saltza E, McCorkell L, et al. Female reproductive health impacts of Long COVID
+and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature
+review. Front Rehabil Sci. 2023;4:1122673. Published 2023 Apr 28.
+doi:10.3389/fresc.2023.1122673
+54 Silva J, Takahashi T, Wood J, et al. Sex differences in symptomatology and immune profiles of
+Long COVID. Preprint. medRxiv. 2024;2024.02.29.24303568. Published 2024 Mar 4.
+doi:10.1101/2024.02.29.24303568
+55 Patoulias D, Stavropoulos K, Imprialos K, et al. Inflammatory Markers in Cardiovascular Disease;
+Lessons Learned and Future Perspectives. Curr Vasc Pharmacol. 2021;19(3):323-342.
+doi:10.2174/1570161118666200318104434
+56 Xuereb RA, Borg M, Vella K, et al. Long COVID Syndrome: A Case-Control Study. Am J Med.
+Published online May 9, 2023. doi:10.1016/j.amjmed.2023.04.022.
+57 Homerton University Hospital: NHS Foundation Trust. Post COVID-19 Patient information pack:
+Helping you to recover and manage your symptoms following COVID-19; 2021. accessed
+7/21/21 via https://www.hackneycitizen.co.uk/wp-content/uploads/Post-COVID-19-
+information-pack-5.pdf
+58 Parkinson MD, Stout R, Dysinger W. Lifestyle Medicine: Prevention, Treatment, and Reversal of
+Disease. Med Clin North Am. 2023 Nov;107(6):1109-1120. doi: 10.1016/j.mcna.2023.06.007.
+Epub 2023 Jul 16. PMID: 37806726.
+59 Storz MA. Lifestyle Adjustments in Long-COVID Management: Potential Benefits of Plant-Based
+Diets. Curr Nutr Rep. 2021;10(4):352-363. doi:10.1007/s13668-021-00369-x
+60 O’Kelly B, Vidal L, McHugh T, Woo J, Avramovic G, Lambert JS. Safety and efficacy of low dose
+naltrexone in a long covid cohort; An interventional pre-post study. Brain Behav Immun Health
+(2022) 24:100485. doi: 10.1016/j.bbih.2022.100485
+61 Polo O PP, Tuominen E. Low-dose naltrexone in the treatment of myalgic
+encephalomyelitis/chronic fatigue syndrome (ME/CFS). In: Fatigue: Biomedicine, health &
+behavior (2019) (Informa UK Limited: Taylor & Francis Group; ). doi:
+10.1080/21641846.2019.1692770
+62 Naik H, Cooke E, Boulter T, et al. Low-dose naltrexone for post-COVID fatigue syndrome: a study
+protocol for a double-blind, randomised trial in British Columbia. BMJ Open.
+2024;14(5):e085272. Published 2024 May 13. doi:10.1136/bmjopen-2024-085272
+63 Arbel R, Peretz A, Sergienko R, et al. Effectiveness of a bivalent mRNA vaccine booster dose to
+prevent severe COVID-19 outcomes: a retrospective cohort study. Lancet Infect Dis.
+2023;23(8):914-921. doi:10.1016/S1473-3099(23)00122-6
+64 Fabiani M, Mateo-Urdiales A, Sacco C, et al. Protection against severe COVID-19 after second
+booster dose of adapted bivalent (original/Omicron BA.4-5) mRNA vaccine in persons ≥ 60
+years, by time since infection, Italy, 12 September to 11 December 2022. Euro Surveill.
+2023;28(8):2300105. doi:10.2807/1560-7917.ES.2023.28.8.2300105"
+ae8110b8-76dc-4e93-ac03-a6747dbea0a3,failed,0,0,0,2025-08-14T08:38:23.217165,2025-08-14T08:38:50.542590,"50 United States Department of Health and Human Services and the United States Department of
+Justice, Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section
+1557, https://archive.ada.gov/long_covid_joint_guidance.pdf, Accessed May 12, 2024.
+51 Centers for Disease Control and Prevention. Myalgic Encephalomyelitis/Chronic Fatigue
+Syndrome: Strategies to Prevent Worsening of Symptoms; 2024; accessed August 1, 2024 via
+
+https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-
+and-preventing-worsening-of-symptoms.html?CDC_AAref_Val=https://www.cdc.gov/me-
+cfs/healthcare-providers/clinical-care-patients-mecfs/treating-most-disruptive-symptoms.html
+
+52 Afrin LB, Weinstock LB, Molderings GJ. Covid-19 hyperinflammation and post-Covid-19 illness
+may be rooted in mast cell activation syndrome. Int J Infect Dis. 2020;100:327-332.
+doi:10.1016/j.ijid.2020.09.016
+53 Pollack B, von Saltza E, McCorkell L, et al. Female reproductive health impacts of Long COVID
+and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature
+review. Front Rehabil Sci. 2023;4:1122673. Published 2023 Apr 28.
+doi:10.3389/fresc.2023.1122673
+54 Silva J, Takahashi T, Wood J, et al. Sex differences in symptomatology and immune profiles of
+Long COVID. Preprint. medRxiv. 2024;2024.02.29.24303568. Published 2024 Mar 4.
+doi:10.1101/2024.02.29.24303568
+55 Patoulias D, Stavropoulos K, Imprialos K, et al. Inflammatory Markers in Cardiovascular Disease;
+Lessons Learned and Future Perspectives. Curr Vasc Pharmacol. 2021;19(3):323-342.
+doi:10.2174/1570161118666200318104434
+56 Xuereb RA, Borg M, Vella K, et al. Long COVID Syndrome: A Case-Control Study. Am J Med.
+Published online May 9, 2023. doi:10.1016/j.amjmed.2023.04.022.
+57 Homerton University Hospital: NHS Foundation Trust. Post COVID-19 Patient information pack:
+Helping you to recover and manage your symptoms following COVID-19; 2021. accessed
+7/21/21 via https://www.hackneycitizen.co.uk/wp-content/uploads/Post-COVID-19-
+information-pack-5.pdf
+58 Parkinson MD, Stout R, Dysinger W. Lifestyle Medicine: Prevention, Treatment, and Reversal of
+Disease. Med Clin North Am. 2023 Nov;107(6):1109-1120. doi: 10.1016/j.mcna.2023.06.007.
+Epub 2023 Jul 16. PMID: 37806726.
+59 Storz MA. Lifestyle Adjustments in Long-COVID Management: Potential Benefits of Plant-Based
+Diets. Curr Nutr Rep. 2021;10(4):352-363. doi:10.1007/s13668-021-00369-x
+60 O’Kelly B, Vidal L, McHugh T, Woo J, Avramovic G, Lambert JS. Safety and efficacy of low dose
+naltrexone in a long covid cohort; An interventional pre-post study. Brain Behav Immun Health
+(2022) 24:100485. doi: 10.1016/j.bbih.2022.100485
+61 Polo O PP, Tuominen E. Low-dose naltrexone in the treatment of myalgic
+encephalomyelitis/chronic fatigue syndrome (ME/CFS). In: Fatigue: Biomedicine, health &
+behavior (2019) (Informa UK Limited: Taylor & Francis Group; ). doi:
+10.1080/21641846.2019.1692770
+62 Naik H, Cooke E, Boulter T, et al. Low-dose naltrexone for post-COVID fatigue syndrome: a study
+protocol for a double-blind, randomised trial in British Columbia. BMJ Open.
+2024;14(5):e085272. Published 2024 May 13. doi:10.1136/bmjopen-2024-085272
+63 Arbel R, Peretz A, Sergienko R, et al. Effectiveness of a bivalent mRNA vaccine booster dose to
+prevent severe COVID-19 outcomes: a retrospective cohort study. Lancet Infect Dis.
+2023;23(8):914-921. doi:10.1016/S1473-3099(23)00122-6
+64 Fabiani M, Mateo-Urdiales A, Sacco C, et al. Protection against severe COVID-19 after second
+booster dose of adapted bivalent (original/Omicron BA.4-5) mRNA vaccine in persons ≥ 60
+years, by time since infection, Italy, 12 September to 11 December 2022. Euro Surveill.
+2023;28(8):2300105. doi:10.2807/1560-7917.ES.2023.28.8.2300105"
+deb97c2a-10d2-4a45-9303-c9e3f3843a1f,failed,1,0,1,2025-08-14T08:43:44.530936,2025-08-14T08:43:50.664617,"United States Department of Health and Human Services and the United States Department of
+Justice, Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section
+1557, https://archive.ada.gov/long_covid_joint_guidance.pdf, Accessed May 12, 2024."
+477f5852-a52a-4369-888a-41074cbb9129,completed,4,3,1,2025-08-14T08:44:22.312392,2025-08-14T08:45:00.213817,"51 Centers for Disease Control and Prevention. Myalgic Encephalomyelitis/Chronic Fatigue
+Syndrome: Strategies to Prevent Worsening of Symptoms; 2024; accessed August 1, 2024 via
+
+https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-
+and-preventing-worsening-of-symptoms.html?CDC_AAref_Val=https://www.cdc.gov/me-
+cfs/healthcare-providers/clinical-care-patients-mecfs/treating-most-disruptive-symptoms.html
+
+52 Afrin LB, Weinstock LB, Molderings GJ. Covid-19 hyperinflammation and post-Covid-19 illness
+may be rooted in mast cell activation syndrome. Int J Infect Dis. 2020;100:327-332.
+doi:10.1016/j.ijid.2020.09.016
+53 Pollack B, von Saltza E, McCorkell L, et al. Female reproductive health impacts of Long COVID
+and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature
+review. Front Rehabil Sci. 2023;4:1122673. Published 2023 Apr 28.
+doi:10.3389/fresc.2023.1122673
+54 Silva J, Takahashi T, Wood J, et al. Sex differences in symptomatology and immune profiles of
+Long COVID. Preprint. medRxiv. 2024;2024.02.29.24303568. Published 2024 Mar 4.
+doi:10.1101/2024.02.29.24303568"
+e84b7487-0146-436d-a874-23e17f1f9f03,completed,11,10,1,2025-08-14T08:45:49.390129,2025-08-14T08:47:24.612480,"55 Patoulias D, Stavropoulos K, Imprialos K, et al. Inflammatory Markers in Cardiovascular Disease;
+Lessons Learned and Future Perspectives. Curr Vasc Pharmacol. 2021;19(3):323-342.
+doi:10.2174/1570161118666200318104434
+56 Xuereb RA, Borg M, Vella K, et al. Long COVID Syndrome: A Case-Control Study. Am J Med.
+Published online May 9, 2023. doi:10.1016/j.amjmed.2023.04.022.
+57 Homerton University Hospital: NHS Foundation Trust. Post COVID-19 Patient information pack:
+Helping you to recover and manage your symptoms following COVID-19; 2021. accessed
+7/21/21 via https://www.hackneycitizen.co.uk/wp-content/uploads/Post-COVID-19-
+information-pack-5.pdf
+58 Parkinson MD, Stout R, Dysinger W. Lifestyle Medicine: Prevention, Treatment, and Reversal of
+Disease. Med Clin North Am. 2023 Nov;107(6):1109-1120. doi: 10.1016/j.mcna.2023.06.007.
+Epub 2023 Jul 16. PMID: 37806726.
+59 Storz MA. Lifestyle Adjustments in Long-COVID Management: Potential Benefits of Plant-Based
+Diets. Curr Nutr Rep. 2021;10(4):352-363. doi:10.1007/s13668-021-00369-x
+60 O’Kelly B, Vidal L, McHugh T, Woo J, Avramovic G, Lambert JS. Safety and efficacy of low dose
+naltrexone in a long covid cohort; An interventional pre-post study. Brain Behav Immun Health
+(2022) 24:100485. doi: 10.1016/j.bbih.2022.100485
+61 Polo O PP, Tuominen E. Low-dose naltrexone in the treatment of myalgic
+encephalomyelitis/chronic fatigue syndrome (ME/CFS). In: Fatigue: Biomedicine, health &
+behavior (2019) (Informa UK Limited: Taylor & Francis Group; ). doi:
+10.1080/21641846.2019.1692770
+62 Naik H, Cooke E, Boulter T, et al. Low-dose naltrexone for post-COVID fatigue syndrome: a study
+protocol for a double-blind, randomised trial in British Columbia. BMJ Open.
+2024;14(5):e085272. Published 2024 May 13. doi:10.1136/bmjopen-2024-085272
+63 Arbel R, Peretz A, Sergienko R, et al. Effectiveness of a bivalent mRNA vaccine booster dose to
+prevent severe COVID-19 outcomes: a retrospective cohort study. Lancet Infect Dis.
+2023;23(8):914-921. doi:10.1016/S1473-3099(23)00122-6
+64 Fabiani M, Mateo-Urdiales A, Sacco C, et al. Protection against severe COVID-19 after second
+booster dose of adapted bivalent (original/Omicron BA.4-5) mRNA vaccine in persons ≥ 60
+years, by time since infection, Italy, 12 September to 11 December 2022. Euro Surveill.
+2023;28(8):2300105. doi:10.2807/1560-7917.ES.2023.28.8.2300105
+65 Tenforde MW, Weber ZA, Natarajan K, et al. Early Estimates of Bivalent mRNA Vaccine
+Effectiveness in Preventing COVID-19-Associated Emergency Department or Urgent Care
+
+Encounters and Hospitalizations Among Immunocompetent Adults - VISION Network, Nine
+States, September-November 2022 [published correction appears in MMWR Morb Mortal Wkly
+Rep. 2023 Mar 17;72(11):292. doi: 10.15585/mmwr.mm7211a6]. MMWR Morb Mortal Wkly
+Rep. 2022;71(5152):1616-1624. Published 2022 Dec 30. doi:10.15585/mmwr.mm715152e1"
+961faa71-b031-4ca6-8a64-8f80e3f35f61,failed,0,0,0,2025-08-14T08:48:38.249393,2025-08-14T08:49:00.740322,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249.
+69 Mojaverrostami S, Bojnordi MN, et al., A Review of Herbal Therapy in Multiple Sclerosis. Adv
+Pharm Bull. 2018;8(4):575-590. doi:10.15171/apb.2018.066.
+70 Crabtree-Hartman E, Advanced Symptom Management in Multiple Sclerosis, Neurologic Clinics,
+2018, Volume 36 (1), 197-218; https://doi.org/10.1016/j.ncl.2017.08.015.
+71 Social Security Administration. Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– ); U.S. Social Security Administration,
+Revised as of April 1, 2023; accessed via https://www.ssa.gov/OP_Home/cfr20/404/404-
+0000.htm) on August 4, 2024.
+72 Grach SL, Seltzer J, Chon TY, Ganesh R. Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome. Mayo Clin Proc. 2023;98(10):1544-1551.
+doi:10.1016/j.mayocp.2023.07.032
+73 Frieri M. Mast Cell Activation Syndrome. Clin Rev Allergy Immunol. 2018;54(3):353-365.
+doi:10.1007/s12016-015-8487-6
+74 Whitehead L. The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures. J Pain Symptom Manage.
+2009;37(1):107-128. doi:10.1016/j.jpainsymman.2007.08.019
+
+75 Kuut TA, Müller F, Csorba I, Braamse A, Aldenkamp A, Appelman B, et al. Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+
+Randomized Controlled Trial. Clinical Infectious Diseases. 2023;77(5):687-95
+76 U.S. ME/CFS Clinician Coalition. Diagnosing and treating myalgic encephalomyelitis/chronic
+
+fatigue syndrome (ME/CFS). July 2020. Accessed via https://mecfscliniciancoalition.org/wp-
+content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
+
+on August 4, 2024.
+77 Singh SJ, Baldwin MM, Daynes E, et al. Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation. Lancet Respir Med.
+2023;11(8):709-725. doi:10.1016/S2213-2600(23)00159-5
+78 Frizzelli A, Di Spigno F, Moderato L, et al. An Impairment in Resting and Exertional Breathing
+Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.
+J Clin Med. 2022;11(24):7388. Published 2022 Dec 13. doi:10.3390/jcm11247388
+79 Centers for Medicare and Medicaid Services. Billing and Coding: Pulmonary Rehabilitation
+
+Services: A52770; October 1, 2023; accessed via https://www.cms.gov/medicare-coverage-
+database/view/article.aspx?articleid=52770 on May 13, 2024.
+
+80 Daynes E, Mills G, Hull JH, et al. Pulmonary Rehabilitation for People With Persistent Symptoms
+After COVID-19. Chest. Published online January 19, 2024. doi:10.1016/j.chest.2024.01.029
+81 Moine E, Molinier V, Castanyer A, et al. Safety and Efficacy of Pulmonary Rehabilitation for Long
+COVID Patients Experiencing Long-Lasting Symptoms. Int J Environ Res Public Health.
+2024;21(2):242. Published 2024 Feb 19. doi:10.3390/ijerph21020242
+
+82 Meléndez-Oliva E, Martínez-Pozas O, Cuenca-Zaldívar JN, Villafañe JH, Jiménez-Ortega L,
+Sánchez-Romero EA. Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic
+Review and Meta-Analysis. Biomedicines. 2023;11(8):2213. Published 2023 Aug 7.
+doi:10.3390/biomedicines11082213"
+7b36cbd0-4b42-48bd-8507-38bb5b8cd4d3,failed,0,0,0,2025-08-14T08:56:31.787810,2025-08-14T08:56:32.149686,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html"
+f358636d-1f68-44f7-bbbe-2c2c2c0fa3ac,completed,1,1,0,2025-08-14T08:59:24.621114,2025-08-14T08:59:32.238159,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine versus no vaccination on symptoms of patients with long covid: target trial emulation based on ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-2022-000229"
+039d443e-338f-43c6-a93f-ca23a5e4ad1c,failed,0,0,0,2025-08-14T09:29:24.915263,2025-08-14T09:29:42.568718,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249.
+69 Mojaverrostami S, Bojnordi MN, et al., A Review of Herbal Therapy in Multiple Sclerosis. Adv
+Pharm Bull. 2018;8(4):575-590. doi:10.15171/apb.2018.066.
+70 Crabtree-Hartman E, Advanced Symptom Management in Multiple Sclerosis, Neurologic Clinics,
+2018, Volume 36 (1), 197-218; https://doi.org/10.1016/j.ncl.2017.08.015.
+71 Social Security Administration. Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– ); U.S. Social Security Administration,
+Revised as of April 1, 2023; accessed via https://www.ssa.gov/OP_Home/cfr20/404/404-
+0000.htm) on August 4, 2024.
+72 Grach SL, Seltzer J, Chon TY, Ganesh R. Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome. Mayo Clin Proc. 2023;98(10):1544-1551.
+doi:10.1016/j.mayocp.2023.07.032
+73 Frieri M. Mast Cell Activation Syndrome. Clin Rev Allergy Immunol. 2018;54(3):353-365.
+doi:10.1007/s12016-015-8487-6
+74 Whitehead L. The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures. J Pain Symptom Manage.
+2009;37(1):107-128. doi:10.1016/j.jpainsymman.2007.08.019
+
+75 Kuut TA, Müller F, Csorba I, Braamse A, Aldenkamp A, Appelman B, et al. Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+
+Randomized Controlled Trial. Clinical Infectious Diseases. 2023;77(5):687-95
+76 U.S. ME/CFS Clinician Coalition. Diagnosing and treating myalgic encephalomyelitis/chronic
+
+fatigue syndrome (ME/CFS). July 2020. Accessed via https://mecfscliniciancoalition.org/wp-
+content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
+
+on August 4, 2024.
+77 Singh SJ, Baldwin MM, Daynes E, et al. Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation. Lancet Respir Med.
+2023;11(8):709-725. doi:10.1016/S2213-2600(23)00159-5
+78 Frizzelli A, Di Spigno F, Moderato L, et al. An Impairment in Resting and Exertional Breathing
+Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.
+J Clin Med. 2022;11(24):7388. Published 2022 Dec 13. doi:10.3390/jcm11247388
+79 Centers for Medicare and Medicaid Services. Billing and Coding: Pulmonary Rehabilitation
+
+Services: A52770; October 1, 2023; accessed via https://www.cms.gov/medicare-coverage-
+database/view/article.aspx?articleid=52770 on May 13, 2024.
+
+80 Daynes E, Mills G, Hull JH, et al. Pulmonary Rehabilitation for People With Persistent Symptoms
+After COVID-19. Chest. Published online January 19, 2024. doi:10.1016/j.chest.2024.01.029
+81 Moine E, Molinier V, Castanyer A, et al. Safety and Efficacy of Pulmonary Rehabilitation for Long
+COVID Patients Experiencing Long-Lasting Symptoms. Int J Environ Res Public Health.
+2024;21(2):242. Published 2024 Feb 19. doi:10.3390/ijerph21020242
+
+82 Meléndez-Oliva E, Martínez-Pozas O, Cuenca-Zaldívar JN, Villafañe JH, Jiménez-Ortega L,
+Sánchez-Romero EA. Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic
+Review and Meta-Analysis. Biomedicines. 2023;11(8):2213. Published 2023 Aug 7.
+doi:10.3390/biomedicines11082213"
+7c261ca6-0447-4ede-8572-86251b220439,completed,3,3,0,2025-08-14T09:34:18.941135,2025-08-14T09:34:53.346553,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249."
+a176aad5-bda7-43ed-b281-9491ed88e14a,processing,0,0,0,2025-08-14T09:35:50.634600,2025-08-14T09:35:50.647956,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249.
+69 Mojaverrostami S, Bojnordi MN, et al., A Review of Herbal Therapy in Multiple Sclerosis. Adv
+Pharm Bull. 2018;8(4):575-590. doi:10.15171/apb.2018.066.
+70 Crabtree-Hartman E, Advanced Symptom Management in Multiple Sclerosis, Neurologic Clinics,
+2018, Volume 36 (1), 197-218; https://doi.org/10.1016/j.ncl.2017.08.015.
+71 Social Security Administration. Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– ); U.S. Social Security Administration,
+Revised as of April 1, 2023; accessed via https://www.ssa.gov/OP_Home/cfr20/404/404-
+0000.htm) on August 4, 2024.
+72 Grach SL, Seltzer J, Chon TY, Ganesh R. Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome. Mayo Clin Proc. 2023;98(10):1544-1551.
+doi:10.1016/j.mayocp.2023.07.032
+73 Frieri M. Mast Cell Activation Syndrome. Clin Rev Allergy Immunol. 2018;54(3):353-365.
+doi:10.1007/s12016-015-8487-6
+74 Whitehead L. The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures. J Pain Symptom Manage.
+2009;37(1):107-128. doi:10.1016/j.jpainsymman.2007.08.019
+
+75 Kuut TA, Müller F, Csorba I, Braamse A, Aldenkamp A, Appelman B, et al. Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+
+Randomized Controlled Trial. Clinical Infectious Diseases. 2023;77(5):687-95
+76 U.S. ME/CFS Clinician Coalition. Diagnosing and treating myalgic encephalomyelitis/chronic
+
+fatigue syndrome (ME/CFS). July 2020. Accessed via https://mecfscliniciancoalition.org/wp-
+content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
+
+on August 4, 2024.
+77 Singh SJ, Baldwin MM, Daynes E, et al. Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation. Lancet Respir Med.
+2023;11(8):709-725. doi:10.1016/S2213-2600(23)00159-5
+78 Frizzelli A, Di Spigno F, Moderato L, et al. An Impairment in Resting and Exertional Breathing
+Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.
+J Clin Med. 2022;11(24):7388. Published 2022 Dec 13. doi:10.3390/jcm11247388
+79 Centers for Medicare and Medicaid Services. Billing and Coding: Pulmonary Rehabilitation
+
+Services: A52770; October 1, 2023; accessed via https://www.cms.gov/medicare-coverage-
+database/view/article.aspx?articleid=52770 on May 13, 2024.
+
+80 Daynes E, Mills G, Hull JH, et al. Pulmonary Rehabilitation for People With Persistent Symptoms
+After COVID-19. Chest. Published online January 19, 2024. doi:10.1016/j.chest.2024.01.029
+81 Moine E, Molinier V, Castanyer A, et al. Safety and Efficacy of Pulmonary Rehabilitation for Long
+COVID Patients Experiencing Long-Lasting Symptoms. Int J Environ Res Public Health.
+2024;21(2):242. Published 2024 Feb 19. doi:10.3390/ijerph21020242
+
+82 Meléndez-Oliva E, Martínez-Pozas O, Cuenca-Zaldívar JN, Villafañe JH, Jiménez-Ortega L,
+Sánchez-Romero EA. Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic
+Review and Meta-Analysis. Biomedicines. 2023;11(8):2213. Published 2023 Aug 7.
+doi:10.3390/biomedicines11082213"
+101f418a-d81b-4acf-b544-e706a405c9a5,failed,0,0,0,2025-08-14T09:37:06.549550,2025-08-14T09:37:25.289739,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249.
+69 Mojaverrostami S, Bojnordi MN, et al., A Review of Herbal Therapy in Multiple Sclerosis. Adv
+Pharm Bull. 2018;8(4):575-590. doi:10.15171/apb.2018.066.
+70 Crabtree-Hartman E, Advanced Symptom Management in Multiple Sclerosis, Neurologic Clinics,
+2018, Volume 36 (1), 197-218; https://doi.org/10.1016/j.ncl.2017.08.015.
+71 Social Security Administration. Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– ); U.S. Social Security Administration,
+Revised as of April 1, 2023; accessed via https://www.ssa.gov/OP_Home/cfr20/404/404-
+0000.htm) on August 4, 2024.
+72 Grach SL, Seltzer J, Chon TY, Ganesh R. Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome. Mayo Clin Proc. 2023;98(10):1544-1551.
+doi:10.1016/j.mayocp.2023.07.032
+73 Frieri M. Mast Cell Activation Syndrome. Clin Rev Allergy Immunol. 2018;54(3):353-365.
+doi:10.1007/s12016-015-8487-6
+74 Whitehead L. The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures. J Pain Symptom Manage.
+2009;37(1):107-128. doi:10.1016/j.jpainsymman.2007.08.019
+
+75 Kuut TA, Müller F, Csorba I, Braamse A, Aldenkamp A, Appelman B, et al. Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+
+Randomized Controlled Trial. Clinical Infectious Diseases. 2023;77(5):687-95
+76 U.S. ME/CFS Clinician Coalition. Diagnosing and treating myalgic encephalomyelitis/chronic
+
+fatigue syndrome (ME/CFS). July 2020. Accessed via https://mecfscliniciancoalition.org/wp-
+content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
+
+on August 4, 2024.
+77 Singh SJ, Baldwin MM, Daynes E, et al. Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation. Lancet Respir Med.
+2023;11(8):709-725. doi:10.1016/S2213-2600(23)00159-5
+78 Frizzelli A, Di Spigno F, Moderato L, et al. An Impairment in Resting and Exertional Breathing
+Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.
+J Clin Med. 2022;11(24):7388. Published 2022 Dec 13. doi:10.3390/jcm11247388
+79 Centers for Medicare and Medicaid Services. Billing and Coding: Pulmonary Rehabilitation
+
+Services: A52770; October 1, 2023; accessed via https://www.cms.gov/medicare-coverage-
+database/view/article.aspx?articleid=52770 on May 13, 2024.
+
+80 Daynes E, Mills G, Hull JH, et al. Pulmonary Rehabilitation for People With Persistent Symptoms
+After COVID-19. Chest. Published online January 19, 2024. doi:10.1016/j.chest.2024.01.029
+81 Moine E, Molinier V, Castanyer A, et al. Safety and Efficacy of Pulmonary Rehabilitation for Long
+COVID Patients Experiencing Long-Lasting Symptoms. Int J Environ Res Public Health.
+2024;21(2):242. Published 2024 Feb 19. doi:10.3390/ijerph21020242
+
+82 Meléndez-Oliva E, Martínez-Pozas O, Cuenca-Zaldívar JN, Villafañe JH, Jiménez-Ortega L,
+Sánchez-Romero EA. Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic
+Review and Meta-Analysis. Biomedicines. 2023;11(8):2213. Published 2023 Aug 7.
+doi:10.3390/biomedicines11082213"
+0e3bf8af-eeb7-4326-8e18-c5d6a1ec6f14,completed,5,5,0,2025-08-14T09:38:11.990407,2025-08-14T09:38:51.383560,"66 Tran VT, Perrodeau E, Saldanha J, Pane I, Ravaud P. Efficacy of first dose of covid-19 vaccine
+versus no vaccination on symptoms of patients with long covid: target trial emulation based on
+
+ComPaRe e-cohort. BMJ Med. 2023;2(1):e000229. Published 2023 Feb 1. doi:10.1136/bmjmed-
+2022-000229
+
+67 Centers for Disease Control and Prevention Overview of COVID-19 Vaccines. [(accessed on 22
+August 2023)]; Available online: https://www.cdc.gov/coronavirus/2019-
+ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html
+68 Porter NS, Jason LA, et al. Alternative Medical Interventions Used in the Treatment and
+Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia; J
+Alternative and Complementary Medicine, 2010; 16:3, 235-249.
+69 Mojaverrostami S, Bojnordi MN, et al., A Review of Herbal Therapy in Multiple Sclerosis. Adv
+Pharm Bull. 2018;8(4):575-590. doi:10.15171/apb.2018.066.
+70 Crabtree-Hartman E, Advanced Symptom Management in Multiple Sclerosis, Neurologic Clinics,
+2018, Volume 36 (1), 197-218; https://doi.org/10.1016/j.ncl.2017.08.015."
+bf984b20-e36b-4bcf-b18a-38cb2bc76712,completed,7,6,1,2025-08-14T09:39:25.038300,2025-08-14T09:40:21.563263,"71 Social Security Administration. Code of Federal Regulations: PART 404—FEDERAL OLD-AGE,
+SURVIVORS AND DISABILITY INSURANCE (1950– ); U.S. Social Security Administration,
+Revised as of April 1, 2023; accessed via https://www.ssa.gov/OP_Home/cfr20/404/404-
+0000.htm) on August 4, 2024.
+72 Grach SL, Seltzer J, Chon TY, Ganesh R. Diagnosis and Management of Myalgic
+Encephalomyelitis/Chronic Fatigue Syndrome. Mayo Clin Proc. 2023;98(10):1544-1551.
+doi:10.1016/j.mayocp.2023.07.032
+73 Frieri M. Mast Cell Activation Syndrome. Clin Rev Allergy Immunol. 2018;54(3):353-365.
+doi:10.1007/s12016-015-8487-6
+74 Whitehead L. The measurement of fatigue in chronic illness: a systematic review of
+unidimensional and multidimensional fatigue measures. J Pain Symptom Manage.
+2009;37(1):107-128. doi:10.1016/j.jpainsymman.2007.08.019
+
+75 Kuut TA, Müller F, Csorba I, Braamse A, Aldenkamp A, Appelman B, et al. Efficacy of Cognitive-
+Behavioral Therapy Targeting Severe Fatigue Following Coronavirus Disease 2019: Results of a
+
+Randomized Controlled Trial. Clinical Infectious Diseases. 2023;77(5):687-95
+76 U.S. ME/CFS Clinician Coalition. Diagnosing and treating myalgic encephalomyelitis/chronic
+
+fatigue syndrome (ME/CFS). July 2020. Accessed via https://mecfscliniciancoalition.org/wp-
+content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
+
+on August 4, 2024.
+77 Singh SJ, Baldwin MM, Daynes E, et al. Respiratory sequelae of COVID-19: pulmonary and
+extrapulmonary origins, and approaches to clinical care and rehabilitation. Lancet Respir Med.
+2023;11(8):709-725. doi:10.1016/S2213-2600(23)00159-5"
+42ac9ab3-956e-46c9-ab57-c73adac0b02a,completed,7,6,1,2025-08-14T09:40:54.139483,2025-08-14T09:41:52.723194,"78 Frizzelli A, Di Spigno F, Moderato L, et al. An Impairment in Resting and Exertional Breathing
+Pattern May Occur in Long-COVID Patients with Normal Spirometry and Unexplained Dyspnoea.
+J Clin Med. 2022;11(24):7388. Published 2022 Dec 13. doi:10.3390/jcm11247388
+79 Centers for Medicare and Medicaid Services. Billing and Coding: Pulmonary Rehabilitation
+
+Services: A52770; October 1, 2023; accessed via https://www.cms.gov/medicare-coverage-
+database/view/article.aspx?articleid=52770 on May 13, 2024.
+
+80 Daynes E, Mills G, Hull JH, et al. Pulmonary Rehabilitation for People With Persistent Symptoms
+After COVID-19. Chest. Published online January 19, 2024. doi:10.1016/j.chest.2024.01.029
+81 Moine E, Molinier V, Castanyer A, et al. Safety and Efficacy of Pulmonary Rehabilitation for Long
+COVID Patients Experiencing Long-Lasting Symptoms. Int J Environ Res Public Health.
+2024;21(2):242. Published 2024 Feb 19. doi:10.3390/ijerph21020242
+
+82 Meléndez-Oliva E, Martínez-Pozas O, Cuenca-Zaldívar JN, Villafañe JH, Jiménez-Ortega L,
+Sánchez-Romero EA. Efficacy of Pulmonary Rehabilitation in Post-COVID-19: A Systematic
+Review and Meta-Analysis. Biomedicines. 2023;11(8):2213. Published 2023 Aug 7.
+doi:10.3390/biomedicines11082213
+83 Belli S, Prince I, Savio G, et al. Airway Clearance Techniques: The Right Choice for the Right
+Patient. Front Med (Lausanne). 2021;8:544826. Published 2021 Feb 4.
+doi:10.3389/fmed.2021.544826.
+84 Basu-Ray I, Almaddah Nk, Adeboye A, et al. Cardiac Manifestations of Coronavirus (COVID-19)
+[Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing;
+2024 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK556152/"
+0a669600-14c1-412d-bb07-6740cc18ae07,completed,6,6,0,2025-08-14T09:42:22.370036,2025-08-14T09:43:15.626259,"85 Xie Y, Xu E, Bowe B, Al-Aly Z. Long-term cardiovascular outcomes of COVID-19. Nat Med. 2022
+Mar;28(3):583-590. doi: 10.1038/s41591-022-01689-3. Epub 2022 Feb 7. PMID: 35132265;
+PMCID: PMC8938267.
+86 Tintore C, Cuartero J, Camps-Vilaró A, et al. Increased risk of arrhythmias, heart failure, and
+thrombosis in SARS-CoV-2 positive individuals persists at one year post-infection. Comput
+Struct Biotechnol J. 2024;24:476-483. Published 2024 Jun 20. doi:10.1016/j.csbj.2024.06.024
+87 Writing Committee, Gluckman TJ, Bhave NM, et al. 2022 ACC Expert Consensus Decision
+Pathway on Cardiovascular Sequelae of COVID-19 in Adults: Myocarditis and Other Myocardial
+Involvement, Post-Acute Sequelae of SARS-CoV-2 Infection, and Return to Play: A Report of the
+American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol.
+2022;79(17):1717-1756. doi:10.1016/j.jacc.2022.02.003
+88 Kuehn BM. Post-COVID Return to Play Guidance Evolves. Circulation. 2022;146(6):498-499.
+doi:10.1161/CIRCULATIONAHA.122.060645
+89 Salman D, Vishnubala D, Le Feuvre P, et al. Returning to physical activity after covid-19. BMJ.
+2021;372:m4721. Published 2021 Jan 8. doi:10.1136/bmj.m4721
+90 Vernino S, Hopkins S, Bryarly M, Hernandez RS, Salter A. Randomized controlled trial of
+intravenous immunoglobulin for autoimmune postural orthostatic tachycardia syndrome
+(iSTAND). Clin Auton Res. 2024;34(1):153-163. doi:10.1007/s10286-024-01020-9"
+013f5621-6d95-4d4b-9d41-83124f23990b,completed,6,5,1,2025-08-14T09:43:56.351744,2025-08-14T09:44:45.997543,"91 Dysautonomia Support Network. COUNTER-PRESSURE MANEUVERS. 2021; accessed via
+https://www.dysautonomiasupport.org/counter-pressure-maneuvers/ on May 20, 2024.
+92 Becker JH, Lin JJ, Twumasi A, et al. Greater executive dysfunction in patients post-COVID-19
+compared to those not infected. Brain Behav Immun. 2023;114:111-117.
+doi:10.1016/j.bbi.2023.08.014
+93 Substance Abuse and Mental Health Services Administration. Identification and Management of
+Mental Health Symptoms and Conditions Associated with Long COVID. Publication No. PEP23-
+06-05-007. Rockville, MD: National Mental Health and Substance Use Policy Laboratory,
+Substance Abuse and Mental Health Services Administration, 2023.
+94 Perez Giraldo GS, Ali ST, Kang AK, et al. Neurologic Manifestations of Long COVID Differ Based
+on Acute COVID-19 Severity. Ann Neurol. 2023;94(1):146-159. doi:10.1002/ana.26649
+95 Aziz R, Siles N, Kelley M, Wylie D, Melamed E, Brode WM. Clinical characteristics of Long COVID
+patients presenting to a dedicated academic post-COVID-19 clinic in Central Texas. Sci Rep.
+2023;13(1):21971. Published 2023 Dec 11. doi:10.1038/s41598-023-48502-w
+96 Ozonoff A, Jayavelu ND, Liu S, et al. Features of acute COVID-19 associated with post-acute
+sequelae of SARS-CoV-2 phenotypes: results from the IMPACC study. Nat Commun.
+2024;15(1):216. Published 2024 Jan 3. doi:10.1038/s41467-023-44090-5"
+b1083883-de61-4d06-9cbc-3523f6cdf9b8,completed,6,5,1,2025-08-14T09:46:15.597141,2025-08-14T09:48:21.769444,"97 Reis, G. A Multicenter, Adaptive, Randomized, doublE-blinded, Placebo-controlled Study in
+Participants With Long COVID-19: The REVIVE Trial (REVIVE); ClinicalTrials.gov ID NCT06128967.
+Updated November 13, 2023. Accessed August 4, 204 via
+https://clinicaltrials.gov/study/NCT06128967?cond=long%20covid&intr=metformin&rank=2.
+98 Lenze E. Fluvoxamine for Long COVID-19; ClinicalTrials.gov ID NCT05874037; Updated August
+14, 2023. Accessed August 4, 2024 via https://clinicaltrials.gov/study/NCT05874037.
+
+99 Hurt RT, Yadav S, Schroeder DR, et al. Longitudinal Progression of Patients with Long COVID
+Treated in a Post-COVID Clinic: A Cross-Sectional Survey. J Prim Care Community Health.
+2024;15:21501319241258671. doi:10.1177/21501319241258671
+100 Sathyamoorthy M, Verduzco-Gutierrez M, Varanasi S, Ward R, Spertus J, Shah S. Enhanced
+external counterpulsation for management of symptoms associated with long COVID. Am Heart
+J Plus. 2022;13:100105. Published 2022 Feb 12. doi:10.1016/j.ahjo.2022.100105
+101 Fox J, Verduzco-Gutierrez M, Sanchez S, et al. Enhanced External Counterpulsation Improves
+Long COVID-Associated Symptoms. Am J Cardiol. 2024;224:12-13.
+doi:10.1016/j.amjcard.2024.05.037
+102 Sathyamoorthy M, Sevak RJ, Cabrera J, et al. Enhanced External Counterpulsation Improves
+Cognitive Function of Persons With Long COVID. Am J Phys Med Rehabil. 2024;103(8):734-739.
+doi:10.1097/PHM.0000000000002433"
+4ff58089-2f2c-454b-b25e-cc569f4243b3,completed,6,6,0,2025-08-14T10:06:27.390555,2025-08-14T10:07:14.805675,"103 Kalava A, Benyahia SA, Tico Calzada R, Staat CM. Efficacy of Stellate Ganglion Block in Treating
+Long-Term COVID-19-Related Olfactory and Gustatory Dysfunction: A Case Series. Cureus.
+2023;15(6):e40929. Published 2023 Jun 25. doi:10.7759/cureus.40929
+104 Khan MH, Kirkpatrick KP, Deng Y, Shah KB. Stellate Ganglion Block for Long COVID Symptom
+Management: A Case Report. Cureus. 2022;14(12):e32295. Published 2022 Dec 7.
+doi:10.7759/cureus.32295
+105 Pearson L, Maina A, Compratt T, et al. Stellate Ganglion Block Relieves Long COVID-19
+Symptoms in 86% of Patients: A Retrospective Cohort Study. Cureus. 2023;15(9):e45161.
+Published 2023 Sep 13. doi:10.7759/cureus.45161
+106 Chakraborty P, Farhat K, Morris L, Whyte S, Yu X, Stavrakis S. Non-invasive Vagus Nerve
+Simulation in Postural Orthostatic Tachycardia Syndrome. Arrhythm Electrophysiol Rev.
+2023;12:e31. Published 2023 Dec 13. doi:10.15420/aer.2023.20
+107 Zheng ZS, Simonian N, Wang J, Rosario ER. Transcutaneous vagus nerve stimulation improves
+Long COVID symptoms in a female cohort: a pilot study. Front Neurol. 2024;15:1393371.
+Published 2024 May 2. doi:10.3389/fneur.2024.1393371
+108 Wu BQ, Liu DY, Shen TC, et al. Effects of Hyperbaric Oxygen Therapy on Long COVID: A
+Systematic Review. Life (Basel). 2024;14(4):438. Published 2024 Mar 26.
+doi:10.3390/life14040438"
+3541dac3-0170-446c-a600-b06a07ef0212,completed,5,4,1,2025-08-14T10:07:46.864022,2025-08-14T10:08:41.278917,"109 Linnhoff S, Koehler L, Haghikia A, Zaehle T. The therapeutic potential of non-invasive brain
+stimulation for the treatment of Long-COVID-related cognitive fatigue. Front Immunol.
+2023;13:935614. Published 2023 Jan 9. doi:10.3389/fimmu.2022.935614
+110 Klírová M, Adamová A, Biačková N, et al. Transcranial direct current stimulation (tDCS) in the
+treatment of neuropsychiatric symptoms of long COVID. Sci Rep. 2024;14(1):2193. Published
+2024 Jan 25. doi:10.1038/s41598-024-52763-4
+111 Zimmerman K, Laskowitz, D. RECOVER-NEURO: Platform Protocol, Appendix_A to Measure the
+Effects of BrainHQ, PASC CoRE and tDCS Interventions on Long COVID Symptoms.
+ClinicalTrials.gov ID NCT05965739. Updated June 18, 2024. Accessed August 4, 2024.
+https://clinicaltrials.gov/study/NCT05965739?term=recover-neuro&rank=3
+112 Steffen PR, Austin T, DeBarros A, Brown T. The Impact of Resonance Frequency Breathing on
+Measures of Heart Rate Variability, Blood Pressure, and Mood. Front Public Health. 2017;5:222.
+Published 2017 Aug 25. doi:10.3389/fpubh.2017.00222
+113 Chung AH, Gevirtz RN, Gharbo RS, Thiam MA, Ginsberg JPJ. Pilot Study on Reducing Symptoms
+of Anxiety with a Heart Rate Variability Biofeedback Wearable and Remote Stress Management
+Coach. Appl Psychophysiol Biofeedback. 2021;46(4):347-358. doi:10.1007/s10484-021-09519-x"

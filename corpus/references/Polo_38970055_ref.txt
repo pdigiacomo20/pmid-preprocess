@@ -1,0 +1,109 @@
+[CR1] Dixit NM Churchill A Nsair A Hsu JJ Post-Acute COVID-19 syndrome and the cardiovascular system: what is known? Am Heart J Plus 2021 5 100025 34192289 10.1016/j.ahjo.2021.100025 PMC8223036
+
+[CR2] Yong SJ Liu S Proposed subtypes of post-COVID-19 syndrome (or long-COVID) and their respective potential therapies Rev Med Virol 2022 32 4 e2315 10.1002/rmv.2315 34888989
+
+[CR3] Wirth KJ, Lohn M. Orthostatic Intolerance after COVID-19 infection: is disturbed Microcirculation of the Vasa Vasorum of Capacitance vessels the primary defect? Med (Kaunas). 2022;58(12). 10.3390/medicina58121807 PMC9788017 36557009
+
+[CR4] Blitshteyn S Brinth L Hendrickson JE Martinez-Lavin M Autonomic dysfunction and HPV immunization: an overview Immunol Res 2018 66 6 744 54 10.1007/s12026-018-9036-1 30478703
+
+[CR5] Sotzny F Filgueiras IS Kedor C Freitag H Wittke K Bauer S Dysregulated autoantibodies targeting vaso- and immunoregulatory receptors in Post COVID Syndrome correlate with symptom severity Front Immunol 2022 13 981532 10.3389/fimmu.2022.981532 36238301 PMC9552223
+
+[CR6] Legler F Meyer-Arndt L Modl L Kedor C Freitag H Stein E Long-term symptom severity and clinical biomarkers in post-COVID-19/chronic fatigue syndrome: results from a prospective observational cohort EClinicalMedicine 2023 63 102146 10.1016/j.eclinm.2023.102146 37662515 PMC10469383
+
+[CR7] Cabanas H Muraki K Balinas C Eaton-Fitch N Staines D Marshall-Gradisnik S Validation of impaired Transient Receptor Potential Melastatin 3 ion channel activity in natural killer cells from chronic fatigue Syndrome/ myalgic encephalomyelitis patients Mol Med 2019 25 1 14 10.1186/s10020-019-0083-4 31014226 PMC6480905
+
+[CR8] Cabanas H Muraki K Eaton N Balinas C Staines D Marshall-Gradisnik S Loss of Transient Receptor Potential Melastatin 3 ion channel function in natural killer cells from chronic fatigue Syndrome/Myalgic encephalomyelitis patients Mol Med 2018 24 1 44 10.1186/s10020-018-0046-1 30134818 PMC6092868
+
+[CR9] Cabanas H, Muraki K, Eaton-Fitch N, Staines DR, Marshall-Gradisnik S. Potential therapeutic benefit of low dose naltrexone in myalgic Encephalomyelitis/Chronic fatigue syndrome: role of Transient Receptor Potential Melastatin 3 Ion channels in pathophysiology and treatment. Front Immunol. 2021;12. 10.3389/fimmu.2021.687806 PMC8313851 34326841
+
+[CR10] Cabanas H, Muraki K, Staines D, Marshall-Gradisnik S. Naltrexone Restores Impaired Transient Receptor Potential Melastatin 3 Ion Channel function in natural killer cells from myalgic Encephalomyelitis/Chronic fatigue syndrome patients. Front Immunol. 2019;10. 10.3389/fimmu.2019.02545 PMC6834647 31736966
+
+[CR11] Eaton-Fitch N Cabanas H du Preez S Staines D Marshall-Gradisnik S The effect of IL-2 stimulation and treatment of TRPM3 on channel co-localisation with PIP2 and NK cell function in myalgic encephalomyelitis/chronic fatigue syndrome patients J Translational Med 2021 19 1 306 10.1186/s12967-021-02974-4 PMC8281618 34266470
+
+[CR12] Magawa CT, Eaton-Fitch N, Balinas C, Sasso EM, Thapaliya K, Barnden L et al. Identification of transient receptor potential melastatin 3 proteotypic peptides employing an efficient membrane protein extraction method for natural killer cells. Front Physiol. 2022;13. 10.3389/fphys.2022.947723 PMC9540229 36213251
+
+[CR13] Nguyen T Johnston S Clarke L Smith P Staines D Marshall-Gradisnik S Impaired calcium mobilization in natural killer cells from chronic fatigue syndrome/myalgic encephalomyelitis patients is associated with transient receptor potential melastatin 3 ion channels Clin Exp Immunol 2017 187 2 284 93 10.1111/cei.12882 27727448 PMC5217865
+
+[CR14] Nguyen T Staines D Nilius B Smith P Marshall-Gradisnik S Novel identification and characterisation of transient receptor potential melastatin 3 ion channels on natural killer cells and B lymphocytes: effects on cell signalling in chronic fatigue syndrome/Myalgic encephalomyelitis patients Biol Res 2016 49 1 27 10.1186/s40659-016-0087-2 27245705 PMC4888729
+
+[CR15] Sasso EM Muraki K Eaton-Fitch N Smith P Lesslar OL Deed G Transient receptor potential melastatin 3 dysfunction in post COVID-19 condition and myalgic encephalomyelitis/chronic fatigue syndrome patients Mol Med 2022 28 1 98 10.1186/s10020-022-00528-y 35986236 PMC9388968
+
+[CR16] Eaton-Fitch N Du Preez S Cabanas H Muraki K Staines D Marshall-Gradisnik S Impaired TRPM3-dependent calcium influx and restoration using Naltrexone in natural killer cells of myalgic encephalomyelitis/chronic fatigue syndrome patients J Translational Med 2022 20 1 94 10.1186/s12967-022-03297-8 PMC8848670 35172836
+
+[CR17] Zhao S Rohacs T The newest TRP channelopathy: Gain of function TRPM3 mutations cause epilepsy and intellectual disability Channels (Austin) 2021 15 1 386 97 10.1080/19336950.2021.1908781 33853504 PMC8057083
+
+[CR18] Burglen L, Van Hoeymissen E, Qebibo L, Barth M, Belnap N, Boschann F et al. Gain-of-function variants in the ion channel gene TRPM3 underlie a spectrum of neurodevelopmental disorders. Elife. 2023;12. 10.7554/eLife.81032 PMC9886277 36648066
+
+[CR19] Bennett TM Mackay DS Siegfried CJ Shiels A Mutation of the melastatin-related cation channel, TRPM3, underlies inherited cataract and glaucoma PLoS ONE 2014 9 8 e104000 10.1371/journal.pone.0104000 25090642 PMC4121231
+
+[CR20] Zhao S, Yudin Y, Rohacs T. Disease-associated mutations in the human TRPM3 render the channel overactive via two distinct mechanisms. Elife. 2020;9. 10.7554/eLife.55634 PMC7255801 32343227
+
+[CR21] Grimm C Kraft R Sauerbruch S Schultz G Harteneck C Molecular and functional characterization of the melastatin-related cation channel TRPM3 J Biol Chem 2003 278 24 21493 501 10.1074/jbc.M300945200 12672799
+
+[CR22] Lee N Chen J Sun L Wu S Gray KR Rich A Expression and Characterization of Human Transient Receptor Potential Melastatin 3 (hTRPM3) * J Biol Chem 2003 278 23 20890 7 10.1074/jbc.M211232200 12672827
+
+[CR23] Thiel G Müller I Rössler OG Signal transduction via TRPM3 channels in pancreatic β-cells J Mol Endocrinol 2013 50 3 R75 83 10.1530/JME-12-0237 23511953
+
+[CR24] Silverman HA Chen A Kravatz NL Chavan SS Chang EH Involvement of neural transient receptor potential channels in peripheral inflammation Front Immunol 2020 11 590261 10.3389/fimmu.2020.590261 33193423 PMC7645044
+
+[CR25] Lee N Chen J Sun L Wu S Gray KR Rich A Expression and characterization of human transient receptor potential melastatin 3 (hTRPM3) J Biol Chem 2003 278 23 20890 7 10.1074/jbc.M211232200 12672827
+
+[CR26] Oberwinkler J Lis A Giehl KM Flockerzi V Philipp SE Alternative splicing switches the Divalent Cation selectivity of TRPM3 channels * J Biol Chem 2005 280 23 22540 8 10.1074/jbc.M503092200 15824111
+
+[CR27] Vriens J Owsianik G Hofmann T Philipp Stephan E Stab J Chen X TRPM3 is a Nociceptor Channel Involved in the detection of noxious heat Neuron 2011 70 3 482 94 10.1016/j.neuron.2011.02.051 21555074
+
+[CR28] Oberwinkler J Philipp SE Nilius B Flockerzi V TRPM3 Mammalian transient receptor potential (TRP) cation channels: volume I 2014 Berlin, Heidelberg Springer Berlin Heidelberg 427 59
+
+[CR29] Zhang M Ma Y Ye X Zhang N Pan L Wang B TRP (transient receptor potential) ion channel family: structures, biological functions and therapeutic interventions for diseases Signal Transduct Target Ther 2023 8 1 261 10.1038/s41392-023-01464-x 37402746 PMC10319900
+
+[CR30] Patten DK Schultz BG Berlau DJ The Safety and Efficacy of Low-Dose Naltrexone in the management of Chronic Pain and inflammation in multiple sclerosis, Fibromyalgia, Crohn’s Disease, and other Chronic Pain disorders Pharmacotherapy 2018 38 3 382 9 10.1002/phar.2086 29377216
+
+[CR31] Toljan K, Vrooman B. Low-dose naltrexone (LDN)-Review of therapeutic utilization. Med Sci (Basel). 2018;6(4). 10.3390/medsci6040082 PMC6313374 30248938
+
+[CR32] Isman A Nyquist A Strecker B Harinath G Lee V Zhang X Low-dose naltrexone and NAD + for the treatment of patients with persistent fatigue symptoms after COVID-19 Brain Behav Immun Health 2024 36 100733 10.1016/j.bbih.2024.100733 38352659 PMC10862402
+
+[CR33] O’Kelly B Vidal L McHugh T Woo J Avramovic G Lambert JS Safety and efficacy of low dose naltrexone in a long covid cohort; an interventional pre-post study Brain Behav Immun Health 2022 24 100485 10.1016/j.bbih.2022.100485 35814187 PMC9250701
+
+[CR34] Oaklander AL, Nolano M. Scientific advances in and clinical approaches to small-Fiber polyneuropathy: a review. JAMA Neurol. 2019. 10.1001/jamaneurol.2019.2917 PMC10021074 31498378
+
+[CR35] Abrams RMC Simpson DM Navis A Jette N Zhou L Shin SC Small fiber neuropathy associated with SARS-CoV-2 infection Muscle Nerve 2022 65 4 440 3 10.1002/mus.27458 34766365 PMC8661991
+
+[CR36] Joseph P Arevalo C Oliveira RKF Faria-Urbina M Felsenstein D Oaklander AL Insights from Invasive Cardiopulmonary Exercise Testing of patients with myalgic Encephalomyelitis/Chronic fatigue syndrome Chest 2021 160 2 642 51 10.1016/j.chest.2021.01.082 33577778 PMC8727854
+
+[CR37] Oaklander AL, Mills AJ, Kelley M, Toran LS, Smith B, Dalakas MC et al. Peripheral neuropathy evaluations of patients with prolonged long COVID. Neurol Neuroimmunol Neuroinflamm. 2022;9(3). 10.1212/NXI.0000000000001146 PMC8889896 35232750
+
+[CR38] Held K Kichko T De Clercq K Klaassen H Van Bree R Vanherck J-C Activation of TRPM3 by a potent synthetic ligand reveals a role in peptide release Proc Natl Acad Sci 2015 112 11 E1363 72 10.1073/pnas.1419845112 25733887 PMC4371942
+
+[CR39] Alonso-Carbajo L Alpizar YA Startek JB López-López JR Pérez-García MT Talavera K Activation of the cation channel TRPM3 in perivascular nerves induces vasodilation of resistance arteries J Mol Cell Cardiol 2019 129 219 30 10.1016/j.yjmcc.2019.03.003 30853321
+
+[CR40] Azcue N Del Pino R Acera M Fernández-Valle T Ayo-Mentxakatorre N Pérez-Concha T Dysautonomia and small fiber neuropathy in post-COVID condition and chronic fatigue syndrome J Translational Med 2023 21 1 814 10.1186/s12967-023-04678-3 PMC10648633 37968647
+
+[CR41] Vriens J Voets T Sensing the heat with TRPM3. Pflügers Archiv Eur J Physiol 2018 470 5 799 807 10.1007/s00424-017-2100-1 PMC5942355 29305649
+
+[CR42] Kelemen B Pinto S Kim N Lisztes E Hanyicska M Vladár A The TRPM3 ion channel mediates nociception but not itch evoked by endogenous pruritogenic mediators Biochem Pharmacol 2021 183 114310 10.1016/j.bcp.2020.114310 33130130 PMC8086171
+
+[CR43] Vriens J Voets T Heat sensing involves a TRiPlet of ion channels Br J Pharmacol 2019 176 20 3893 8 10.1111/bph.14812 31372975 PMC6811738
+
+[CR44] Held K Toth BI TRPM3 in brain (patho)physiology Front Cell Dev Biol 2021 9 635659 10.3389/fcell.2021.635659 33732703 PMC7959729
+
+[CR45] Seljeset S Liebowitz S Bright DP Smart TG Pre- and postsynaptic modulation of hippocampal inhibitory synaptic transmission by pregnenolone sulphate Neuropharmacology 2023 233 109530 10.1016/j.neuropharm.2023.109530 37037282
+
+[CR46] Thapaliya K, Marshall-Gradisnik S, Eaton-Fitch N, Eftekhari Z, Inderyas M, Barnden L. Imbalanced Brain neurochemicals in long COVID and ME/CFS: a preliminary study using MRI. Am J Med. 2024. 10.1016/j.amjmed.2024.04.007 38588934
+
+[CR47] Hall PA Ayaz H Meng G Hudson A Sakib MN Quah ACK Neurocognitive and psychiatric symptoms following infection with COVID-19: evidence from laboratory and population studies Brain Behav Immun Health 2023 28 100595 10.1016/j.bbih.2023.100595 36713476 PMC9870612
+
+[CR48] Hingorani KS Bhadola S Cervantes-Arslanian AM COVID-19 and the brain Trends Cardiovasc Med 2022 32 6 323 30 10.1016/j.tcm.2022.04.004 35461991 PMC9022395
+
+[CR49] Wirth KJ Scheibenbogen C Paul F An attempt to explain the neurological symptoms of myalgic Encephalomyelitis/Chronic fatigue syndrome J Transl Med 2021 19 1 471 10.1186/s12967-021-03143-3 34809664 PMC8607226
+
+[CR50] Richards BL Whittle SL Buchbinder R Muscle relaxants for pain management in rheumatoid arthritis Cochrane Database Syst Rev 2012 1 CD008922 22258993 10.1002/14651858.CD008922.pub2 PMC11702505
+
+[CR51] Peck J Urits I Crane J McNally A Noor N Patel M Oral muscle relaxants for the Treatment of Chronic Pain Associated with cerebral palsy Psychopharmacol Bull 2020 50 4 Suppl 1 142 62 33633423 PMC7901132
+
+[CR52] Lundberg U Kadefors R Melin B Palmerud G Hassmén P Engström M Psychophysiological stress and emg activity of the trapezius muscle Int J Behav Med 1994 1 4 354 70 10.1207/s15327558ijbm0104_5 16250795
+
+[CR53] Wirth KJ, Scheibenbogen C. Dyspnea in Post-COVID Syndrome following mild Acute COVID-19 infections: potential causes and consequences for a Therapeutic Approach. Med (Kaunas). 2022;58(3). 10.3390/medicina58030419 PMC8951558 35334595
+
+[CR54] Appelman B Charlton BT Goulding RP Kerkhoff TJ Breedveld EA Noort W Muscle abnormalities worsen after post-exertional malaise in long COVID Nat Commun 2024 15 1 17 10.1038/s41467-023-44432-3 38177128 PMC10766651
+
+[CR55] Bizjak DA, Ohmayer B, Buhl JL, Schneider EM, Walther P, Calzia E et al. Functional and Morphological Differences of Muscle Mitochondria in chronic fatigue syndrome and Post-COVID syndrome. Int J Mol Sci. 2024;25(3). 10.3390/ijms25031675 PMC10855807 38338957

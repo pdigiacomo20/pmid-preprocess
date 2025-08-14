@@ -1,0 +1,61 @@
+[ciad257-B1] Salamanna    F ,  Veronesi    F ,  Martini    L ,  Landini    MP ,  Fini    M .  Post-COVID-19 syndrome: the persistent symptoms at the post-viral stage of the disease. A systematic review of the current data .  Front Med    2021 ;  8 : 653516 . 10.3389/fmed.2021.653516 PMC8129035 34017846
+
+[ciad257-B2] Ceban    F ,  Ling    S ,  Lui    LMW ,  et al    Fatigue and cognitive impairment in post-COVID-19 syndrome: a systematic review and meta-analysis .  Brain Behav Immun    2022 ;  101 : 93 – 135 . 34973396 10.1016/j.bbi.2021.12.020 PMC8715665
+
+[ciad257-B3] Han    Q ,  Zheng    B ,  Daines    L ,  Sheikh    A .  Long-term sequelae of COVID-19: a systematic review and meta-analysis of one-year follow-up studies on post-COVID symptoms .  Pathogens    2022 ;  11 : 269 . 35215212 10.3390/pathogens11020269 PMC8875269
+
+[ciad257-B4] Verveen    A ,  Wynberg    E ,  van Willigen    HDG ,  et al    Severe fatigue in the first year following SARS-CoV-2 infection: a prospective cohort study .  Open Forum Infect Dis    2022 ;  9 : ofac127 . 35415196 10.1093/ofid/ofac127 PMC8995073
+
+[ciad257-B5] Huang    L ,  Li    X ,  Gu    X ,  et al    Health outcomes in people 2 years after surviving hospitalisation with COVID-19: a longitudinal cohort study .  Lancet Respir Med    2022 ;  10 : 863 – 76 . 35568052 10.1016/S2213-2600(22)00126-6 PMC9094732
+
+[ciad257-B6] Moldofsky    H ,  Patcai    J .  Chronic widespread musculoskeletal pain, fatigue, depression and disordered sleep in chronic post-SARS syndrome; a case-controlled study .  BMC Neurol    2011 ;  11 : 37 . 21435231 10.1186/1471-2377-11-37 PMC3071317
+
+[ciad257-B7] Lam    MHB ,  Wing    YK ,  Yu    MWM ,  et al    Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors long-term follow-up .  Arch Intern Med    2009 ;  169 : 2142 – 7 . 20008700 10.1001/archinternmed.2009.384
+
+[ciad257-B8] Morroy    G ,  Keijmel    SP ,  Delsing    CE ,  et al    Fatigue following acute Q-fever: a systematic literature review .  PLoS One    2016 ;  11 : e0155884 . 27223465 10.1371/journal.pone.0155884 PMC4880326
+
+[ciad257-B9] Hulme    K ,  Hudson    JL ,  Rojczyk    P ,  Little    P ,  Moss-Morris    R .  Biopsychosocial risk factors of persistent fatigue after acute infection: a systematic review to inform interventions .  J Psychosom Res    2017 ;  99 : 120 – 9 . 28712416 10.1016/j.jpsychores.2017.06.013
+
+[ciad257-B10] Keijmel    SP ,  Delsing    CE ,  Bleijenberg    G ,  et al    Effectiveness of long-term doxycycline treatment and cognitive-behavioral therapy on fatigue severity in patients with Q fever fatigue syndrome (Qure Study): a randomized controlled trial .  Clin Infect Dis    2017 ;  64 : 998 – 1005 . 28329131 10.1093/cid/cix013
+
+[ciad257-B11] Menting    J ,  Tack    CJ ,  van Bon    AC ,  et al    Web-based cognitive behavioural therapy blended with face-to-face sessions for chronic fatigue in type 1 diabetes: a multicentre randomised controlled trial .  Lancet Diabetes Endocrinol    2017 ;  5 : 448 – 56 . 28462869 10.1016/S2213-8587(17)30098-0
+
+[ciad257-B12] Okkersen    K ,  Jimenez-Moreno    C ,  Wenninger    S ,  et al    Cognitive behavioural therapy with optional graded exercise therapy in patients with severe fatigue with myotonic dystrophy type 1: a multicentre, single-blind, randomised trial .  Lancet Neurol    2018 ;  17 : 671 – 80 . 29934199 10.1016/S1474-4422(18)30203-5
+
+[ciad257-B13] Raijmakers    RPH ,  Keijmel    SP ,  Breukers    EMC ,  et al    Long-term effect of cognitive behavioural therapy and doxycycline treatment for patients with Q fever fatigue syndrome: one-year follow-up of the Qure study .  J Psychosom Res    2019 ;  116 : 62 – 7 . 30654996 10.1016/j.jpsychores.2018.11.007
+
+[ciad257-B14] Gielissen    MFM ,  Verhagen    CAHHVM ,  Bleijenberg    G .  Cognitive behaviour therapy for fatigued cancer survivors: long-term follow-up .  Br J Cancer    2007 ;  97 : 612 – 8 . 17653075 10.1038/sj.bjc.6603899 PMC2360364
+
+[ciad257-B15] Kuut    TA ,  Müller    F ,  Aldenkamp    A ,  et al    A randomised controlled trial testing the efficacy of Fit After COVID, a cognitive behavioural therapy targeting severe post-infectious fatigue following COVID-19 (ReCOVer): study protocol .  Trials    2021 ;  22 : 867 . 34857010 10.1186/s13063-021-05569-y PMC8637041
+
+[ciad257-B16] Worm-Smeitink    M ,  Gielissen    M ,  Bloot    L ,  et al    The assessment of fatigue: psychometric qualities and norms for the Checklist Individual Strength .  J Psychosomatic Res    2017 ;  98 : 40 – 6 . 10.1016/j.jpsychores.2017.05.007 28554371
+
+[ciad257-B17] Aaronson    NK ,  Muller    M ,  Cohen    PDA ,  et al    Translation, validation, and norming of the Dutch language version of the SF-36 health survey in community and chronic disease populations .  J Clin Epidemiol    1998 ;  51 : 1055 – 68 . 9817123 10.1016/s0895-4356(98)00097-3
+
+[ciad257-B18] Mundt    JC ,  Marks    IM ,  Shear    MK ,  Greist    JH .  The work and social adjustment scale: a simple measure of impairment in functioning .  Br J Psychiatry    2002 ;  180 : 461 – 4 . 11983645 10.1192/bjp.180.5.461
+
+[ciad257-B19] Blevins    CA ,  Weathers    FW ,  Davis    MT ,  Witte    TK ,  Domino    JL .  The posttraumatic stress disorder checklist for DSM-5 (PCL-5): development and initial psychometric evaluation .  J Trauma Stress    2015 ;  28 : 489 – 98 . 26606250 10.1002/jts.22059
+
+[ciad257-B20] Beck    AT ,  Guth    D ,  Steer    RA ,  Ball    R .  Screening for major depression disorders in medical inpatients with the Beck Depression Inventory for primary care .  Behav Res Ther    1997 ;  35 : 785 – 91 . 9256522 10.1016/s0005-7967(97)00025-9
+
+[ciad257-B21] Sheehan    DV ,  Lecrubier    Y ,  Sheehan    KH ,  et al    The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and  ICD-10 .  J Clin Psychiatry    1998 ;  59 ( Suppl 20 ): 22 – 33 . 9881538
+
+[ciad257-B22] Castor.    Castor electronic data capture system . Amsterdam, the Netherlands: Castor;  2019 .
+
+[ciad257-B23] Bestall    JC ,  Paul    EA ,  Garrod    R ,  Garnham    R ,  Jones    PW ,  Wedzicha    JA .  Usefulness of the Medical Research Council (MRC) dyspnoea scale as a measure of disability in patients with chronic obstructive pulmonary disease .  Thorax    1999 ;  54 : 581 – 6 . 10377201 10.1136/thx.54.7.581 PMC1745516
+
+[ciad257-B24] Jacobson    NS ,  Truax    P .  Clinical significance: a statistical approach to defining meaningful change in psychotherapy research .  J Consult Clin Psychol    1991 ;  59 : 12 – 9 . 2002127 10.1037//0022-006x.59.1.12
+
+[ciad257-B25] Kroenke    K ,  Spitzer    RL ,  Williams    JBW .  The PHQ-15: validity of a new measure for evaluating the severity of somatic symptoms .  Psychosom Med    2002 ;  64 : 258 – 66 . 11914441 10.1097/00006842-200203000-00008
+
+[ciad257-B26] Knoop    H ,  Van Der Meer    JWM ,  Bleijenberg    G .  Guided self-instructions for people with chronic fatigue syndrome: randomised controlled trial .  Br J Psychiatry    2008 ;  193 : 340 – 1 . 18827302 10.1192/bjp.bp.108.051292
+
+[ciad257-B27] Cohen    J .  A power primer .  Psychol Bull    1992 ;  112 : 155 – 9 . 19565683 10.1037//0033-2909.112.1.155
+
+[ciad257-B28] Institute for Statistics, United Nations Educational, Scientific and Cultural Organization (UNESCO) .  International standard classification of education .  2011 .  Montreal, Canada :  UNESCO Institute for Statistics ,  2012 .
+
+[ciad257-B29] Morley    S ,  Dowzer    CN .  Manual for the Leeds reliable change indicator: simple Excel applications for the analysis of individual patient and group data .  Leeds, UK :  University of Leeds ,  2014 .
+
+[ciad257-B30] Thewes    B ,  Rietjens    JAC ,  van den Berg    SW ,  et al    One way or another: the opportunities and pitfalls of self-referral and consecutive sampling as recruitment strategies for psycho-oncology intervention trials .  Psycho-Oncology    2018 ;  27 : 2056 – 9 . 29808508 10.1002/pon.4780 PMC6100450
+
+[ciad257-B31] Jimeno-Almazán    A ,  Franco-López    F ,  Buendía-Romero    Á ,  et al    Rehabilitation for post-COVID-19 condition through a supervised exercise intervention: a randomized controlled trial .  Scand J Med Sci Sports    2022 ;  32 : 1791 – 801 . 36111386 10.1111/sms.14240 PMC9538729

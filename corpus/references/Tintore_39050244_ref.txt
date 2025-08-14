@@ -1,0 +1,73 @@
+[bib1] Nishiga M. Wang D.W. Han Y. Lewis D.B. Wu J.C. COVID-19 and cardiovascular disease: from basic mechanisms to clinical perspectives Nat Rev Cardiol 17 2020 543 558 32690910 10.1038/s41569-020-0413-9 PMC7370876
+
+[bib2] Tay M.Z., Poh C.M., Renia L., MacAry P.A., Ng L.F.P. (2020). The trinity of COVID-19: immunity, inflammation and intervention. Nat Rev Immunol 20:363–374. 10.1038/s41577-020-0311-8 PMC7187672 32346093
+
+[bib3] Bikdeli B. Madhavan M.V. Jimenez D. Chuich T. Dreyfus I. COVID-19 and thrombotic or thromboembolic disease: implications for prevention, antithrombotic therapy, and follow-up: JACC state-of-the-art review J Am Coll Cardiol 75 2020 2950 2973 32311448 10.1016/j.jacc.2020.04.031 PMC7164881
+
+[bib4] Connors J.M. Levy J.H. Thromboinflammation and the hypercoagulability of COVID-19 J Thromb Haemost 18 2020 1559 1561 32302453 10.1111/jth.14849 PMC9770920
+
+[bib5] Clerkin K.J. Fried J.A. Raikhelkar J. Sayer G. Griffin J.M. COVID-19 and cardiovascular disease Circulation 141 2020 1648 1655 32200663 10.1161/CIRCULATIONAHA.120.046941
+
+[bib6] Zheng Y.Y. Ma Y.T. Zhang J.Y. Xie X. COVID-19 and the cardiovascular system Nat Rev Cardiol 17 2020 259 260 32139904 10.1038/s41569-020-0360-5 PMC7095524
+
+[bib7] Chen N. Zhou M. Dong X. Qu J. Gong F. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study Lancet 395 2020 507 513 32007143 10.1016/S0140-6736(20)30211-7 PMC7135076
+
+[bib8] Zhou F. Yu T. Du R. Fan G. Liu Y. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study Lancet 395 2020 1054 1062 32171076 10.1016/S0140-6736(20)30566-3 PMC7270627
+
+[bib9] Guo T. Fan Y. Chen M. Wu X. Zhang L. Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19) JAMA Cardiol 5 2020 811 818 32219356 10.1001/jamacardio.2020.1017 PMC7101506
+
+[bib10] Shi S. Qin M. Shen B. Cai Y. Liu T. Association of cardiac injury with mortality in hospitalized patients with COVID-19 in Wuhan, China JAMA Cardiol 5 2020 802 810 32211816 10.1001/jamacardio.2020.0950 PMC7097841
+
+[bib11] Shi S. Qin M. Cai Y. Liu T. Shen B. Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019 Eur Heart J 41 2020 2070 2079 32391877 10.1093/eurheartj/ehaa408 PMC7239100
+
+[bib12] Xie Y. Xu E. Bowe B. Al-Aly Z. Long-term cardiovascular outcomes of COVID-19 Nat Med 28 2022 583 590 35132265 10.1038/s41591-022-01689-3 PMC8938267
+
+[bib13] Wang W. Wang C.Y. Wang S.I. Wei J.C.C. Long-term cardiovascular outcomes in COVID-19 survivors among non-vaccinated population: A retrospective cohort study from the TriNetX US collaborative networks EClinicalMedicine 53 2022 101619 10.1016/j.eclinm.2022.101619 PMC9366236 35971425
+
+[bib14] Wan EYF Mathur Zhang S. Yan VKC R. Lai FTT Association of COVID-19 with short- and long-term risk of cardiovascular disease and mortality: a prospective cohort in UK Biobank Cardiovasc Res 119 2023 1718 1727 36652991 10.1093/cvr/cvac195
+
+[bib15] Koyama A.K. Imperatore G. Rolka D.B. Lundeen E. Rutkowski R.E. Risk of cardiovascular disease after COVID‐19 diagnosis among adults with and without diabetes. J Am Heart Assoc 12 2023 e029696 10.1161/JAHA.123.029696 PMC10356070 37382101
+
+[bib16] Lim J.T. Liang En W. Tay A.T. Pang D. Chiew C.J. Long-term cardiovascular, cerebrovascular, and other thrombotic complications in coronavirus disease 2019 survivors: a retrospective cohort study Clin Infect Dis 78 2024 70 79 37746872 10.1093/cid/ciad469 PMC10810710
+
+[bib17] Wan E.Y.F. Zhang R. Mathur S. Yan V.K.C. Lai F.T.T., al Post-acute sequelae of COVID-19 in older persons: multi-organ complications and mortality J Travel Med 30 2023 taad082 37310901 10.1093/jtm/taad082
+
+[bib18] Zuin M. Mazzitelli M. Rigatelli G. Bilato C. Cattelan A.M. Risk of ischemic stroke in patients recovered from COVID-19 infection: a systematic review and meta-analysis Eur Stroke J 8 2023 915 922 37491810 10.1177/23969873231190432 PMC10372514
+
+[bib19] Lam I.C.H. Wong C.K.H. Zhang R. Chui C.S.L. Lai F.T.T. Long-term post-acute sequelae of COVID-19 infection: a retrospective, multi-database cohort study in Hong Kong and the UK EClinicalMedicine 60 2023 102000 10.1016/j.eclinm.2023.102000 PMC10173760 37197226
+
+[bib20] Perelló-Bratescu A. Dürsteler C. Álvarez-Carrera M.A. Granés L. Kostov B. Trends in the prescription of strong opioids for chronic non-cancer pain in primary care in catalonia: opicat-padris-project Pharmaceutics 14 2022 237 35213969 10.3390/pharmaceutics14020237 PMC8876214
+
+[bib21] Ho D. Imai K. King G. Stuart E. MatchIt: nonparametric preprocessing for parametric causal inference J Stat Softw 42 2011 1 28
+
+[bib22] Ali M.S. Groenwold R.H. Belitser S.V. Pestman W.R. Hoes A.W. Reporting of covariate selection and balance assessment in propensity score analysis is suboptimal: a systematic review J Clin Epidemiol 68 2015 122 131 25433444 10.1016/j.jclinepi.2014.08.011
+
+[bib23] Austin P.C. An introduction to propensity score methods for reducing the effects of confounding in observational studies Multivar Behav Res 46 2011 399 424 10.1080/00273171.2011.568786 PMC3144483 21818162
+
+[bib24] 24 R. Core Team (2023). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL.
+
+[bib25] Podrug M. Koren P. Dražić Maras E. Podrug J. Čulić V. Long-term adverse effects of Mild COVID-19 disease on arterial stiffness, and systemic and central hemodynamics: a pre-post study J Clin Med 12 2023 2123 36983124 10.3390/jcm12062123 PMC10055477
+
+[bib26] Wu Z. Jiang Y. Zhu Q. Zhang H. Li Z. Combined evaluation of arterial stiffness and blood pressure promotes risk stratification of peripheral arterial disease JACC Asia 3 2023 287 297 37181389 10.1016/j.jacasi.2023.02.001 PMC10167522
+
+[bib27] Varney J.A. Dong V.S. Tsao T. Sabir M.S. Rivera A.T. COVID-19 and arrhythmia: an overview J Cardiol 79 2022 468 475 35074257 10.1016/j.jjcc.2021.11.019 PMC8632592
+
+[bib28] Gorog D.A. Storey R.F. Gurbel P.A. Tantry U.S. Berger J.S. Current and novel biomarkers of thrombotic risk in COVID-19: a consensus statement from the international COVID-19 thrombosis biomarkers colloquium Nat Rev Cardiol 19 2022 475 495 35027697 10.1038/s41569-021-00665-7 PMC8757397
+
+[bib29] Negreira-Caamaño M. Martinez-Del Rio J. Aguila-Gordo D. Mateo-Gomez C. Soto-Perez M. Cardiovascular events after COVID-19 hospitalization: long-term follow-up Rev Esp Cardiol 75 2022 100 102 10.1016/j.rec.2021.09.001 PMC8426288 34583913
+
+[bib30] Crespo Leiro M.G. Paniagua Martin M.J. Heart failure. are women different? Rev Esp Cardiol 59 2006 725 735 16938215
+
+[bib31] Bernal O. Moro C. Cardiac arrhythmias in women Rev Esp Cardiol 59 2006 609 618 16790203
+
+[bib32] Halawa Pullamsetti S. Bangham CRM S.S. Stenmark K.R. Dorfmüller P. Potential long-term effects of SARS-CoV-2 infection on the pulmonary vasculature: a global perspective Nat Rev Cardiol 19 2022 314 331 34873286 10.1038/s41569-021-00640-2 PMC8647069
+
+[bib33] Saini G. Aneja R. Cancer as a prospective sequela of long COVID-19 Bioessays 43 2021 e2000331 10.1002/bies.202000331 PMC8206711 33914346
+
+[bib34] Uusküla A. Jürgenson T. Pisarev H. Kolde R. Meister T. Long-term mortality following SARS-CoV-2 infection: a national cohort study from Estonia Lancet Reg Health Eur 18 2022 100394 10.1016/j.lanepe.2022.100394 PMC9051903 35505834
+
+[bib35] Gottlieb Wang M. Yu R.C. Spatz H. Montoy JCC E.S. Severe fatigue and persistent symptoms at 3 months following severe acute respiratory syndrome coronavirus 2 infections during the pre-delta, delta, and omicron time periods: a multicenter prospective cohort study Clin Infect Dis 76 2023 1930 1941 36705268 10.1093/cid/ciad045 PMC10249989
+
+[bib36] Asif S. Frithiof R. Lipcsey M. Kristensen B. Alving K. Weak anti-SARS-CoV-2 antibody response is associated with mortality in a Swedish cohort of COVID-19 patients in critical care. Crit Care 24 2020 639 33158455 10.1186/s13054-020-03362-y PMC7645408
+
+[bib37] De Vito D. Di Ciaula A. Palmieri V.O. Trerotoli P. Larocca A.M.V. Reduced COVID-19 mortality linked with early antibodies against SARS-CoV-2, irrespective of age. Eur J Intern Med 98 2022 77 82 35177308 10.1016/j.ejim.2022.02.010 PMC8841161

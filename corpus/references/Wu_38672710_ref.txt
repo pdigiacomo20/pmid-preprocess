@@ -1,0 +1,53 @@
+[B1-life-14-00438] Goërtz Y.M.J. Van Herck M. Delbressine J.M. Vaes A.W. Meys R. Machado F.V.C. Houben-Wilke S. Burtin C. Posthuma R. Franssen F.M.E. Persistent symptoms 3 months after a SARS-CoV-2 infection: The post-COVID-19 syndrome? ERJ Open Res. 2020 6 00542 02020 10.1183/23120541.00542-2020 33257910 PMC7491255
+
+[B2-life-14-00438] Aghajani Mir M. Brain fog: A narrative review of the most common mysterious cognitive disorder in COVID-19 Mol. Neurobiol. 2023 10.1007/s12035-023-03715-y 37874482
+
+[B3-life-14-00438] Tziolos N.R. Ioannou P. Baliou S. Kofteridis D.P. Long COVID-19 pathophysiology: What do we know so far? Microorganisms 2023 11 2458 10.3390/microorganisms11102458 37894116 PMC10609046
+
+[B4-life-14-00438] Ortega M.A. Fraile-Martinez O. García-Montero C. Callejón-Peláez E. Sáez M.A. Álvarez-Mon M.A. García-Honduvilla N. Monserrat J. Álvarez-Mon M. Bujan J. A general overview on the hyperbaric oxygen therapy: Applications, mechanisms and translational opportunities Medicina 2021 57 864 10.3390/medicina57090864 34577787 PMC8465921
+
+[B5-life-14-00438] Somaa F. A Review of the application of hyperbaric oxygen therapy in Alzheimer’s disease J. Alzheimers Dis. 2021 81 1361 1367 10.3233/JAD-210157 33935095
+
+[B6-life-14-00438] Chen X. You J. Ma H. Zhou M. Huang C. Efficacy and safety of hyperbaric oxygen therapy for fibromyalgia: A systematic review and meta-analysis BMJ Open 2023 13 e062322 10.1136/bmjopen-2022-062322 36690401 PMC9872467
+
+[B7-life-14-00438] Balasubramanian P. Delfavero J. Nyul-Toth A. Tarantini A. Gulej R. Tarantini S. Integrative role of hyperbaric oxygen therapy on healthspan, age-related vascular cognitive impairment, and dementia Front. Aging 2021 2 678543 10.3389/fragi.2021.678543 35821996 PMC9261405
+
+[B8-life-14-00438] Gottfried I. Schottlender N. Ashery U. Hyperbaric oxygen treatment-from mechanisms to cognitive improvement Biomolecules 2021 11 1520 10.3390/biom11101520 34680155 PMC8533945
+
+[B9-life-14-00438] Marcinkowska A.B. Mankowska N.D. Kot J. Winklewski P.J. Impact of hyperbaric oxygen therapy on cognitive functions: A systematic review Neuropsychol. Rev. 2022 32 99 126 10.1007/s11065-021-09500-9 33847854 PMC8888529
+
+[B10-life-14-00438] Peña-Villalobos I. Casanova-Maldonado I. Lois P. Prieto C. Pizarro C. Lattus J. Osorio G. Palma V. Hyperbaric oxygen increases stem cell proliferation, angiogenesis and wound-healing ability of WJ-MSCs in diabetic mice Front. Physiol. 2018 9 995 10.3389/fphys.2018.00995 30104981 PMC6078002
+
+[B11-life-14-00438] Gregorevic P. Lynch G.S. Williams D.A. Hyperbaric oxygen modulates antioxidant enzyme activity in rat skeletal muscles Eur. J. Appl. Physiol. 2001 86 24 27 10.1007/s004210100503 11820317
+
+[B12-life-14-00438] Zhou Z. Daugherty W.P. Sun D. Levasseur J.E. Altememi N. Hamm R.J. Rockswold G.L. Bullock M.R. Protection of mitochondrial function and improvement in cognitive recovery in rats treated with hyperbaric oxygen following lateral fluid-percussion injury J. Neurosurg. 2007 106 687 694 10.3171/jns.2007.106.4.687 17432723
+
+[B13-life-14-00438] Efrati S. Fishlev G. Bechor Y. Volkov O. Bergan J. Kliakhandler K. Kamiager I. Gal N. Friedman M. Ben-Jacob E. Hyperbaric oxygen induces late neuroplasticity in post stroke patients—Randomized, prospective trial PLoS ONE 2013 8 e53716 10.1371/journal.pone.0053716 23335971 PMC3546039
+
+[B14-life-14-00438] Tal S. Hadanny A. Berkovitz N. Sasson E. Ben-Jacob E. Efrati S. Hyperbaric oxygen may induce angiogenesis in patients suffering from prolonged post-concussion syndrome due to traumatic brain injury Restor. Neurol. Neurosci. 2015 33 943 951 10.3233/RNN-150585 26484702
+
+[B15-life-14-00438] Horie M. Enomoto M. Shimoda M. Okawa A. Miyakawa S. Yagishita K. Enhancement of satellite cell differentiation and functional recovery in injured skeletal muscle by hyperbaric oxygen treatment J. Appl. Physiol. 2014 116 149 155 10.1152/japplphysiol.00235.2013 24336879
+
+[B16-life-14-00438] Fujita N. Ono M. Tomioka T. Deie M. Effects of hyperbaric oxygen at 1.25 atmospheres absolute with normal air on macrophage number and infiltration during rat skeletal muscle regeneration PLoS ONE 2014 9 e115685 10.1371/journal.pone.0115685 25531909 PMC4274106
+
+[B17-life-14-00438] Bhaiyat A.M. Sasson E. Wang Z. Khairy S. Ginzarly M. Qureshi U. Fikree M. Efrati S. Hyperbaric oxygen treatment for long coronavirus disease-19: A case report J. Med. Case Rep. 2022 16 80 10.1186/s13256-022-03287-w 35168680 PMC8848789
+
+[B18-life-14-00438] Robbins T. Gonevski M. Clark C. Baitule S. Sharma K. Magar A. Patel K. Sankar S. Kyrou I. Ali A. Hyperbaric oxygen therapy for the treatment of long COVID: Early evaluation of a highly promising intervention Clin. Med. 2021 21 e629 e632 10.7861/clinmed.2021-0462 34862223 PMC8806311
+
+[B19-life-14-00438] Zant A.E. Figueroa X.A. Paulson C.P. Wright J.K. Hyperbaric oxygen therapy to treat lingering COVID-19 symptoms Undersea Hyperb. Med. 2022 49 333 339 10.22462/05.06.2022.7 36001566
+
+[B20-life-14-00438] Kitala D. Łabuś W. Kozielski J. Strzelec P. Nowak M. Knefel G. Dyjas P. Materniak K. Kosmala J. Pająk J. Preliminary research on the effect of hyperbaric oxygen therapy in patients with post-COVID-19 syndrome J. Clin. Med. 2022 12 308 10.3390/jcm12010308 36615108 PMC9821575
+
+[B21-life-14-00438] Mrakic-Sposta S. Vezzoli A. Garetto G. Paganini M. Camporesi E. Giacon T.A. Dellanoce C. Agrimi J. Bosco G. Hyperbaric oxygen therapy counters oxidative stress/inflammation-driven symptoms in long COVID-19 patients: Preliminary outcomes Metabolites 2023 13 1032 10.3390/metabo13101032 37887357 PMC10608857
+
+[B22-life-14-00438] Lindenmann J. Porubsky C. Okresa L. Klemen H. Mykoliuk I. Roj A. Koutp A. Kink E. Iberer F. Kovacs G. Immediate and long-term effects of hyperbaric oxygenation in patients with long COVID-19 syndrome using SF-36 survey and VAS score: A clinical pilot study J. Clin. Med. 2023 12 6253 10.3390/jcm12196253 37834897 PMC10573231
+
+[B23-life-14-00438] Kjellberg A. Hassler A. Boström E. El Gharbi S. Al-Ezerjawi S. Kowalski J. Rodriguez-Wallberg K.A. Bruchfeld J. Ståhlberg M. Nygren-Bonnier M. Hyperbaric oxygen therapy for long COVID (HOT-LoCO), an interim safety report from a randomised controlled trial BMC Infect. Dis. 2023 23 33 10.1186/s12879-023-08002-8 36670365 PMC9854077
+
+[B24-life-14-00438] Zilberman-Itskovich S. Catalogna M. Sasson E. Elman-Shina K. Hadanny A. Lang E. Finci S. Polak N. Fishlev G. Korin C. Hyperbaric oxygen therapy improves neurocognitive functions and symptoms of post-COVID condition: Randomized controlled trial Sci. Rep. 2022 12 11252 10.1038/s41598-022-15565-0 35821512 PMC9276805
+
+[B25-life-14-00438] Catalogna M. Sasson E. Hadanny A. Parag Y. Zilberman-Itskovich S. Efrati S. Effects of hyperbaric oxygen therapy on functional and structural connectivity in post-COVID-19 condition patients: A randomized, sham-controlled trial Neuroimage Clin. 2022 36 103218 10.1016/j.nicl.2022.103218 36208548 PMC9528018
+
+[B26-life-14-00438] Leitman M. Fuchs S. Tyomkin V. Hadanny A. Zilberman-Itskovich S. Efrati S. The effect of hyperbaric oxygen therapy on myocardial function in post-COVID-19 syndrome patients: A randomized controlled trial Sci. Rep. 2023 13 9473 10.1038/s41598-023-36570-x 37301934 PMC10257166
+
+[B27-life-14-00438] Kjellberg A. Abdel-Halim L. Hassler A. El Gharbi S. Al-Ezerjawi S. Boström E. Sundberg C.J. Pernow J. Medson K. Kowalski J.H. Hyperbaric oxygen for treatment of long COVID-19 syndrome (HOT-LoCO): Protocol for a randomised, placebo-controlled, double-blind, phase II clinical trial BMJ Open 2022 12 e061870 10.1136/bmjopen-2022-061870 PMC9638753 36323462

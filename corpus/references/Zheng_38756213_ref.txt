@@ -1,0 +1,105 @@
+[ref1] Soriano JB Murthy S Marshall JC Relan P Diaz JV WHO Clinical Case Definition Working Group on Post-COVID-19 Condition .  A clinical case definition of post-COVID-19 condition by a Delphi consensus .  Lancet Infect Dis . ( 2022 )  22 : e102 – 7 . doi:  10.1016/S1473-3099(21)00703-9 , PMID:  34951953 PMC8691845
+
+[ref2] Nittas V Gao M West EA Ballouz T Menges D Wulf Hanson S .  Long COVID through a public health Lens: an umbrella review .  Public Health Rev . ( 2022 )  43 : 1604501 . doi:  10.3389/phrs.2022.1604501 , PMID:  35359614 PMC8963488
+
+[ref3] Bai F Tomasoni D Falcinella C Barbanotti D Castoldi R Mulè G .  Female gender is associated with long COVID syndrome: a prospective cohort study .  Clin Microbiol Infect . ( 2021 )  28 : 611.e9 – 611.e16 . doi:  10.1016/j.cmi.2021.11.002 , PMID:  34763058 PMC8575536
+
+[ref4] Lechien JR Chiesa-Estomba CM De Siati DR Horoi M Le Bon SD Rodriguez A .  Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study .  Eur Arch Otorrinolaringol . ( 2020 )  277 : 2251 – 61 . doi:  10.1007/s00405-020-05965-1 , PMID:  32253535 PMC7134551
+
+[ref5] Meng X Deng Y Dai Z Meng Z .  COVID-19 and anosmia: a review based on up-to-date knowledge .  Am J Otolaryngol . ( 2020 )  41 : 102581 . doi:  10.1016/j.amjoto.2020.102581 , PMID:  32563019 PMC7265845
+
+[ref6] Sudre CH Murray B Varsavsky T Graham MS Penfold RS Bowyer RC .  Attributes and predictors of long COVID .  Nat Med . ( 2021 )  27 : 626 – 31 . doi:  10.1038/s41591-021-01292-y , PMID:  33692530 PMC7611399
+
+[ref7] Yong SJ .  Long COVID or post-COVID-19 syndrome: putative pathophysiology, risk factors, and treatments .  Infect Dis . ( 2021 )  53 : 737 – 54 . doi:  10.1080/23744235.2021.1924397 , PMID:  34024217 PMC8146298
+
+[ref8] Peluso MJ Lu S Tang AF Durstenfeld MS Ho H-E Goldberg SA .  Markers of immune activation and inflammation in individuals with Postacute sequelae of severe acute respiratory syndrome coronavirus 2 infection .  J Infect Dis . ( 2021 )  224 : 1839 – 48 . doi:  10.1093/infdis/jiab490 , PMID:  34677601 PMC8643408
+
+[ref9] Rubtsov AV Rubtsova K Kappler JW Marrack P .  Genetic and hormonal factors in female-biased autoimmunity .  Autoimmun Rev . ( 2010 )  9 : 494 – 8 . doi:  10.1016/j.autrev.2010.02.008 , PMID:  20144912 PMC3171140
+
+[ref10] Taneja V .  Sex Hormones Determine Immune Response .  Front Immunol . ( 2018 )  9 : 1931 . doi:  10.3389/fimmu.2018.01931 , PMID:  30210492 PMC6119719
+
+[ref11] Graham EL Clark JR Orban ZS Lim PH Szymanski AL Taylor C .  Persistent neurologic symptoms and cognitive dysfunction in non-hospitalized Covid-19 long haulers .  Ann Clin Transl Neurol . ( 2021 )  8 : 5 : 1073 – 85 . doi:  10.1002/acn3.51350 , PMID:  33755344 PMC8108421
+
+[ref12] Douaud G Lee S Alfaro-Almagro F Arthofer C Wang C McCarthy P .  SARS-CoV-2 is associated with changes in brain structure in UK biobank .  Nature . ( 2022 )  604 : 697 – 707 . doi:  10.1038/s41586-022-04569-5 , PMID:  35255491 PMC9046077
+
+[ref13] Thomasson M Voruz P Cionca A Jacot de Alcântara I Nuber-Champier A Allali G .  Markers of limbic system damage following SARS-CoV-2 infection .  Brain Commun . ( 2023 )  5 : fcad177 . doi:  10.1093/braincomms/fcad177 , PMID:  37415776 PMC10320753
+
+[ref14] Vilarello BJ Jacobson PT Tervo JP Waring NA Gudis DA Goldberg TE .  Olfaction and neurocognition after COVID-19: a scoping review .  Front Neurosci . ( 2023 )  17 : 1198267 . doi:  10.3389/fnins.2023.1198267 37457004 PMC10339825
+
+[ref15] Rahman A Jackson H Hristov H Isaacson RS Saif N Shetty T .  Sex and gender driven modifiers of Alzheimer’s: the role for estrogenic control across age, race, medical, and lifestyle risks .  Front Aging Neurosci . ( 2019 )  11 : 315 . doi:  10.3389/fnagi.2019.00315 , PMID:  31803046 PMC6872493
+
+[ref16] Zou Y Lu D Liu L Zhang H Zhou Y .  Olfactory dysfunction in Alzheimer’s disease .  Neuropsychiatr Dis Treat . ( 2016 )  12 : 869 – 75 . doi:  10.2147/NDT.S104886 , PMID:  27143888 PMC4841431
+
+[ref17] Breit S Kupferberg A Rogler G Hasler G .  Vagus nerve as modulator of the brain-gut Axis in psychiatric and inflammatory disorders .  Front Psych . ( 2018 )  9 : 44 . doi:  10.3389/fpsyt.2018.00044 , PMID:  29593576 PMC5859128
+
+[ref18] Bonaz B Sinniger V Pellissier S .  Anti-inflammatory properties of the vagus nerve: potential therapeutic implications of vagus nerve stimulation .  J Physiol . ( 2016 )  594 : 5781 – 90 . doi:  10.1113/JP271539 , PMID:  27059884 PMC5063949
+
+[ref19] Boon P Moors I De Herdt V Vonck K .  Vagus nerve stimulation and cognition .  Seizure . ( 2006 )  15 : 259 – 63 . doi:  10.1016/j.seizure.2006.02.014 16651013
+
+[ref20] Engineer ND Kimberley TJ Prudente CN Dawson J Tarver WB Hays SA .  Targeted Vagus nerve stimulation for rehabilitation after stroke .  Front Neurosci . ( 2019 )  13 : 280 . doi:  10.3389/fnins.2019.00280 , PMID:  30983963 PMC6449801
+
+[ref21] Howland RH .  Vagus nerve stimulation .  Curr Behav Neurosci Rep . ( 2014 )  1 : 64 – 73 . doi:  10.1007/s40473-014-0010-5 24834378 PMC4017164
+
+[ref22] Kong J Fang J Park J Li S Rong P .  Treating depression with transcutaneous auricular Vagus nerve stimulation: state of the art and future perspectives .  Front Psych . ( 2018 )  9 : 20 . doi:  10.3389/fpsyt.2018.00020 , PMID:  29459836 PMC5807379
+
+[ref23] Tornero C Pastor E Garzando M Orduña J Forner MJ Bocigas I .  Non-invasive Vagus Nerve Stimulation for COVID-19: Results From a Randomized Controlled Trial (SAVIOR I) .  Front Neurol . ( 2022 )  13 : 864 . doi:  10.3389/fneur.2022.820864 PMC9028764 35463130
+
+[ref24] Uehara L Corrêa JCF Ritti R Leite P de Faria DRG Pacheco-Barrios K .  Transcutaneous auricular vagus nerve stimulation effects on inflammatory markers and clinical evolution of patients with COVID-19: a pilot randomized clinical trial .  Expert Rev Med Devices . ( 2022 )  19 : 915 – 20 . doi:  10.1080/17434440.2022.2154147 , PMID:  36540947
+
+[ref25] Verbanck C.  ( 2021 ). Transcutaneous Auricular Vagus Nerve Stimulation (tVNS) can Reverse the Manifestations of the Long-COVID Syndrome: A Pilot Study. Available at:  https://www.semanticscholar.org/paper/Transcutaneous-Auricular-Vagus-Nerve-Stimulation-of-Verbanck-Corazza/8a39f3f621d92576369d988a59bf617e3935cf36
+
+[ref26] Yokota H Edama M Hirabayashi R Sekine C Otsuru N Saito K .  Effects of stimulus frequency, intensity, and sex on the autonomic response to transcutaneous Vagus nerve stimulation .  Brain Sci . ( 2022 )  12 : 1038 . doi:  10.3390/brainsci12081038 , PMID:  36009101 PMC9405815
+
+[ref27] Tsampasian V Elghazaly H Chattopadhyay R Debski M Naing TKP Garg P .  Risk factors associated with post−COVID-19 condition: a systematic review and Meta-analysis .  JAMA Intern Med . ( 2023 )  183 : 566 – 80 . doi:  10.1001/jamainternmed.2023.0750 , PMID:  36951832 PMC10037203
+
+[ref28] Troyanskaya O Cantor M Sherlock G Brown P Hastie T Tibshirani R .  Missing value estimation methods for DNA microarrays .  Bioinformatics . ( 2001 )  17 : 520 – 5 . doi:  10.1093/bioinformatics/17.6.520 11395428
+
+[ref29] Huang J Keung JW Sarro F Li Y-F Yu YT Chan WK .  Cross-validation based K nearest neighbor imputation for software quality datasets: an empirical study .  J Syst Softw . ( 2017 )  132 : 226 – 52 . doi:  10.1016/j.jss.2017.07.012
+
+[ref30] Yap JYY Keatch C Lambert E Woods W Stoddart PR Kameneva T .  Critical review of transcutaneous Vagus nerve stimulation: challenges for translation to clinical practice .  Front Neurosci . ( 2020 )  14 : 284 . doi:  10.3389/fnins.2020.00284 32410932 PMC7199464
+
+[ref31] Fang J Egorova N Rong P Liu J Hong Y Fan Y .  Early cortical biomarkers of longitudinal transcutaneous vagus nerve stimulation treatment success in depression .  NeuroImage Clin . ( 2017 )  14 : 105 – 11 . doi:  10.1016/j.nicl.2016.12.016 , PMID:  28180068 PMC5279909
+
+[ref32] Vonck K De Herdt V Bosman T Dedeurwaerdere S Van Laere K Boon P .  Thalamic and limbic involvement in the mechanism of action of vagus nerve stimulation, a SPECT study .  Seizure . ( 2008 )  17 : 699 – 706 . doi:  10.1016/j.seizure.2008.05.001 , PMID:  18556220
+
+[ref33] Clancy JA Mary DA Witte KK Greenwood JP Deuchars SA Deuchars J .  Non-invasive Vagus nerve stimulation in healthy humans reduces sympathetic nerve activity .  Brain Stimul . ( 2014 )  7 : 871 – 7 . doi:  10.1016/j.brs.2014.07.031 , PMID:  25164906
+
+[ref34] Carreno FR Frazer A .  Vagal nerve stimulation for treatment-resistant depression .  Neurotherapeutics . ( 2017 )  14 : 716 – 27 . doi:  10.1007/s13311-017-0537-8 , PMID:  28585221 PMC5509631
+
+[ref35] Jiao Y Guo X Luo M Li S Liu A Zhao Y .  Effect of transcutaneous Vagus nerve stimulation at auricular concha for insomnia: a randomized clinical trial .  Evid Based Complement Alternat Med . ( 2020 )  2020 : e6049891 : 1 – 7 . doi:  10.1155/2020/6049891 , PMID:  32831871 PMC7429019
+
+[ref36] Lee C-H Giuliani F .  The role of inflammation in depression and fatigue .  Front Immunol . ( 2019 )  10 : 1696 . doi:  10.3389/fimmu.2019.01696 , PMID:  31379879 PMC6658985
+
+[ref37] Borges U Knops L Laborde S Klatt S Raab M .  Transcutaneous Vagus nerve stimulation May enhance only specific aspects of the Core executive functions. A randomized crossover trial .  Front Neurosci . ( 2020 )  14 : 523 . doi:  10.3389/fnins.2020.00523 , PMID:  32523510 PMC7262369
+
+[ref38] Jongkees BJ Immink MA Finisguerra A Colzato LS .  Transcutaneous Vagus nerve stimulation (tVNS) enhances response selection during sequential action .  Front Psychol . ( 2018 )  9 : 1159 . doi:  10.3389/fpsyg.2018.01159 , PMID:  30034357 PMC6043681
+
+[ref39] Sellaro R van Leusden JWR Tona K-D Verkuil B Nieuwenhuis S Colzato LS .  Transcutaneous Vagus nerve stimulation enhances post-error slowing .  J Cogn Neurosci . ( 2015 )  27 : 2126 – 32 . doi:  10.1162/jocn_a_00851 , PMID:  26226074
+
+[ref40] Jacobs HIL Riphagen JM Razat CM Wiese S Sack AT .  Transcutaneous vagus nerve stimulation boosts associative memory in older individuals .  Neurobiol Aging . ( 2015 )  36 : 1860 – 7 . doi:  10.1016/j.neurobiolaging.2015.02.023 , PMID:  25805212
+
+[ref41] Jandackova V Vasendova V Jackowska M Koenig J .  The effect of long-term non-invasive vagus nerve stimulation on cognitive performance: results from a randomized placebo controlled trial .  Brain Stimul . ( 2023 )  16 : 6 . doi:  10.1016/j.brs.2023.03.028
+
+[ref42] Aniwattanapong D List JJ Ramakrishnan N Bhatti GS Jorge R .  Effect of Vagus nerve stimulation on attention and working memory in neuropsychiatric disorders: a systematic review .  Neuromodulation . ( 2022 )  25 : 343 – 55 . doi:  10.1016/j.neurom.2021.11.009 , PMID:  35088719
+
+[ref43] Broncel A Bocian R Kłos-Wojtczak P Kulbat-Warycha K Konopacki J .  Vagal nerve stimulation as a promising tool in the improvement of cognitive disorders .  Brain Res Bull . ( 2020 )  155 : 37 – 47 . doi:  10.1016/j.brainresbull.2019.11.011 , PMID:  31790720
+
+[ref44] Giraudier M Ventura-Bort C Weymar M .  Transcutaneous Vagus nerve stimulation (tVNS) improves high-confidence recognition memory but not emotional word processing .  Front Psychol . ( 2020 )  11 : 1276 . doi:  10.3389/fpsyg.2020.01276 , PMID:  32733306 PMC7363946
+
+[ref45] Vargas-Caballero M Warming H Walker R Holmes C Cruickshank G Patel B .  Vagus nerve stimulation as a potential therapy in early Alzheimer’s disease: a review .  Front Hum Neurosci . ( 2022 )  16 : 866434 . doi:  10.3389/fnhum.2022.866434 , PMID:  35572001 PMC9098960
+
+[ref46] George MS Ward HE Ninan PT Pollack M Nahas Z Anderson B .  A pilot study of vagus nerve stimulation (VNS) for treatment-resistant anxiety disorders .  Brain Stimul . ( 2008 )  1 : 112 – 21 . doi:  10.1016/j.brs.2008.02.001 , PMID:  20633378
+
+[ref47] Grolaux PJD .  Transcutaneous Vagus nerve stimulation in private healthcare center: a small-scale investigation targeting anxiety, irritable bowel syndrome and chronic pain .  J Neurol Neuromed . ( 2019 )  4 : 7 – 22 . doi:  10.29245/2572.942X/2019/5.1251
+
+[ref48] Hein E Nowak M Kiess O Biermann T Bayerlein K Kornhuber J .  Auricular transcutaneous electrical nerve stimulation in depressed patients: a randomized controlled pilot study .  J Neural Transm . ( 2013 )  120 : 821 – 7 . doi:  10.1007/s00702-012-0908-6 , PMID:  23117749
+
+[ref49] Wu D Wang J Yuan Y .  Effects of transcranial direct current stimulation on naming and cortical excitability in stroke patients with aphasia .  Neurosci Lett . ( 2015 )  589 : 115 – 20 . doi:  10.1016/j.neulet.2015.01.045 , PMID:  25603474
+
+[ref50] Badran BW Huffman SM Dancy M Austelle CW Bikson M Kautz SA .  A pilot randomized controlled trial of supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation (taVNS) to manage long COVID symptoms .  Bioelectron Med . ( 2022 )  8 : 13 . doi:  10.1186/s42234-022-00094-y , PMID:  36002874 PMC9402278
+
+[ref51] Cimpianu C-L Strube W Falkai P Palm U Hasan A .  Vagus nerve stimulation in psychiatry: a systematic review of the available evidence .  J Neural Transm . ( 2017 )  124 : 145 – 58 . doi:  10.1007/s00702-016-1642-2 , PMID:  27848034
+
+[ref52] Vonck K Raedt R Naulaerts J De Vogelaere F Thiery E Van Roost D .  Vagus nerve stimulation…25 years later! What do we know about the effects on cognition? Neurosci Biobehav Rev . ( 2014 )  45 : 63 – 71 . doi:  10.1016/j.neubiorev.2014.05.005 , PMID:  24858008
+
+[ref53] Wang L Zhang J Guo C He J Zhang S Wang Y .  The efficacy and safety of transcutaneous auricular vagus nerve stimulation in patients with mild cognitive impairment: a double blinded randomized clinical trial .  Brain Stimul . ( 2022 )  15 : 1405 – 14 . doi:  10.1016/j.brs.2022.09.003 36150665

@@ -1,12 +1,16 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
+from dotenv import load_dotenv
 from reference_parser import ReferenceParser
 from pubmed_search import PubMedSearcher
 from content_downloader import ContentDownloader
 from database import DatabaseManager
 from job_processor import JobProcessor
 import logging
+
+# Load environment variables from .env file
+load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
